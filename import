@@ -17,7 +17,7 @@ usage() {
 
 included() {
   local word="$1"
-  grep --word-regexp --quiet "${word}" "${WORDLIST}"
+  grep --word-regexp --ignore-case --quiet "${word}" "${WORDLIST}"
 }
 
 valid() {
