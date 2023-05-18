@@ -10,7 +10,7 @@ The wordlists is available in these formats:
   capitalization
 - wordlist-german-lowercase.txt: lowercase version of the wordlist above
   (suitable for a passphrase generator)
-- diceware-german.txt: the actual german diceware wordlist
+- wordlist-german-diceware.txt: the actual german diceware wordlist
 
 ## Words
 
