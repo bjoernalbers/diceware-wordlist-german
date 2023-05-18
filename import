@@ -30,6 +30,12 @@ add() {
   local tmp="$(mktemp)"
   echo "${word}" >> "${WORDLIST}"
   sort --ignore-case "${WORDLIST}" > "${tmp}" && mv "${tmp}" "${WORDLIST}"
+  commit "Add word \"${word}\"."
+}
+
+commit() {
+  local message="$1"
+  ( cd "${BASE_DIR}" && git commit --all --quiet --message "${message}" )
 }
 
 if [[ $# -ne 1 ]]; then
