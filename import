@@ -27,7 +27,9 @@ valid() {
 
 add() {
   local word="$1"
+  local tmp="$(mktemp)"
   echo "${word}" >> "${WORDLIST}"
+  sort --ignore-case "${WORDLIST}" > "${tmp}" && mv "${tmp}" "${WORDLIST}"
 }
 
 if [[ $# -ne 1 ]]; then
