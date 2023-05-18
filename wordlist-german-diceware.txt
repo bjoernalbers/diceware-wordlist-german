@@ -5,3 +5,4 @@
 11115	abdomen
 11116	abdruck
 11121	abend
+11122	abends
