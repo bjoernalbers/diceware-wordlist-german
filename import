@@ -1,0 +1,43 @@
+#!/bin/bash
+# Import words from wortlist file into main wordlists.
+
+set -u
+
+export PATH=/bin:/usr/bin
+
+BASE_DIR="$(dirname "$0")"
+BASE_NAME="wordlist-german"
+WORDLIST="${BASE_DIR}/${BASE_NAME}.txt"
+WORDLIST_LOWERCASE="${BASE_DIR}/${BASE_NAME}-lowercase.txt"
+WORDLIST_DICEWARE="${BASE_DIR}/${BASE_NAME}-diceware.txt"
+
+usage() {
+  >&2 echo "usage: import file"
+}
+
+included() {
+  local word="$1"
+  grep --word-regexp --quiet "${word}" "${WORDLIST}"
+}
+
+add() {
+  local word="$1"
+  echo "${word}" >> "${WORDLIST}"
+}
+
+if [[ $# -ne 1 ]]; then
+  usage
+  exit 1
+fi
+
+file=$1
+
+if [[ ! -f "${file}" ]]; then
+  usage
+  exit 1
+fi
+
+while read word; do
+  included "${word}" && continue
+  add "${word}"
+done < "${file}"
