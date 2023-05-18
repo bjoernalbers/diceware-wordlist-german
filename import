@@ -30,6 +30,22 @@ add() {
   local tmp="$(mktemp)"
   echo "${word}" >> "${WORDLIST}"
   sort --ignore-case "${WORDLIST}" > "${tmp}" && mv "${tmp}" "${WORDLIST}"
+  cat "${WORDLIST}" | tr 'A-Z' 'a-z' > "${WORDLIST_LOWERCASE}"
+  dice_combinations="$(mktemp)"
+  for dice1 in {1..6}; do
+    for dice2 in {1..6}; do
+      for dice3 in {1..6}; do
+        for dice4 in {1..6}; do
+          for dice5 in {1..6}; do
+            echo "${dice1}${dice2}${dice3}${dice4}${dice5}" >> "${dice_combinations}"
+          done
+        done
+      done
+    done
+  done
+  head -n $(cat "${WORDLIST_LOWERCASE}" | wc -l) "${dice_combinations}" > "${dice_combinations}.truncated" \
+    && mv "${dice_combinations}.truncated" "${dice_combinations}"
+  paste "${dice_combinations}" "${WORDLIST_LOWERCASE}" > "${WORDLIST_DICEWARE}"
   commit "Add word \"${word}\"."
 }
 
@@ -59,20 +75,3 @@ while read word; do
   add "${word}"
 done < "${file}"
 
-cat "${WORDLIST}" | tr 'A-Z' 'a-z' >> "${WORDLIST_LOWERCASE}"
-
-dice_combinations="$(mktemp)"
-for dice1 in {1..6}; do
-  for dice2 in {1..6}; do
-    for dice3 in {1..6}; do
-      for dice4 in {1..6}; do
-        for dice5 in {1..6}; do
-          echo "${dice1}${dice2}${dice3}${dice4}${dice5}" >> "${dice_combinations}"
-        done
-      done
-    done
-  done
-done
-head -n $(cat "${WORDLIST_LOWERCASE}" | wc -l) "${dice_combinations}" > "${dice_combinations}.truncated" \
-  && mv "${dice_combinations}.truncated" "${dice_combinations}"
-paste "${dice_combinations}" "${WORDLIST_LOWERCASE}" > "${WORDLIST_DICEWARE}"
