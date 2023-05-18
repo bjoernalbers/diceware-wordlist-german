@@ -20,6 +20,11 @@ included() {
   grep --word-regexp --quiet "${word}" "${WORDLIST}"
 }
 
+valid() {
+  local word="$1"
+  echo "${word}" | LC_ALL=C grep --extended-regexp --quiet "^[A-Za-z][a-z]{2,6}$"
+}
+
 add() {
   local word="$1"
   echo "${word}" >> "${WORDLIST}"
@@ -39,5 +44,9 @@ fi
 
 while read word; do
   included "${word}" && continue
+  if ! valid "${word}"; then
+    >&2 echo "invalid word: \"${word}\""
+    continue
+  fi
   add "${word}"
 done < "${file}"
