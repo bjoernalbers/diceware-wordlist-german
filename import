@@ -52,3 +52,5 @@ while read word; do
   fi
   add "${word}"
 done < "${file}"
+
+cat "${WORDLIST}" | tr 'A-Z' 'a-z' >> "${WORDLIST_LOWERCASE}"
