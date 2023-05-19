@@ -218,3 +218,4 @@
 12112	ansicht
 12113	ansporn
 12114	anstand
+12115	anstieg
