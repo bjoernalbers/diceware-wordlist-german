@@ -143,3 +143,4 @@
 11465	alphorn
 11466	alpin
 11511	alraune
+11512	alster
