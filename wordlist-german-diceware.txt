@@ -188,3 +188,4 @@
 11622	ankunft
 11623	anlage
 11624	anlass
+11625	anlauf
