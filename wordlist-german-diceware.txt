@@ -19,3 +19,4 @@
 11141	abgrund
 11142	abhaken
 11143	abhang
+11144	abhauen
