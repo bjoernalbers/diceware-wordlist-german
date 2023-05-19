@@ -235,3 +235,4 @@
 12141	apfel
 12142	app
 12143	apparat
+12144	appell
