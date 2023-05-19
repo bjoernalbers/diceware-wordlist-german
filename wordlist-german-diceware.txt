@@ -336,3 +336,4 @@
 12426	axiom
 12431	axt
 12432	ayran
+12433	azimut

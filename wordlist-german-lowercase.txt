@@ -336,3 +336,4 @@ axial
 axiom
 axt
 ayran
+azimut
