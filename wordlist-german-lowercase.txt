@@ -147,3 +147,4 @@ alster
 altbau
 altbier
 altglas
+alu
