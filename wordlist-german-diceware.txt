@@ -337,3 +337,4 @@
 12431	axt
 12432	ayran
 12433	azimut
+12434	azubi
