@@ -108,3 +108,4 @@ akazie
 akkord
 akku
 akkurat
+akquise

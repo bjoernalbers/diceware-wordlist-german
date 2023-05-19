@@ -108,3 +108,4 @@
 11366	akkord
 11411	akku
 11412	akkurat
+11413	akquise
