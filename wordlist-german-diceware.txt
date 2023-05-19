@@ -54,3 +54,4 @@
 11236	absinth
 11241	absolut
 11242	abspann
+11243	abstand
