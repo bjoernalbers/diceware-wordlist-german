@@ -251,3 +251,4 @@
 12165	armatur
 12166	armband
 12211	armreif
+12212	arnika
