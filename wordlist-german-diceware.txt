@@ -261,3 +261,4 @@
 12223	arznei
 12224	arzt
 12225	asbest
+12226	asche
