@@ -326,3 +326,4 @@
 12412	ausweis
 12413	auszeit
 12414	autark
+12415	auto
