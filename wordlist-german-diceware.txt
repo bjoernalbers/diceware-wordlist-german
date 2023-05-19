@@ -18,3 +18,4 @@
 11136	abgehen
 11141	abgrund
 11142	abhaken
+11143	abhang
