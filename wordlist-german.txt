@@ -118,3 +118,4 @@ aktiv
 aktuell
 Akustik
 akut
+Akzent
