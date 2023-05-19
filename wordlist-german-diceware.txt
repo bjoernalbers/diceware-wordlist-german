@@ -193,3 +193,4 @@
 11631	anleger
 11632	anleihe
 11633	anlesen
+11634	anmalen
