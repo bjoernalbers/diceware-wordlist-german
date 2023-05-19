@@ -331,3 +331,4 @@
 12421	automat
 12422	autonom
 12423	autor
+12424	avatar
