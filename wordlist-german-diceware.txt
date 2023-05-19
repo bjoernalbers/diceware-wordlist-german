@@ -46,3 +46,4 @@
 11224	abrufen
 11225	abrupt
 11226	absage
+11231	absagen

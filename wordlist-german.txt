@@ -46,3 +46,4 @@ Abruf
 abrufen
 abrupt
 Absage
+absagen
