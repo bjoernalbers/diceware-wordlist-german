@@ -74,3 +74,4 @@
 11312	achteln
 11313	achten
 11314	achtsam
+11315	achtung
