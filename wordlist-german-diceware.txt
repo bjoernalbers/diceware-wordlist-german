@@ -195,3 +195,4 @@
 11633	anlesen
 11634	anmalen
 11635	anmutig
+11636	annahme

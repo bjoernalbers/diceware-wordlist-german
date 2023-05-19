@@ -195,3 +195,4 @@ Anleihe
 anlesen
 anmalen
 anmutig
+Annahme
