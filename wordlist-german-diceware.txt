@@ -299,3 +299,4 @@
 12325	auftakt
 12326	auftrag
 12331	aufwand
+12332	aufzug
