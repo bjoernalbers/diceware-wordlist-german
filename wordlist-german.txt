@@ -309,3 +309,4 @@ Aus
 Ausfall
 Ausflug
 Ausgabe
+Ausgang

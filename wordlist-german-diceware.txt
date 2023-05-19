@@ -309,3 +309,4 @@
 12343	ausfall
 12344	ausflug
 12345	ausgabe
+12346	ausgang
