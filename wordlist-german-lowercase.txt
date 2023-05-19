@@ -319,3 +319,4 @@ auslauf
 auslese
 auspuff
 ausruf
+aussage

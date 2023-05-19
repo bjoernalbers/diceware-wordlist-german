@@ -319,3 +319,4 @@
 12361	auslese
 12362	auspuff
 12363	ausruf
+12364	aussage
