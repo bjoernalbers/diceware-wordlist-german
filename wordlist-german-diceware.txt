@@ -25,3 +25,4 @@
 11151	abholen
 11152	abholer
 11153	abi
+11154	abitur

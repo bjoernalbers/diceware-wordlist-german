@@ -25,3 +25,4 @@ abhilfe
 abholen
 abholer
 abi
+abitur
