@@ -53,3 +53,4 @@
 11235	absicht
 11236	absinth
 11241	absolut
+11242	abspann
