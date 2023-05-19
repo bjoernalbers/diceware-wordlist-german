@@ -134,3 +134,4 @@
 11452	alle
 11453	allee
 11454	allianz
+11455	allrad

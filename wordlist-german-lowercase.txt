@@ -134,3 +134,4 @@ all
 alle
 allee
 allianz
+allrad
