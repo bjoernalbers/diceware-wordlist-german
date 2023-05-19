@@ -65,3 +65,4 @@
 11255	abwegig
 11256	abwehr
 11261	abzug
+11262	abzweig
