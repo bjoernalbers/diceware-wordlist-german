@@ -196,3 +196,4 @@
 11634	anmalen
 11635	anmutig
 11636	annahme
+11641	annonce
