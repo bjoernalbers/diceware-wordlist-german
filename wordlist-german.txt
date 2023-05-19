@@ -90,3 +90,4 @@ Adverb
 Advokat
 aerob
 Aerobic
+Aerosol
