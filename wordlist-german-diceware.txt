@@ -304,3 +304,4 @@
 12334	august
 12335	auktion
 12336	aula
+12341	aura
