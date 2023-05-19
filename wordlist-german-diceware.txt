@@ -62,3 +62,4 @@
 11252	abteil
 11253	abtrag
 11254	abwasch
+11255	abwegig

@@ -62,3 +62,4 @@ abtauen
 abteil
 abtrag
 abwasch
+abwegig
