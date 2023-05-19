@@ -95,3 +95,4 @@
 11345	agenda
 11346	agent
 11351	agentur
+11352	agieren
