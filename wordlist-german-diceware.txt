@@ -300,3 +300,4 @@
 12326	auftrag
 12331	aufwand
 12332	aufzug
+12333	auge
