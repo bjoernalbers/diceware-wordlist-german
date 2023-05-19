@@ -10,7 +10,6 @@ BASE_NAME="wordlist-german"
 WORDLIST="${BASE_DIR}/${BASE_NAME}.txt"
 WORDLIST_LOWERCASE="${BASE_DIR}/${BASE_NAME}-lowercase.txt"
 WORDLIST_DICEWARE="${BASE_DIR}/${BASE_NAME}-diceware.txt"
-DICE_COMBINATIONS="$(mktemp)"
 
 usage() {
   >&2 echo "usage: import file"
@@ -40,14 +39,13 @@ to_lowercase() {
   cat "${input}" | tr 'A-Z' 'a-z' > "${output}"
 }
 
-generate_dice_combinations() {
-  local output="$1"
+print_dice_combinations() {
   for dice1 in {1..6}; do
     for dice2 in {1..6}; do
       for dice3 in {1..6}; do
         for dice4 in {1..6}; do
           for dice5 in {1..6}; do
-            echo "${dice1}${dice2}${dice3}${dice4}${dice5}" >> "${output}"
+            echo "${dice1}${dice2}${dice3}${dice4}${dice5}"
           done
         done
       done
@@ -56,14 +54,12 @@ generate_dice_combinations() {
 }
 
 to_diceware() {
-  local input="$1"
-  local output="$2"
+  local dice_combinations="$1"
+  local words="$2"
+  local output="$3"
   local tmp="$(mktemp)"
-  if [[ ! -s "${DICE_COMBINATIONS}" ]]; then
-    generate_dice_combinations "${DICE_COMBINATIONS}"
-  fi
-  paste "${DICE_COMBINATIONS}" "${input}" > "${tmp}"
-  head -n $(cat "${input}" | wc -l) "${tmp}" > "${output}"
+  paste "${dice_combinations}" "${words}" > "${tmp}"
+  head -n $(cat "${words}" | wc -l) "${tmp}" > "${output}"
 }
 
 commit() {
@@ -83,6 +79,8 @@ if [[ ! -f "${file}" ]]; then
   exit 1
 fi
 
+dice_combinations="$(mktemp)"
+print_dice_combinations > "${dice_combinations}"
 while read word; do
   included "${word}" && continue
   if ! valid "${word}"; then
@@ -91,6 +89,6 @@ while read word; do
   fi
   add "${word}" "${WORDLIST}"
   to_lowercase "${WORDLIST}" "${WORDLIST_LOWERCASE}"
-  to_diceware "${WORDLIST_LOWERCASE}" "${WORDLIST_DICEWARE}"
+  to_diceware "${dice_combinations}" "${WORDLIST_LOWERCASE}" "${WORDLIST_DICEWARE}"
   commit "Add word \"${word}\"."
 done < "${file}"
