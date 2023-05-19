@@ -328,3 +328,4 @@ auszeit
 autark
 auto
 autogen
+automat
