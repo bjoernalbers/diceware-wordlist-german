@@ -284,3 +284,4 @@
 12262	atoll
 12263	atom
 12264	atomar
+12265	atomuhr
