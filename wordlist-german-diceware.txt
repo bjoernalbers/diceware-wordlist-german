@@ -192,3 +192,4 @@
 11626	anlegen
 11631	anleger
 11632	anleihe
+11633	anlesen

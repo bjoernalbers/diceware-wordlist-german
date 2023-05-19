@@ -192,3 +192,4 @@ Anlauf
 anlegen
 Anleger
 Anleihe
+anlesen
