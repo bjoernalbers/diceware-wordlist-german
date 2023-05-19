@@ -131,3 +131,4 @@ alias
 alibi
 alkohol
 all
+alle

@@ -131,3 +131,4 @@
 11445	alibi
 11446	alkohol
 11451	all
+11452	alle
