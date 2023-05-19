@@ -291,3 +291,4 @@
 12313	auditor
 12314	aufbau
 12315	aufgabe
+12316	aufguss
