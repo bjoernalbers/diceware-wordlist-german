@@ -265,3 +265,4 @@
 12231	asket
 12232	aspekt
 12233	asphalt
+12234	aspik
