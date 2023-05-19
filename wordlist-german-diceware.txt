@@ -33,3 +33,4 @@
 11163	ableger
 11164	ablesen
 11165	abluft
+11166	abmalen
