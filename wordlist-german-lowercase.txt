@@ -12,3 +12,4 @@ abfluss
 abfolge
 abfrage
 abfuhr
+abgabe

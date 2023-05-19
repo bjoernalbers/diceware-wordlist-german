@@ -12,3 +12,4 @@
 11126	abfolge
 11131	abfrage
 11132	abfuhr
+11133	abgabe
