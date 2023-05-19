@@ -289,3 +289,4 @@
 12311	audienz
 12312	audit
 12313	auditor
+12314	aufbau
