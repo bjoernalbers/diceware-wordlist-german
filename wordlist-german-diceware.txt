@@ -115,3 +115,4 @@
 11421	aktie
 11422	aktion
 11423	aktiv
+11424	aktuell

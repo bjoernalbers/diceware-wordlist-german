@@ -115,3 +115,4 @@ Akte
 Aktie
 Aktion
 aktiv
+aktuell
