@@ -256,3 +256,4 @@
 12214	arrest
 12215	art
 12216	artig
+12221	artikel

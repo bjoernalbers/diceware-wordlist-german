@@ -256,3 +256,4 @@ aroma
 arrest
 art
 artig
+artikel
