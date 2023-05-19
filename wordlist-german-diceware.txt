@@ -81,3 +81,4 @@
 11323	adapter
 11324	additiv
 11325	adel
+11326	adelig
