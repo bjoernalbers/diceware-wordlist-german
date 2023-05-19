@@ -16,3 +16,4 @@
 11134	abgas
 11135	abgeben
 11136	abgehen
+11141	abgrund
