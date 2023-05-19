@@ -133,3 +133,4 @@
 11451	all
 11452	alle
 11453	allee
+11454	allianz

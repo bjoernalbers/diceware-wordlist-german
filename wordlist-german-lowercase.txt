@@ -133,3 +133,4 @@ alkohol
 all
 alle
 allee
+allianz
