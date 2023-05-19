@@ -117,3 +117,4 @@ aktion
 aktiv
 aktuell
 akustik
+akut

@@ -117,3 +117,4 @@
 11423	aktiv
 11424	aktuell
 11425	akustik
+11426	akut
