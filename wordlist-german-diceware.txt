@@ -178,3 +178,4 @@
 11564	angel
 11565	angeln
 11566	angler
+11611	angora
