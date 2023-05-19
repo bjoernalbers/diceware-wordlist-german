@@ -208,3 +208,4 @@
 11654	anreise
 11655	anreiz
 11656	anruf
+11661	anrufen

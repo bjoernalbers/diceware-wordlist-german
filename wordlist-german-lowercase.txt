@@ -208,3 +208,4 @@ anregen
 anreise
 anreiz
 anruf
+anrufen
