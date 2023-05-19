@@ -249,3 +249,4 @@
 12163	arie
 12164	arm
 12165	armatur
+12166	armband
