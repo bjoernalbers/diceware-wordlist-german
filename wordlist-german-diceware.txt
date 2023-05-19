@@ -324,3 +324,4 @@
 12366	auswahl
 12411	ausweg
 12412	ausweis
+12413	auszeit
