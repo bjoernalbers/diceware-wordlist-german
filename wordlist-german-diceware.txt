@@ -310,3 +310,4 @@
 12344	ausflug
 12345	ausgabe
 12346	ausgang
+12351	ausguck
