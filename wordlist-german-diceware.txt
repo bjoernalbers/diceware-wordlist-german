@@ -51,3 +51,4 @@
 11233	absehen
 11234	abseits
 11235	absicht
+11236	absinth
