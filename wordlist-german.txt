@@ -237,3 +237,4 @@ App
 Apparat
 Appell
 Appetit
+Applaus

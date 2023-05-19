@@ -237,3 +237,4 @@
 12143	apparat
 12144	appell
 12145	appetit
+12146	applaus

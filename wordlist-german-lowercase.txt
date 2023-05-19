@@ -237,3 +237,4 @@ app
 apparat
 appell
 appetit
+applaus
