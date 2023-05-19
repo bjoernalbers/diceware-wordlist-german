@@ -189,3 +189,4 @@ Ankunft
 Anlage
 Anlass
 Anlauf
+anlegen

@@ -189,3 +189,4 @@
 11623	anlage
 11624	anlass
 11625	anlauf
+11626	anlegen
