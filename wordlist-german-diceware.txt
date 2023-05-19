@@ -330,3 +330,4 @@
 12416	autogen
 12421	automat
 12422	autonom
+12423	autor

@@ -330,3 +330,4 @@ Auto
 autogen
 Automat
 autonom
+Autor
