@@ -34,3 +34,4 @@ Ableger
 ablesen
 Abluft
 abmalen
+Abnahme

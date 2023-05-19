@@ -34,3 +34,4 @@
 11164	ablesen
 11165	abluft
 11166	abmalen
+11211	abnahme
