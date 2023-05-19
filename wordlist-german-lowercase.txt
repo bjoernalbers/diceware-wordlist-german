@@ -283,3 +283,4 @@ atmen
 atmung
 atoll
 atom
+atomar
