@@ -47,3 +47,4 @@
 11225	abrupt
 11226	absage
 11231	absagen
+11232	absatz
