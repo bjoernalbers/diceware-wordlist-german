@@ -221,3 +221,4 @@ Anstand
 Anstieg
 Anteil
 Antenne
+Antidot
