@@ -288,3 +288,4 @@
 12266	attest
 12311	audienz
 12312	audit
+12313	auditor
