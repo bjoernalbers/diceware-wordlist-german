@@ -272,3 +272,4 @@
 12242	asta
 12243	astloch
 12244	astral
+12245	astrein
