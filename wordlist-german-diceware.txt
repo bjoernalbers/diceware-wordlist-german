@@ -307,3 +307,4 @@
 12341	aura
 12342	aus
 12343	ausfall
+12344	ausflug

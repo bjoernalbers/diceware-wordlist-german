@@ -307,3 +307,4 @@ aula
 aura
 aus
 ausfall
+ausflug
