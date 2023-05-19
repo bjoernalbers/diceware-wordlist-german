@@ -217,3 +217,4 @@
 12111	anschub
 12112	ansicht
 12113	ansporn
+12114	anstand
