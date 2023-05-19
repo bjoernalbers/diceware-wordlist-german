@@ -99,3 +99,4 @@
 11353	agil
 11354	ahnen
 11355	ahnung
+11356	ahorn
