@@ -113,3 +113,4 @@
 11415	akronym
 11416	akte
 11421	aktie
+11422	aktion
