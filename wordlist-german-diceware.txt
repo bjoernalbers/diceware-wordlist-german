@@ -314,3 +314,4 @@
 12352	ausguss
 12353	aushang
 12354	auslage
+12355	ausland
