@@ -11,3 +11,4 @@
 11125	abfluss
 11126	abfolge
 11131	abfrage
+11132	abfuhr
