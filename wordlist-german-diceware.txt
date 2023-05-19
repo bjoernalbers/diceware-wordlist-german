@@ -292,3 +292,4 @@
 12314	aufbau
 12315	aufgabe
 12316	aufguss
+12321	auflage
