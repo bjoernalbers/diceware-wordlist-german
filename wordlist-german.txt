@@ -50,3 +50,4 @@ absagen
 Absatz
 absehen
 Abseits
+Absicht
