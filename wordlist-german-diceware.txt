@@ -267,3 +267,4 @@
 12233	asphalt
 12234	aspik
 12235	aspirin
+12236	ass
