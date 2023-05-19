@@ -243,3 +243,4 @@ apsis
 aquavit
 arbeit
 archiv
+areal
