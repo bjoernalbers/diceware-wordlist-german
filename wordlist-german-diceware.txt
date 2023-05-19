@@ -52,3 +52,4 @@
 11234	abseits
 11235	absicht
 11236	absinth
+11241	absolut
