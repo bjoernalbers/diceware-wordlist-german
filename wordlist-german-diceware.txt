@@ -38,3 +38,4 @@
 11212	abo
 11213	abpfiff
 11214	abraten
+11215	abregen

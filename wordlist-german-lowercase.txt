@@ -38,3 +38,4 @@ abnahme
 abo
 abpfiff
 abraten
+abregen
