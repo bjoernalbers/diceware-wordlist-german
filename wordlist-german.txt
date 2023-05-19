@@ -13,3 +13,4 @@ Abfolge
 Abfrage
 Abfuhr
 Abgabe
+Abgas
