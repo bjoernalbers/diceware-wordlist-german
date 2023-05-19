@@ -171,3 +171,4 @@ Anemone
 Anfahrt
 Anfang
 Anfrage
+Angabe

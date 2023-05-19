@@ -171,3 +171,4 @@
 11553	anfahrt
 11554	anfang
 11555	anfrage
+11556	angabe
