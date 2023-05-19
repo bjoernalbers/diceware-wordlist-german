@@ -174,3 +174,4 @@
 11556	angabe
 11561	angebot
 11562	angehen
+11563	angel
