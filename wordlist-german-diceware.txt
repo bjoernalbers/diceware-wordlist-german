@@ -17,3 +17,4 @@
 11135	abgeben
 11136	abgehen
 11141	abgrund
+11142	abhaken

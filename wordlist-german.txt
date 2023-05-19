@@ -17,3 +17,4 @@ Abgas
 abgeben
 abgehen
 Abgrund
+abhaken
