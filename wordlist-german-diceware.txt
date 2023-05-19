@@ -282,3 +282,4 @@
 12256	atmen
 12261	atmung
 12262	atoll
+12263	atom
