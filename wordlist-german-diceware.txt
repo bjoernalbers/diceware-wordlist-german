@@ -298,3 +298,4 @@
 12324	aufsatz
 12325	auftakt
 12326	auftrag
+12331	aufwand
