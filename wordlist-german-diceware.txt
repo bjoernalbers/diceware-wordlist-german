@@ -20,3 +20,4 @@
 11142	abhaken
 11143	abhang
 11144	abhauen
+11145	abheben
