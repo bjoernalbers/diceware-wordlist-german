@@ -148,3 +148,4 @@
 11514	altbier
 11515	altglas
 11516	alu
+11521	amalgam

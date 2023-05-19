@@ -148,3 +148,4 @@ Altbau
 Altbier
 Altglas
 Alu
+Amalgam
