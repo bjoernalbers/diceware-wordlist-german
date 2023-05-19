@@ -82,3 +82,4 @@
 11324	additiv
 11325	adel
 11326	adelig
+11331	adler

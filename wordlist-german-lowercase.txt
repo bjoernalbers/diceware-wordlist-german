@@ -82,3 +82,4 @@ adapter
 additiv
 adel
 adelig
+adler
