@@ -172,3 +172,4 @@
 11554	anfang
 11555	anfrage
 11556	angabe
+11561	angebot
