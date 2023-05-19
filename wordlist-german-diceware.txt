@@ -152,3 +152,4 @@
 11522	amarant
 11523	amboss
 11524	ameise
+11525	ampel
