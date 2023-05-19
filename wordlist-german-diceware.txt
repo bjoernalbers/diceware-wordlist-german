@@ -42,3 +42,4 @@
 11216	abreise
 11221	abrieb
 11222	abriss
+11223	abruf
