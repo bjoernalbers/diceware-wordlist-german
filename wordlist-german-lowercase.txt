@@ -132,3 +132,4 @@ alibi
 alkohol
 all
 alle
+allee
