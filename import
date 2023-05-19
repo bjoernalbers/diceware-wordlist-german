@@ -27,10 +27,21 @@ valid() {
 
 add() {
   local word="$1"
+  local wordlist="$2"
   local tmp="$(mktemp)"
-  echo "${word}" >> "${WORDLIST}"
-  sort --ignore-case "${WORDLIST}" > "${tmp}" && mv "${tmp}" "${WORDLIST}"
-  cat "${WORDLIST}" | tr 'A-Z' 'a-z' > "${WORDLIST_LOWERCASE}"
+  echo "${word}" >> "${wordlist}"
+  sort --ignore-case "${wordlist}" > "${tmp}" && mv "${tmp}" "${wordlist}"
+}
+
+to_lowercase() {
+  local input="$1"
+  local output="$2"
+  cat "${input}" | tr 'A-Z' 'a-z' > "${output}"
+}
+
+to_diceware() {
+  local input="$1"
+  local output="$2"
   dice_combinations="$(mktemp)"
   for dice1 in {1..6}; do
     for dice2 in {1..6}; do
@@ -43,10 +54,9 @@ add() {
       done
     done
   done
-  head -n $(cat "${WORDLIST_LOWERCASE}" | wc -l) "${dice_combinations}" > "${dice_combinations}.truncated" \
+  head -n $(cat "${input}" | wc -l) "${dice_combinations}" > "${dice_combinations}.truncated" \
     && mv "${dice_combinations}.truncated" "${dice_combinations}"
-  paste "${dice_combinations}" "${WORDLIST_LOWERCASE}" > "${WORDLIST_DICEWARE}"
-  commit "Add word \"${word}\"."
+  paste "${dice_combinations}" "${input}" > "${output}"
 }
 
 commit() {
@@ -72,6 +82,8 @@ while read word; do
     >&2 echo "invalid word: \"${word}\""
     continue
   fi
-  add "${word}"
+  add "${word}" "${WORDLIST}"
+  to_lowercase "${WORDLIST}" "${WORDLIST_LOWERCASE}"
+  to_diceware "${WORDLIST_LOWERCASE}" "${WORDLIST_DICEWARE}"
+  commit "Add word \"${word}\"."
 done < "${file}"
-
