@@ -119,3 +119,4 @@
 11425	akustik
 11426	akut
 11431	akzent
+11432	alaaf
