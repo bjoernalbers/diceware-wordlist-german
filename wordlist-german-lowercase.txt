@@ -126,3 +126,4 @@ album
 alcopop
 ale
 alge
+algebra
