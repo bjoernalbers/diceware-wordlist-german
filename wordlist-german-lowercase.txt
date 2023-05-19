@@ -268,3 +268,4 @@ asphalt
 aspik
 aspirin
 ass
+ast

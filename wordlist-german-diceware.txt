@@ -268,3 +268,4 @@
 12234	aspik
 12235	aspirin
 12236	ass
+12241	ast
