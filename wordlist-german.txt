@@ -106,3 +106,4 @@ Airline
 Airport
 Akazie
 Akkord
+Akku
