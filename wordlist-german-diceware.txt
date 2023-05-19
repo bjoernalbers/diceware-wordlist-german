@@ -240,3 +240,4 @@
 12146	applaus
 12151	april
 12152	apsis
+12153	aquavit
