@@ -295,3 +295,4 @@
 12321	auflage
 12322	auflauf
 12323	aufruf
+12324	aufsatz
