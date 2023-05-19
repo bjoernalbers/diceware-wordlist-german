@@ -48,3 +48,4 @@ abrupt
 Absage
 absagen
 Absatz
+absehen
