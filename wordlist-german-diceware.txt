@@ -59,3 +59,4 @@
 11245	absturz
 11246	absurd
 11251	abtauen
+11252	abteil
