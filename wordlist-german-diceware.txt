@@ -98,3 +98,4 @@
 11352	agieren
 11353	agil
 11354	ahnen
+11355	ahnung
