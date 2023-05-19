@@ -28,3 +28,4 @@
 11154	abitur
 11155	abladen
 11156	ablage
+11161	ablauf
