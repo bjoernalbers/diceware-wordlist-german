@@ -114,3 +114,4 @@ Akronym
 Akte
 Aktie
 Aktion
+aktiv

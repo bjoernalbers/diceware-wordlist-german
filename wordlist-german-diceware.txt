@@ -114,3 +114,4 @@
 11416	akte
 11421	aktie
 11422	aktion
+11423	aktiv
