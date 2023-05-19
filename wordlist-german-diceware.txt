@@ -160,3 +160,4 @@
 11534	anaerob
 11535	analog
 11536	analyse
+11541	analyst
