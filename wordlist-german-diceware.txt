@@ -236,3 +236,4 @@
 12142	app
 12143	apparat
 12144	appell
+12145	appetit

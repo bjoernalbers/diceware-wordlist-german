@@ -236,3 +236,4 @@ Apfel
 App
 Apparat
 Appell
+Appetit
