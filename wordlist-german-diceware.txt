@@ -154,3 +154,4 @@
 11524	ameise
 11525	ampel
 11526	ampulle
+11531	amsel
