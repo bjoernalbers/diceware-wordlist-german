@@ -187,3 +187,4 @@
 11621	ankern
 11622	ankunft
 11623	anlage
+11624	anlass
