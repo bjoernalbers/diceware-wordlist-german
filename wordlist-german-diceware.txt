@@ -56,3 +56,4 @@
 11242	abspann
 11243	abstand
 11244	abstieg
+11245	absturz

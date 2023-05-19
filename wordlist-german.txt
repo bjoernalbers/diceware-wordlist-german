@@ -56,3 +56,4 @@ absolut
 Abspann
 Abstand
 Abstieg
+Absturz
