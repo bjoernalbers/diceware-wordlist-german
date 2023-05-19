@@ -45,3 +45,4 @@
 11223	abruf
 11224	abrufen
 11225	abrupt
+11226	absage

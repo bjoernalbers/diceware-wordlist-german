@@ -45,3 +45,4 @@ Abriss
 Abruf
 abrufen
 abrupt
+Absage
