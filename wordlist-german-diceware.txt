@@ -49,3 +49,4 @@
 11231	absagen
 11232	absatz
 11233	absehen
+11234	abseits
