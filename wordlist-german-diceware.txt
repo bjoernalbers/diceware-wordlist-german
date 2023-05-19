@@ -58,3 +58,4 @@
 11244	abstieg
 11245	absturz
 11246	absurd
+11251	abtauen
