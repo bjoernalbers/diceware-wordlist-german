@@ -120,3 +120,4 @@
 11426	akut
 11431	akzent
 11432	alaaf
+11433	alarm
