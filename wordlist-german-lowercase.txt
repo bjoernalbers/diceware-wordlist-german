@@ -151,3 +151,4 @@ alu
 amalgam
 amarant
 amboss
+ameise

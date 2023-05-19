@@ -151,3 +151,4 @@ Alu
 Amalgam
 Amarant
 Amboss
+Ameise

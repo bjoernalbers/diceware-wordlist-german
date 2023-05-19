@@ -151,3 +151,4 @@
 11521	amalgam
 11522	amarant
 11523	amboss
+11524	ameise
