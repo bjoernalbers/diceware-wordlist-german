@@ -63,3 +63,4 @@
 11253	abtrag
 11254	abwasch
 11255	abwegig
+11256	abwehr

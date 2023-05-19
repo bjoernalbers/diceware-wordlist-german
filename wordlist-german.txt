@@ -63,3 +63,4 @@ Abteil
 Abtrag
 Abwasch
 abwegig
+Abwehr
