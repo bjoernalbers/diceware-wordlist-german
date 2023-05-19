@@ -213,3 +213,4 @@ Anrufer
 Ansage
 ansagen
 Ansager
+Ansatz

@@ -213,3 +213,4 @@
 11663	ansage
 11664	ansagen
 11665	ansager
+11666	ansatz
