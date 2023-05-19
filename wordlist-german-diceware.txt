@@ -225,3 +225,4 @@
 12123	antik
 12124	antike
 12125	antrag
+12126	antrieb
