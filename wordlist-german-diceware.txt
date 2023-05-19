@@ -306,3 +306,4 @@
 12336	aula
 12341	aura
 12342	aus
+12343	ausfall
