@@ -43,3 +43,4 @@
 11221	abrieb
 11222	abriss
 11223	abruf
+11224	abrufen
