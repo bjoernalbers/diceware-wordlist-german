@@ -110,3 +110,4 @@ akku
 akkurat
 akquise
 akrobat
+akronym

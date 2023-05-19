@@ -110,3 +110,4 @@
 11412	akkurat
 11413	akquise
 11414	akrobat
+11415	akronym
