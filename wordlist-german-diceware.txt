@@ -264,3 +264,4 @@
 12226	asche
 12231	asket
 12232	aspekt
+12233	asphalt
