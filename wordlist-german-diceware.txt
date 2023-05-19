@@ -315,3 +315,4 @@
 12353	aushang
 12354	auslage
 12355	ausland
+12356	auslauf
