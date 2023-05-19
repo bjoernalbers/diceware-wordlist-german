@@ -233,3 +233,4 @@
 12135	anzeige
 12136	anzug
 12141	apfel
+12142	app
