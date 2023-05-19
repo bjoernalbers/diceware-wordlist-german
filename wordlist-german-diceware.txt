@@ -55,3 +55,4 @@
 11241	absolut
 11242	abspann
 11243	abstand
+11244	abstieg
