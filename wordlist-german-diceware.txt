@@ -100,3 +100,4 @@
 11354	ahnen
 11355	ahnung
 11356	ahorn
+11361	aikido
