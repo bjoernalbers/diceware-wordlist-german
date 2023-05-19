@@ -269,3 +269,4 @@ aspik
 aspirin
 ass
 ast
+asta

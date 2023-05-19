@@ -269,3 +269,4 @@
 12235	aspirin
 12236	ass
 12241	ast
+12242	asta
