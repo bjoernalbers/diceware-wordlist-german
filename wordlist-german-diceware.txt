@@ -223,3 +223,4 @@
 12121	antenne
 12122	antidot
 12123	antik
+12124	antike
