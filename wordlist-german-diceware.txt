@@ -222,3 +222,4 @@
 12116	anteil
 12121	antenne
 12122	antidot
+12123	antik

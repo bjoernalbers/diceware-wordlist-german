@@ -222,3 +222,4 @@ Anstieg
 Anteil
 Antenne
 Antidot
+antik
