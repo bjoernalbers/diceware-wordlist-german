@@ -191,3 +191,4 @@
 11625	anlauf
 11626	anlegen
 11631	anleger
+11632	anleihe
