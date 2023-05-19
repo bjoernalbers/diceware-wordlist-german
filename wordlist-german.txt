@@ -130,3 +130,4 @@ Algebra
 Alias
 Alibi
 Alkohol
+All
