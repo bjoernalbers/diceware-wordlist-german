@@ -67,3 +67,4 @@
 11261	abzug
 11262	abzweig
 11263	account
+11264	achse
