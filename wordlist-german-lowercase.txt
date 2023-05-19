@@ -10,3 +10,4 @@ abfahrt
 abflug
 abfluss
 abfolge
+abfrage

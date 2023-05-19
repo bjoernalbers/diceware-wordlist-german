@@ -10,3 +10,4 @@
 11124	abflug
 11125	abfluss
 11126	abfolge
+11131	abfrage
