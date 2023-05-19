@@ -232,3 +232,4 @@ Anwesen
 Anzahl
 Anzeige
 Anzug
+Apfel

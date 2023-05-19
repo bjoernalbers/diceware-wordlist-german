@@ -232,3 +232,4 @@
 12134	anzahl
 12135	anzeige
 12136	anzug
+12141	apfel

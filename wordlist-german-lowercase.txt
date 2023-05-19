@@ -232,3 +232,4 @@ anwesen
 anzahl
 anzeige
 anzug
+apfel
