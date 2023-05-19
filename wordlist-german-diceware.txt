@@ -27,3 +27,4 @@
 11153	abi
 11154	abitur
 11155	abladen
+11156	ablage
