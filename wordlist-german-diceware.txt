@@ -224,3 +224,4 @@
 12122	antidot
 12123	antik
 12124	antike
+12125	antrag
