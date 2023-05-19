@@ -127,3 +127,4 @@ alcopop
 ale
 alge
 algebra
+alias
