@@ -116,3 +116,4 @@ Aktie
 Aktion
 aktiv
 aktuell
+Akustik
