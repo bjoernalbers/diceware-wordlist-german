@@ -37,3 +37,4 @@
 11211	abnahme
 11212	abo
 11213	abpfiff
+11214	abraten

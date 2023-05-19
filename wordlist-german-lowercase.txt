@@ -37,3 +37,4 @@ abmalen
 abnahme
 abo
 abpfiff
+abraten
