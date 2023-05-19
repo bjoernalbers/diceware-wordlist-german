@@ -234,3 +234,4 @@
 12136	anzug
 12141	apfel
 12142	app
+12143	apparat
