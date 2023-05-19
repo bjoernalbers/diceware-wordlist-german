@@ -271,3 +271,4 @@
 12241	ast
 12242	asta
 12243	astloch
+12244	astral

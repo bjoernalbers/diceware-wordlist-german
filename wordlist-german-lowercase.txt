@@ -271,3 +271,4 @@ ass
 ast
 asta
 astloch
+astral
