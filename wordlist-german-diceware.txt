@@ -211,3 +211,4 @@
 11661	anrufen
 11662	anrufer
 11663	ansage
+11664	ansagen
