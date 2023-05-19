@@ -302,3 +302,4 @@
 12332	aufzug
 12333	auge
 12334	august
+12335	auktion
