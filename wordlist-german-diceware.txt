@@ -73,3 +73,4 @@
 11311	achtel
 11312	achteln
 11313	achten
+11314	achtsam
