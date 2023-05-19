@@ -163,3 +163,4 @@
 11541	analyst
 11542	ananas
 11543	anbau
+11544	anbauen
