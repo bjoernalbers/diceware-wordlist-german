@@ -250,3 +250,4 @@
 12164	arm
 12165	armatur
 12166	armband
+12211	armreif
