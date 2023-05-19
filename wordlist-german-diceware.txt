@@ -214,3 +214,4 @@
 11664	ansagen
 11665	ansager
 11666	ansatz
+12111	anschub
