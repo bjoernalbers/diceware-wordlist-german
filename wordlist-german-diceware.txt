@@ -316,3 +316,4 @@
 12354	auslage
 12355	ausland
 12356	auslauf
+12361	auslese
