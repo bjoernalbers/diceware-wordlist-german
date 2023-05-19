@@ -161,3 +161,4 @@
 11535	analog
 11536	analyse
 11541	analyst
+11542	ananas
