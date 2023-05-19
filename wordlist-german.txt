@@ -158,3 +158,4 @@ Amsel
 Amt
 Amulett
 anaerob
+analog

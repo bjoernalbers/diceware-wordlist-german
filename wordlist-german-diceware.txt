@@ -158,3 +158,4 @@
 11532	amt
 11533	amulett
 11534	anaerob
+11535	analog
