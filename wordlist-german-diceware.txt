@@ -281,3 +281,4 @@
 12255	atlas
 12256	atmen
 12261	atmung
+12262	atoll
