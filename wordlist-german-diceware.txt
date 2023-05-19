@@ -322,3 +322,4 @@
 12364	aussage
 12365	auster
 12366	auswahl
+12411	ausweg
