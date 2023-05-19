@@ -229,3 +229,4 @@
 12131	antwort
 12132	anwalt
 12133	anwesen
+12134	anzahl
