@@ -210,3 +210,4 @@ Anreiz
 Anruf
 anrufen
 Anrufer
+Ansage
