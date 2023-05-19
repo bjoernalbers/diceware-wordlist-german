@@ -227,3 +227,4 @@
 12125	antrag
 12126	antrieb
 12131	antwort
+12132	anwalt
