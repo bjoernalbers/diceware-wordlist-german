@@ -21,3 +21,4 @@
 11143	abhang
 11144	abhauen
 11145	abheben
+11146	abhilfe
