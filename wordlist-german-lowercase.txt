@@ -80,3 +80,4 @@ ackern
 acryl
 adapter
 additiv
+adel

@@ -80,3 +80,4 @@
 11322	acryl
 11323	adapter
 11324	additiv
+11325	adel
