@@ -263,3 +263,4 @@
 12225	asbest
 12226	asche
 12231	asket
+12232	aspekt
