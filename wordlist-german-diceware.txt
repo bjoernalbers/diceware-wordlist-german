@@ -203,3 +203,4 @@
 11645	anpfiff
 11646	anprobe
 11651	anrecht
+11652	anrede
