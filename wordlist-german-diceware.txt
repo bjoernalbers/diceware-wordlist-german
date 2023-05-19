@@ -296,3 +296,4 @@
 12322	auflauf
 12323	aufruf
 12324	aufsatz
+12325	auftakt
