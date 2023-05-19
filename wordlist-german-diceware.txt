@@ -278,3 +278,4 @@
 12252	atemlos
 12253	atemzug
 12254	athlet
+12255	atlas
