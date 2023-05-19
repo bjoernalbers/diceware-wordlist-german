@@ -212,3 +212,4 @@
 11662	anrufer
 11663	ansage
 11664	ansagen
+11665	ansager

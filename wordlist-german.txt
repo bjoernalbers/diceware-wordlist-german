@@ -212,3 +212,4 @@ anrufen
 Anrufer
 Ansage
 ansagen
+Ansager
