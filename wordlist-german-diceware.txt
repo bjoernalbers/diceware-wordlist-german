@@ -197,3 +197,4 @@
 11635	anmutig
 11636	annahme
 11641	annonce
+11642	anode
