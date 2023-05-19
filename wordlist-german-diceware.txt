@@ -75,3 +75,4 @@
 11313	achten
 11314	achtsam
 11315	achtung
+11316	acker
