@@ -6,11 +6,9 @@
 
 The wordlists is available in these formats:
 
-- wordlist-german.txt: original list of german words with correct
-  capitalization
-- wordlist-german-lowercase.txt: lowercase version of the wordlist above
-  (suitable for a passphrase generator)
-- wordlist-german-diceware.txt: the actual german diceware wordlist
+- `wordlist-german.txt`: original german wordlist with correct capitalization
+- `wordlist-german-lowercase.txt`: lowercase version of the wordlist above
+- `wordlist-german-diceware.txt`: the actual german diceware wordlist
 
 ## Words
 
