@@ -23,3 +23,4 @@
 11145	abheben
 11146	abhilfe
 11151	abholen
+11152	abholer
