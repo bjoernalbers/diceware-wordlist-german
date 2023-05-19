@@ -325,3 +325,4 @@ auswahl
 ausweg
 ausweis
 auszeit
+autark
