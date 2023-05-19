@@ -44,3 +44,4 @@
 11222	abriss
 11223	abruf
 11224	abrufen
+11225	abrupt
