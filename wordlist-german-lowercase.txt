@@ -219,3 +219,4 @@ ansicht
 ansporn
 anstand
 anstieg
+anteil

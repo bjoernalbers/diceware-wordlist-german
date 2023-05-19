@@ -219,3 +219,4 @@
 12113	ansporn
 12114	anstand
 12115	anstieg
+12116	anteil
