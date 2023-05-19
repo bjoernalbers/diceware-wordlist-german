@@ -321,3 +321,4 @@
 12363	ausruf
 12364	aussage
 12365	auster
+12366	auswahl
