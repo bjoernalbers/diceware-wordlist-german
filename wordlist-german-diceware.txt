@@ -276,3 +276,4 @@
 12246	atelier
 12251	atem
 12252	atemlos
+12253	atemzug
