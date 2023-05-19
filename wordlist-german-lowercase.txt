@@ -14,3 +14,4 @@ abfrage
 abfuhr
 abgabe
 abgas
+abgeben

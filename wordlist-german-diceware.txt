@@ -14,3 +14,4 @@
 11132	abfuhr
 11133	abgabe
 11134	abgas
+11135	abgeben
