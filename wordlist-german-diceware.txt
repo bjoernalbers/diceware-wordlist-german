@@ -242,3 +242,4 @@
 12152	apsis
 12153	aquavit
 12154	arbeit
+12155	archiv
