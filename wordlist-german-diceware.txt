@@ -35,3 +35,4 @@
 11165	abluft
 11166	abmalen
 11211	abnahme
+11212	abo
