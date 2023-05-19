@@ -239,3 +239,4 @@
 12145	appetit
 12146	applaus
 12151	april
+12152	apsis
