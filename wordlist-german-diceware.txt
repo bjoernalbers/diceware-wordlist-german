@@ -257,3 +257,4 @@
 12215	art
 12216	artig
 12221	artikel
+12222	artist

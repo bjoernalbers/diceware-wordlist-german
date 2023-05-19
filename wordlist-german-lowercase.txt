@@ -257,3 +257,4 @@ arrest
 art
 artig
 artikel
+artist
