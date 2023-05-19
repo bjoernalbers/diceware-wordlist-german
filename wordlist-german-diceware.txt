@@ -111,3 +111,4 @@
 11413	akquise
 11414	akrobat
 11415	akronym
+11416	akte
