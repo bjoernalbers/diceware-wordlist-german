@@ -109,3 +109,4 @@
 11411	akku
 11412	akkurat
 11413	akquise
+11414	akrobat

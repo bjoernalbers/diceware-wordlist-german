@@ -109,3 +109,4 @@ akkord
 akku
 akkurat
 akquise
+akrobat
