@@ -220,3 +220,4 @@
 12114	anstand
 12115	anstieg
 12116	anteil
+12121	antenne

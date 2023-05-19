@@ -220,3 +220,4 @@ Ansporn
 Anstand
 Anstieg
 Anteil
+Antenne
