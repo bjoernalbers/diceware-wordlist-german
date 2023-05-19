@@ -76,3 +76,4 @@
 11314	achtsam
 11315	achtung
 11316	acker
+11321	ackern
