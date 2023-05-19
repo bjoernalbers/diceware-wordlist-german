@@ -255,3 +255,4 @@
 12213	aroma
 12214	arrest
 12215	art
+12216	artig
