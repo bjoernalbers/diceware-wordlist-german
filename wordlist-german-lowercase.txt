@@ -259,3 +259,4 @@ artig
 artikel
 artist
 arznei
+arzt

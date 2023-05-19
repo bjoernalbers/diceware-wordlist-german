@@ -259,3 +259,4 @@
 12221	artikel
 12222	artist
 12223	arznei
+12224	arzt
