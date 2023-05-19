@@ -170,3 +170,4 @@
 11552	anemone
 11553	anfahrt
 11554	anfang
+11555	anfrage
