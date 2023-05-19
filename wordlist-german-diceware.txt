@@ -41,3 +41,4 @@
 11215	abregen
 11216	abreise
 11221	abrieb
+11222	abriss
