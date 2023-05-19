@@ -156,3 +156,4 @@ Ampel
 Ampulle
 Amsel
 Amt
+Amulett
