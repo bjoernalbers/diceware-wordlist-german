@@ -280,3 +280,4 @@ Atemzug
 Athlet
 Atlas
 atmen
+Atmung
