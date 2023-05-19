@@ -228,3 +228,4 @@ antrag
 antrieb
 antwort
 anwalt
+anwesen

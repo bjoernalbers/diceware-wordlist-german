@@ -228,3 +228,4 @@
 12126	antrieb
 12131	antwort
 12132	anwalt
+12133	anwesen
