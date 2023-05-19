@@ -107,3 +107,4 @@ airport
 akazie
 akkord
 akku
+akkurat

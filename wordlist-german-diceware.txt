@@ -107,3 +107,4 @@
 11365	akazie
 11366	akkord
 11411	akku
+11412	akkurat

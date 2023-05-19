@@ -107,3 +107,4 @@ Airport
 Akazie
 Akkord
 Akku
+akkurat
