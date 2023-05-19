@@ -78,3 +78,4 @@ achtung
 acker
 ackern
 acryl
+adapter
