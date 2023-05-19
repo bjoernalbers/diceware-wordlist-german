@@ -129,3 +129,4 @@
 11443	algebra
 11444	alias
 11445	alibi
+11446	alkohol
