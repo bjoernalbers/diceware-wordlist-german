@@ -112,3 +112,4 @@ akquise
 akrobat
 akronym
 akte
+aktie
