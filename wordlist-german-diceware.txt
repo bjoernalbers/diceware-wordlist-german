@@ -270,3 +270,4 @@
 12236	ass
 12241	ast
 12242	asta
+12243	astloch
