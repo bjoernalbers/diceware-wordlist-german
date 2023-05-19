@@ -317,3 +317,4 @@
 12355	ausland
 12356	auslauf
 12361	auslese
+12362	auspuff
