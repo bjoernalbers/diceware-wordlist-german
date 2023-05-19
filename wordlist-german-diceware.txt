@@ -277,3 +277,4 @@
 12251	atem
 12252	atemlos
 12253	atemzug
+12254	athlet
