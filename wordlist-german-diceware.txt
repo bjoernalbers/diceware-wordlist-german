@@ -8,3 +8,4 @@
 11122	abends
 11123	abfahrt
 11124	abflug
+11125	abfluss
