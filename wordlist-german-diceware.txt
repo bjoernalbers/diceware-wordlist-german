@@ -39,3 +39,4 @@
 11213	abpfiff
 11214	abraten
 11215	abregen
+11216	abreise
