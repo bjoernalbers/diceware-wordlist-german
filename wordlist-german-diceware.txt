@@ -176,3 +176,4 @@
 11562	angehen
 11563	angel
 11564	angeln
+11565	angler
