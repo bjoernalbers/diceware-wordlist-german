@@ -216,3 +216,4 @@
 11666	ansatz
 12111	anschub
 12112	ansicht
+12113	ansporn
