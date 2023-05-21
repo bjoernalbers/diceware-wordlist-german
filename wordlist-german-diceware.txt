@@ -506,3 +506,4 @@
 13312	birne
 13313	biskuit
 13314	bison
+13315	biss
