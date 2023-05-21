@@ -404,3 +404,4 @@
 12622	bauland
 12623	baum
 12624	baumart
+12625	baumeln
