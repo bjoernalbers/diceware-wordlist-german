@@ -482,3 +482,4 @@
 13232	bibbern
 13233	biber
 13234	bidet
+13235	biegen
