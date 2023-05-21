@@ -386,3 +386,4 @@ barock
 baron
 barsch
 bart
+basar
