@@ -509,3 +509,4 @@
 13315	biss
 13316	bistro
 13321	bit
+13322	bitte
