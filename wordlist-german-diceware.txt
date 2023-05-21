@@ -411,3 +411,4 @@
 12633	bauwerk
 12634	bauzaun
 12635	beagle
+12636	beamen

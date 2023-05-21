@@ -411,3 +411,4 @@ Bauteil
 Bauwerk
 Bauzaun
 Beagle
+beamen
