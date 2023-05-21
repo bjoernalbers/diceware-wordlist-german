@@ -394,3 +394,4 @@
 12564	bast
 12565	basteln
 12566	basthut
+12611	bastler
