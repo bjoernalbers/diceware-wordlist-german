@@ -449,3 +449,4 @@
 13135	benzin
 13136	beraten
 13141	berater
+13142	bereden
