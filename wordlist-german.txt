@@ -460,3 +460,4 @@ Bericht
 Beruf
 Besen
 Besitz
+Bestand

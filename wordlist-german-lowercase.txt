@@ -460,3 +460,4 @@ bericht
 beruf
 besen
 besitz
+bestand

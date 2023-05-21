@@ -460,3 +460,4 @@
 13154	beruf
 13155	besen
 13156	besitz
+13161	bestand
