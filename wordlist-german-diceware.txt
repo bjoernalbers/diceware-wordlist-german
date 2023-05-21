@@ -372,3 +372,4 @@
 12526	bande
 12531	bandit
 12532	banjo
+12533	bank
