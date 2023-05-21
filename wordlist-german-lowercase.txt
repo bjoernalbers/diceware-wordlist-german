@@ -428,3 +428,4 @@ befehl
 befund
 beginn
 begonie
+begriff

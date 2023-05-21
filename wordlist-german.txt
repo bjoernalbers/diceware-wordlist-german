@@ -428,3 +428,4 @@ Befehl
 Befund
 Beginn
 Begonie
+Begriff
