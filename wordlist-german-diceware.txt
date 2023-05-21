@@ -393,3 +393,4 @@
 12563	bassist
 12564	bast
 12565	basteln
+12566	basthut
