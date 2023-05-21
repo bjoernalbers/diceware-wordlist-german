@@ -480,3 +480,4 @@ Bewuchs
 bewusst
 Bezirk
 bibbern
+Biber

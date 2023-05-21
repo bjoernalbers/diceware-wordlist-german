@@ -480,3 +480,4 @@
 13226	bewusst
 13231	bezirk
 13232	bibbern
+13233	biber
