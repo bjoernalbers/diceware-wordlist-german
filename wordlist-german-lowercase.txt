@@ -370,3 +370,4 @@ banane
 band
 bandage
 bande
+bandit

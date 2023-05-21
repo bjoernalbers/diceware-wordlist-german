@@ -370,3 +370,4 @@
 12524	band
 12525	bandage
 12526	bande
+12531	bandit
