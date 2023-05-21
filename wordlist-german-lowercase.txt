@@ -378,3 +378,4 @@ bankett
 bankier
 banner
 bar
+barbier
