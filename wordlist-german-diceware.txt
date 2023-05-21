@@ -353,3 +353,4 @@
 12455	bahnhof
 12456	bahre
 12461	balance
+12462	balgen
