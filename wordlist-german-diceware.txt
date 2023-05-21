@@ -402,3 +402,4 @@
 12616	bauherr
 12621	baujahr
 12622	bauland
+12623	baum
