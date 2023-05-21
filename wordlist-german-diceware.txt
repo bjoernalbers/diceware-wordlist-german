@@ -487,3 +487,4 @@
 13241	bier
 13242	bieten
 13243	bieter
+13244	bike

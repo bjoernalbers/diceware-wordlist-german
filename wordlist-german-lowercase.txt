@@ -487,3 +487,4 @@ biene
 bier
 bieten
 bieter
+bike
