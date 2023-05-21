@@ -381,3 +381,4 @@ Bar
 Barbier
 Barcode
 Bargeld
+Barista
