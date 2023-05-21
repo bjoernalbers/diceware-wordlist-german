@@ -376,3 +376,4 @@
 12534	banker
 12535	bankett
 12536	bankier
+12541	banner
