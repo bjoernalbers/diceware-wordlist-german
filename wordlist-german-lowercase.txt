@@ -407,3 +407,4 @@ baumart
 baumeln
 bauplan
 bausatz
+bauteil

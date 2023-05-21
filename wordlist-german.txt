@@ -407,3 +407,4 @@ Baumart
 baumeln
 Bauplan
 Bausatz
+Bauteil

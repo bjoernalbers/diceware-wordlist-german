@@ -407,3 +407,4 @@
 12625	baumeln
 12626	bauplan
 12631	bausatz
+12632	bauteil
