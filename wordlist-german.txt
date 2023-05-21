@@ -432,3 +432,4 @@ Begriff
 beheben
 Behelf
 Beiboot
+Beifall
