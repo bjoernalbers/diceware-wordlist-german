@@ -423,3 +423,4 @@
 12653	beeilen
 12654	beenden
 12655	beere
+12656	beet
