@@ -367,3 +367,4 @@
 12521	bammel
 12522	banal
 12523	banane
+12524	band

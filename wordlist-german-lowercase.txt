@@ -367,3 +367,4 @@ bambus
 bammel
 banal
 banane
+band
