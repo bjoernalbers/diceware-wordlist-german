@@ -493,3 +493,4 @@
 13251	bilanz
 13252	bild
 13253	bildung
+13254	billard
