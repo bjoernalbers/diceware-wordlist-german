@@ -391,3 +391,4 @@
 12561	basisch
 12562	bass
 12563	bassist
+12564	bast
