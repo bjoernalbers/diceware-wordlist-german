@@ -355,3 +355,4 @@
 12461	balance
 12462	balgen
 12463	balken
+12464	balkon
