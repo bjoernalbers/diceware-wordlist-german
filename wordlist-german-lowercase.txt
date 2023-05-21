@@ -500,3 +500,4 @@ bindung
 bioei
 biogas
 biologe
+bioobst
