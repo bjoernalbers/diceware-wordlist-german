@@ -424,3 +424,4 @@
 12654	beenden
 12655	beere
 12656	beet
+12661	befehl

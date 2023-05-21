@@ -424,3 +424,4 @@ beeilen
 beenden
 beere
 beet
+befehl
