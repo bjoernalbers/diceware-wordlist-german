@@ -476,3 +476,4 @@
 13222	beutel
 13223	bewegen
 13224	beweis
+13225	bewuchs
