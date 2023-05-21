@@ -400,3 +400,4 @@
 12614	bauamt
 12615	bauen
 12616	bauherr
+12621	baujahr

@@ -400,3 +400,4 @@ batzen
 bauamt
 bauen
 bauherr
+baujahr
