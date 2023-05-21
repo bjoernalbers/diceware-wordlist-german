@@ -354,3 +354,4 @@
 12456	bahre
 12461	balance
 12462	balgen
+12463	balken

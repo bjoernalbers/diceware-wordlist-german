@@ -354,3 +354,4 @@ bahnhof
 bahre
 balance
 balgen
+balken
