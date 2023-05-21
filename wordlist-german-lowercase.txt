@@ -454,3 +454,4 @@ bereich
 bereit
 berg
 bergbau
+bergig
