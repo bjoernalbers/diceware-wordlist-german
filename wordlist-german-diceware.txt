@@ -379,3 +379,4 @@
 12541	banner
 12542	bar
 12543	barbier
+12544	barcode

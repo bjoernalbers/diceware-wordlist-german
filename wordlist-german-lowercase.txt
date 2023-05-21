@@ -379,3 +379,4 @@ bankier
 banner
 bar
 barbier
+barcode

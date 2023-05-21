@@ -379,3 +379,4 @@ Bankier
 Banner
 Bar
 Barbier
+Barcode
