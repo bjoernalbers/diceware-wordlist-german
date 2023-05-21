@@ -357,3 +357,4 @@
 12463	balken
 12464	balkon
 12465	ball
+12466	ballade
