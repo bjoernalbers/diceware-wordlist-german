@@ -374,3 +374,4 @@ bandit
 banjo
 bank
 banker
+bankett
