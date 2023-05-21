@@ -496,3 +496,4 @@
 13254	billard
 13255	bimbam
 13256	binden
+13261	bindung
