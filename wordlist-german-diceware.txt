@@ -445,3 +445,4 @@
 13131	belegen
 13132	bellen
 13133	bemalen
+13134	benoten

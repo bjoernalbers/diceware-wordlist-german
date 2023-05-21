@@ -445,3 +445,4 @@ beleg
 belegen
 bellen
 bemalen
+benoten
