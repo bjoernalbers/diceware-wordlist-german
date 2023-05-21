@@ -504,3 +504,4 @@ bioobst
 biotop
 birke
 birne
+biskuit

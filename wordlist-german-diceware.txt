@@ -504,3 +504,4 @@
 13266	biotop
 13311	birke
 13312	birne
+13313	biskuit
