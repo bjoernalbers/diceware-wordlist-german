@@ -410,3 +410,4 @@
 12632	bauteil
 12633	bauwerk
 12634	bauzaun
+12635	beagle

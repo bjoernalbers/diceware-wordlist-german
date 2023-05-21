@@ -410,3 +410,4 @@ Bausatz
 Bauteil
 Bauwerk
 Bauzaun
+Beagle
