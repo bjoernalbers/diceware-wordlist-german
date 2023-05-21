@@ -387,3 +387,4 @@
 12553	barsch
 12554	bart
 12555	basar
+12556	basis
