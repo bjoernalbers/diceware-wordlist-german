@@ -456,3 +456,4 @@ berg
 bergbau
 bergig
 bergsee
+bericht
