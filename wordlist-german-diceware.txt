@@ -501,3 +501,4 @@
 13263	biogas
 13264	biologe
 13265	bioobst
+13266	biotop
