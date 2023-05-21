@@ -436,3 +436,4 @@
 13114	beige
 13115	beil
 13116	beilage
+13121	bein
