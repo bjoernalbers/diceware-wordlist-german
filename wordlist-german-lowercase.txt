@@ -488,3 +488,4 @@ bier
 bieten
 bieter
 bike
+biker

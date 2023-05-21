@@ -488,3 +488,4 @@
 13242	bieten
 13243	bieter
 13244	bike
+13245	biker
