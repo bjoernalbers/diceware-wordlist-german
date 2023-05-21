@@ -469,3 +469,4 @@ betrag
 betreff
 betrieb
 bett
+betucht

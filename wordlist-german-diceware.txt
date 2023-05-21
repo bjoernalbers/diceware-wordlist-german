@@ -469,3 +469,4 @@
 13211	betreff
 13212	betrieb
 13213	bett
+13214	betucht
