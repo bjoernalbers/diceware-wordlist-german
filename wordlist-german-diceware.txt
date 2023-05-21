@@ -397,3 +397,4 @@
 12611	bastler
 12612	batik
 12613	batzen
+12614	bauamt
