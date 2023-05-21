@@ -457,3 +457,4 @@ bergbau
 bergig
 bergsee
 bericht
+beruf
