@@ -405,3 +405,4 @@ bauland
 baum
 baumart
 baumeln
+bauplan
