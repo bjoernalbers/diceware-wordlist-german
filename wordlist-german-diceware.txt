@@ -365,3 +365,4 @@
 12515	balsam
 12516	bambus
 12521	bammel
+12522	banal
