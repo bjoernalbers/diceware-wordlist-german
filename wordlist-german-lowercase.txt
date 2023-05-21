@@ -369,3 +369,4 @@ banal
 banane
 band
 bandage
+bande

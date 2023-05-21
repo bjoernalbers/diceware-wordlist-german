@@ -369,3 +369,4 @@
 12523	banane
 12524	band
 12525	bandage
+12526	bande
