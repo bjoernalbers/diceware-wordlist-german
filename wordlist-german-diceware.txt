@@ -401,3 +401,4 @@
 12615	bauen
 12616	bauherr
 12621	baujahr
+12622	bauland
