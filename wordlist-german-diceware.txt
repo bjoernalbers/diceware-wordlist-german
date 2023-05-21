@@ -363,3 +363,4 @@
 12513	ballett
 12514	ballon
 12515	balsam
+12516	bambus
