@@ -440,3 +440,4 @@
 13122	beitrag
 13123	beizen
 13124	beladen
+13125	belag
