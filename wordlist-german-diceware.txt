@@ -419,3 +419,4 @@
 12645	beben
 12646	becher
 12651	becken
+12652	bedarf
