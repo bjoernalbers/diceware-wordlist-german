@@ -429,3 +429,4 @@
 12663	beginn
 12664	begonie
 12665	begriff
+12666	beheben
