@@ -420,3 +420,4 @@
 12646	becher
 12651	becken
 12652	bedarf
+12653	beeilen
