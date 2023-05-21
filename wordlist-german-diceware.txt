@@ -470,3 +470,4 @@
 13212	betrieb
 13213	bett
 13214	betucht
+13215	beugen

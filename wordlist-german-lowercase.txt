@@ -470,3 +470,4 @@ betreff
 betrieb
 bett
 betucht
+beugen
