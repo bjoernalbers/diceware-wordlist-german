@@ -479,3 +479,4 @@
 13225	bewuchs
 13226	bewusst
 13231	bezirk
+13232	bibbern
