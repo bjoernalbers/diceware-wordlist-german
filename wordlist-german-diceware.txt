@@ -498,3 +498,4 @@
 13256	binden
 13261	bindung
 13262	bioei
+13263	biogas
