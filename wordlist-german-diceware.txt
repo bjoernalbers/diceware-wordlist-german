@@ -441,3 +441,4 @@
 13123	beizen
 13124	beladen
 13125	belag
+13126	beleg
