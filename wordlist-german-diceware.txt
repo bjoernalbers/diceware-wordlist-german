@@ -459,3 +459,4 @@
 13153	bericht
 13154	beruf
 13155	besen
+13156	besitz

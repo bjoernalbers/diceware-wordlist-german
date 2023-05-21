@@ -459,3 +459,4 @@ Bergsee
 Bericht
 Beruf
 Besen
+Besitz
