@@ -399,3 +399,4 @@
 12613	batzen
 12614	bauamt
 12615	bauen
+12616	bauherr
