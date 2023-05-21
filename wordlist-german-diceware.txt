@@ -416,3 +416,4 @@
 12642	beat
 12643	beatbox
 12644	bebauen
+12645	beben
