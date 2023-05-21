@@ -382,3 +382,4 @@
 12544	barcode
 12545	bargeld
 12546	barista
+12551	barock

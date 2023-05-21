@@ -382,3 +382,4 @@ barbier
 barcode
 bargeld
 barista
+barock
