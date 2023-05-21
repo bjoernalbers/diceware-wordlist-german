@@ -359,3 +359,4 @@
 12465	ball
 12466	ballade
 12511	ballast
+12512	ballen
