@@ -505,3 +505,4 @@ biotop
 birke
 birne
 biskuit
+bison
