@@ -5,7 +5,7 @@ set -u
 
 export PATH=/bin:/usr/bin
 
-BASE_DIR="$(dirname "$0")"
+BASE_DIR="$(dirname "$0")/.."
 BASE_NAME="wordlist-german"
 WORDLIST="${BASE_DIR}/${BASE_NAME}.txt"
 WORDLIST_LOWERCASE="${BASE_DIR}/${BASE_NAME}-lowercase.txt"
