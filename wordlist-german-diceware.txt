@@ -485,3 +485,4 @@
 13235	biegen
 13236	biene
 13241	bier
+13242	bieten

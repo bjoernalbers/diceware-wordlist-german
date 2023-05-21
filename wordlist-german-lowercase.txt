@@ -485,3 +485,4 @@ bidet
 biegen
 biene
 bier
+bieten
