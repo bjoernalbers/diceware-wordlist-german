@@ -426,3 +426,4 @@ Beere
 Beet
 Befehl
 Befund
+Beginn
