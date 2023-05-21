@@ -380,3 +380,4 @@ Banner
 Bar
 Barbier
 Barcode
+Bargeld

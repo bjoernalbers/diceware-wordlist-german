@@ -380,3 +380,4 @@ banner
 bar
 barbier
 barcode
+bargeld
