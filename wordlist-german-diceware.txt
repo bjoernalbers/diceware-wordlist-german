@@ -389,3 +389,4 @@
 12555	basar
 12556	basis
 12561	basisch
+12562	bass
