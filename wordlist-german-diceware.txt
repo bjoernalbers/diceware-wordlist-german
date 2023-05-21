@@ -453,3 +453,4 @@
 13143	bereich
 13144	bereit
 13145	berg
+13146	bergbau

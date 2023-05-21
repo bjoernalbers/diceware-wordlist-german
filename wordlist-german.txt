@@ -453,3 +453,4 @@ bereden
 Bereich
 bereit
 Berg
+Bergbau
