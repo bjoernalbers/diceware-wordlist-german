@@ -422,3 +422,4 @@ becken
 bedarf
 beeilen
 beenden
+beere

@@ -422,3 +422,4 @@
 12652	bedarf
 12653	beeilen
 12654	beenden
+12655	beere
