@@ -403,3 +403,4 @@ bauherr
 baujahr
 bauland
 baum
+baumart

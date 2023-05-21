@@ -403,3 +403,4 @@ Bauherr
 Baujahr
 Bauland
 Baum
+Baumart

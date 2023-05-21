@@ -403,3 +403,4 @@
 12621	baujahr
 12622	bauland
 12623	baum
+12624	baumart
