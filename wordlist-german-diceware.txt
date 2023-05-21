@@ -472,3 +472,4 @@
 13214	betucht
 13215	beugen
 13216	beule
+13221	beute
