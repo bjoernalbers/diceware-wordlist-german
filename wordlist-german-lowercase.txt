@@ -495,3 +495,4 @@ bild
 bildung
 billard
 bimbam
+binden
