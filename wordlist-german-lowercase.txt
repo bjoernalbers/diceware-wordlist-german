@@ -474,3 +474,4 @@ beugen
 beule
 beute
 beutel
+bewegen

@@ -474,3 +474,4 @@
 13216	beule
 13221	beute
 13222	beutel
+13223	bewegen
