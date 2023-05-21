@@ -503,3 +503,4 @@ Biologe
 Bioobst
 Biotop
 Birke
+Birne
