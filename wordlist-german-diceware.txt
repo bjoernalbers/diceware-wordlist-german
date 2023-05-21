@@ -430,3 +430,4 @@
 12664	begonie
 12665	begriff
 12666	beheben
+13111	behelf
