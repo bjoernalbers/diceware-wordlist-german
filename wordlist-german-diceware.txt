@@ -425,3 +425,4 @@
 12655	beere
 12656	beet
 12661	befehl
+12662	befund

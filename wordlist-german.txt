@@ -425,3 +425,4 @@ beenden
 Beere
 Beet
 Befehl
+Befund
