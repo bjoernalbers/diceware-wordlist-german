@@ -409,3 +409,4 @@
 12631	bausatz
 12632	bauteil
 12633	bauwerk
+12634	bauzaun

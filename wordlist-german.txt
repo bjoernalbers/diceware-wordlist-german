@@ -409,3 +409,4 @@ Bauplan
 Bausatz
 Bauteil
 Bauwerk
+Bauzaun

@@ -409,3 +409,4 @@ bauplan
 bausatz
 bauteil
 bauwerk
+bauzaun
