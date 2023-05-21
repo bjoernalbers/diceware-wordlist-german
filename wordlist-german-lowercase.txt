@@ -492,3 +492,4 @@ biker
 bikini
 bilanz
 bild
+bildung

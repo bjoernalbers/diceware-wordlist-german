@@ -492,3 +492,4 @@
 13246	bikini
 13251	bilanz
 13252	bild
+13253	bildung
