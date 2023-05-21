@@ -352,3 +352,4 @@
 12454	bahn
 12455	bahnhof
 12456	bahre
+12461	balance
