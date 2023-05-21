@@ -444,3 +444,4 @@ belag
 beleg
 belegen
 bellen
+bemalen
