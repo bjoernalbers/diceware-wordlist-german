@@ -484,3 +484,4 @@
 13234	bidet
 13235	biegen
 13236	biene
+13241	bier

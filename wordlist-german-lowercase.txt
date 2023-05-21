@@ -484,3 +484,4 @@ biber
 bidet
 biegen
 biene
+bier
