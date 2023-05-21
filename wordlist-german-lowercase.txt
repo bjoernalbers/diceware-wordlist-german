@@ -358,3 +358,4 @@ balken
 balkon
 ball
 ballade
+ballast
