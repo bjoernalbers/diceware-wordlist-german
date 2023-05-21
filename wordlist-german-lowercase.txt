@@ -388,3 +388,4 @@ barsch
 bart
 basar
 basis
+basisch
