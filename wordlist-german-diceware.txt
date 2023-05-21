@@ -471,3 +471,4 @@
 13213	bett
 13214	betucht
 13215	beugen
+13216	beule
