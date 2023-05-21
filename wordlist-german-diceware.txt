@@ -447,3 +447,4 @@
 13133	bemalen
 13134	benoten
 13135	benzin
+13136	beraten
