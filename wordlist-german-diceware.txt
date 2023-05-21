@@ -513,3 +513,4 @@
 13323	bitten
 13324	bitter
 13325	bitumen
+13326	biwak
