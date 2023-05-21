@@ -377,3 +377,4 @@
 12535	bankett
 12536	bankier
 12541	banner
+12542	bar
