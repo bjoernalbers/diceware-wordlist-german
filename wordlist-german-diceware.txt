@@ -468,3 +468,4 @@
 13166	betrag
 13211	betreff
 13212	betrieb
+13213	bett
