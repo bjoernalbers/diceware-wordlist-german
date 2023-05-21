@@ -511,3 +511,4 @@
 13321	bit
 13322	bitte
 13323	bitten
+13324	bitter
