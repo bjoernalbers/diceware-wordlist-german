@@ -483,3 +483,4 @@
 13233	biber
 13234	bidet
 13235	biegen
+13236	biene

@@ -483,3 +483,4 @@ bibbern
 Biber
 Bidet
 biegen
+Biene
