@@ -461,3 +461,4 @@ beruf
 besen
 besitz
 bestand
+besteck
