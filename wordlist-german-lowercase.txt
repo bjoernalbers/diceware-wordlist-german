@@ -406,3 +406,4 @@ baum
 baumart
 baumeln
 bauplan
+bausatz
