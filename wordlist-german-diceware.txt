@@ -375,3 +375,4 @@
 12533	bank
 12534	banker
 12535	bankett
+12536	bankier
