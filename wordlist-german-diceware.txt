@@ -451,3 +451,4 @@
 13141	berater
 13142	bereden
 13143	bereich
+13144	bereit
