@@ -351,3 +351,4 @@ Bagel
 Bagger
 Bahn
 Bahnhof
+Bahre
