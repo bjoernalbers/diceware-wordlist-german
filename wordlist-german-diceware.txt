@@ -427,3 +427,4 @@
 12661	befehl
 12662	befund
 12663	beginn
+12664	begonie
