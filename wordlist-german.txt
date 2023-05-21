@@ -384,3 +384,4 @@ Bargeld
 Barista
 barock
 Baron
+Barsch

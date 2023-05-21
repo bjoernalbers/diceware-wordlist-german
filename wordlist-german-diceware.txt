@@ -384,3 +384,4 @@
 12546	barista
 12551	barock
 12552	baron
+12553	barsch
