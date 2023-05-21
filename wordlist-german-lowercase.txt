@@ -350,3 +350,4 @@ baff
 bagel
 bagger
 bahn
+bahnhof
