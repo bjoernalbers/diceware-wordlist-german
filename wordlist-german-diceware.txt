@@ -443,3 +443,4 @@
 13125	belag
 13126	beleg
 13131	belegen
+13132	bellen

@@ -443,3 +443,4 @@ beladen
 belag
 beleg
 belegen
+bellen
