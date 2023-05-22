@@ -589,3 +589,4 @@ borgen
 borke
 borste
 borstig
+boskop
