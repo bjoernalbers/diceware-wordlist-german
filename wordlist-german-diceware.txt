@@ -593,3 +593,4 @@
 13535	boss
 13536	botanik
 13541	bote
+13542	bottich

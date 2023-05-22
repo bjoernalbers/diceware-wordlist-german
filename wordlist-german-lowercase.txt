@@ -593,3 +593,4 @@ boskop
 boss
 botanik
 bote
+bottich
