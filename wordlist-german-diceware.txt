@@ -539,3 +539,4 @@
 13365	blicken
 13366	blinken
 13411	blinker
+13412	blister
