@@ -551,3 +551,4 @@
 13425	blouson
 13426	blues
 13431	bluff
+13432	bluffen
