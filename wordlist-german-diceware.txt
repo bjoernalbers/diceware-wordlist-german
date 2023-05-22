@@ -667,3 +667,4 @@
 14141	bulette
 14142	bulgur
 14143	bummeln
+14144	bunkern
