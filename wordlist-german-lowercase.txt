@@ -660,3 +660,4 @@ buchung
 buddeln
 buddy
 bude
+budget
