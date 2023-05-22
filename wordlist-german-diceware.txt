@@ -534,3 +534,4 @@
 13356	bleiche
 13361	blende
 13362	blenden
+13363	blessur
