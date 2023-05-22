@@ -514,3 +514,4 @@ bitten
 bitter
 Bitumen
 Biwak
+bizarr
