@@ -608,3 +608,4 @@
 13562	braten
 13563	brauch
 13564	braue
+13565	brauen
