@@ -581,3 +581,4 @@ bonus
 booklet
 boom
 boomen
+booster
