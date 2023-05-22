@@ -633,3 +633,4 @@
 13643	brille
 13644	bringen
 13645	brisant
+13646	brise
