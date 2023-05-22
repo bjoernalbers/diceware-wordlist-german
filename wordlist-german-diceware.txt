@@ -557,3 +557,4 @@
 13435	bluse
 13436	board
 13441	bocken
+13442	boden
