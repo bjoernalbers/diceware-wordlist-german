@@ -640,3 +640,4 @@ broker
 bronze
 brot
 brownie
+browser
