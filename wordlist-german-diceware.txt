@@ -532,3 +532,4 @@
 13354	bleiben
 13355	bleich
 13356	bleiche
+13361	blende
