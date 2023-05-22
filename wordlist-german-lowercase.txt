@@ -664,3 +664,4 @@ budget
 bug
 bugfix
 buggy
+bulette
