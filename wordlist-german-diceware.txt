@@ -538,3 +538,4 @@
 13364	blick
 13365	blicken
 13366	blinken
+13411	blinker
