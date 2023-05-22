@@ -542,3 +542,4 @@ blinker
 blister
 blitz
 blitzen
+blitzer
