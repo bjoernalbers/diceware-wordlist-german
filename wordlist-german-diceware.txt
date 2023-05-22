@@ -566,3 +566,4 @@
 13452	bohnern
 13453	bohren
 13454	bohrer
+13455	bohrung

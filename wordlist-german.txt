@@ -566,3 +566,4 @@ Bohne
 bohnern
 bohren
 Bohrer
+Bohrung
