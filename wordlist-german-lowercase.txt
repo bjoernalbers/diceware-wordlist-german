@@ -650,3 +650,4 @@ brunnen
 brut
 brutto
 bube
+buch

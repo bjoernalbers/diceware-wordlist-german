@@ -650,3 +650,4 @@ Brunnen
 Brut
 Brutto
 Bube
+Buch
