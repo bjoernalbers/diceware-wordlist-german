@@ -571,3 +571,4 @@ Boiler
 Bokeh
 Bolero
 bollern
+Bolzen
