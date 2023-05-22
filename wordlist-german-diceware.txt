@@ -591,3 +591,4 @@
 13533	borstig
 13534	boskop
 13535	boss
+13536	botanik
