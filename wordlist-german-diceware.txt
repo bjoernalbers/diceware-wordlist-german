@@ -666,3 +666,4 @@
 14136	buggy
 14141	bulette
 14142	bulgur
+14143	bummeln
