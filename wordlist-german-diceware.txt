@@ -587,3 +587,4 @@
 13525	bord
 13526	borgen
 13531	borke
+13532	borste
