@@ -586,3 +586,4 @@
 13524	booten
 13525	bord
 13526	borgen
+13531	borke

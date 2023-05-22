@@ -586,3 +586,4 @@ boot
 booten
 bord
 borgen
+borke
