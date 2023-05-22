@@ -524,3 +524,4 @@ blatt
 blau
 blaurot
 blauwal
+blazer

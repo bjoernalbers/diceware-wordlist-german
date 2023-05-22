@@ -524,3 +524,4 @@ Blatt
 blau
 blaurot
 Blauwal
+Blazer

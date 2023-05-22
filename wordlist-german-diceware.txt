@@ -524,3 +524,4 @@
 13342	blau
 13343	blaurot
 13344	blauwal
+13345	blazer
