@@ -523,3 +523,4 @@
 13341	blatt
 13342	blau
 13343	blaurot
+13344	blauwal

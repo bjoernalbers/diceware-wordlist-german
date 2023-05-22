@@ -523,3 +523,4 @@ blass
 Blatt
 blau
 blaurot
+Blauwal
