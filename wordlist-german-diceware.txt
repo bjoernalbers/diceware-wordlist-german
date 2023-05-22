@@ -649,3 +649,4 @@
 14111	brunnen
 14112	brut
 14113	brutto
+14114	bube
