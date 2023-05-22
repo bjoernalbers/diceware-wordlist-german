@@ -651,3 +651,4 @@
 14113	brutto
 14114	bube
 14115	buch
+14116	buche
