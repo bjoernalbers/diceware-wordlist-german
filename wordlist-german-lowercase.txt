@@ -601,3 +601,4 @@ bowling
 box
 boxen
 boxer
+boxring

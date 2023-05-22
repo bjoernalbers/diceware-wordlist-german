@@ -601,3 +601,4 @@
 13551	box
 13552	boxen
 13553	boxer
+13554	boxring
