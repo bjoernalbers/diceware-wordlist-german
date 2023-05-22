@@ -562,3 +562,4 @@ body
 bogen
 bohle
 bohlen
+bohne

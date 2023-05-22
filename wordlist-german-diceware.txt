@@ -562,3 +562,4 @@
 13444	bogen
 13445	bohle
 13446	bohlen
+13451	bohne
