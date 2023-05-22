@@ -564,3 +564,4 @@
 13446	bohlen
 13451	bohne
 13452	bohnern
+13453	bohren
