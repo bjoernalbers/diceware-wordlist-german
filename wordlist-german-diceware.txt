@@ -657,3 +657,4 @@
 14123	bucht
 14124	buchtel
 14125	buchung
+14126	buddeln
