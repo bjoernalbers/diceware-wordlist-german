@@ -658,3 +658,4 @@ bucht
 buchtel
 buchung
 buddeln
+buddy

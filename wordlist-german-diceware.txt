@@ -658,3 +658,4 @@
 14124	buchtel
 14125	buchung
 14126	buddeln
+14131	buddy
