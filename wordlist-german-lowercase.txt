@@ -655,3 +655,4 @@ buche
 buchen
 buchse
 bucht
+buchtel

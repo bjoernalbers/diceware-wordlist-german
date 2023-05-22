@@ -655,3 +655,4 @@
 14121	buchen
 14122	buchse
 14123	bucht
+14124	buchtel
