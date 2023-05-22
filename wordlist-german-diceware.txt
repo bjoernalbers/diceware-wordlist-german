@@ -669,3 +669,4 @@
 14143	bummeln
 14144	bunkern
 14145	bunt
+14146	burg
