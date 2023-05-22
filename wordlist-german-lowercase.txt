@@ -592,3 +592,4 @@ borstig
 boskop
 boss
 botanik
+bote
