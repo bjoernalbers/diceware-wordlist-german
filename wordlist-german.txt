@@ -559,3 +559,4 @@ Board
 bocken
 Boden
 Body
+Bogen

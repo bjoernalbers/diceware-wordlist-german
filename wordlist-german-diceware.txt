@@ -559,3 +559,4 @@
 13441	bocken
 13442	boden
 13443	body
+13444	bogen
