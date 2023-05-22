@@ -563,3 +563,4 @@ bogen
 bohle
 bohlen
 bohne
+bohnern
