@@ -635,3 +635,4 @@
 13645	brisant
 13646	brise
 13651	brocken
+13652	brodeln
