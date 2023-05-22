@@ -671,3 +671,4 @@
 14145	bunt
 14146	burg
 14151	burger
+14152	burrito
