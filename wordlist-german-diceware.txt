@@ -595,3 +595,4 @@
 13541	bote
 13542	bottich
 13543	bouquet
+13544	bowle
