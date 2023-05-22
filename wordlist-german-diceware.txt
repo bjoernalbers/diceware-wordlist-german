@@ -648,3 +648,4 @@
 13666	brunch
 14111	brunnen
 14112	brut
+14113	brutto
