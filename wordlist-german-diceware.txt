@@ -673,3 +673,4 @@
 14151	burger
 14152	burrito
 14153	bursche
+14154	bus
