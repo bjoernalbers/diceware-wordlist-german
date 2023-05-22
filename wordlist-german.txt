@@ -652,3 +652,4 @@ Brutto
 Bube
 Buch
 Buche
+buchen

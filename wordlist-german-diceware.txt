@@ -652,3 +652,4 @@
 14114	bube
 14115	buch
 14116	buche
+14121	buchen
