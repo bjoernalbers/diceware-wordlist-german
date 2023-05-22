@@ -590,3 +590,4 @@
 13532	borste
 13533	borstig
 13534	boskop
+13535	boss
