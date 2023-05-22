@@ -632,3 +632,4 @@
 13642	brikett
 13643	brille
 13644	bringen
+13645	brisant
