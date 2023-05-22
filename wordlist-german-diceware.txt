@@ -588,3 +588,4 @@
 13526	borgen
 13531	borke
 13532	borste
+13533	borstig

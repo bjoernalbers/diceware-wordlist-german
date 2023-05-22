@@ -588,3 +588,4 @@ bord
 borgen
 borke
 borste
+borstig
