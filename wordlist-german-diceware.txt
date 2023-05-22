@@ -623,3 +623,4 @@
 13625	bremse
 13626	bremsen
 13631	brennen
+13632	brenner
