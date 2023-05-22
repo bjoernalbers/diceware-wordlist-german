@@ -565,3 +565,4 @@ bohlen
 Bohne
 bohnern
 bohren
+Bohrer
