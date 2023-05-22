@@ -656,3 +656,4 @@
 14122	buchse
 14123	bucht
 14124	buchtel
+14125	buchung
