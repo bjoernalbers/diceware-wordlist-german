@@ -600,3 +600,4 @@ bowler
 bowling
 box
 boxen
+boxer

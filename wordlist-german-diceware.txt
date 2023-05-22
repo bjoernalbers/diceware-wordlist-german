@@ -600,3 +600,4 @@
 13546	bowling
 13551	box
 13552	boxen
+13553	boxer
