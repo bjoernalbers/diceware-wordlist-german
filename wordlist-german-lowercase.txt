@@ -540,3 +540,4 @@ blicken
 blinken
 blinker
 blister
+blitz
