@@ -569,3 +569,4 @@ bohrer
 bohrung
 boiler
 bokeh
+bolero
