@@ -521,3 +521,4 @@
 13335	blase
 13336	blass
 13341	blatt
+13342	blau
