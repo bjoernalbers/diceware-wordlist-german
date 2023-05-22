@@ -541,3 +541,4 @@
 13411	blinker
 13412	blister
 13413	blitz
+13414	blitzen
