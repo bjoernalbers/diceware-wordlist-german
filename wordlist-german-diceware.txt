@@ -807,3 +807,4 @@
 14533	croc
 14534	cruiser
 14535	cup
+14536	curry
