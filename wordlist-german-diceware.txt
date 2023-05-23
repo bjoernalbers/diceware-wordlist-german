@@ -692,3 +692,4 @@
 14222	canasta
 14223	canceln
 14224	canyon
+14225	cap
