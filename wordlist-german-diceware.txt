@@ -800,3 +800,4 @@
 14522	creme
 14523	cremen
 14524	cremig
+14525	creole
