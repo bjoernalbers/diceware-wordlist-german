@@ -773,3 +773,4 @@
 14435	cognac
 14436	collage
 14441	college
+14442	collie
