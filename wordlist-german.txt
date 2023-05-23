@@ -747,3 +747,4 @@ Chirurg
 Chlor
 Chopper
 Chor
+Chorizo
