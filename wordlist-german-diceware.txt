@@ -810,4 +810,5 @@
 14536	curry
 14541	cursor
 14542	cut
-14543	cutter
+14543	cutten
+14544	cutter
