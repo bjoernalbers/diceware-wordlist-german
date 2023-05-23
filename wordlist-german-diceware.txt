@@ -792,3 +792,4 @@
 14466	cousin
 14511	cover
 14512	cowboy
+14513	coyote
