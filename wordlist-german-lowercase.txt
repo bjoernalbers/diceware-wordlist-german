@@ -688,3 +688,4 @@ camp
 campen
 camper
 camping
+campus

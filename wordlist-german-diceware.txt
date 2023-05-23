@@ -688,3 +688,4 @@
 14214	campen
 14215	camper
 14216	camping
+14221	campus
