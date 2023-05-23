@@ -699,3 +699,4 @@
 14233	caravan
 14234	card
 14235	cargo
+14236	caritas

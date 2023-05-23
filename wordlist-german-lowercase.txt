@@ -699,3 +699,4 @@ captcha
 caravan
 card
 cargo
+caritas
