@@ -751,3 +751,4 @@ chorizo
 chrom
 chronik
 chutney
+cider
