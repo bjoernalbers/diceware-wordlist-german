@@ -683,3 +683,4 @@
 14165	byte
 14166	cabrio
 14211	caddie
+14212	calypso
