@@ -733,3 +733,4 @@
 14331	chateau
 14332	chatten
 14333	check
+14334	checken
