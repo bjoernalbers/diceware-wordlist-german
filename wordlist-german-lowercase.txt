@@ -771,3 +771,4 @@ coachen
 cockpit
 code
 cognac
+collage
