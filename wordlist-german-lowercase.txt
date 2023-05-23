@@ -749,3 +749,4 @@ chopper
 chor
 chorizo
 chrom
+chronik
