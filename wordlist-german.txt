@@ -790,3 +790,4 @@ Coup
 Coupon
 Courage
 Cousin
+Cover

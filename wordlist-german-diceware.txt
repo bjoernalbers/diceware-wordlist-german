@@ -790,3 +790,4 @@
 14464	coupon
 14465	courage
 14466	cousin
+14511	cover
