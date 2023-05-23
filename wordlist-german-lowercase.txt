@@ -727,3 +727,4 @@ chaos
 chapeau
 charge
 charme
+charts
