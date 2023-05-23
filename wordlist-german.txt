@@ -689,3 +689,4 @@ campen
 Camper
 Camping
 Campus
+Canasta

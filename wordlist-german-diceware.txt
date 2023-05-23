@@ -689,3 +689,4 @@
 14215	camper
 14216	camping
 14221	campus
+14222	canasta
