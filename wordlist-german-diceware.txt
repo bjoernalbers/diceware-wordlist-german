@@ -776,3 +776,4 @@
 14442	collie
 14443	collier
 14444	comedy
+14445	comic
