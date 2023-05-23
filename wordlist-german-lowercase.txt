@@ -742,3 +742,4 @@ chic
 chiffre
 chili
 chillen
+chip
