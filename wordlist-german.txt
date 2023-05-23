@@ -812,3 +812,4 @@ Cursor
 Cut
 cutten
 Cutter
+Cyborg

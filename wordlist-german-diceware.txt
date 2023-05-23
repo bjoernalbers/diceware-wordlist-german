@@ -812,3 +812,4 @@
 14542	cut
 14543	cutten
 14544	cutter
+14545	cyborg
