@@ -752,3 +752,4 @@
 14362	chronik
 14363	chutney
 14364	cider
+14365	cidre

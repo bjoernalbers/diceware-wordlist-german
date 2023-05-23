@@ -752,3 +752,4 @@ Chrom
 Chronik
 Chutney
 Cider
+Cidre

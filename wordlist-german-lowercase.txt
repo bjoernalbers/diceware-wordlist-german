@@ -752,3 +752,4 @@ chrom
 chronik
 chutney
 cider
+cidre
