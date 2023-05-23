@@ -717,3 +717,4 @@ cellist
 cello
 cent
 center
+chakra
