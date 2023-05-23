@@ -718,3 +718,4 @@ cello
 cent
 center
 chakra
+chalet

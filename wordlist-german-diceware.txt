@@ -718,3 +718,4 @@
 14264	cent
 14265	center
 14266	chakra
+14311	chalet
