@@ -805,3 +805,4 @@ Crew
 Cricket
 cringe
 Croc
+Cruiser
