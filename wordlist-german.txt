@@ -709,3 +709,4 @@ Casino
 casten
 Casting
 Castor
+casual
