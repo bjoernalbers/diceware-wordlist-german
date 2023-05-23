@@ -808,3 +808,4 @@ Croc
 Cruiser
 Cup
 Curry
+Cursor
