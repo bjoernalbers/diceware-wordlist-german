@@ -789,3 +789,4 @@
 14463	coup
 14464	coupon
 14465	courage
+14466	cousin
