@@ -697,3 +697,4 @@
 14231	caprese
 14232	captcha
 14233	caravan
+14234	card
