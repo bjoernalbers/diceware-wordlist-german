@@ -803,3 +803,4 @@
 14525	creole
 14526	crew
 14531	cricket
+14532	cringe
