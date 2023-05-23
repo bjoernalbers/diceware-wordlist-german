@@ -809,3 +809,4 @@
 14535	cup
 14536	curry
 14541	cursor
+14542	cut

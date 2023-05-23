@@ -809,3 +809,4 @@ cruiser
 cup
 curry
 cursor
+cut
