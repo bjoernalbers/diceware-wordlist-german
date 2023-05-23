@@ -695,3 +695,4 @@
 14225	cap
 14226	cape
 14231	caprese
+14232	captcha
