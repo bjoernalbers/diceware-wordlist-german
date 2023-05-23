@@ -726,3 +726,4 @@
 14316	chaos
 14321	chapeau
 14322	charge
+14323	charme
