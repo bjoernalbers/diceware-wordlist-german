@@ -722,3 +722,4 @@ chalet
 champ
 chance
 channel
+chanson
