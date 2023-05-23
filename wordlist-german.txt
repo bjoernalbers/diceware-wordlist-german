@@ -746,3 +746,4 @@ Chip
 Chirurg
 Chlor
 Chopper
+Chor
