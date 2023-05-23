@@ -748,3 +748,4 @@
 14354	chopper
 14355	chor
 14356	chorizo
+14361	chrom
