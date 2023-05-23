@@ -719,3 +719,4 @@
 14265	center
 14266	chakra
 14311	chalet
+14312	champ
