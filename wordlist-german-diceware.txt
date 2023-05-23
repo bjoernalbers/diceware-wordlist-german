@@ -738,3 +738,4 @@
 14336	chemie
 14341	chia
 14342	chianti
+14343	chic
