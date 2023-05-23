@@ -757,3 +757,4 @@ cinch
 circus
 city
 clan
+clever
