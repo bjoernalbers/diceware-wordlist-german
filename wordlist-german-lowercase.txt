@@ -794,3 +794,4 @@ cover
 cowboy
 coyote
 crack
+cracker

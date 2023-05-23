@@ -794,3 +794,4 @@
 14512	cowboy
 14513	coyote
 14514	crack
+14515	cracker
