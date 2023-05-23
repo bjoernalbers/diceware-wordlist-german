@@ -802,3 +802,4 @@
 14524	cremig
 14525	creole
 14526	crew
+14531	cricket
