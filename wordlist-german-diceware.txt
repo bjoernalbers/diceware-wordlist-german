@@ -704,3 +704,4 @@
 14242	carrier
 14243	cartoon
 14244	cash
+14245	cashcow
