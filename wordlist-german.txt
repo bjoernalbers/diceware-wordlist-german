@@ -705,3 +705,4 @@ Carrier
 Cartoon
 Cash
 Cashcow
+Casino
