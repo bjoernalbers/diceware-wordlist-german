@@ -698,3 +698,4 @@ caprese
 captcha
 caravan
 card
+cargo

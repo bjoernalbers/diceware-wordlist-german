@@ -698,3 +698,4 @@
 14232	captcha
 14233	caravan
 14234	card
+14235	cargo
