@@ -725,3 +725,4 @@ Channel
 Chanson
 Chaos
 Chapeau
+Charge
