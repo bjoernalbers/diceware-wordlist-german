@@ -760,3 +760,4 @@ clan
 clever
 client
 clinch
+clip
