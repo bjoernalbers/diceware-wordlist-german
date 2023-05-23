@@ -753,3 +753,4 @@ chronik
 chutney
 cider
 cidre
+cinch

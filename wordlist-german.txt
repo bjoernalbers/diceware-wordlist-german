@@ -753,3 +753,4 @@ Chronik
 Chutney
 Cider
 Cidre
+Cinch
