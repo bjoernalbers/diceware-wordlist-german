@@ -721,3 +721,4 @@
 14311	chalet
 14312	champ
 14313	chance
+14314	channel
