@@ -933,3 +933,4 @@
 15263	divisor
 15264	doc
 15265	docht
+15266	dock
