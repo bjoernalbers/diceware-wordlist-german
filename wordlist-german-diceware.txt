@@ -1002,3 +1002,4 @@
 15456	durstig
 15461	dusche
 15462	duschen
+15463	duster
