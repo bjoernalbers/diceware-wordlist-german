@@ -897,3 +897,4 @@ diabolo
 diadem
 dialekt
 dialog
+diamant
