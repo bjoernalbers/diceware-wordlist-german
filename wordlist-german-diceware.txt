@@ -878,3 +878,4 @@
 15132	dentist
 15133	deo
 15134	deponie
+15135	depot
