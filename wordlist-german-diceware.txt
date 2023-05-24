@@ -865,3 +865,4 @@
 15111	dekor
 15112	delfin
 15113	delikat
+15114	delikt

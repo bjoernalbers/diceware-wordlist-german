@@ -865,3 +865,4 @@ deko
 dekor
 delfin
 delikat
+delikt
