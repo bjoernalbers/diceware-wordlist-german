@@ -958,3 +958,4 @@ Dorsch
 Dose
 Dosis
 Dotter
+Double

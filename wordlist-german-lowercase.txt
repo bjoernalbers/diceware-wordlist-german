@@ -958,3 +958,4 @@ dorsch
 dose
 dosis
 dotter
+double
