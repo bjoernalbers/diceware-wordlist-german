@@ -839,3 +839,4 @@ date
 datei
 dativ
 dattel
+datum
