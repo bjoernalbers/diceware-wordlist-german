@@ -1006,3 +1006,4 @@
 15464	dutt
 15465	dutzend
 15466	duzen
+15511	dynamik

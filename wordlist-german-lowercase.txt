@@ -1006,3 +1006,4 @@ duster
 dutt
 dutzend
 duzen
+dynamik
