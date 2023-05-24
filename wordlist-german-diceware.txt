@@ -961,3 +961,4 @@
 15351	double
 15352	dozent
 15353	dragee
+15354	draht
