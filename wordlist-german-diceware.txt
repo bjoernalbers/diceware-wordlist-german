@@ -962,3 +962,4 @@
 15352	dozent
 15353	dragee
 15354	draht
+15355	drahtig
