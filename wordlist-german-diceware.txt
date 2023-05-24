@@ -957,3 +957,4 @@
 15343	dorsch
 15344	dose
 15345	dosis
+15346	dotter
