@@ -967,3 +967,4 @@
 15361	dreh
 15362	drehbar
 15363	drehen
+15364	drehort
