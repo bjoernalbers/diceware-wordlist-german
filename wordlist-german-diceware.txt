@@ -885,3 +885,4 @@
 15143	desktop
 15144	dessert
 15145	detail
+15146	deuten
