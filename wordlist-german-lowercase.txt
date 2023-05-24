@@ -928,3 +928,4 @@ diskus
 display
 dispo
 distanz
+distel

@@ -928,3 +928,4 @@
 15254	display
 15255	dispo
 15256	distanz
+15261	distel
