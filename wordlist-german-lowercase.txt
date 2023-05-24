@@ -938,3 +938,4 @@ dogge
 dohle
 doktern
 doktor
+doku
