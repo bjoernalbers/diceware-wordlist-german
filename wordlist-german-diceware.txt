@@ -872,3 +872,4 @@
 15122	dengeln
 15123	denim
 15124	denken
+15125	denker
