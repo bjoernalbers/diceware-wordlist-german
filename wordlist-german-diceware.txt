@@ -854,3 +854,4 @@
 14652	defekt
 14653	defizit
 14654	deftig
+14655	degen

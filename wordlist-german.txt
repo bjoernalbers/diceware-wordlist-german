@@ -854,3 +854,4 @@ Deckel
 defekt
 Defizit
 deftig
+Degen
