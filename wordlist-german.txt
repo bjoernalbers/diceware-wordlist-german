@@ -912,3 +912,4 @@ Dill
 dimmen
 Dimmer
 Ding
+Dinkel

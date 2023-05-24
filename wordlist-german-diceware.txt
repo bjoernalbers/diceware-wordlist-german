@@ -912,3 +912,4 @@
 15226	dimmen
 15231	dimmer
 15232	ding
+15233	dinkel
