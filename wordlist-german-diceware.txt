@@ -861,3 +861,4 @@
 14663	deich
 14664	dekade
 14665	dekan
+14666	deko
