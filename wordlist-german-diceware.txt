@@ -887,3 +887,4 @@
 15145	detail
 15146	deuten
 15151	deutsch
+15152	deutung

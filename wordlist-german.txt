@@ -887,3 +887,4 @@ Dessert
 Detail
 deuten
 deutsch
+Deutung
