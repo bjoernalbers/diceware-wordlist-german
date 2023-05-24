@@ -916,3 +916,4 @@
 15234	dinner
 15235	dino
 15236	diode
+15241	dip
