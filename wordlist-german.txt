@@ -859,3 +859,4 @@ dehnbar
 dehnen
 Dehnung
 Deich
+Dekade
