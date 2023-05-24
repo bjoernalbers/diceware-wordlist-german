@@ -4,11 +4,12 @@
 
 ## Formats
 
-The wordlists is available in these formats:
+The wordlist is available in these formats:
 
 - `wordlist-german.txt`: original german wordlist with correct capitalization
 - `wordlist-german-lowercase.txt`: lowercase version of the wordlist above
-- `wordlist-german-diceware.txt`: the actual german diceware wordlist
+- `wordlist-german-diceware.txt`: the actual german diceware wordlist made from
+  the lowercase wordlist
 
 ## Words
 
