@@ -864,3 +864,4 @@
 14666	deko
 15111	dekor
 15112	delfin
+15113	delikat
