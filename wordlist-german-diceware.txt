@@ -992,3 +992,4 @@
 15442	duft
 15443	dufte
 15444	duften
+15445	dulden
