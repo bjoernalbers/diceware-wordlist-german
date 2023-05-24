@@ -920,3 +920,4 @@
 15242	diplom
 15243	dippen
 15244	direkt
+15245	dirndl
