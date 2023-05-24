@@ -942,3 +942,4 @@
 15316	dolch
 15321	doll
 15322	dollar
+15323	domain
