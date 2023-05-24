@@ -970,3 +970,4 @@ drehen
 drehort
 drehung
 dreieck
+dreirad

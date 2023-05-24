@@ -970,3 +970,4 @@
 15364	drehort
 15365	drehung
 15366	dreieck
+15411	dreirad
