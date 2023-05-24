@@ -888,3 +888,4 @@
 15146	deuten
 15151	deutsch
 15152	deutung
+15153	devise

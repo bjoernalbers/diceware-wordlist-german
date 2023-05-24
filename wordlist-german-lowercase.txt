@@ -888,3 +888,4 @@ detail
 deuten
 deutsch
 deutung
+devise
