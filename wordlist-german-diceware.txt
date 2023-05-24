@@ -838,3 +838,4 @@
 14624	date
 14625	datei
 14626	dativ
+14631	dattel

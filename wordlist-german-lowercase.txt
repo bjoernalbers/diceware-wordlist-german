@@ -838,3 +838,4 @@ dart
 date
 datei
 dativ
+dattel
