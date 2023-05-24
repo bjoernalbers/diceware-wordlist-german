@@ -826,3 +826,4 @@
 14564	dame
 14565	damm
 14566	dampf
+14611	dampfen
