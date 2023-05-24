@@ -840,3 +840,4 @@ Datei
 Dativ
 Dattel
 Datum
+Dauer
