@@ -852,3 +852,4 @@
 14646	decke
 14651	deckel
 14652	defekt
+14653	defizit

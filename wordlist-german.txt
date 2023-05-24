@@ -852,3 +852,4 @@ Deck
 Decke
 Deckel
 defekt
+Defizit
