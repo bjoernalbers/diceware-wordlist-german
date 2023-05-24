@@ -969,3 +969,4 @@ drehbar
 drehen
 drehort
 drehung
+dreieck

@@ -969,3 +969,4 @@
 15363	drehen
 15364	drehort
 15365	drehung
+15366	dreieck
