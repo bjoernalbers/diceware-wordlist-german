@@ -941,3 +941,4 @@
 15315	doku
 15316	dolch
 15321	doll
+15322	dollar

@@ -941,3 +941,4 @@ doktor
 doku
 dolch
 doll
+dollar

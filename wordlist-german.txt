@@ -941,3 +941,4 @@ Doktor
 Doku
 Dolch
 doll
+Dollar
