@@ -851,3 +851,4 @@ Debatte
 Deck
 Decke
 Deckel
+defekt
