@@ -955,3 +955,4 @@ dorf
 dorn
 dornig
 dorsch
+dose
