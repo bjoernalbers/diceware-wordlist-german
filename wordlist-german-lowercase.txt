@@ -890,3 +890,4 @@ deutsch
 deutung
 devise
 dezent
+dezibel
