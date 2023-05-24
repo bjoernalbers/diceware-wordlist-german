@@ -968,3 +968,4 @@ dreh
 drehbar
 drehen
 drehort
+drehung

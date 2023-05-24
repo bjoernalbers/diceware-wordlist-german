@@ -968,3 +968,4 @@ Dreh
 drehbar
 drehen
 Drehort
+Drehung
