@@ -904,3 +904,4 @@
 15214	diele
 15215	dienst
 15216	diesel
+15221	diesig
