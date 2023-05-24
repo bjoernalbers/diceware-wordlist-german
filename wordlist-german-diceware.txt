@@ -930,3 +930,4 @@
 15256	distanz
 15261	distel
 15262	divers
+15263	divisor

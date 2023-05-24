@@ -930,3 +930,4 @@ Dispo
 Distanz
 Distel
 divers
+Divisor
