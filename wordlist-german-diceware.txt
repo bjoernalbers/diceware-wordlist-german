@@ -987,3 +987,4 @@
 15433	ducken
 15434	dudeln
 15435	duden
+15436	duell
