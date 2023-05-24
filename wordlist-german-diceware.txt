@@ -845,3 +845,4 @@
 14635	daumen
 14636	daune
 14641	dax
+14642	deal

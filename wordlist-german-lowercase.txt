@@ -845,3 +845,4 @@ dauern
 daumen
 daune
 dax
+deal
