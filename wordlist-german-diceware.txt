@@ -934,3 +934,4 @@
 15264	doc
 15265	docht
 15266	dock
+15311	dogge
