@@ -921,3 +921,4 @@
 15243	dippen
 15244	direkt
 15245	dirndl
+15246	disk
