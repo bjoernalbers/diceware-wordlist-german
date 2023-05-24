@@ -889,3 +889,4 @@
 15151	deutsch
 15152	deutung
 15153	devise
+15154	dezent
