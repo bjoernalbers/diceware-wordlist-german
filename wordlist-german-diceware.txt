@@ -990,3 +990,4 @@
 15436	duell
 15441	duett
 15442	duft
+15443	dufte

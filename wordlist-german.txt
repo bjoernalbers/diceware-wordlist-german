@@ -990,3 +990,4 @@ Duden
 Duell
 Duett
 Duft
+dufte
