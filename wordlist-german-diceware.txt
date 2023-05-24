@@ -879,3 +879,4 @@
 15133	deo
 15134	deponie
 15135	depot
+15136	derbe
