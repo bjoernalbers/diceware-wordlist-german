@@ -877,3 +877,4 @@ Denkmal
 dental
 Dentist
 Deo
+Deponie

@@ -877,3 +877,4 @@
 15131	dental
 15132	dentist
 15133	deo
+15134	deponie
