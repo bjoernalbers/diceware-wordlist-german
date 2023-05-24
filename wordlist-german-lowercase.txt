@@ -1001,3 +1001,4 @@ dur
 durst
 durstig
 dusche
+duschen

@@ -1001,3 +1001,4 @@
 15455	durst
 15456	durstig
 15461	dusche
+15462	duschen
