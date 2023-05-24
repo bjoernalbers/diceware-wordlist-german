@@ -886,3 +886,4 @@
 15144	dessert
 15145	detail
 15146	deuten
+15151	deutsch

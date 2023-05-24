@@ -886,3 +886,4 @@ desktop
 dessert
 detail
 deuten
+deutsch
