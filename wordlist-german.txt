@@ -1005,3 +1005,4 @@ duschen
 duster
 Dutt
 Dutzend
+duzen
