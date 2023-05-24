@@ -923,3 +923,4 @@ direkt
 dirndl
 disk
 disko
+diskret
