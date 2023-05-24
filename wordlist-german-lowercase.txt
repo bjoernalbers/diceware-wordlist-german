@@ -999,3 +999,4 @@ dunst
 duo
 dur
 durst
+durstig
