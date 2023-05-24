@@ -909,3 +909,4 @@
 15223	digital
 15224	diktat
 15225	dill
+15226	dimmen
