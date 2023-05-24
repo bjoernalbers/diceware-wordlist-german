@@ -981,3 +981,4 @@
 15423	drossel
 15424	druck
 15425	drucken
+15426	drucker
