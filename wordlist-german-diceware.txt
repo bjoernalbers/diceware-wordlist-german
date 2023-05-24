@@ -983,3 +983,4 @@
 15425	drucken
 15426	drucker
 15431	drummer
+15432	dual
