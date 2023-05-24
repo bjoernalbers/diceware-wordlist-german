@@ -853,3 +853,4 @@
 14651	deckel
 14652	defekt
 14653	defizit
+14654	deftig
