@@ -850,3 +850,4 @@
 14644	debatte
 14645	deck
 14646	decke
+14651	deckel
