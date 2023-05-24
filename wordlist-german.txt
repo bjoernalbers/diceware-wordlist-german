@@ -855,3 +855,4 @@ defekt
 Defizit
 deftig
 Degen
+dehnbar
