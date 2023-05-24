@@ -954,3 +954,4 @@ doppelt
 dorf
 dorn
 dornig
+dorsch
