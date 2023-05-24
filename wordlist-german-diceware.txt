@@ -953,3 +953,4 @@
 15335	doppelt
 15336	dorf
 15341	dorn
+15342	dornig
