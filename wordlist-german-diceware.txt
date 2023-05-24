@@ -910,3 +910,4 @@
 15224	diktat
 15225	dill
 15226	dimmen
+15231	dimmer
