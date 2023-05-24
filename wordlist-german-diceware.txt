@@ -858,3 +858,4 @@
 14656	dehnbar
 14661	dehnen
 14662	dehnung
+14663	deich

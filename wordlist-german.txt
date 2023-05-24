@@ -858,3 +858,4 @@ Degen
 dehnbar
 dehnen
 Dehnung
+Deich
