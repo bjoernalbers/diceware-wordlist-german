@@ -965,3 +965,4 @@
 15355	drahtig
 15356	drang
 15361	dreh
+15362	drehbar

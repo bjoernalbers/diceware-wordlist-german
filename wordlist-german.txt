@@ -965,3 +965,4 @@ Draht
 drahtig
 Drang
 Dreh
+drehbar
