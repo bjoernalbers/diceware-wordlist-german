@@ -842,3 +842,4 @@ Dattel
 Datum
 Dauer
 dauern
+Daumen

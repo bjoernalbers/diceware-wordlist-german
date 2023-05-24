@@ -842,3 +842,4 @@ dattel
 datum
 dauer
 dauern
+daumen
