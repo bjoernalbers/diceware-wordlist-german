@@ -866,3 +866,4 @@
 15112	delfin
 15113	delikat
 15114	delikt
+15115	delle

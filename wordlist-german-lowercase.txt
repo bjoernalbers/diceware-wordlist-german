@@ -866,3 +866,4 @@ dekor
 delfin
 delikat
 delikt
+delle
