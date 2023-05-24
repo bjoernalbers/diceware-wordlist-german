@@ -1008,3 +1008,4 @@
 15466	duzen
 15511	dynamik
 15512	dynamit
+15513	dynamo
