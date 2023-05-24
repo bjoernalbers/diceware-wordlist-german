@@ -844,3 +844,4 @@ dauer
 dauern
 daumen
 daune
+dax
