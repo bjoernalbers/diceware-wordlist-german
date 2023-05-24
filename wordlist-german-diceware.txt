@@ -925,3 +925,4 @@
 15251	disko
 15252	diskret
 15253	diskus
+15254	display

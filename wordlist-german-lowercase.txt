@@ -925,3 +925,4 @@ disk
 disko
 diskret
 diskus
+display
