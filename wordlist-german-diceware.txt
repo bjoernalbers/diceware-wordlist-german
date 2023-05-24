@@ -985,4 +985,5 @@
 15431	drummer
 15432	dual
 15433	ducken
-15434	duden
+15434	dudeln
+15435	duden

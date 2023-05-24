@@ -985,4 +985,5 @@ Drucker
 Drummer
 dual
 ducken
+dudeln
 Duden
