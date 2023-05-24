@@ -857,3 +857,4 @@ deftig
 Degen
 dehnbar
 dehnen
+Dehnung
