@@ -936,3 +936,4 @@
 15266	dock
 15311	dogge
 15312	dohle
+15313	doktern
