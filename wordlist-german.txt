@@ -893,3 +893,4 @@ dezent
 Dezibel
 dezimal
 Dia
+Diabolo
