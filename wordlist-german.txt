@@ -913,3 +913,4 @@ dimmen
 Dimmer
 Ding
 Dinkel
+Dinner
