@@ -940,3 +940,4 @@
 15314	doktor
 15315	doku
 15316	dolch
+15321	doll

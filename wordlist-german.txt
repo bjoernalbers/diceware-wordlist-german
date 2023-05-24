@@ -940,3 +940,4 @@ doktern
 Doktor
 Doku
 Dolch
+doll
