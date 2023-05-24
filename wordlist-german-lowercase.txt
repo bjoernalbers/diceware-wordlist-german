@@ -856,3 +856,4 @@ defizit
 deftig
 degen
 dehnbar
+dehnen

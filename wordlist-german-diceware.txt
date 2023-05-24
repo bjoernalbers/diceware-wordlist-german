@@ -856,3 +856,4 @@
 14654	deftig
 14655	degen
 14656	dehnbar
+14661	dehnen
