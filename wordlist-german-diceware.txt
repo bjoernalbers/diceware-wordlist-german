@@ -880,3 +880,4 @@
 15134	deponie
 15135	depot
 15136	derbe
+15141	derivat

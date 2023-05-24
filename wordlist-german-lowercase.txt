@@ -880,3 +880,4 @@ deo
 deponie
 depot
 derbe
+derivat
