@@ -860,3 +860,4 @@ dehnen
 dehnung
 deich
 dekade
+dekan

@@ -860,3 +860,4 @@
 14662	dehnung
 14663	deich
 14664	dekade
+14665	dekan
