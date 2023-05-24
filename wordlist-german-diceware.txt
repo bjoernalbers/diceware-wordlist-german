@@ -959,3 +959,4 @@
 15345	dosis
 15346	dotter
 15351	double
+15352	dozent
