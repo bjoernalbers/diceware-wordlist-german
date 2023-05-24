@@ -926,3 +926,4 @@
 15252	diskret
 15253	diskus
 15254	display
+15255	dispo

@@ -926,3 +926,4 @@ Disko
 diskret
 Diskus
 Display
+Dispo
