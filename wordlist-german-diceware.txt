@@ -906,3 +906,4 @@
 15216	diesel
 15221	diesig
 15222	diffus
+15223	digital
