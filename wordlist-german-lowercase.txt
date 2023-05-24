@@ -884,3 +884,4 @@ derivat
 design
 desktop
 dessert
+detail

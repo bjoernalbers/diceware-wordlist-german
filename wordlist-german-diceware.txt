@@ -884,3 +884,4 @@
 15142	design
 15143	desktop
 15144	dessert
+15145	detail

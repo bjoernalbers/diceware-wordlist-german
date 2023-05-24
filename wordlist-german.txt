@@ -884,3 +884,4 @@ Derivat
 Design
 Desktop
 Dessert
+Detail
