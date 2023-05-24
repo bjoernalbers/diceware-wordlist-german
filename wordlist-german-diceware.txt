@@ -944,3 +944,4 @@
 15322	dollar
 15323	domain
 15324	domino
+15325	domizil
