@@ -830,3 +830,4 @@
 14612	dampfer
 14613	dancing
 14614	dankbar
+14615	danken
