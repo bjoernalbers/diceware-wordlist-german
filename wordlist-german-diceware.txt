@@ -862,3 +862,4 @@
 14664	dekade
 14665	dekan
 14666	deko
+15111	dekor
