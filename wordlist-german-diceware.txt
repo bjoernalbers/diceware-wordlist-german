@@ -960,3 +960,4 @@
 15346	dotter
 15351	double
 15352	dozent
+15353	dragee
