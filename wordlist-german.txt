@@ -894,3 +894,4 @@ Dezibel
 dezimal
 Dia
 Diabolo
+Diadem

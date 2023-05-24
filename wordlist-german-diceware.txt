@@ -894,3 +894,4 @@
 15156	dezimal
 15161	dia
 15162	diabolo
+15163	diadem
