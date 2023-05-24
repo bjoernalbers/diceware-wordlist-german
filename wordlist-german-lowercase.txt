@@ -907,3 +907,4 @@ diesel
 diesig
 diffus
 digital
+diktat

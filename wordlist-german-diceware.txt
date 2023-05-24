@@ -907,3 +907,4 @@
 15221	diesig
 15222	diffus
 15223	digital
+15224	diktat
