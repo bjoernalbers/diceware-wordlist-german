@@ -1007,3 +1007,4 @@
 15465	dutzend
 15466	duzen
 15511	dynamik
+15512	dynamit
