@@ -991,3 +991,4 @@
 15441	duett
 15442	duft
 15443	dufte
+15444	duften
