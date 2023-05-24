@@ -918,3 +918,4 @@
 15236	diode
 15241	dip
 15242	diplom
+15243	dippen
