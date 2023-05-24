@@ -867,3 +867,4 @@
 15113	delikat
 15114	delikt
 15115	delle
+15116	delta
