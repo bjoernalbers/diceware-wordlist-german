@@ -895,3 +895,4 @@
 15161	dia
 15162	diabolo
 15163	diadem
+15164	dialekt

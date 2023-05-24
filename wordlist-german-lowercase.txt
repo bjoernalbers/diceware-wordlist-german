@@ -895,3 +895,4 @@ dezimal
 dia
 diabolo
 diadem
+dialekt
