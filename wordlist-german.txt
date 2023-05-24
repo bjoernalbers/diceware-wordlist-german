@@ -891,3 +891,4 @@ Deutung
 Devise
 dezent
 Dezibel
+dezimal

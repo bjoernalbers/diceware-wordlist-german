@@ -891,3 +891,4 @@
 15153	devise
 15154	dezent
 15155	dezibel
+15156	dezimal
