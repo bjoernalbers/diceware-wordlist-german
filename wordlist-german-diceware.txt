@@ -841,3 +841,4 @@
 14631	dattel
 14632	datum
 14633	dauer
+14634	dauern

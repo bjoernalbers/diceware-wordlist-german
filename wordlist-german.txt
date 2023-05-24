@@ -841,3 +841,4 @@ Dativ
 Dattel
 Datum
 Dauer
+dauern
