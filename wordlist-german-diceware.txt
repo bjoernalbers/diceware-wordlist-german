@@ -997,3 +997,4 @@
 15451	dunkel
 15452	dunst
 15453	duo
+15454	dur

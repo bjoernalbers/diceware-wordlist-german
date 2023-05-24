@@ -997,3 +997,4 @@ dummy
 dunkel
 dunst
 duo
+dur
