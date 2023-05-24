@@ -919,3 +919,4 @@
 15241	dip
 15242	diplom
 15243	dippen
+15244	direkt

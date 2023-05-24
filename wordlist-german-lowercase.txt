@@ -919,3 +919,4 @@ diode
 dip
 diplom
 dippen
+direkt
