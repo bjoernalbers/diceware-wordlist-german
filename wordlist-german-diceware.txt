@@ -875,3 +875,4 @@
 15125	denker
 15126	denkmal
 15131	dental
+15132	dentist
