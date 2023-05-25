@@ -1206,3 +1206,4 @@ event
 ewig
 exakt
 examen
+experte

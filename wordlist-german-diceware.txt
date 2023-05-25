@@ -1206,3 +1206,4 @@
 16436	ewig
 16441	exakt
 16442	examen
+16443	experte
