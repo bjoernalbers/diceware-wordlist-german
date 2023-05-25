@@ -1029,3 +1029,4 @@
 15543	efeu
 15544	effeff
 15545	effekt
+15546	effet
