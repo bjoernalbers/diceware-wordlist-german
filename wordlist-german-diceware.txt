@@ -1018,3 +1018,4 @@
 15524	echt
 15525	eckball
 15526	eckbank
+15531	ecke
