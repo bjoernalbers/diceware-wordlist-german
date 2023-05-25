@@ -1050,3 +1050,4 @@
 15616	eiern
 15621	eieruhr
 15622	eifer
+15623	eifern
