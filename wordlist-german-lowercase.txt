@@ -1193,3 +1193,4 @@ eszett
 etage
 etagere
 etappe
+etat
