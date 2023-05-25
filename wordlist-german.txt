@@ -1084,3 +1084,4 @@ Eintopf
 Eintrag
 Einwand
 Einwurf
+Einzahl

@@ -1084,3 +1084,4 @@
 16114	eintrag
 16115	einwand
 16116	einwurf
+16121	einzahl
