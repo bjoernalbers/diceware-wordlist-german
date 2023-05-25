@@ -1107,3 +1107,4 @@ eiswein
 eiszeit
 eizelle
 elan
+elastan

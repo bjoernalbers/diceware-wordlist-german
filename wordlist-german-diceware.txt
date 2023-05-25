@@ -1107,3 +1107,4 @@
 16153	eiszeit
 16154	eizelle
 16155	elan
+16156	elastan
