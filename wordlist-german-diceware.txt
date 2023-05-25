@@ -1204,3 +1204,4 @@
 16434	euro
 16435	event
 16436	ewig
+16441	exakt
