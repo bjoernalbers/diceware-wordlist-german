@@ -1208,3 +1208,4 @@
 16442	examen
 16443	experte
 16444	export
+16445	exposee
