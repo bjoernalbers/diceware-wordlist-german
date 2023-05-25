@@ -1074,3 +1074,4 @@ einheit
 einhorn
 einig
 einigen
+einkauf
