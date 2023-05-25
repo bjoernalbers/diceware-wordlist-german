@@ -1117,3 +1117,4 @@
 16211	elite
 16212	elixier
 16213	ellipse
+16214	elster
