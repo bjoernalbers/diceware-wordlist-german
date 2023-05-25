@@ -1146,3 +1146,4 @@
 16256	entfall
 16261	entgelt
 16262	entwurf
+16263	entzwei
