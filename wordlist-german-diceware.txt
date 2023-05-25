@@ -1126,3 +1126,4 @@
 16224	emoji
 16225	emotion
 16226	empfang
+16231	empore
