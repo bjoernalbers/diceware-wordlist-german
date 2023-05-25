@@ -1143,3 +1143,4 @@
 16253	enorm
 16254	ente
 16255	enter
+16256	entfall

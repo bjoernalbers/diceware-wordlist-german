@@ -1143,3 +1143,4 @@ Enkel
 enorm
 Ente
 Enter
+Entfall
