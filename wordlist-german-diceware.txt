@@ -1028,3 +1028,4 @@
 15542	editor
 15543	efeu
 15544	effeff
+15545	effekt

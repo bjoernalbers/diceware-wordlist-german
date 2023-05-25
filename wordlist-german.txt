@@ -1028,3 +1028,4 @@ Edition
 Editor
 Efeu
 Effeff
+Effekt
