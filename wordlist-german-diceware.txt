@@ -1076,3 +1076,4 @@
 15662	einigen
 15663	einkauf
 15664	einkehr
+15665	einlage
