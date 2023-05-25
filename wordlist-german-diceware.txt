@@ -1047,3 +1047,4 @@
 15613	eiche
 15614	eichen
 15615	eid
+15616	eiern
