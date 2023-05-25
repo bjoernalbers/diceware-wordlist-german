@@ -1077,3 +1077,4 @@ einigen
 Einkauf
 Einkehr
 Einlage
+Einlass
