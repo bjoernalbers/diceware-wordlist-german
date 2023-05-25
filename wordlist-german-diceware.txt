@@ -1207,3 +1207,4 @@
 16441	exakt
 16442	examen
 16443	experte
+16444	export
