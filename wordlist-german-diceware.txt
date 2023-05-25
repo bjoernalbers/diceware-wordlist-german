@@ -1194,3 +1194,4 @@
 16416	etagere
 16421	etappe
 16422	etat
+16423	eternit
