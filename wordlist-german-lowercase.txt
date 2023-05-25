@@ -1100,3 +1100,4 @@ eisfrei
 eisig
 eiskalt
 eislauf
+eismann

@@ -1100,3 +1100,4 @@
 16142	eisig
 16143	eiskalt
 16144	eislauf
+16145	eismann
