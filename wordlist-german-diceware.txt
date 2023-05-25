@@ -1051,3 +1051,4 @@
 15621	eieruhr
 15622	eifer
 15623	eifern
+15624	eifrig
