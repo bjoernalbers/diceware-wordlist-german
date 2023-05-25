@@ -1151,3 +1151,4 @@ enzian
 enzym
 episch
 episode
+epoche
