@@ -1205,3 +1205,4 @@
 16435	event
 16436	ewig
 16441	exakt
+16442	examen

@@ -1205,3 +1205,4 @@ euro
 event
 ewig
 exakt
+examen
