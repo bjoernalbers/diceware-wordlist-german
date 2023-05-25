@@ -1104,3 +1104,4 @@
 16146	eismeer
 16151	eistee
 16152	eiswein
+16153	eiszeit
