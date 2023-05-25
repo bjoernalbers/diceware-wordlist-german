@@ -1045,3 +1045,4 @@
 15611	ehrung
 15612	eibe
 15613	eiche
+15614	eichen
