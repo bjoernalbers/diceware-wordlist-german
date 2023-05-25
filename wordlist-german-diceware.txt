@@ -1180,3 +1180,4 @@
 16354	ersatz
 16355	ertrag
 16356	erweis
+16361	erwerb
