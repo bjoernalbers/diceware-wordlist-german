@@ -1067,3 +1067,4 @@
 15645	eineiig
 15646	einfach
 15651	einfall
+15652	einfuhr
