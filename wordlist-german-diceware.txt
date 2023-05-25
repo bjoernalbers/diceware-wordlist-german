@@ -1191,3 +1191,4 @@
 16413	estrich
 16414	eszett
 16415	etage
+16416	etagere

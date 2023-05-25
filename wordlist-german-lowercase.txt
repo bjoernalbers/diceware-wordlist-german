@@ -1191,3 +1191,4 @@ essig
 estrich
 eszett
 etage
+etagere
