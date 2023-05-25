@@ -1192,3 +1192,4 @@
 16414	eszett
 16415	etage
 16416	etagere
+16421	etappe
