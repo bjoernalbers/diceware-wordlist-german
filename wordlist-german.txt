@@ -1135,3 +1135,4 @@ Endivie
 endlos
 Endung
 Endzeit
+Energie

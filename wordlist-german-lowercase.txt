@@ -1135,3 +1135,4 @@ endivie
 endlos
 endung
 endzeit
+energie
