@@ -1092,3 +1092,4 @@ einzug
 eis
 eisaxt
 eisbahn
+eisbein

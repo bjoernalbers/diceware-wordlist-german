@@ -1092,3 +1092,4 @@
 16126	eis
 16131	eisaxt
 16132	eisbahn
+16133	eisbein
