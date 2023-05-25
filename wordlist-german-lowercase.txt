@@ -1053,3 +1053,4 @@ eifer
 eifern
 eifrig
 eigelb
+eigen
