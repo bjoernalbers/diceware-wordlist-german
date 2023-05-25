@@ -1021,3 +1021,4 @@
 15531	ecke
 15532	eckig
 15533	ecksofa
+15534	eckzahn
