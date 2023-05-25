@@ -1048,3 +1048,4 @@
 15614	eichen
 15615	eid
 15616	eiern
+15621	eieruhr
