@@ -1158,3 +1158,4 @@ Erbauer
 Erbe
 erben
 Erbgut
+Erbse

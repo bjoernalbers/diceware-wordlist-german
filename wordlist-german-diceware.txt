@@ -1158,3 +1158,4 @@
 16316	erbe
 16321	erben
 16322	erbgut
+16323	erbse
