@@ -1103,3 +1103,4 @@
 16145	eismann
 16146	eismeer
 16151	eistee
+16152	eiswein
