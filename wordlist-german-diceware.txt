@@ -1189,3 +1189,4 @@
 16411	essenz
 16412	essig
 16413	estrich
+16414	eszett
