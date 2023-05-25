@@ -1033,3 +1033,4 @@
 15551	egal
 15552	egge
 15553	ehe
+15554	ehebett
