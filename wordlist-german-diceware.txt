@@ -1136,3 +1136,4 @@
 16242	endung
 16243	endzeit
 16244	energie
+16245	engel
