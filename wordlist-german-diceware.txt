@@ -1019,3 +1019,4 @@
 15525	eckball
 15526	eckbank
 15531	ecke
+15532	eckig

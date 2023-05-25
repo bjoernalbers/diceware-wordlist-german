@@ -1019,3 +1019,4 @@ echt
 Eckball
 Eckbank
 Ecke
+eckig
