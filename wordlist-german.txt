@@ -1144,3 +1144,4 @@ enorm
 Ente
 Enter
 Entfall
+Entgelt
