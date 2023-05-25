@@ -1118,3 +1118,4 @@
 16212	elixier
 16213	ellipse
 16214	elster
+16215	eltern
