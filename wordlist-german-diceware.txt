@@ -1147,3 +1147,4 @@
 16261	entgelt
 16262	entwurf
 16263	entzwei
+16264	enzian
