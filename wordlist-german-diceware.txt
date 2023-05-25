@@ -1072,3 +1072,4 @@
 15654	eingang
 15655	einheit
 15656	einhorn
+15661	einig
