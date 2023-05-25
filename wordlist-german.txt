@@ -1145,3 +1145,4 @@ Ente
 Enter
 Entfall
 Entgelt
+Entwurf
