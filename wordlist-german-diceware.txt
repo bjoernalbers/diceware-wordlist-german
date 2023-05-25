@@ -1039,3 +1039,4 @@
 15561	ehepaar
 15562	ehering
 15563	ehre
+15564	ehren

@@ -1039,3 +1039,4 @@ ehemann
 ehepaar
 ehering
 ehre
+ehren

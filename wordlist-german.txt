@@ -1039,3 +1039,4 @@ Ehemann
 Ehepaar
 Ehering
 Ehre
+ehren
