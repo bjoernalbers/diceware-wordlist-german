@@ -1085,3 +1085,4 @@ Eintrag
 Einwand
 Einwurf
 Einzahl
+Einzel
