@@ -1148,3 +1148,4 @@ entgelt
 entwurf
 entzwei
 enzian
+enzym
