@@ -1037,3 +1037,4 @@
 15555	ehefrau
 15556	ehemann
 15561	ehepaar
+15562	ehering

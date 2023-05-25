@@ -1037,3 +1037,4 @@ Ehebett
 Ehefrau
 Ehemann
 Ehepaar
+Ehering
