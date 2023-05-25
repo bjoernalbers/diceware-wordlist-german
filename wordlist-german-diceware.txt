@@ -1125,3 +1125,4 @@
 16223	emmy
 16224	emoji
 16225	emotion
+16226	empfang
