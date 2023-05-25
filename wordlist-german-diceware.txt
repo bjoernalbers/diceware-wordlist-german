@@ -1149,3 +1149,4 @@
 16263	entzwei
 16264	enzian
 16265	enzym
+16266	episch
