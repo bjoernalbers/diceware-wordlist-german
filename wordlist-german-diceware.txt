@@ -1190,3 +1190,4 @@
 16412	essig
 16413	estrich
 16414	eszett
+16415	etage
