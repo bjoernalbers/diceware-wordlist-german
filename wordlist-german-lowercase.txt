@@ -1141,3 +1141,4 @@ engpass
 enigma
 enkel
 enorm
+ente
