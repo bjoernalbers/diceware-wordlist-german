@@ -1139,3 +1139,4 @@
 16245	engel
 16246	engpass
 16251	enigma
+16252	enkel
