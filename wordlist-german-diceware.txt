@@ -1054,3 +1054,4 @@
 15624	eifrig
 15625	eigelb
 15626	eigen
+15631	eignen
