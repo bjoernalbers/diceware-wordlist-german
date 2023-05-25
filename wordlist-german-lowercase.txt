@@ -1106,3 +1106,4 @@ eistee
 eiswein
 eiszeit
 eizelle
+elan

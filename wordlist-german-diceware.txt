@@ -1106,3 +1106,4 @@
 16152	eiswein
 16153	eiszeit
 16154	eizelle
+16155	elan
