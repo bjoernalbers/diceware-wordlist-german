@@ -1123,3 +1123,4 @@
 16221	emblem
 16222	embryo
 16223	emmy
+16224	emoji
