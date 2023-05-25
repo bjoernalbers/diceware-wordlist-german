@@ -1086,3 +1086,4 @@ einwand
 einwurf
 einzahl
 einzel
+einzeln
