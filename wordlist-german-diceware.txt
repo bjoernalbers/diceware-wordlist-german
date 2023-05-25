@@ -1036,3 +1036,4 @@
 15554	ehebett
 15555	ehefrau
 15556	ehemann
+15561	ehepaar
