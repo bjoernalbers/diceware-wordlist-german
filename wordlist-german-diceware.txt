@@ -1105,3 +1105,4 @@
 16151	eistee
 16152	eiswein
 16153	eiszeit
+16154	eizelle
