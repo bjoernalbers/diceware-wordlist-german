@@ -1172,3 +1172,4 @@ erle
 erleben
 ernst
 ernte
+ernten

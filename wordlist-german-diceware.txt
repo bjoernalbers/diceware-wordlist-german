@@ -1172,3 +1172,4 @@
 16342	erleben
 16343	ernst
 16344	ernte
+16345	ernten
