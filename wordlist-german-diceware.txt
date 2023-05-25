@@ -1040,3 +1040,4 @@
 15562	ehering
 15563	ehre
 15564	ehren
+15565	ehrgeiz

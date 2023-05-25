@@ -1040,3 +1040,4 @@ ehepaar
 ehering
 ehre
 ehren
+ehrgeiz
