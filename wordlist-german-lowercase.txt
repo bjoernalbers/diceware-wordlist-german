@@ -1055,3 +1055,4 @@ eifrig
 eigelb
 eigen
 eignen
+eiklar

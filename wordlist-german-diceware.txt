@@ -1055,3 +1055,4 @@
 15625	eigelb
 15626	eigen
 15631	eignen
+15632	eiklar
