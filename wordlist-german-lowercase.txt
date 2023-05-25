@@ -1075,3 +1075,4 @@ einhorn
 einig
 einigen
 einkauf
+einkehr

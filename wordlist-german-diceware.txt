@@ -1075,3 +1075,4 @@
 15661	einig
 15662	einigen
 15663	einkauf
+15664	einkehr
