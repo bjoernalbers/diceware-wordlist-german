@@ -1057,3 +1057,4 @@
 15631	eignen
 15632	eiklar
 15633	eiland
+15634	eilbote
