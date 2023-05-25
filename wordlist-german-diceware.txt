@@ -1142,3 +1142,4 @@
 16252	enkel
 16253	enorm
 16254	ente
+16255	enter

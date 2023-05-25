@@ -1142,3 +1142,4 @@ Enigma
 Enkel
 enorm
 Ente
+Enter
