@@ -1096,3 +1096,4 @@
 16134	eisen
 16135	eisern
 16136	eisfach
+16141	eisfrei
