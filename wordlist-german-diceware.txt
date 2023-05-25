@@ -1160,3 +1160,4 @@
 16322	erbgut
 16323	erbse
 16324	erde
+16325	erdgas
