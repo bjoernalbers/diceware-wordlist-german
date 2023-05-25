@@ -1197,3 +1197,4 @@
 16423	eternit
 16424	ethanol
 16425	ethisch
+16426	etikett
