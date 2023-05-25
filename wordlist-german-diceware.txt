@@ -1116,3 +1116,4 @@
 16166	elfe
 16211	elite
 16212	elixier
+16213	ellipse

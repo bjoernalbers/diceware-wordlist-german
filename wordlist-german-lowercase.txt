@@ -1116,3 +1116,4 @@ element
 elfe
 elite
 elixier
+ellipse
