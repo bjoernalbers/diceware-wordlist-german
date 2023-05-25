@@ -1060,3 +1060,4 @@ eiland
 eilbote
 eile
 eilen
+eilig
