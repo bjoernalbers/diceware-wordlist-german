@@ -1201,3 +1201,4 @@ etikett
 etui
 etwas
 eule
+euro
