@@ -1152,3 +1152,4 @@
 16266	episch
 16311	episode
 16312	epoche
+16313	epoxid
