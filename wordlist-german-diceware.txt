@@ -1044,3 +1044,4 @@
 15566	ehrlich
 15611	ehrung
 15612	eibe
+15613	eiche
