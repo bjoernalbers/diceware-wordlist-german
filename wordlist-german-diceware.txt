@@ -1134,3 +1134,4 @@
 16236	endivie
 16241	endlos
 16242	endung
+16243	endzeit

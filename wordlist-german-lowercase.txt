@@ -1134,3 +1134,4 @@ enden
 endivie
 endlos
 endung
+endzeit
