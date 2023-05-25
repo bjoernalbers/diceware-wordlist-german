@@ -1087,3 +1087,4 @@ Einwurf
 Einzahl
 Einzel
 einzeln
+einzig

@@ -1087,3 +1087,4 @@
 16121	einzahl
 16122	einzel
 16123	einzeln
+16124	einzig
