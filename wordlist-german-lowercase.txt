@@ -1124,3 +1124,4 @@ emblem
 embryo
 emmy
 emoji
+emotion

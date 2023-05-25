@@ -1124,3 +1124,4 @@
 16222	embryo
 16223	emmy
 16224	emoji
+16225	emotion
