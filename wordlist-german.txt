@@ -1099,3 +1099,4 @@ Eisfach
 eisfrei
 eisig
 eiskalt
+Eislauf
