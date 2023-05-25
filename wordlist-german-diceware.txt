@@ -1168,3 +1168,4 @@
 16334	erfolg
 16335	erholen
 16336	erker
+16341	erle
