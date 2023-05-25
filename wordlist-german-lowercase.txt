@@ -1030,3 +1030,4 @@ efeu
 effeff
 effekt
 effet
+egal

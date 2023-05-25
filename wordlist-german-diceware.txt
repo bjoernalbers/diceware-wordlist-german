@@ -1030,3 +1030,4 @@
 15544	effeff
 15545	effekt
 15546	effet
+15551	egal
