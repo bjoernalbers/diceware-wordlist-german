@@ -1265,3 +1265,4 @@
 16615	fassen
 16616	fassung
 16621	fasten
+16622	faszie

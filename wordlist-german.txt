@@ -1265,3 +1265,4 @@ Fassade
 fassen
 Fassung
 fasten
+Faszie
