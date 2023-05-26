@@ -1217,3 +1217,4 @@
 16455	fabrik
 16456	facette
 16461	fach
+16462	fackel
