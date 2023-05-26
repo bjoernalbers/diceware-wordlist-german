@@ -1240,3 +1240,4 @@ faltbar
 Falter
 Faltrad
 Familie
+Fan
