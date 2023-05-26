@@ -1231,3 +1231,4 @@
 16521	fakt
 16522	faktor
 16523	falafel
+16524	falke

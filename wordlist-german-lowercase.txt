@@ -1231,3 +1231,4 @@ fakir
 fakt
 faktor
 falafel
+falke
