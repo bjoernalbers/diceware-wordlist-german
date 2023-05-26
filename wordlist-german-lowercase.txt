@@ -1232,3 +1232,4 @@ fakt
 faktor
 falafel
 falke
+falkner
