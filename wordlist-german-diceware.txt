@@ -1276,3 +1276,4 @@
 16634	feature
 16635	februar
 16636	fechten
+16641	fechter
