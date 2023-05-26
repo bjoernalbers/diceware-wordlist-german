@@ -1219,3 +1219,4 @@
 16461	fach
 16462	fackel
 16463	faden
+16464	fahne
