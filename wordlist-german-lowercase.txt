@@ -1263,3 +1263,4 @@ fashion
 fass
 fassade
 fassen
+fassung
