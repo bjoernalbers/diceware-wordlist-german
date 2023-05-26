@@ -1214,3 +1214,4 @@
 16452	extra
 16453	extrakt
 16454	fabel
+16455	fabrik
