@@ -1226,3 +1226,4 @@
 16512	fahrrad
 16513	fahrt
 16514	faible
+16515	fair
