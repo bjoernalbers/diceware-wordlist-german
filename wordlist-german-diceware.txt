@@ -1236,3 +1236,4 @@
 16526	fall
 16531	falle
 16532	fallen
+16533	faltbar
