@@ -1237,3 +1237,4 @@ fall
 falle
 fallen
 faltbar
+falter
