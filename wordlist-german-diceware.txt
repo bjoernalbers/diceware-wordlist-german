@@ -1269,3 +1269,4 @@
 16623	fauchen
 16624	fauna
 16625	faust
+16626	fauxpas
