@@ -1223,3 +1223,4 @@ fahne
 fahrbar
 fahren
 fahrer
+fahrrad
