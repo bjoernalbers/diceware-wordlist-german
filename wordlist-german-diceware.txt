@@ -1228,3 +1228,4 @@
 16514	faible
 16515	fair
 16516	fakir
+16521	fakt
