@@ -1271,3 +1271,4 @@ Fauna
 Faust
 Fauxpas
 Favorit
+Fax

@@ -1271,3 +1271,4 @@ fauna
 faust
 fauxpas
 favorit
+fax
