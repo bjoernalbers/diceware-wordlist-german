@@ -1220,3 +1220,4 @@ Fach
 Fackel
 Faden
 Fahne
+fahrbar

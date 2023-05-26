@@ -1220,3 +1220,4 @@ fach
 fackel
 faden
 fahne
+fahrbar

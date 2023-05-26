@@ -1220,3 +1220,4 @@
 16462	fackel
 16463	faden
 16464	fahne
+16465	fahrbar
