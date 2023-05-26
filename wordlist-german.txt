@@ -1272,3 +1272,4 @@ Faust
 Fauxpas
 Favorit
 Fax
+Fazit

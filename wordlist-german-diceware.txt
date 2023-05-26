@@ -1272,3 +1272,4 @@
 16626	fauxpas
 16631	favorit
 16632	fax
+16633	fazit
