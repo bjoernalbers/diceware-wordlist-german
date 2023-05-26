@@ -1229,3 +1229,4 @@
 16515	fair
 16516	fakir
 16521	fakt
+16522	faktor
