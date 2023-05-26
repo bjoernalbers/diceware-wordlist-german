@@ -1268,3 +1268,4 @@
 16622	faszie
 16623	fauchen
 16624	fauna
+16625	faust
