@@ -1227,3 +1227,4 @@
 16513	fahrt
 16514	faible
 16515	fair
+16516	fakir
