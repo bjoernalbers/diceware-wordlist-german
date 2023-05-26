@@ -1246,3 +1246,4 @@ Fanfare
 Fang
 Fangarm
 fangen
+Fango
