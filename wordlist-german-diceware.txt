@@ -1253,3 +1253,4 @@
 16555	farbe
 16556	farbig
 16561	farbton
+16562	farm
