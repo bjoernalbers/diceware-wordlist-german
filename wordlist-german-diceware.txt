@@ -1224,3 +1224,4 @@
 16466	fahren
 16511	fahrer
 16512	fahrrad
+16513	fahrt
