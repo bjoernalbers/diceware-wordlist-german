@@ -1266,3 +1266,4 @@
 16616	fassung
 16621	fasten
 16622	faszie
+16623	fauchen

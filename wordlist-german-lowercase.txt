@@ -1266,3 +1266,4 @@ fassen
 fassung
 fasten
 faszie
+fauchen
