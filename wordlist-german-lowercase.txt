@@ -1225,3 +1225,4 @@ fahren
 fahrer
 fahrrad
 fahrt
+faible
