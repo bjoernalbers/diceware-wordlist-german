@@ -1277,3 +1277,4 @@
 16635	februar
 16636	fechten
 16641	fechter
+16642	feder
