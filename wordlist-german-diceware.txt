@@ -1497,3 +1497,4 @@
 21643	fusion
 21644	fussel
 21645	fusseln
+21646	futon
