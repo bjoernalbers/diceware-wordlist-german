@@ -1427,3 +1427,4 @@ Form
 formal
 Format
 Formel
+formell
