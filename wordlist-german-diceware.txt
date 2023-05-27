@@ -1315,3 +1315,4 @@
 21141	fetzig
 21142	feuer
 21143	feurig
+21144	fibel

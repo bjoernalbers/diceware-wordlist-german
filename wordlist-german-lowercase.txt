@@ -1315,3 +1315,4 @@ fetzen
 fetzig
 feuer
 feurig
+fibel
