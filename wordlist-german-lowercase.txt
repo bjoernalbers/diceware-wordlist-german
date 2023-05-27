@@ -1340,3 +1340,4 @@ finden
 finder
 finger
 finish
+fink

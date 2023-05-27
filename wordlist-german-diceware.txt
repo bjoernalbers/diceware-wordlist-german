@@ -1340,3 +1340,4 @@
 21222	finder
 21223	finger
 21224	finish
+21225	fink
