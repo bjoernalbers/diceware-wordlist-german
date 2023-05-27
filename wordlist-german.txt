@@ -1414,3 +1414,4 @@ Fohlen
 Fokus
 Folge
 folgen
+folgern
