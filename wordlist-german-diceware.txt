@@ -1358,3 +1358,4 @@
 21252	fjord
 21253	flach
 21254	flachs
+21255	flagge
