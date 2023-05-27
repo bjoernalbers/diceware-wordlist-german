@@ -1457,3 +1457,4 @@
 21535	freuen
 21536	freund
 21541	frieden
+21542	frieren
