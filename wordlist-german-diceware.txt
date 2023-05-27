@@ -1355,3 +1355,4 @@
 21245	fix
 21246	fixie
 21251	fjord
+21252	flach
