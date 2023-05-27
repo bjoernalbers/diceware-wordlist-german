@@ -1464,3 +1464,4 @@
 21546	frist
 21551	frisur
 21552	fritte
+21553	froh
