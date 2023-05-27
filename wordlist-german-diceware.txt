@@ -1493,3 +1493,4 @@
 21635	furios
 21636	furnier
 21641	furore
+21642	fusel
