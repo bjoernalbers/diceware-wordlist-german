@@ -1309,6 +1309,7 @@ fertig
 fesch
 Fest
 Festakt
+Festung
 Feta
 Fete
 Fetzen
