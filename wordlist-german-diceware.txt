@@ -1458,3 +1458,4 @@
 21536	freund
 21541	frieden
 21542	frieren
+21543	frisbee
