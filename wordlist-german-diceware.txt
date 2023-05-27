@@ -1372,3 +1372,4 @@
 21314	flaute
 21315	fleck
 21316	fleisch
+21321	flex
