@@ -1347,3 +1347,4 @@ firma
 first
 fisch
 fischen
+fischer
