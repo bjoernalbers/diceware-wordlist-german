@@ -1469,3 +1469,4 @@ Front
 frontal
 Frosch
 Frost
+frostig

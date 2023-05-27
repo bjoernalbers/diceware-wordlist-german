@@ -1469,3 +1469,4 @@
 21555	frontal
 21556	frosch
 21561	frost
+21562	frostig
