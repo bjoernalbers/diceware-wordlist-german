@@ -1466,3 +1466,4 @@ frisur
 fritte
 froh
 front
+frontal

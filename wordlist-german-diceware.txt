@@ -1466,3 +1466,4 @@
 21552	fritte
 21553	froh
 21554	front
+21555	frontal
