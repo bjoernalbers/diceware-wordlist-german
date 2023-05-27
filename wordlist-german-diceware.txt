@@ -1295,3 +1295,4 @@
 16665	fels
 16666	felsen
 21111	felsig
+21112	feminin
