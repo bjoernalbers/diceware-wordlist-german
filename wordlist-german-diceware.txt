@@ -1470,3 +1470,4 @@
 21556	frosch
 21561	frost
 21562	frostig
+21563	frottee
