@@ -1447,3 +1447,4 @@ fragil
 fraktur
 franse
 fransig
+fratz

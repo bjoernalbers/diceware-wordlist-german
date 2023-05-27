@@ -1447,3 +1447,4 @@
 21521	fraktur
 21522	franse
 21523	fransig
+21524	fratz
