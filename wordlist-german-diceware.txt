@@ -1474,3 +1474,4 @@
 21564	frucht
 21565	fuchs
 21566	fuchsie
+21611	fuder
