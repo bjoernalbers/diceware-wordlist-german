@@ -1397,3 +1397,4 @@
 21355	flosse
 21356	flott
 21361	flow
+21362	fluffig
