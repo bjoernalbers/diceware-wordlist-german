@@ -1450,3 +1450,4 @@
 21524	fratz
 21525	frau
 21526	frei
+21531	freibad
