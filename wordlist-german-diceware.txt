@@ -1448,3 +1448,4 @@
 21522	franse
 21523	fransig
 21524	fratz
+21525	frau
