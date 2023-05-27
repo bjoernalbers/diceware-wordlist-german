@@ -1408,3 +1408,4 @@
 21414	fluss
 21415	flut
 21416	fluten
+21421	fluter
