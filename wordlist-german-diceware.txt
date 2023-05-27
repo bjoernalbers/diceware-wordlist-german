@@ -1373,3 +1373,4 @@
 21315	fleck
 21316	fleisch
 21321	flex
+21322	flexen
