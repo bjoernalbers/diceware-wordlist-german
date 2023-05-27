@@ -1419,3 +1419,4 @@
 21433	fond
 21434	fondant
 21435	fondue
+21436	foppen

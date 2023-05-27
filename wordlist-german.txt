@@ -1419,3 +1419,4 @@ Folie
 Fond
 Fondant
 Fondue
+foppen
