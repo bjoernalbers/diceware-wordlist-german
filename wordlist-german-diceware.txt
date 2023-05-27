@@ -1452,3 +1452,4 @@
 21526	frei
 21531	freibad
 21532	freitag
+21533	freude
