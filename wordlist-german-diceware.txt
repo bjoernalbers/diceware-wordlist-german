@@ -1488,3 +1488,4 @@
 21626	funken
 21631	funker
 21632	funkuhr
+21633	funzel
