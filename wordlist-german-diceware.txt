@@ -1403,3 +1403,4 @@
 21365	fluorid
 21366	fluppe
 21411	flur
+21412	fluse
