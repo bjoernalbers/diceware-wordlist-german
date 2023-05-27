@@ -1345,3 +1345,4 @@ finte
 fintech
 firma
 first
+fisch
