@@ -1349,3 +1349,4 @@ Fisch
 fischen
 Fischer
 Fiskus
+fit
