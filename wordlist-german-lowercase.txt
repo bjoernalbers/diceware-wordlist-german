@@ -1342,3 +1342,4 @@ finger
 finish
 fink
 finte
+fintech

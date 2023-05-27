@@ -1342,3 +1342,4 @@
 21224	finish
 21225	fink
 21226	finte
+21231	fintech
