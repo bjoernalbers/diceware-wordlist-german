@@ -1438,3 +1438,4 @@
 21464	foto
 21465	fotogen
 21466	foul
+21511	foulen
