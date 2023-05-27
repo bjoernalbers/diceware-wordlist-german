@@ -1323,3 +1323,4 @@
 21153	fiepen
 21154	figur
 21155	fiktiv
+21156	filet
