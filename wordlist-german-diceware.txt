@@ -1306,3 +1306,4 @@
 21124	fernzug
 21125	ferse
 21126	fertig
+21131	fesch

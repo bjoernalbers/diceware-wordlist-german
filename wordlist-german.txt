@@ -1306,3 +1306,4 @@ Fernweh
 Fernzug
 Ferse
 fertig
+fesch
