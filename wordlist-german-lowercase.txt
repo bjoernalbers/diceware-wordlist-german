@@ -1314,3 +1314,4 @@ fete
 fetzen
 fetzig
 feuer
+feurig
