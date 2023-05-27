@@ -1462,3 +1462,4 @@
 21544	frisch
 21545	friseur
 21546	frist
+21551	frisur
