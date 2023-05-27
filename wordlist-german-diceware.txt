@@ -1456,3 +1456,4 @@
 21534	freudig
 21535	freuen
 21536	freund
+21541	frieden
