@@ -1498,3 +1498,4 @@
 21644	fussel
 21645	fusseln
 21646	futon
+21651	futsch

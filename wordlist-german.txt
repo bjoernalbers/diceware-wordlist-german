@@ -1498,3 +1498,4 @@ Fusion
 Fussel
 fusseln
 Futon
+futsch
