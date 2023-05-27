@@ -1402,3 +1402,4 @@
 21364	flunder
 21365	fluorid
 21366	fluppe
+21411	flur
