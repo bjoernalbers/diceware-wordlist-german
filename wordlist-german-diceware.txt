@@ -1479,3 +1479,4 @@
 21613	fuhre
 21614	fummel
 21615	fummeln
+21616	fund
