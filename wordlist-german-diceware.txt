@@ -1430,3 +1430,4 @@
 21452	formell
 21453	formen
 21454	formlos
+21455	forsch
