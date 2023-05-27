@@ -1365,3 +1365,4 @@
 21263	flanell
 21264	flanke
 21265	flanken
+21266	flansch
