@@ -1324,3 +1324,4 @@ fiepen
 Figur
 fiktiv
 Filet
+Filiale

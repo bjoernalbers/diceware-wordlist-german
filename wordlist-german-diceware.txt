@@ -1324,3 +1324,4 @@
 21154	figur
 21155	fiktiv
 21156	filet
+21161	filiale
