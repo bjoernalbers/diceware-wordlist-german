@@ -1348,3 +1348,4 @@ first
 fisch
 fischen
 fischer
+fiskus

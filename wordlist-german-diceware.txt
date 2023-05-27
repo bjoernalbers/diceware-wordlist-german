@@ -1348,3 +1348,4 @@
 21234	fisch
 21235	fischen
 21236	fischer
+21241	fiskus
