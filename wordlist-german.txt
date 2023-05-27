@@ -1337,3 +1337,4 @@ Fimmel
 final
 Finale
 finden
+Finder
