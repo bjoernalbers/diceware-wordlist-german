@@ -1392,3 +1392,4 @@
 21346	flop
 21351	flora
 21352	floral
+21353	florist
