@@ -1364,3 +1364,4 @@
 21262	flamme
 21263	flanell
 21264	flanke
+21265	flanken
