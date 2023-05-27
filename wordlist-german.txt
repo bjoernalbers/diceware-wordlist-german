@@ -1302,3 +1302,4 @@ Ferien
 fern
 Ferne
 Fernost
+Fernweh

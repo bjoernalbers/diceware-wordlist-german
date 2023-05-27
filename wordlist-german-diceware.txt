@@ -1302,3 +1302,4 @@
 21116	fern
 21121	ferne
 21122	fernost
+21123	fernweh
