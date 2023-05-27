@@ -1357,3 +1357,4 @@
 21251	fixie
 21252	fjord
 21253	flach
+21254	flachs
