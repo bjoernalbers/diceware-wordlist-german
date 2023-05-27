@@ -1411,3 +1411,4 @@
 21421	fluter
 21422	flyer
 21423	fohlen
+21424	fokus
