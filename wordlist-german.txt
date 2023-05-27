@@ -1366,3 +1366,4 @@ Flanell
 Flanke
 flanken
 Flansch
+Flasche
