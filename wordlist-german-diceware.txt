@@ -1437,3 +1437,4 @@
 21463	fossil
 21464	foto
 21465	fotogen
+21466	foul
