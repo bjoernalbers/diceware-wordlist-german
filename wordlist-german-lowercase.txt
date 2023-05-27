@@ -1482,3 +1482,4 @@ fummeln
 fund
 fundort
 fundus
+funk
