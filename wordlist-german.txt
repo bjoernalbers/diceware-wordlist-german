@@ -1301,3 +1301,4 @@ Fenster
 Ferien
 fern
 Ferne
+Fernost

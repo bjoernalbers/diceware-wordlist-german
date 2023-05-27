@@ -1301,3 +1301,4 @@
 21115	ferien
 21116	fern
 21121	ferne
+21122	fernost
