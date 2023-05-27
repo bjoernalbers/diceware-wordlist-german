@@ -1455,3 +1455,4 @@
 21533	freude
 21534	freudig
 21535	freuen
+21536	freund
