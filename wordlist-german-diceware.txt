@@ -1394,3 +1394,4 @@
 21352	floral
 21353	florist
 21354	floskel
+21355	flosse
