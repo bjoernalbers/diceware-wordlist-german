@@ -1491,3 +1491,4 @@
 21633	funzel
 21634	furche
 21635	furios
+21636	furnier
