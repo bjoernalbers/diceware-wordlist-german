@@ -1418,3 +1418,4 @@ folgern
 Folie
 Fond
 Fondant
+Fondue

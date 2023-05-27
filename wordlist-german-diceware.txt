@@ -1418,3 +1418,4 @@
 21432	folie
 21433	fond
 21434	fondant
+21435	fondue
