@@ -1492,3 +1492,4 @@
 21634	furche
 21635	furios
 21636	furnier
+21641	furore
