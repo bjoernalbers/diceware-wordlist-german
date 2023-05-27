@@ -1463,3 +1463,4 @@
 21545	friseur
 21546	frist
 21551	frisur
+21552	fritte
