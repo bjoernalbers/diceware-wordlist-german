@@ -1385,3 +1385,4 @@
 21335	flirt
 21336	flirten
 21341	flitzen
+21342	flitzer
