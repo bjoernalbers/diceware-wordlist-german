@@ -1369,3 +1369,4 @@
 21311	flasche
 21312	flaum
 21313	flause
+21314	flaute
