@@ -1376,3 +1376,4 @@
 21322	flexen
 21323	flicken
 21324	flieder
+21325	fliege
