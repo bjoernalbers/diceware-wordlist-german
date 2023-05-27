@@ -1351,3 +1351,4 @@
 21241	fiskus
 21242	fit
 21243	fitness
+21244	fittich
