@@ -1343,3 +1343,4 @@ finish
 fink
 finte
 fintech
+firma
