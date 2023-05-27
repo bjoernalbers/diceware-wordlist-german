@@ -1298,3 +1298,4 @@ felsig
 feminin
 fenchel
 fenster
+ferien

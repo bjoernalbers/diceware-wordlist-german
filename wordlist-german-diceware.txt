@@ -1298,3 +1298,4 @@
 21112	feminin
 21113	fenchel
 21114	fenster
+21115	ferien
