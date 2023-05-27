@@ -1472,3 +1472,4 @@
 21562	frostig
 21563	frottee
 21564	frucht
+21565	fuchs
