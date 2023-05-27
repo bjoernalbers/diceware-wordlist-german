@@ -1485,3 +1485,4 @@
 21623	funk
 21624	funke
 21625	funkeln
+21626	funken

@@ -1485,3 +1485,4 @@ Fundus
 Funk
 Funke
 funkeln
+funken
