@@ -1312,3 +1312,4 @@
 21134	feta
 21135	fete
 21136	fetzen
+21141	fetzig
