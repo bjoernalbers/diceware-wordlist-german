@@ -1374,3 +1374,4 @@
 21316	fleisch
 21321	flex
 21322	flexen
+21323	flicken
