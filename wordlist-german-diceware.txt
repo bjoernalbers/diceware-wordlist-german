@@ -1481,3 +1481,4 @@
 21615	fummeln
 21616	fund
 21621	fundort
+21622	fundus
