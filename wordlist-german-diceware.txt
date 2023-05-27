@@ -1476,3 +1476,4 @@
 21566	fuchsie
 21611	fuder
 21612	fuge
+21613	fuhre
