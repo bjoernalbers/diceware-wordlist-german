@@ -1460,3 +1460,4 @@
 21542	frieren
 21543	frisbee
 21544	frisch
+21545	friseur
