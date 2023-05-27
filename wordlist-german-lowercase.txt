@@ -1299,3 +1299,4 @@ feminin
 fenchel
 fenster
 ferien
+fern
