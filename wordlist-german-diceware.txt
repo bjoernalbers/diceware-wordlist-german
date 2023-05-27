@@ -1296,3 +1296,4 @@
 16666	felsen
 21111	felsig
 21112	feminin
+21113	fenchel
