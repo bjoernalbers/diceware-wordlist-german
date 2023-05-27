@@ -1386,3 +1386,4 @@
 21336	flirten
 21341	flitzen
 21342	flitzer
+21343	flocke
