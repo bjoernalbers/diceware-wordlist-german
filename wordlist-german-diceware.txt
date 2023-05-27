@@ -1350,3 +1350,4 @@
 21236	fischer
 21241	fiskus
 21242	fit
+21243	fitness
