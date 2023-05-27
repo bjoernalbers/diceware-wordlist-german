@@ -1318,3 +1318,4 @@
 21144	fibel
 21145	fichte
 21146	fidel
+21151	fidschi
