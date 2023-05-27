@@ -1499,3 +1499,4 @@ fussel
 fusseln
 futon
 futsch
+futter
