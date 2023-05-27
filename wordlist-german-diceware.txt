@@ -1424,3 +1424,4 @@
 21442	forelle
 21443	forke
 21444	form
+21445	formal
