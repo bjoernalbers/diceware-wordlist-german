@@ -1304,3 +1304,4 @@ ferne
 fernost
 fernweh
 fernzug
+ferse
