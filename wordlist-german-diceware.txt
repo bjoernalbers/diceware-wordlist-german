@@ -1338,3 +1338,4 @@
 21216	finale
 21221	finden
 21222	finder
+21223	finger

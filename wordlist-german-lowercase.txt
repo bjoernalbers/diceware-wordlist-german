@@ -1338,3 +1338,4 @@ final
 finale
 finden
 finder
+finger
