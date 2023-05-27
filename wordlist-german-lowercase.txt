@@ -1393,3 +1393,4 @@ flop
 flora
 floral
 florist
+floskel

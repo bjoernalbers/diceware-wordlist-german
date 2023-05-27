@@ -1393,3 +1393,4 @@
 21351	flora
 21352	floral
 21353	florist
+21354	floskel
