@@ -1475,3 +1475,4 @@ frucht
 fuchs
 fuchsie
 fuder
+fuge
