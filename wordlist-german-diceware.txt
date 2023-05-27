@@ -1297,3 +1297,4 @@
 21111	felsig
 21112	feminin
 21113	fenchel
+21114	fenster

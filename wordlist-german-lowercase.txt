@@ -1297,3 +1297,4 @@ felsen
 felsig
 feminin
 fenchel
+fenster
