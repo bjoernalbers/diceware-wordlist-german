@@ -1415,3 +1415,4 @@ Fokus
 Folge
 folgen
 folgern
+Folie
