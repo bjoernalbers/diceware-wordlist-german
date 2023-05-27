@@ -1316,3 +1316,4 @@ fetzig
 feuer
 feurig
 fibel
+fichte
