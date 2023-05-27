@@ -1468,3 +1468,4 @@
 21554	front
 21555	frontal
 21556	frosch
+21561	frost
