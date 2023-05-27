@@ -1454,3 +1454,4 @@
 21532	freitag
 21533	freude
 21534	freudig
+21535	freuen
