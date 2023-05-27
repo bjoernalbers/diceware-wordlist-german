@@ -1417,3 +1417,4 @@
 21431	folgern
 21432	folie
 21433	fond
+21434	fondant

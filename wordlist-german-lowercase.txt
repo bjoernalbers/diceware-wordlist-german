@@ -1417,3 +1417,4 @@ folgen
 folgern
 folie
 fond
+fondant
