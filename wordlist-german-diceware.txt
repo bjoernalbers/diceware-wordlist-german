@@ -1362,3 +1362,4 @@
 21256	flair
 21261	flakon
 21262	flamme
+21263	flanell
