@@ -1313,3 +1313,4 @@
 21135	fete
 21136	fetzen
 21141	fetzig
+21142	feuer
