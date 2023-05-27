@@ -1459,3 +1459,4 @@
 21541	frieden
 21542	frieren
 21543	frisbee
+21544	frisch
