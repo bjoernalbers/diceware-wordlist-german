@@ -1303,3 +1303,4 @@
 21121	ferne
 21122	fernost
 21123	fernweh
+21124	fernzug
