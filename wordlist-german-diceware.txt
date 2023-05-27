@@ -1379,3 +1379,4 @@
 21325	fliege
 21326	fliegen
 21331	flieger
+21332	fliese
