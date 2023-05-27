@@ -1489,3 +1489,4 @@
 21631	funker
 21632	funkuhr
 21633	funzel
+21634	furche
