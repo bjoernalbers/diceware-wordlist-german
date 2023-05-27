@@ -1441,3 +1441,4 @@
 21511	foulen
 21512	fracht
 21513	frack
+21514	frage

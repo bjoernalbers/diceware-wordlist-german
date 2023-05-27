@@ -1441,3 +1441,4 @@ foul
 foulen
 fracht
 frack
+frage
