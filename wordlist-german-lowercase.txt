@@ -1484,3 +1484,4 @@ fundort
 fundus
 funk
 funke
+funkeln

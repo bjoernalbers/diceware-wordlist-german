@@ -1484,3 +1484,4 @@
 21622	fundus
 21623	funk
 21624	funke
+21625	funkeln

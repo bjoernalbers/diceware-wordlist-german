@@ -1484,3 +1484,4 @@ Fundort
 Fundus
 Funk
 Funke
+funkeln
