@@ -1486,3 +1486,4 @@
 21624	funke
 21625	funkeln
 21626	funken
+21631	funker
