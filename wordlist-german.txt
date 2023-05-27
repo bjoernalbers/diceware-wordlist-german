@@ -1413,3 +1413,4 @@ Flyer
 Fohlen
 Fokus
 Folge
+folgen

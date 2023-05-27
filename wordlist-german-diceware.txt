@@ -1413,3 +1413,4 @@
 21423	fohlen
 21424	fokus
 21425	folge
+21426	folgen
