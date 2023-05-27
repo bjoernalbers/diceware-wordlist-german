@@ -1442,3 +1442,4 @@ foulen
 fracht
 frack
 frage
+fragen
