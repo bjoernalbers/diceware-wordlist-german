@@ -1310,3 +1310,4 @@
 21132	fest
 21133	festakt
 21134	feta
+21135	fete
