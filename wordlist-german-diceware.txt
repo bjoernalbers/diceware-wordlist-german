@@ -1478,3 +1478,4 @@
 21612	fuge
 21613	fuhre
 21614	fummel
+21615	fummeln
