@@ -1300,3 +1300,4 @@ fenchel
 fenster
 ferien
 fern
+ferne

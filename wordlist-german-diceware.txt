@@ -1300,3 +1300,4 @@
 21114	fenster
 21115	ferien
 21116	fern
+21121	ferne
