@@ -1420,3 +1420,4 @@ fond
 fondant
 fondue
 foppen
+fordern

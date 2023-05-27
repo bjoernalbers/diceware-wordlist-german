@@ -1420,3 +1420,4 @@
 21434	fondant
 21435	fondue
 21436	foppen
+21441	fordern
