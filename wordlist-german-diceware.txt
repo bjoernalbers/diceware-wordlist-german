@@ -1487,3 +1487,4 @@
 21625	funkeln
 21626	funken
 21631	funker
+21632	funkuhr
