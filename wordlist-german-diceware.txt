@@ -1500,3 +1500,4 @@
 21646	futon
 21651	futsch
 21652	futter
+21653	futtern
