@@ -1368,3 +1368,4 @@
 21266	flansch
 21311	flasche
 21312	flaum
+21313	flause
