@@ -1407,3 +1407,4 @@
 21413	flusig
 21414	fluss
 21415	flut
+21416	fluten
