@@ -1416,3 +1416,4 @@
 21426	folgen
 21431	folgern
 21432	folie
+21433	fond
