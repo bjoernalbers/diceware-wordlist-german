@@ -1496,3 +1496,4 @@
 21642	fusel
 21643	fusion
 21644	fussel
+21645	fusseln

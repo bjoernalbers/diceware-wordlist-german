@@ -1496,3 +1496,4 @@ furore
 fusel
 fusion
 fussel
+fusseln
