@@ -1321,3 +1321,4 @@
 21151	fidschi
 21152	fiedeln
 21153	fiepen
+21154	figur
