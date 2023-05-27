@@ -1444,3 +1444,4 @@ frack
 frage
 fragen
 fragil
+fraktur

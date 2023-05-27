@@ -1444,3 +1444,4 @@
 21514	frage
 21515	fragen
 21516	fragil
+21521	fraktur
