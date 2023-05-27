@@ -1483,3 +1483,4 @@ Fund
 Fundort
 Fundus
 Funk
+Funke

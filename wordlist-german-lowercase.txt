@@ -1483,3 +1483,4 @@ fund
 fundort
 fundus
 funk
+funke
