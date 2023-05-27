@@ -1322,3 +1322,4 @@
 21152	fiedeln
 21153	fiepen
 21154	figur
+21155	fiktiv

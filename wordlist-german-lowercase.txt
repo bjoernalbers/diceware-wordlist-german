@@ -1322,3 +1322,4 @@ fidschi
 fiedeln
 fiepen
 figur
+fiktiv
