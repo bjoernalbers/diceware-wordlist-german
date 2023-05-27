@@ -1363,3 +1363,4 @@
 21261	flakon
 21262	flamme
 21263	flanell
+21264	flanke
