@@ -1422,3 +1422,4 @@
 21436	foppen
 21441	fordern
 21442	forelle
+21443	forke
