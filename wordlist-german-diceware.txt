@@ -1401,3 +1401,4 @@
 21363	flug
 21364	flunder
 21365	fluorid
+21366	fluppe
