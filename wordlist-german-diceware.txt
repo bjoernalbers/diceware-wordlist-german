@@ -1553,3 +1553,4 @@
 22215	gecko
 22216	gedanke
 22221	gedeck
+22222	gedicht
