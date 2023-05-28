@@ -1501,3 +1501,4 @@
 21651	futsch
 21652	futter
 21653	futtern
+21654	gabe
