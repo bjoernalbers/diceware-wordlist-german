@@ -1564,3 +1564,4 @@
 22234	gehen
 22235	gehilfe
 22236	gehirn
+22241	gehrung
