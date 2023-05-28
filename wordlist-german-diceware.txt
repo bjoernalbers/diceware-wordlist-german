@@ -1567,3 +1567,4 @@
 22241	gehrung
 22242	gehweg
 22243	geiern
+22244	geige
