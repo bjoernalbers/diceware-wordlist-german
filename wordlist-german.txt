@@ -1561,3 +1561,4 @@ Gegner
 Gehalt
 Gehege
 geheim
+gehen

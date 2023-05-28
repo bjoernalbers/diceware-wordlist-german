@@ -1561,3 +1561,4 @@
 22231	gehalt
 22232	gehege
 22233	geheim
+22234	gehen
