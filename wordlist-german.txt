@@ -1554,3 +1554,4 @@ Gecko
 Gedanke
 Gedeck
 Gedicht
+Geduld

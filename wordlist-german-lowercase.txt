@@ -1554,3 +1554,4 @@ gecko
 gedanke
 gedeck
 gedicht
+geduld

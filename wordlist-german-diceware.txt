@@ -1554,3 +1554,4 @@
 22216	gedanke
 22221	gedeck
 22222	gedicht
+22223	geduld
