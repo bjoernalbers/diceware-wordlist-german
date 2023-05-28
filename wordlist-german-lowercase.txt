@@ -1558,3 +1558,4 @@ geduld
 geek
 gegend
 gegner
+gehalt
