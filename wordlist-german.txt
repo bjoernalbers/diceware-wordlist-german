@@ -1509,3 +1509,4 @@ Gadget
 Gag
 Gage
 Gala
+galant
