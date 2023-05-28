@@ -1547,3 +1547,4 @@
 22165	geber
 22166	gebiet
 22211	gebilde
+22212	gebirge
