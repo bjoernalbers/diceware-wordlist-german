@@ -1533,3 +1533,4 @@ gasherd
 gasofen
 gasse
 gast
+gasthof

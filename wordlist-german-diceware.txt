@@ -1533,3 +1533,4 @@
 22143	gasofen
 22144	gasse
 22145	gast
+22146	gasthof
