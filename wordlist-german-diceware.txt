@@ -1526,3 +1526,4 @@
 22132	gardine
 22133	garen
 22134	garn
+22135	garnele
