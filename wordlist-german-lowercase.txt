@@ -1529,3 +1529,4 @@ garn
 garnele
 garten
 gas
+gasherd
