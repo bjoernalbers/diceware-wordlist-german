@@ -1535,3 +1535,4 @@
 22145	gast
 22146	gasthof
 22151	gasuhr
+22152	gaswerk
