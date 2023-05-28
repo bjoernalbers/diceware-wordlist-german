@@ -1563,3 +1563,4 @@
 22233	geheim
 22234	gehen
 22235	gehilfe
+22236	gehirn
