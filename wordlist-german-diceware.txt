@@ -1565,3 +1565,4 @@
 22235	gehilfe
 22236	gehirn
 22241	gehrung
+22242	gehweg
