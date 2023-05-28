@@ -1549,3 +1549,4 @@ gebiet
 gebilde
 gebirge
 gebiss
+geburt
