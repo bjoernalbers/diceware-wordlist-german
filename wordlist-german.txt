@@ -1530,3 +1530,4 @@ Garnele
 Garten
 Gas
 Gasherd
+Gasofen

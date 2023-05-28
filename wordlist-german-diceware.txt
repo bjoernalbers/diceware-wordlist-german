@@ -1530,3 +1530,4 @@
 22136	garten
 22141	gas
 22142	gasherd
+22143	gasofen
