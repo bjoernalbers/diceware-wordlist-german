@@ -1520,3 +1520,4 @@
 22122	gaming
 22123	gamma
 22124	gang
+22125	ganz
