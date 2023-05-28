@@ -1518,3 +1518,4 @@
 22116	gamepad
 22121	gamer
 22122	gaming
+22123	gamma
