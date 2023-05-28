@@ -1548,3 +1548,4 @@
 22166	gebiet
 22211	gebilde
 22212	gebirge
+22213	gebiss

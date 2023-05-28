@@ -1548,3 +1548,4 @@ geber
 gebiet
 gebilde
 gebirge
+gebiss
