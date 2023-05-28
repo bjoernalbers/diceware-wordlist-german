@@ -1552,3 +1552,4 @@ gebiss
 geburt
 gecko
 gedanke
+gedeck

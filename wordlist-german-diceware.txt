@@ -1552,3 +1552,4 @@
 22214	geburt
 22215	gecko
 22216	gedanke
+22221	gedeck
