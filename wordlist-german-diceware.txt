@@ -1551,3 +1551,4 @@
 22213	gebiss
 22214	geburt
 22215	gecko
+22216	gedanke
