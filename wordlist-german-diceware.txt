@@ -1556,3 +1556,4 @@
 22222	gedicht
 22223	geduld
 22224	geek
+22225	gegend
