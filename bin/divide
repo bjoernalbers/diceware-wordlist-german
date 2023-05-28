@@ -31,4 +31,5 @@ if [[ -n "$(ls "${OUTPUT_DIR}")" ]]; then
 fi
 
 prefix="$(basename "${file}")."
+file="$(realpath "${file}")"
 cd "${OUTPUT_DIR}" && split -l "${MAX_LINES}" -d "${file}" "${prefix}"
