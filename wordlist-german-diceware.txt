@@ -1503,3 +1503,4 @@
 21653	futtern
 21654	gabe
 21655	gabel
+21656	gabeln
