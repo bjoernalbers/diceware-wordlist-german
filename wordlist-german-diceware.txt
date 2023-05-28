@@ -1555,3 +1555,4 @@
 22221	gedeck
 22222	gedicht
 22223	geduld
+22224	geek
