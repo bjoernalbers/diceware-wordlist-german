@@ -1523,3 +1523,4 @@
 22125	ganz
 22126	gar
 22131	garage
+22132	gardine
