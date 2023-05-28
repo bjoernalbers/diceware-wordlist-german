@@ -1559,3 +1559,4 @@
 22225	gegend
 22226	gegner
 22231	gehalt
+22232	gehege
