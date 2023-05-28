@@ -1516,3 +1516,4 @@ Galerie
 Galopp
 Game
 Gamepad
+Gamer

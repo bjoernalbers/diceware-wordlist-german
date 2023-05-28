@@ -1516,3 +1516,4 @@
 22114	galopp
 22115	game
 22116	gamepad
+22121	gamer
