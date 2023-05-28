@@ -1538,3 +1538,4 @@
 22152	gaswerk
 22153	gate
 22154	gatte
+22155	gatter

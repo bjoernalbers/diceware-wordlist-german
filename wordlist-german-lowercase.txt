@@ -1538,3 +1538,4 @@ gasuhr
 gaswerk
 gate
 gatte
+gatter
