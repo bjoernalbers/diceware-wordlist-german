@@ -1511,3 +1511,4 @@
 21665	gala
 21666	galant
 22111	galaxie
+22112	galaxis
