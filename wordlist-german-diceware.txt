@@ -1534,3 +1534,4 @@
 22144	gasse
 22145	gast
 22146	gasthof
+22151	gasuhr
