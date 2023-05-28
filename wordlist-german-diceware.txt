@@ -1515,3 +1515,4 @@
 22113	galerie
 22114	galopp
 22115	game
+22116	gamepad
