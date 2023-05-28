@@ -1513,3 +1513,4 @@
 22111	galaxie
 22112	galaxis
 22113	galerie
+22114	galopp
