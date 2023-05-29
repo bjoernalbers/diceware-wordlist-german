@@ -1648,3 +1648,4 @@ glatt
 gleich
 gleis
 gleiten
+glimmen
