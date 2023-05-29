@@ -1778,3 +1778,4 @@ hart
 harz
 harzer
 hase
+hasel
