@@ -1622,3 +1622,4 @@ Geweih
 Gewerbe
 Gewerk
 Gewinde
+Gewinn

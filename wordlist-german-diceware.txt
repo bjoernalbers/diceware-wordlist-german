@@ -1622,3 +1622,4 @@
 22412	gewerbe
 22413	gewerk
 22414	gewinde
+22415	gewinn

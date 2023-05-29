@@ -1622,3 +1622,4 @@ geweih
 gewerbe
 gewerk
 gewinde
+gewinn
