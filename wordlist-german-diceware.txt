@@ -1710,3 +1710,4 @@
 22636	grusel
 22641	gruseln
 22642	gucken
+22643	gulasch
