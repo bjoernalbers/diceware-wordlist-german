@@ -1762,3 +1762,4 @@ Handel
 handeln
 Handy
 Hang
+Hangar
