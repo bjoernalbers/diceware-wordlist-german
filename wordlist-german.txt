@@ -1786,3 +1786,4 @@ Hauch
 hauchen
 Haupt
 Hauruck
+Haus
