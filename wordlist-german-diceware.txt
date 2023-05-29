@@ -1755,3 +1755,4 @@
 23153	halter
 23154	haltung
 23155	hammer
+23156	hampeln

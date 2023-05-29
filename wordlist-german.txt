@@ -1755,3 +1755,4 @@ halten
 Halter
 Haltung
 Hammer
+hampeln

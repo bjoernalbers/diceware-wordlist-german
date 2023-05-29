@@ -1755,3 +1755,4 @@ halten
 halter
 haltung
 hammer
+hampeln
