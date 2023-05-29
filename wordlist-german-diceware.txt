@@ -1773,3 +1773,4 @@
 23223	harke
 23224	harken
 23225	harmlos
+23226	harpune
