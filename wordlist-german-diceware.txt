@@ -1650,3 +1650,4 @@
 22456	gleiten
 22461	glimmen
 22462	glitter
+22463	glitzer

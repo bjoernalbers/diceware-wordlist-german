@@ -1650,3 +1650,4 @@ Gleis
 gleiten
 glimmen
 Glitter
+Glitzer
