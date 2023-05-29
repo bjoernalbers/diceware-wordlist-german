@@ -1713,3 +1713,4 @@ gucken
 gulasch
 gulden
 gully
+gummi

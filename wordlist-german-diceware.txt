@@ -1713,3 +1713,4 @@
 22643	gulasch
 22644	gulden
 22645	gully
+22646	gummi
