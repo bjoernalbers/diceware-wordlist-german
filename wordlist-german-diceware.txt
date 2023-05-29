@@ -1575,3 +1575,4 @@
 22253	gelb
 22254	geld
 22255	gelee
+22256	gelenk
