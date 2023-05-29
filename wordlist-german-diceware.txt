@@ -1639,3 +1639,4 @@
 22441	giraffe
 22442	gitarre
 22443	gitter
+22444	glanz
