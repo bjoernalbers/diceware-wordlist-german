@@ -1655,3 +1655,4 @@
 22465	globus
 22466	glocke
 22511	glossar
+22512	glucose
