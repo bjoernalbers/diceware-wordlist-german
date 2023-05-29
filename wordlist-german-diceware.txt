@@ -1603,3 +1603,4 @@
 22341	gering
 22342	gerste
 22343	gerte
+22344	geruch
