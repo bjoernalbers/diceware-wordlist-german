@@ -1657,3 +1657,4 @@
 22511	glossar
 22512	glucose
 22513	glut
+22514	glutrot
