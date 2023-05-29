@@ -1625,3 +1625,4 @@
 22415	gewinn
 22416	gewiss
 22421	gewitzt
+22422	geysir
