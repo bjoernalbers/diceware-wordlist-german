@@ -1732,3 +1732,4 @@ hacker
 hafen
 hafer
 haften
+hagel
