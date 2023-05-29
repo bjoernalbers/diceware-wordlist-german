@@ -1593,3 +1593,4 @@ genom
 genre
 gentest
 genuss
+geologe
