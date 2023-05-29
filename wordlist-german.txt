@@ -1643,3 +1643,4 @@ Glanz
 Glas
 Glaser
 glasig
+Glasur

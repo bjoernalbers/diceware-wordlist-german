@@ -1643,3 +1643,4 @@
 22445	glas
 22446	glaser
 22451	glasig
+22452	glasur
