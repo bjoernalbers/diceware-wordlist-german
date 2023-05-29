@@ -1588,3 +1588,4 @@
 22314	genial
 22315	genick
 22316	genie
+22321	genitiv
