@@ -1764,3 +1764,4 @@ handy
 hang
 hangar
 hangeln
+hantel

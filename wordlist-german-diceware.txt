@@ -1764,3 +1764,4 @@
 23166	hang
 23211	hangar
 23212	hangeln
+23213	hantel
