@@ -1761,3 +1761,4 @@ hand
 handel
 handeln
 handy
+hang
