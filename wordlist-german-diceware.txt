@@ -1647,3 +1647,4 @@
 22453	glatt
 22454	gleich
 22455	gleis
+22456	gleiten

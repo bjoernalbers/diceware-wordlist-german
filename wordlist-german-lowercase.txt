@@ -1647,3 +1647,4 @@ glasur
 glatt
 gleich
 gleis
+gleiten
