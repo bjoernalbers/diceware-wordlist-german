@@ -1644,3 +1644,4 @@
 22446	glaser
 22451	glasig
 22452	glasur
+22453	glatt

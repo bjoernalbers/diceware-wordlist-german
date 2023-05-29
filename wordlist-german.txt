@@ -1644,3 +1644,4 @@ Glas
 Glaser
 glasig
 Glasur
+glatt
