@@ -1616,3 +1616,4 @@
 22362	gestein
 22363	gestell
 22364	gesund
+22365	gewand
