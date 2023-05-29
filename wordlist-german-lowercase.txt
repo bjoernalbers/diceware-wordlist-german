@@ -1753,3 +1753,4 @@ halt
 haltbar
 halten
 halter
+haltung

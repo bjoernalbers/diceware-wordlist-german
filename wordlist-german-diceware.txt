@@ -1753,3 +1753,4 @@
 23151	haltbar
 23152	halten
 23153	halter
+23154	haltung
