@@ -1731,3 +1731,4 @@
 23113	hacker
 23114	hafen
 23115	hafer
+23116	haften
