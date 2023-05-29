@@ -1624,3 +1624,4 @@ gewerk
 gewinde
 gewinn
 gewiss
+gewitzt

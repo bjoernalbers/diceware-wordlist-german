@@ -1624,3 +1624,4 @@
 22414	gewinde
 22415	gewinn
 22416	gewiss
+22421	gewitzt
