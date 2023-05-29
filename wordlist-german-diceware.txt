@@ -1784,3 +1784,4 @@
 23242	haube
 23243	hauch
 23244	hauchen
+23245	haupt
