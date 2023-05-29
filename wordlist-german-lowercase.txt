@@ -1787,3 +1787,4 @@ hauchen
 haupt
 hauruck
 haus
+hausrat

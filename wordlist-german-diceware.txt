@@ -1787,3 +1787,4 @@
 23245	haupt
 23246	hauruck
 23251	haus
+23252	hausrat

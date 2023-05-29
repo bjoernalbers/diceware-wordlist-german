@@ -1787,3 +1787,4 @@ hauchen
 Haupt
 Hauruck
 Haus
+Hausrat
