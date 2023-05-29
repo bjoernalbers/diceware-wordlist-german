@@ -1581,3 +1581,4 @@
 22263	gemahl
 22264	gemisch
 22265	gen
+22266	genau

@@ -1581,3 +1581,4 @@ gelten
 Gemahl
 Gemisch
 Gen
+genau

@@ -1581,3 +1581,4 @@ gelten
 gemahl
 gemisch
 gen
+genau
