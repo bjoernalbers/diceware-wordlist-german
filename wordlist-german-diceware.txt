@@ -1772,3 +1772,4 @@
 23222	harfe
 23223	harke
 23224	harken
+23225	harmlos
