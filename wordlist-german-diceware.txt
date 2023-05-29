@@ -1781,3 +1781,4 @@
 23235	hasel
 23236	hashtag
 23241	hastig
+23242	haube
