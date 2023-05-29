@@ -1646,3 +1646,4 @@
 22452	glasur
 22453	glatt
 22454	gleich
+22455	gleis
