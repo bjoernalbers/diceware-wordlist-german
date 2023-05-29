@@ -1610,3 +1610,4 @@ Geselle
 Gesetz
 Gesicht
 Gespann
+Gestalt

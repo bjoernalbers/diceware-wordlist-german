@@ -1610,3 +1610,4 @@
 22352	gesetz
 22353	gesicht
 22354	gespann
+22355	gestalt
