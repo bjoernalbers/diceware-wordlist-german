@@ -1752,3 +1752,4 @@ hals
 halt
 haltbar
 halten
+halter
