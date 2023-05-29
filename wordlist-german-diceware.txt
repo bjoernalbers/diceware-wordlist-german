@@ -1660,3 +1660,4 @@
 22514	glutrot
 22515	gnu
 22516	gockel
+22521	gokart
