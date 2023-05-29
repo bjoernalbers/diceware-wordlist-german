@@ -1629,3 +1629,4 @@
 22423	gezahnt
 22424	giebel
 22425	gig
+22426	gigant
