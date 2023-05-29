@@ -1758,3 +1758,4 @@
 23156	hampeln
 23161	hamster
 23162	hand
+23163	handel

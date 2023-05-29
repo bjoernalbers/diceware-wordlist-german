@@ -1758,3 +1758,4 @@ Hammer
 hampeln
 Hamster
 Hand
+Handel
