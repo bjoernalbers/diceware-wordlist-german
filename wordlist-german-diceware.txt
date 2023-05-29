@@ -1756,3 +1756,4 @@
 23154	haltung
 23155	hammer
 23156	hampeln
+23161	hamster

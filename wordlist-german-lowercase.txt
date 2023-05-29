@@ -1756,3 +1756,4 @@ halter
 haltung
 hammer
 hampeln
+hamster
