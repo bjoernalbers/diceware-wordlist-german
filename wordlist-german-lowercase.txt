@@ -1740,3 +1740,4 @@ haiku
 haken
 halb
 halbgar
+halfter

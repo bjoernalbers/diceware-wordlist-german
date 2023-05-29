@@ -1740,3 +1740,4 @@ Haiku
 Haken
 halb
 halbgar
+Halfter
