@@ -1678,3 +1678,4 @@ grad
 graf
 grafik
 grafit
+gramm

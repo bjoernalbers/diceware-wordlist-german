@@ -1678,3 +1678,4 @@
 22544	graf
 22545	grafik
 22546	grafit
+22551	gramm
