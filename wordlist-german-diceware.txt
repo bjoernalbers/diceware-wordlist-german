@@ -1739,3 +1739,4 @@
 23125	haiku
 23126	haken
 23131	halb
+23132	halbgar
