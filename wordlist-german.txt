@@ -1595,3 +1595,4 @@ Gentest
 Genuss
 Geologe
 Gepard
+gerade
