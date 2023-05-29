@@ -1592,3 +1592,4 @@ Genitiv
 Genom
 Genre
 Gentest
+Genuss

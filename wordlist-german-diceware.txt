@@ -1592,3 +1592,4 @@
 22322	genom
 22323	genre
 22324	gentest
+22325	genuss
