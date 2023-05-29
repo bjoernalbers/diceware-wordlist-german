@@ -1716,3 +1716,4 @@
 22646	gummi
 22651	gurgeln
 22652	gurke
+22653	gurt
