@@ -1777,3 +1777,4 @@
 23231	hart
 23232	harz
 23233	harzer
+23234	hase
