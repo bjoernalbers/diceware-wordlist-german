@@ -1621,3 +1621,4 @@
 22411	geweih
 22412	gewerbe
 22413	gewerk
+22414	gewinde

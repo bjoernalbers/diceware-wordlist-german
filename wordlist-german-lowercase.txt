@@ -1621,3 +1621,4 @@ gewebe
 geweih
 gewerbe
 gewerk
+gewinde

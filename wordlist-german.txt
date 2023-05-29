@@ -1621,3 +1621,4 @@ Gewebe
 Geweih
 Gewerbe
 Gewerk
+Gewinde
