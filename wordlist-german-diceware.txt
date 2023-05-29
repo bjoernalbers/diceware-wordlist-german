@@ -1580,3 +1580,4 @@
 22262	gelten
 22263	gemahl
 22264	gemisch
+22265	gen
