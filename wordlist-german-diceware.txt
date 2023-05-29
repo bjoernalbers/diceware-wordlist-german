@@ -1628,3 +1628,4 @@
 22422	geysir
 22423	gezahnt
 22424	giebel
+22425	gig
