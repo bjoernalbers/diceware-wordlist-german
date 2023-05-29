@@ -1745,3 +1745,4 @@
 23135	halle
 23136	hallen
 23141	hallo
+23142	halm
