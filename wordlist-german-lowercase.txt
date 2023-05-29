@@ -1760,3 +1760,4 @@ hamster
 hand
 handel
 handeln
+handy
