@@ -1785,3 +1785,4 @@
 23243	hauch
 23244	hauchen
 23245	haupt
+23246	hauruck
