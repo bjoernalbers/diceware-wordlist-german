@@ -1789,3 +1789,4 @@ Hauruck
 Haus
 Hausrat
 Haut
+hauteng
