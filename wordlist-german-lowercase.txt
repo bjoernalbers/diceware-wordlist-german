@@ -1749,3 +1749,4 @@ halm
 halma
 halogen
 hals
+halt
