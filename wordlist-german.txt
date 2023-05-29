@@ -1677,3 +1677,4 @@ Gracht
 Grad
 Graf
 Grafik
+Grafit
