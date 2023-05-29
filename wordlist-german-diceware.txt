@@ -1642,3 +1642,4 @@
 22444	glanz
 22445	glas
 22446	glaser
+22451	glasig
