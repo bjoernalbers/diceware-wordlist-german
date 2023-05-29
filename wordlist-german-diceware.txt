@@ -1591,3 +1591,4 @@
 22321	genitiv
 22322	genom
 22323	genre
+22324	gentest
