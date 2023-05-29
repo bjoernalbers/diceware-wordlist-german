@@ -1780,3 +1780,4 @@ Harzer
 Hase
 Hasel
 Hashtag
+hastig

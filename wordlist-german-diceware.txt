@@ -1780,3 +1780,4 @@
 23234	hase
 23235	hasel
 23236	hashtag
+23241	hastig
