@@ -1675,3 +1675,4 @@
 22541	grabung
 22542	gracht
 22543	grad
+22544	graf
