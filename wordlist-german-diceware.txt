@@ -1649,3 +1649,4 @@
 22455	gleis
 22456	gleiten
 22461	glimmen
+22462	glitter

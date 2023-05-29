@@ -1649,3 +1649,4 @@ gleich
 gleis
 gleiten
 glimmen
+glitter
