@@ -1618,3 +1618,4 @@
 22364	gesund
 22365	gewand
 22366	gewebe
+22411	geweih
