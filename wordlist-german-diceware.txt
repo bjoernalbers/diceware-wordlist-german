@@ -1705,3 +1705,4 @@
 22631	grube
 22632	grund
 22633	grunge
+22634	grunzen
