@@ -1589,3 +1589,4 @@ genial
 genick
 genie
 genitiv
+genom

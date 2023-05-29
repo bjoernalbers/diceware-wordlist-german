@@ -1589,3 +1589,4 @@
 22315	genick
 22316	genie
 22321	genitiv
+22322	genom
