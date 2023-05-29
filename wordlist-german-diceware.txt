@@ -1611,3 +1611,4 @@
 22353	gesicht
 22354	gespann
 22355	gestalt
+22356	geste
