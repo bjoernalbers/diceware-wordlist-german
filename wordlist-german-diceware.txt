@@ -1734,3 +1734,4 @@
 23116	haften
 23121	hagel
 23122	hageln
+23123	hahn

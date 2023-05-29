@@ -1734,3 +1734,4 @@ hafer
 haften
 hagel
 hageln
+hahn

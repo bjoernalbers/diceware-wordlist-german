@@ -1734,3 +1734,4 @@ Hafer
 haften
 Hagel
 hageln
+Hahn
