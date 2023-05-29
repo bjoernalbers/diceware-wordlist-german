@@ -1577,3 +1577,4 @@
 22255	gelee
 22256	gelenk
 22261	geloben
+22262	gelten
