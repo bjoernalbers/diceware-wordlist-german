@@ -1768,3 +1768,4 @@
 23214	happen
 23215	happig
 23216	happy
+23221	haptik
