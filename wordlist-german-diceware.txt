@@ -1775,3 +1775,4 @@
 23225	harmlos
 23226	harpune
 23231	hart
+23232	harz
