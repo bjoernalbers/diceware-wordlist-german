@@ -1620,3 +1620,4 @@ gewand
 gewebe
 geweih
 gewerbe
+gewerk
