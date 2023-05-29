@@ -1584,3 +1584,4 @@
 22266	genau
 22311	gendarm
 22312	genesen
+22313	genetik
