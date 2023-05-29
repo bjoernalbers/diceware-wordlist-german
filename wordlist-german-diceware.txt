@@ -1751,3 +1751,4 @@
 23145	hals
 23146	halt
 23151	haltbar
+23152	halten
