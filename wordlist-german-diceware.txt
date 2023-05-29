@@ -1600,3 +1600,4 @@
 22334	gerbera
 22335	gerecht
 22336	gericht
+22341	gering

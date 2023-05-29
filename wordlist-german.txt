@@ -1600,3 +1600,4 @@ Geranie
 Gerbera
 gerecht
 Gericht
+gering
