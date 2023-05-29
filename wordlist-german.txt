@@ -1711,3 +1711,4 @@ Grusel
 gruseln
 gucken
 Gulasch
+Gulden
