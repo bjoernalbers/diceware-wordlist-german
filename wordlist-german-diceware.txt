@@ -1714,3 +1714,4 @@
 22644	gulden
 22645	gully
 22646	gummi
+22651	gurgeln
