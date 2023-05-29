@@ -1759,3 +1759,4 @@ hampeln
 Hamster
 Hand
 Handel
+handeln
