@@ -1652,3 +1652,4 @@
 22462	glitter
 22463	glitzer
 22464	global
+22465	globus
