@@ -1757,3 +1757,4 @@
 23155	hammer
 23156	hampeln
 23161	hamster
+23162	hand

@@ -1757,3 +1757,4 @@ Haltung
 Hammer
 hampeln
 Hamster
+Hand
