@@ -1608,3 +1608,4 @@
 22346	gesang
 22351	geselle
 22352	gesetz
+22353	gesicht
