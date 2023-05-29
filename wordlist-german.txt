@@ -1717,3 +1717,4 @@ Gummi
 gurgeln
 Gurke
 Gurt
+Guru
