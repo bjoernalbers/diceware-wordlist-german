@@ -1726,3 +1726,4 @@ haargel
 haben
 habicht
 hack
+hacke
