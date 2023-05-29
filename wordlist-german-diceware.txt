@@ -1602,3 +1602,4 @@
 22336	gericht
 22341	gering
 22342	gerste
+22343	gerte
