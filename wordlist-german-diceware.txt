@@ -1587,3 +1587,4 @@
 22313	genetik
 22314	genial
 22315	genick
+22316	genie
