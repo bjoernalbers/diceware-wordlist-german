@@ -1585,3 +1585,4 @@
 22311	gendarm
 22312	genesen
 22313	genetik
+22314	genial
