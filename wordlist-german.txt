@@ -1573,3 +1573,4 @@ Geiger
 Geist
 Gel
 gelb
+Geld
