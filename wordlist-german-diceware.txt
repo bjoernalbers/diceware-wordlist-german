@@ -1720,3 +1720,4 @@
 22654	guru
 22655	gut
 22656	gutshof
+22661	gyros
