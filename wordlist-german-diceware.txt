@@ -1748,3 +1748,4 @@
 23142	halm
 23143	halma
 23144	halogen
+23145	hals
