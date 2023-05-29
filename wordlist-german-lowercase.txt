@@ -1623,3 +1623,4 @@ gewerbe
 gewerk
 gewinde
 gewinn
+gewiss

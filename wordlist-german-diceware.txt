@@ -1623,3 +1623,4 @@
 22413	gewerk
 22414	gewinde
 22415	gewinn
+22416	gewiss
