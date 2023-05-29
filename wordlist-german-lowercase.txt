@@ -1727,3 +1727,4 @@ haben
 habicht
 hack
 hacke
+hacken
