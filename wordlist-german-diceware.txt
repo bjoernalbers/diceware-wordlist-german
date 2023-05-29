@@ -1687,3 +1687,4 @@
 22561	gratin
 22562	grau
 22563	graupel
+22564	grauwal
