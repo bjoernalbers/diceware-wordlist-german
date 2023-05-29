@@ -1586,3 +1586,4 @@
 22312	genesen
 22313	genetik
 22314	genial
+22315	genick
