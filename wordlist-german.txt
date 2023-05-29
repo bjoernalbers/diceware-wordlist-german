@@ -1750,3 +1750,4 @@ Halma
 Halogen
 Hals
 Halt
+haltbar

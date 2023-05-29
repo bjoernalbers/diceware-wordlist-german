@@ -1750,3 +1750,4 @@
 23144	halogen
 23145	hals
 23146	halt
+23151	haltbar
