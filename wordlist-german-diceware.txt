@@ -1742,3 +1742,4 @@
 23132	halbgar
 23133	halfter
 23134	hall
+23135	halle

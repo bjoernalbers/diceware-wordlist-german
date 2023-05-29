@@ -1742,3 +1742,4 @@ halb
 halbgar
 halfter
 hall
+halle
