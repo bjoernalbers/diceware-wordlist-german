@@ -1733,3 +1733,4 @@
 23115	hafer
 23116	haften
 23121	hagel
+23122	hageln
