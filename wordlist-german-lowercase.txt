@@ -1619,3 +1619,4 @@ gesund
 gewand
 gewebe
 geweih
+gewerbe

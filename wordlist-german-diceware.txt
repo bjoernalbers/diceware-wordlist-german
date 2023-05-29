@@ -1619,3 +1619,4 @@
 22365	gewand
 22366	gewebe
 22411	geweih
+22412	gewerbe
