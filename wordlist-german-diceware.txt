@@ -1637,3 +1637,4 @@
 22435	gips
 22436	gipsen
 22441	giraffe
+22442	gitarre
