@@ -1848,3 +1848,4 @@
 23426	hetzen
 23431	heu
 23432	heulen
+23433	hexagon
