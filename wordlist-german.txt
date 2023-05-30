@@ -1798,3 +1798,4 @@ Hebel
 heben
 hecheln
 Hecht
+hechten

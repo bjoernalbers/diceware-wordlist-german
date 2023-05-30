@@ -1798,3 +1798,4 @@
 23264	heben
 23265	hecheln
 23266	hecht
+23311	hechten

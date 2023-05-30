@@ -1798,3 +1798,4 @@ hebel
 heben
 hecheln
 hecht
+hechten
