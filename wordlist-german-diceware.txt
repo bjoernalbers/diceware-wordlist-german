@@ -1894,3 +1894,4 @@
 23544	holprig
 23545	holster
 23546	holz
+23551	holzig
