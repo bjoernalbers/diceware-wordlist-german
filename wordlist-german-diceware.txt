@@ -2093,3 +2093,4 @@
 24515	juror
 24516	jurte
 24521	jury
+24522	justiz

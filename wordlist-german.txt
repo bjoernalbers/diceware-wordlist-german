@@ -2093,3 +2093,4 @@ Jurist
 Juror
 Jurte
 Jury
+Justiz
