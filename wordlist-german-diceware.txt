@@ -1986,3 +1986,4 @@
 24216	indie
 24221	indiz
 24222	infekt
+24223	inferno
