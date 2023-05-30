@@ -1955,3 +1955,4 @@
 24125	hymne
 24126	hype
 24131	hypen
+24132	hypnose
