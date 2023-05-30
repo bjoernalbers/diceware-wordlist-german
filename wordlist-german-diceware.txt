@@ -2075,3 +2075,4 @@
 24445	jubel
 24446	jubeln
 24451	jubilar
+24452	juchzen
