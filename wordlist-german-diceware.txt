@@ -1842,3 +1842,4 @@
 23416	herde
 23421	hering
 23422	herr
+23423	herz
