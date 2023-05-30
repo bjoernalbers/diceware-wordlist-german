@@ -1850,3 +1850,4 @@
 23432	heulen
 23433	hexagon
 23434	hexen
+23435	hexerei
