@@ -1898,3 +1898,4 @@
 23552	holzweg
 23553	hommage
 23554	homogen
+23555	honig
