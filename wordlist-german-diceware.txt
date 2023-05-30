@@ -1923,3 +1923,4 @@
 23633	hotline
 23634	hotspot
 23635	hub
+23636	hubraum

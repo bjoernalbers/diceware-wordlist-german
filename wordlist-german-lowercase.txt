@@ -1923,3 +1923,4 @@ hotel
 hotline
 hotspot
 hub
+hubraum
