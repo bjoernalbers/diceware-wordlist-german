@@ -1804,3 +1804,4 @@
 23314	heft
 23315	heften
 23316	hefter
+23321	heftig
