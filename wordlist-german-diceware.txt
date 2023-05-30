@@ -2009,3 +2009,4 @@
 24255	insulin
 24256	intakt
 24261	intern
+24262	intrige
