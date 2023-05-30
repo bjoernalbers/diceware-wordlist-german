@@ -1981,3 +1981,4 @@
 24211	impuls
 24212	inaktiv
 24213	inbus
+24214	inch
