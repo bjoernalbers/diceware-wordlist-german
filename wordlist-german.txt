@@ -1822,3 +1822,4 @@ Heirat
 heiser
 heiter
 heizen
+Heizung

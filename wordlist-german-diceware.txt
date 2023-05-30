@@ -1822,3 +1822,4 @@
 23344	heiser
 23345	heiter
 23346	heizen
+23351	heizung
