@@ -2012,3 +2012,4 @@ intern
 intrige
 intro
 invasiv
+invers

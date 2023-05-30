@@ -2012,3 +2012,4 @@
 24262	intrige
 24263	intro
 24264	invasiv
+24265	invers
