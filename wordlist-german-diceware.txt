@@ -1797,3 +1797,4 @@
 23263	hebel
 23264	heben
 23265	hecheln
+23266	hecht
