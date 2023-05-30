@@ -2060,3 +2060,4 @@ jobben
 Jockey
 Jod
 jodeln
+Jodler
