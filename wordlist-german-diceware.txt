@@ -1985,3 +1985,4 @@
 24215	index
 24216	indie
 24221	indiz
+24222	infekt
