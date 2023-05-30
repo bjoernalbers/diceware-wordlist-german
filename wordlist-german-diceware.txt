@@ -1813,3 +1813,4 @@
 23331	heilen
 23332	heiler
 23333	heillos
+23334	heilung
