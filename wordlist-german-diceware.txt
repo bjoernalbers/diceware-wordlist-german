@@ -2097,3 +2097,4 @@
 24523	jute
 24524	juvenil
 24525	juwel
+24526	jux
