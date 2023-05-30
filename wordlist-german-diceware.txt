@@ -1926,3 +1926,4 @@
 23636	hubraum
 23641	huckel
 23642	hucklig
+23643	huf

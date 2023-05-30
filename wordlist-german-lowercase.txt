@@ -1926,3 +1926,4 @@ hub
 hubraum
 huckel
 hucklig
+huf
