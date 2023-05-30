@@ -1979,3 +1979,4 @@
 24165	impfung
 24166	import
 24211	impuls
+24212	inaktiv
