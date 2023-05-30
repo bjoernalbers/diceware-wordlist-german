@@ -1948,3 +1948,4 @@
 24114	huschen
 24115	husky
 24116	husten
+24121	hut
