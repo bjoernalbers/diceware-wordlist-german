@@ -1963,3 +1963,4 @@
 24141	idylle
 24142	igel
 24143	iglu
+24144	ikone
