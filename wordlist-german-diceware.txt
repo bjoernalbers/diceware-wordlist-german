@@ -1976,3 +1976,4 @@
 24162	immun
 24163	impetus
 24164	impfen
+24165	impfung

@@ -1976,3 +1976,4 @@ immens
 immun
 Impetus
 impfen
+Impfung
