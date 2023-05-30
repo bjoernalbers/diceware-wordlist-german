@@ -2015,3 +2015,4 @@
 24265	invers
 24266	ion
 24311	ionisch
+24312	irdisch
