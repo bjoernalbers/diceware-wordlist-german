@@ -1942,3 +1942,4 @@ hunger
 hungrig
 hunni
 hupe
+hupen
