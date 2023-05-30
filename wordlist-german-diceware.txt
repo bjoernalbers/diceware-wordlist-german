@@ -1877,3 +1877,4 @@
 23515	hiwi
 23516	hobbit
 23521	hobby
+23522	hobel
