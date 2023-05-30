@@ -1922,3 +1922,4 @@
 23632	hotel
 23633	hotline
 23634	hotspot
+23635	hub
