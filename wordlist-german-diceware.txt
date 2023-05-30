@@ -2014,3 +2014,4 @@
 24264	invasiv
 24265	invers
 24266	ion
+24311	ionisch
