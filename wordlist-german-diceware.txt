@@ -1902,3 +1902,4 @@
 23556	honorar
 23561	hoodie
 23562	hopfen
+23563	hoppeln
