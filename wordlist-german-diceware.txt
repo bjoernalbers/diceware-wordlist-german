@@ -1904,3 +1904,4 @@
 23562	hopfen
 23563	hoppeln
 23564	hops
+23565	hopsen
