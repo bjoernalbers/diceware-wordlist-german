@@ -1800,3 +1800,4 @@
 23266	hecht
 23311	hechten
 23312	hecke
+23313	hefe

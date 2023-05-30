@@ -1800,3 +1800,4 @@ hecheln
 hecht
 hechten
 hecke
+hefe
