@@ -1878,3 +1878,4 @@ hiwi
 hobbit
 hobby
 hobel
+hobeln
