@@ -1914,3 +1914,4 @@
 23616	horten
 23621	hose
 23622	host
+23623	hostel
