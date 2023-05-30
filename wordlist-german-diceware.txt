@@ -1818,3 +1818,4 @@
 23336	heimat
 23341	heimweg
 23342	heimweh
+23343	heirat
