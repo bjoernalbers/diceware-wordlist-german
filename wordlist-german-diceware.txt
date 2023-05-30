@@ -1835,3 +1835,4 @@
 23365	hemd
 23366	hengst
 23411	henkel
+23412	henne
