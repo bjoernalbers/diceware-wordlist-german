@@ -1805,3 +1805,4 @@ Heft
 heften
 Hefter
 heftig
+hegen

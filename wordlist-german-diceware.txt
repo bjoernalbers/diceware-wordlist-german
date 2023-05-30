@@ -1805,3 +1805,4 @@
 23315	heften
 23316	hefter
 23321	heftig
+23322	hegen
