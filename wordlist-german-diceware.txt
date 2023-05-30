@@ -2077,3 +2077,4 @@
 24451	jubilar
 24452	juchzen
 24453	juchzer
+24454	juckeln
