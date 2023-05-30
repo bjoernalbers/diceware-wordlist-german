@@ -1870,3 +1870,4 @@
 23464	hirsch
 23465	hirse
 23466	hirte
+23511	hissen
