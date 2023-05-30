@@ -1941,3 +1941,4 @@
 23663	hunger
 23664	hungrig
 23665	hunni
+23666	hupe
