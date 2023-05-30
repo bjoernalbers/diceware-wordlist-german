@@ -1957,3 +1957,4 @@
 24131	hypen
 24132	hypnose
 24133	icon
+24134	ideal
