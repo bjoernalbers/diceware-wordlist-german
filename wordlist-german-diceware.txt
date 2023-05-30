@@ -2044,3 +2044,4 @@
 24354	jazz
 24355	jazzen
 24356	jazzer
+24361	jeans
