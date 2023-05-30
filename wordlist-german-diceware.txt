@@ -2065,3 +2065,4 @@
 24431	joggen
 24432	jogger
 24433	jogging
+24434	joghurt

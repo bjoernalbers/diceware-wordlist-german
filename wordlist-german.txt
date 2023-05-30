@@ -2065,3 +2065,4 @@ Jodsalz
 joggen
 Jogger
 Jogging
+Joghurt
