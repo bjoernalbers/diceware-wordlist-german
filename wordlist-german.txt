@@ -1978,3 +1978,4 @@ Impetus
 impfen
 Impfung
 Import
+Impuls

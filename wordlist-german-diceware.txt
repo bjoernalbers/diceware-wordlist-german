@@ -1978,3 +1978,4 @@
 24164	impfen
 24165	impfung
 24166	import
+24211	impuls
