@@ -1859,3 +1859,4 @@
 23445	hindern
 23446	hinflug
 23451	hingabe
+23452	hinken
