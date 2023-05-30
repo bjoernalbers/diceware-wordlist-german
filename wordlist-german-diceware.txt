@@ -1838,3 +1838,4 @@
 23412	henne
 23413	herb
 23414	herbst
+23415	herd
