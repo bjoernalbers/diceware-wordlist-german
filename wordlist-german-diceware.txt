@@ -1954,3 +1954,4 @@
 24124	hygiene
 24125	hymne
 24126	hype
+24131	hypen
