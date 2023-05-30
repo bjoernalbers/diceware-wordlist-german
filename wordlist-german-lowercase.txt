@@ -1889,3 +1889,4 @@ hof
 hoffen
 hoftor
 hoheit
+holding

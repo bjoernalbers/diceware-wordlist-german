@@ -1889,3 +1889,4 @@
 23535	hoffen
 23536	hoftor
 23541	hoheit
+23542	holding
