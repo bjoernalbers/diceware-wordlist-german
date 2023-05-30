@@ -1884,3 +1884,4 @@
 23526	hocke
 23531	hocken
 23532	hocker
+23533	hockey
