@@ -1921,3 +1921,4 @@ Hosting
 Hotdog
 Hotel
 Hotline
+Hotspot
