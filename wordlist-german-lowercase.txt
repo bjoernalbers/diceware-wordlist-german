@@ -2074,3 +2074,4 @@ joule
 journal
 jubel
 jubeln
+jubilar
