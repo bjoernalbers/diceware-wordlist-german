@@ -1840,3 +1840,4 @@
 23414	herbst
 23415	herd
 23416	herde
+23421	hering
