@@ -2047,3 +2047,4 @@
 24361	jeans
 24362	jeck
 24363	jeep
+24364	jersey
