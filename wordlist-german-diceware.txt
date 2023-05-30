@@ -1990,3 +1990,4 @@
 24224	infinit
 24225	info
 24226	infobox
+24231	ingwer
