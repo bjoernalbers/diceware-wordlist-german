@@ -1925,3 +1925,4 @@ hotspot
 hub
 hubraum
 huckel
+hucklig

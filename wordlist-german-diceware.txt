@@ -1925,3 +1925,4 @@
 23635	hub
 23636	hubraum
 23641	huckel
+23642	hucklig
