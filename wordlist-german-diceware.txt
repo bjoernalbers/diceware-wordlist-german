@@ -2098,3 +2098,4 @@
 24524	juvenil
 24525	juwel
 24526	jux
+24531	juxen
