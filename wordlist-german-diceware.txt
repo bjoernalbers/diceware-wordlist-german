@@ -2002,3 +2002,4 @@
 24244	innung
 24245	input
 24246	insekt
+24251	insel
