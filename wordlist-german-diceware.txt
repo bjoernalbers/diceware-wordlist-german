@@ -1949,3 +1949,4 @@
 24115	husky
 24116	husten
 24121	hut
+24122	hybrid
