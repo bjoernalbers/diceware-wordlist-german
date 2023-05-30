@@ -1823,3 +1823,4 @@ heiser
 heiter
 heizen
 Heizung
+Hektar

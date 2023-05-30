@@ -1823,3 +1823,4 @@
 23345	heiter
 23346	heizen
 23351	heizung
+23352	hektar
