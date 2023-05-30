@@ -2094,3 +2094,4 @@ juror
 jurte
 jury
 justiz
+jute
