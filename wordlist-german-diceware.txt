@@ -2004,3 +2004,4 @@
 24246	insekt
 24251	insel
 24252	inserat
+24253	insider
