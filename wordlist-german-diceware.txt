@@ -2067,3 +2067,4 @@
 24433	jogging
 24434	joghurt
 24435	jojo
+24436	joke
