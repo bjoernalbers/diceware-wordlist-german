@@ -2089,3 +2089,4 @@
 24511	juni
 24512	junior
 24513	jura
+24514	jurist
