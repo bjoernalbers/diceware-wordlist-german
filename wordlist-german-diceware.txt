@@ -1972,3 +1972,4 @@
 24154	imker
 24155	imkerei
 24156	imkern
+24161	immens
