@@ -2078,3 +2078,4 @@
 24452	juchzen
 24453	juchzer
 24454	juckeln
+24455	jucken
