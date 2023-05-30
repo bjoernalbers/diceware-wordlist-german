@@ -1928,3 +1928,4 @@ huckel
 hucklig
 huf
 huhn
+hulk
