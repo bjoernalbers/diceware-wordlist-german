@@ -1994,3 +1994,4 @@
 24232	inhaber
 24233	inhalt
 24234	initial
+24235	inkasso
