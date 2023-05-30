@@ -1833,3 +1833,4 @@
 23363	hellrot
 23364	helm
 23365	hemd
+23366	hengst
