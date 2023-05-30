@@ -1927,3 +1927,4 @@ hubraum
 huckel
 hucklig
 huf
+huhn
