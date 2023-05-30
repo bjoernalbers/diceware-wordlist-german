@@ -1984,3 +1984,4 @@
 24214	inch
 24215	index
 24216	indie
+24221	indiz
