@@ -1883,3 +1883,4 @@
 23525	hochsee
 23526	hocke
 23531	hocken
+23532	hocker
