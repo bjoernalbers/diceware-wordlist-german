@@ -1946,3 +1946,4 @@ hupen
 hurra
 hurtig
 huschen
+husky

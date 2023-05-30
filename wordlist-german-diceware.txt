@@ -1946,3 +1946,4 @@
 24112	hurra
 24113	hurtig
 24114	huschen
+24115	husky
