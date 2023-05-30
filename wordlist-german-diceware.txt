@@ -2073,3 +2073,4 @@
 24443	joule
 24444	journal
 24445	jubel
+24446	jubeln

@@ -2073,3 +2073,4 @@ jolle
 joule
 journal
 jubel
+jubeln
