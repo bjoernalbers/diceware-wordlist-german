@@ -1817,3 +1817,4 @@
 23335	heim
 23336	heimat
 23341	heimweg
+23342	heimweh
