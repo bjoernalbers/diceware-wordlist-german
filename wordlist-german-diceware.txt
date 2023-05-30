@@ -2095,3 +2095,4 @@
 24521	jury
 24522	justiz
 24523	jute
+24524	juvenil
