@@ -1880,3 +1880,4 @@ hobby
 hobel
 hobeln
 hoch
+hochsee

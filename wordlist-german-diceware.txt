@@ -1880,3 +1880,4 @@
 23522	hobel
 23523	hobeln
 23524	hoch
+23525	hochsee
