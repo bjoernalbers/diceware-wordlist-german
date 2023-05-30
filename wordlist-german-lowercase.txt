@@ -2028,3 +2028,4 @@ ischias
 issue
 istwert
 jacht
+jacke
