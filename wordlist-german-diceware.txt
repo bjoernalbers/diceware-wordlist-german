@@ -1952,3 +1952,4 @@
 24122	hybrid
 24123	hydrant
 24124	hygiene
+24125	hymne

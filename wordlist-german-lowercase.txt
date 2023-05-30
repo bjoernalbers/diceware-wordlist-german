@@ -1952,3 +1952,4 @@ hut
 hybrid
 hydrant
 hygiene
+hymne
