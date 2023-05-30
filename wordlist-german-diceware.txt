@@ -1982,3 +1982,4 @@
 24212	inaktiv
 24213	inbus
 24214	inch
+24215	index
