@@ -2024,3 +2024,4 @@
 24322	irren
 24323	irrtum
 24324	irrweg
+24325	ischias
