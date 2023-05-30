@@ -1938,3 +1938,4 @@ humor
 humpeln
 humus
 hund
+hunger
