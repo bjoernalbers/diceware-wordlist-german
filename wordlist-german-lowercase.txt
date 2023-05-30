@@ -1872,3 +1872,4 @@ hirse
 hirte
 hissen
 hit
+hitze
