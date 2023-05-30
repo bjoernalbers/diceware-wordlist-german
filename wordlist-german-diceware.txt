@@ -1825,3 +1825,4 @@
 23351	heizung
 23352	hektar
 23353	held
+23354	helfen
