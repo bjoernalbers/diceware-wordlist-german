@@ -1939,3 +1939,4 @@
 23661	humus
 23662	hund
 23663	hunger
+23664	hungrig

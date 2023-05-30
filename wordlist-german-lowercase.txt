@@ -1939,3 +1939,4 @@ humpeln
 humus
 hund
 hunger
+hungrig
