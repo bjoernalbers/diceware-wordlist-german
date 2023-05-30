@@ -2054,3 +2054,4 @@
 24412	jeton
 24413	jetpack
 24414	jetset
+24415	jetski
