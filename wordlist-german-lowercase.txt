@@ -1887,3 +1887,4 @@ hocker
 hockey
 hof
 hoffen
+hoftor

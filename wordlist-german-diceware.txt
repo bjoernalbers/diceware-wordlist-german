@@ -1887,3 +1887,4 @@
 23533	hockey
 23534	hof
 23535	hoffen
+23536	hoftor
