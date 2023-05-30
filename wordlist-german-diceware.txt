@@ -1873,3 +1873,4 @@
 23511	hissen
 23512	hit
 23513	hitze
+23514	hitzig
