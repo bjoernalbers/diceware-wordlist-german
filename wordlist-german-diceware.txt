@@ -1821,3 +1821,4 @@
 23343	heirat
 23344	heiser
 23345	heiter
+23346	heizen
