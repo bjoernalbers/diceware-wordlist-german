@@ -1893,3 +1893,4 @@
 23543	holen
 23544	holprig
 23545	holster
+23546	holz
