@@ -1956,3 +1956,4 @@ hymne
 hype
 hypen
 hypnose
+icon
