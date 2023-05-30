@@ -1875,3 +1875,4 @@
 23513	hitze
 23514	hitzig
 23515	hiwi
+23516	hobbit
