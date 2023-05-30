@@ -1882,3 +1882,4 @@ hobeln
 hoch
 hochsee
 hocke
+hocken
