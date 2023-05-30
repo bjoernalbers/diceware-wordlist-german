@@ -1897,3 +1897,4 @@
 23551	holzig
 23552	holzweg
 23553	hommage
+23554	homogen
