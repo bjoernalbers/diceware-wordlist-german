@@ -1980,3 +1980,4 @@ Impfung
 Import
 Impuls
 inaktiv
+Inbus
