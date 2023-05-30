@@ -2096,3 +2096,4 @@
 24522	justiz
 24523	jute
 24524	juvenil
+24525	juwel
