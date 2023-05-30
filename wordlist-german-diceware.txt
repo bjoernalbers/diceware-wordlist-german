@@ -2003,3 +2003,4 @@
 24245	input
 24246	insekt
 24251	insel
+24252	inserat
