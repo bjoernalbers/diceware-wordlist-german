@@ -2072,3 +2072,4 @@ joker
 jolle
 joule
 journal
+jubel
