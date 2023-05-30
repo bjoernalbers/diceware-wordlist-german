@@ -1929,3 +1929,4 @@ hucklig
 Huf
 Huhn
 Hulk
+human
