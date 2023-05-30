@@ -1998,3 +1998,4 @@
 24236	inland
 24241	inlay
 24242	inliner
+24243	innig
