@@ -1959,3 +1959,4 @@ hypnose
 icon
 ideal
 idee
+idol
