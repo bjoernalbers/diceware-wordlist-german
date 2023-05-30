@@ -1916,3 +1916,4 @@ hose
 host
 hostel
 hosten
+hoster

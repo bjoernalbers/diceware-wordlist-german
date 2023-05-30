@@ -1916,3 +1916,4 @@
 23622	host
 23623	hostel
 23624	hosten
+23625	hoster
