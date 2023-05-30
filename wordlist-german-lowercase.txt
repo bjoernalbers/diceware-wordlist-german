@@ -1790,3 +1790,4 @@ haus
 hausrat
 haut
 hauteng
+havarie

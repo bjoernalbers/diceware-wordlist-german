@@ -1790,3 +1790,4 @@
 23252	hausrat
 23253	haut
 23254	hauteng
+23255	havarie
