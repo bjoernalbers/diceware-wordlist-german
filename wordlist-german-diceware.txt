@@ -1987,3 +1987,4 @@
 24221	indiz
 24222	infekt
 24223	inferno
+24224	infinit
