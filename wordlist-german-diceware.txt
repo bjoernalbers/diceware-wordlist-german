@@ -1871,3 +1871,4 @@
 23465	hirse
 23466	hirte
 23511	hissen
+23512	hit
