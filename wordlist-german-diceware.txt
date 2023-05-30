@@ -2059,3 +2059,4 @@
 24421	jobben
 24422	jockey
 24423	jod
+24424	jodeln
