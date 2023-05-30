@@ -2071,3 +2071,4 @@
 24441	joker
 24442	jolle
 24443	joule
+24444	journal
