@@ -2091,3 +2091,4 @@
 24513	jura
 24514	jurist
 24515	juror
+24516	jurte
