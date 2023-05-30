@@ -2092,3 +2092,4 @@ Jura
 Jurist
 Juror
 Jurte
+Jury
