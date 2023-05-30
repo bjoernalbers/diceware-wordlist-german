@@ -1899,3 +1899,4 @@
 23553	hommage
 23554	homogen
 23555	honig
+23556	honorar
