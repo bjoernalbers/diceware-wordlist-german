@@ -1816,3 +1816,4 @@
 23334	heilung
 23335	heim
 23336	heimat
+23341	heimweg
