@@ -1989,3 +1989,4 @@
 24223	inferno
 24224	infinit
 24225	info
+24226	infobox

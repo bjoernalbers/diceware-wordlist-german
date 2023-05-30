@@ -1989,3 +1989,4 @@ Infekt
 Inferno
 infinit
 Info
+Infobox
