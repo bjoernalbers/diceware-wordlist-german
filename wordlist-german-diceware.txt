@@ -1801,3 +1801,4 @@
 23311	hechten
 23312	hecke
 23313	hefe
+23314	heft
