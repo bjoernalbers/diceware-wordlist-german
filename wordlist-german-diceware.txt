@@ -2026,3 +2026,4 @@
 24324	irrweg
 24325	ischias
 24326	issue
+24331	istwert

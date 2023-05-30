@@ -2026,3 +2026,4 @@ Irrtum
 Irrweg
 Ischias
 Issue
+Istwert
