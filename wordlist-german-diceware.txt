@@ -1940,3 +1940,4 @@
 23662	hund
 23663	hunger
 23664	hungrig
+23665	hunni
