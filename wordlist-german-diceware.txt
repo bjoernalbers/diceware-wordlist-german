@@ -1843,3 +1843,4 @@
 23421	hering
 23422	herr
 23423	herz
+23424	herzass
