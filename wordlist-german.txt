@@ -1888,3 +1888,4 @@ Hockey
 Hof
 hoffen
 Hoftor
+Hoheit

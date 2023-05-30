@@ -1888,3 +1888,4 @@
 23534	hof
 23535	hoffen
 23536	hoftor
+23541	hoheit
