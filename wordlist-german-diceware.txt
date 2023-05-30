@@ -1934,3 +1934,4 @@
 23652	hummel
 23653	hummer
 23654	hummus
+23655	humor
