@@ -1977,3 +1977,4 @@
 24163	impetus
 24164	impfen
 24165	impfung
+24166	import
