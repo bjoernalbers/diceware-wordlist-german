@@ -1892,3 +1892,4 @@
 23542	holding
 23543	holen
 23544	holprig
+23545	holster
