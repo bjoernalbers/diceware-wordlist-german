@@ -1944,3 +1944,4 @@
 23666	hupe
 24111	hupen
 24112	hurra
+24113	hurtig

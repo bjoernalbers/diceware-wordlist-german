@@ -1944,3 +1944,4 @@ Hunni
 Hupe
 hupen
 hurra
+hurtig
