@@ -2146,3 +2146,4 @@
 24644	kaper
 24645	kapital
 24646	kapitel
+24651	kappe
