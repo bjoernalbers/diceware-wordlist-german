@@ -2133,3 +2133,4 @@
 24623	kammer
 24624	kanal
 24625	kanapee
+24626	kandis
