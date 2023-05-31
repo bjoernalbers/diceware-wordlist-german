@@ -2156,3 +2156,4 @@ karacho
 karaffe
 karaoke
 karat
+karate
