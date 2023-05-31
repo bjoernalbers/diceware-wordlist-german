@@ -2126,3 +2126,4 @@ kalorie
 kalt
 kalzium
 kamelle
+kamera

@@ -2126,3 +2126,4 @@
 24612	kalt
 24613	kalzium
 24614	kamelle
+24615	kamera
