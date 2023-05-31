@@ -2155,3 +2155,4 @@
 24661	karacho
 24662	karaffe
 24663	karaoke
+24664	karat
