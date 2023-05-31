@@ -2144,3 +2144,4 @@
 24642	kanzlei
 24643	kanzler
 24644	kaper
+24645	kapital

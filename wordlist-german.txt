@@ -2144,3 +2144,4 @@ Kanu
 Kanzlei
 Kanzler
 Kaper
+Kapital
