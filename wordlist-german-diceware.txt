@@ -2181,3 +2181,4 @@
 25143	kasten
 25144	kat
 25145	katalog
+25146	kater
