@@ -2158,3 +2158,4 @@
 24664	karat
 24665	karate
 24666	karg
+25111	karies

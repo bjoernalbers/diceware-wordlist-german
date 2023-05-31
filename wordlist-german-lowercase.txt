@@ -2158,3 +2158,4 @@ karaoke
 karat
 karate
 karg
+karies
