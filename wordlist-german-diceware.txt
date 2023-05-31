@@ -2117,3 +2117,4 @@
 24555	kakao
 24556	kaki
 24561	kaktus
+24562	kalauer

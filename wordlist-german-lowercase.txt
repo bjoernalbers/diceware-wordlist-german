@@ -2117,3 +2117,4 @@ kakadu
 kakao
 kaki
 kaktus
+kalauer
