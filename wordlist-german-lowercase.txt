@@ -2102,3 +2102,4 @@ juxen
 kabel
 kabine
 kabuff
+kachel

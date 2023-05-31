@@ -2102,3 +2102,4 @@
 24532	kabel
 24533	kabine
 24534	kabuff
+24535	kachel
