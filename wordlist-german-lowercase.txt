@@ -2106,3 +2106,4 @@ kachel
 kacheln
 kader
 kadett
+kadmium
