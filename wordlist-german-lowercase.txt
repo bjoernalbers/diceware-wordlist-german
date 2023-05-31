@@ -2172,3 +2172,4 @@ kart
 karte
 kartei
 kartell
+karton
