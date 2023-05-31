@@ -2100,3 +2100,4 @@ juwel
 jux
 juxen
 kabel
+kabine
