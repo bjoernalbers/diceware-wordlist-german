@@ -2171,3 +2171,4 @@
 25125	kart
 25126	karte
 25131	kartei
+25132	kartell

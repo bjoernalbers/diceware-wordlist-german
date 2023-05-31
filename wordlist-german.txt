@@ -2171,3 +2171,4 @@ karren
 Kart
 Karte
 Kartei
+Kartell
