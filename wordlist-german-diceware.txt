@@ -2152,3 +2152,4 @@
 24654	kapsel
 24655	kaputt
 24656	kapuze
+24661	karacho
