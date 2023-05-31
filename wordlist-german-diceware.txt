@@ -2170,3 +2170,4 @@
 25124	karren
 25125	kart
 25126	karte
+25131	kartei
