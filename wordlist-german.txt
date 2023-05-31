@@ -2153,3 +2153,4 @@ Kapsel
 kaputt
 Kapuze
 Karacho
+Karaffe

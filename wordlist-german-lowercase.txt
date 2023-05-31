@@ -2153,3 +2153,4 @@ kapsel
 kaputt
 kapuze
 karacho
+karaffe
