@@ -2118,3 +2118,4 @@
 24556	kaki
 24561	kaktus
 24562	kalauer
+24563	kalb
