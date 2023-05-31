@@ -2168,3 +2168,4 @@
 25122	karre
 25123	karree
 25124	karren
+25125	kart
