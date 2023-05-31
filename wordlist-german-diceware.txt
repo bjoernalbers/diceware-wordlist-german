@@ -2174,3 +2174,4 @@
 25132	kartell
 25133	karton
 25134	kaskade
+25135	kasko
