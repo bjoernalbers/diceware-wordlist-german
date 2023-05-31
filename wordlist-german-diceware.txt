@@ -2139,3 +2139,4 @@
 24633	kante
 24634	kantig
 24635	kantine
+24636	kanton

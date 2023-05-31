@@ -2139,3 +2139,4 @@ Kanon
 Kante
 kantig
 Kantine
+Kanton
