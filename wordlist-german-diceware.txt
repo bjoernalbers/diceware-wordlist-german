@@ -2103,3 +2103,4 @@
 24533	kabine
 24534	kabuff
 24535	kachel
+24536	kacheln
