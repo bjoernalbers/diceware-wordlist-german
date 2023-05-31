@@ -2167,3 +2167,4 @@
 25121	karpfen
 25122	karre
 25123	karree
+25124	karren
