@@ -2147,3 +2147,4 @@ kaper
 kapital
 kapitel
 kappe
+kappen
