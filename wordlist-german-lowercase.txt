@@ -2176,3 +2176,4 @@ karton
 kaskade
 kasko
 kaspern
+kasse
