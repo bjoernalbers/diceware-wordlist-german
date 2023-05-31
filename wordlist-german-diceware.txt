@@ -2140,3 +2140,4 @@
 24634	kantig
 24635	kantine
 24636	kanton
+24641	kanu

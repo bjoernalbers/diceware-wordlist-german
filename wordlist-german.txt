@@ -2140,3 +2140,4 @@ Kante
 kantig
 Kantine
 Kanton
+Kanu
