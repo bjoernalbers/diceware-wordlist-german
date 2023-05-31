@@ -2157,3 +2157,4 @@
 24663	karaoke
 24664	karat
 24665	karate
+24666	karg
