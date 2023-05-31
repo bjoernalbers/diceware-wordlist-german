@@ -2166,3 +2166,4 @@ karosse
 karotte
 karpfen
 karre
+karree
