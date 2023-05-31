@@ -2132,3 +2132,4 @@
 24622	kamm
 24623	kammer
 24624	kanal
+24625	kanapee
