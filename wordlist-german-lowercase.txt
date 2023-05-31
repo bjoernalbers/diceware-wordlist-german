@@ -2105,3 +2105,4 @@ kabuff
 kachel
 kacheln
 kader
+kadett
