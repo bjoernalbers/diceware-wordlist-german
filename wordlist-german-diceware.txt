@@ -2099,3 +2099,4 @@
 24525	juwel
 24526	jux
 24531	juxen
+24532	kabel
