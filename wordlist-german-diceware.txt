@@ -2134,3 +2134,4 @@
 24624	kanal
 24625	kanapee
 24626	kandis
+24631	kanne
