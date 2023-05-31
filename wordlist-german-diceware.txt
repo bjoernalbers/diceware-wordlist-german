@@ -2120,3 +2120,4 @@
 24562	kalauer
 24563	kalb
 24564	kalium
+24565	kalk
