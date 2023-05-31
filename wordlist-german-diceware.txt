@@ -2142,3 +2142,4 @@
 24636	kanton
 24641	kanu
 24642	kanzlei
+24643	kanzler
