@@ -2107,3 +2107,4 @@
 24541	kader
 24542	kadett
 24543	kadmium
+24544	kaffee
