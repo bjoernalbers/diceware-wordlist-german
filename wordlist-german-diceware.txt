@@ -2122,3 +2122,4 @@
 24564	kalium
 24565	kalk
 24566	kalkig
+24611	kalorie
