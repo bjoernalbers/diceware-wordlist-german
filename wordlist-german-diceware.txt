@@ -2164,3 +2164,4 @@
 25114	karoass
 25115	karosse
 25116	karotte
+25121	karpfen
