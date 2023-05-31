@@ -2180,3 +2180,4 @@ Kasse
 Kassler
 Kasten
 Kat
+Katalog

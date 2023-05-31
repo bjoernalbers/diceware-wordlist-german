@@ -2180,3 +2180,4 @@ kasse
 kassler
 kasten
 kat
+katalog
