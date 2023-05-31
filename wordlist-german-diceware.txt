@@ -2125,3 +2125,4 @@
 24611	kalorie
 24612	kalt
 24613	kalzium
+24614	kamelle
