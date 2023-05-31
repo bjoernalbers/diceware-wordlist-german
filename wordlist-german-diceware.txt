@@ -2116,3 +2116,4 @@
 24554	kakadu
 24555	kakao
 24556	kaki
+24561	kaktus

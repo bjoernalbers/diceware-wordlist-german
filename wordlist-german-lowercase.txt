@@ -2116,3 +2116,4 @@ kajak
 kakadu
 kakao
 kaki
+kaktus
