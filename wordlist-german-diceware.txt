@@ -2101,3 +2101,4 @@
 24531	juxen
 24532	kabel
 24533	kabine
+24534	kabuff
