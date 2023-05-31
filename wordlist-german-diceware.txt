@@ -2149,3 +2149,4 @@
 24651	kappe
 24652	kappen
 24653	kappes
+24654	kapsel

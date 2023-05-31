@@ -2149,3 +2149,4 @@ kapitel
 kappe
 kappen
 kappes
+kapsel
