@@ -2104,3 +2104,4 @@ kabine
 kabuff
 kachel
 kacheln
+kader
