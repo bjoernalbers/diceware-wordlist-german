@@ -2136,3 +2136,4 @@ kanapee
 kandis
 kanne
 kanon
+kante

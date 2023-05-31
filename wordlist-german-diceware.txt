@@ -2136,3 +2136,4 @@
 24626	kandis
 24631	kanne
 24632	kanon
+24633	kante
