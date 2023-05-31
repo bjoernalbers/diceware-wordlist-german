@@ -2124,3 +2124,4 @@ Kalk
 kalkig
 Kalorie
 kalt
+Kalzium

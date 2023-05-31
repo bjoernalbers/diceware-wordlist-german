@@ -2124,3 +2124,4 @@
 24566	kalkig
 24611	kalorie
 24612	kalt
+24613	kalzium
