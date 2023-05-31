@@ -2121,3 +2121,4 @@
 24563	kalb
 24564	kalium
 24565	kalk
+24566	kalkig
