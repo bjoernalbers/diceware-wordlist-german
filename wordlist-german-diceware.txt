@@ -2173,3 +2173,4 @@
 25131	kartei
 25132	kartell
 25133	karton
+25134	kaskade
