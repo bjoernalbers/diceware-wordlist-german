@@ -2137,3 +2137,4 @@
 24631	kanne
 24632	kanon
 24633	kante
+24634	kantig

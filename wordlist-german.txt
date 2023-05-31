@@ -2137,3 +2137,4 @@ Kandis
 Kanne
 Kanon
 Kante
+kantig
