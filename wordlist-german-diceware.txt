@@ -2175,3 +2175,4 @@
 25133	karton
 25134	kaskade
 25135	kasko
+25136	kaspern

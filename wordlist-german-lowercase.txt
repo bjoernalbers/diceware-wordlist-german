@@ -2175,3 +2175,4 @@ kartell
 karton
 kaskade
 kasko
+kaspern
