@@ -2150,3 +2150,4 @@
 24652	kappen
 24653	kappes
 24654	kapsel
+24655	kaputt

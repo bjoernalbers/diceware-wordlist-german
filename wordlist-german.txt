@@ -2150,3 +2150,4 @@ Kappe
 kappen
 Kappes
 Kapsel
+kaputt
