@@ -2178,3 +2178,4 @@ kasko
 kaspern
 kasse
 kassler
+kasten
