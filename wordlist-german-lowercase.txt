@@ -2115,3 +2115,4 @@ kaizen
 kajak
 kakadu
 kakao
+kaki
