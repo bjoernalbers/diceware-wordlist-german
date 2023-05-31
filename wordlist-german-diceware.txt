@@ -2141,3 +2141,4 @@
 24635	kantine
 24636	kanton
 24641	kanu
+24642	kanzlei
