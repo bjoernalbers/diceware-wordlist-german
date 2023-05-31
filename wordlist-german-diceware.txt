@@ -2148,3 +2148,4 @@
 24646	kapitel
 24651	kappe
 24652	kappen
+24653	kappes
