@@ -2151,3 +2151,4 @@ kappen
 kappes
 kapsel
 kaputt
+kapuze
