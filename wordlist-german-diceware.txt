@@ -2163,3 +2163,4 @@
 25113	karo
 25114	karoass
 25115	karosse
+25116	karotte
