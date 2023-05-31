@@ -2161,3 +2161,4 @@
 25111	karies
 25112	karma
 25113	karo
+25114	karoass
