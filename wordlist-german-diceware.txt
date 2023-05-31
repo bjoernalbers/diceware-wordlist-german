@@ -2177,3 +2177,4 @@
 25135	kasko
 25136	kaspern
 25141	kasse
+25142	kassler
