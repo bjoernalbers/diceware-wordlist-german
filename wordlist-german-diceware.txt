@@ -2219,3 +2219,4 @@
 25245	kernlos
 25246	kerosin
 25251	kerze
+25252	kescher
