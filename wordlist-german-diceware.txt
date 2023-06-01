@@ -2257,3 +2257,4 @@
 25351	kirre
 25352	kirsche
 25353	kissen
+25354	kiste
