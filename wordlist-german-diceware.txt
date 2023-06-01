@@ -2221,3 +2221,4 @@
 25251	kerze
 25252	kescher
 25253	kessel
+25254	ketchup
