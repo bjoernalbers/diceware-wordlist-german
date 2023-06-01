@@ -2182,3 +2182,4 @@
 25144	kat
 25145	katalog
 25146	kater
+25151	kathete
