@@ -2250,3 +2250,4 @@ kinn
 kino
 kiosk
 kipferl
+kippe

@@ -2250,3 +2250,4 @@
 25336	kino
 25341	kiosk
 25342	kipferl
+25343	kippe
