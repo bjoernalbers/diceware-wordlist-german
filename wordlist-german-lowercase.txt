@@ -2240,3 +2240,4 @@ kies
 kiesel
 kiesweg
 kiez
+kilo
