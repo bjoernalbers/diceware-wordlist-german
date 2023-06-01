@@ -2251,3 +2251,4 @@
 25341	kiosk
 25342	kipferl
 25343	kippe
+25344	kippeln

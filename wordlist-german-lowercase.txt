@@ -2251,3 +2251,4 @@ kino
 kiosk
 kipferl
 kippe
+kippeln
