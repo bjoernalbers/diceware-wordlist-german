@@ -2238,3 +2238,4 @@
 25316	kieme
 25321	kies
 25322	kiesel
+25323	kiesweg
