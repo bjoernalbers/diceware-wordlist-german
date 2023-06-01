@@ -2185,3 +2185,4 @@
 25151	kathete
 25152	kathode
 25153	katze
+25154	kauen
