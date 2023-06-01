@@ -2245,3 +2245,4 @@
 25331	kimchi
 25332	kimono
 25333	kind
+25334	kinetik
