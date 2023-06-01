@@ -2242,3 +2242,4 @@
 25324	kiez
 25325	kilo
 25326	kilt
+25331	kimchi
