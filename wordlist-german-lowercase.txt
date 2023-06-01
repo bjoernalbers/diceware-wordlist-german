@@ -2244,3 +2244,4 @@ kilo
 kilt
 kimchi
 kimono
+kind

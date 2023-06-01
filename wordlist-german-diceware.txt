@@ -2244,3 +2244,4 @@
 25326	kilt
 25331	kimchi
 25332	kimono
+25333	kind
