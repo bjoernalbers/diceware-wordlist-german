@@ -2197,3 +2197,4 @@
 25211	kefir
 25212	kegel
 25213	kegeln
+25214	kegler
