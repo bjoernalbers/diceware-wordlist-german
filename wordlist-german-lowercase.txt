@@ -2217,3 +2217,4 @@ kern
 kernel
 kernig
 kernlos
+kerosin
