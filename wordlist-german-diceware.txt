@@ -2206,3 +2206,4 @@
 25224	keks
 25225	kelle
 25226	keller
+25231	kellner
