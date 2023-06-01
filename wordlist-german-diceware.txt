@@ -2204,3 +2204,4 @@
 25222	keim
 25223	keimen
 25224	keks
+25225	kelle
