@@ -2243,3 +2243,4 @@ kiez
 kilo
 kilt
 kimchi
+kimono
