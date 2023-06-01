@@ -2190,3 +2190,4 @@
 25156	kaufen
 25161	kausal
 25162	kaution
+25163	kaviar
