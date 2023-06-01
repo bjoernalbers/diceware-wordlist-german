@@ -2186,3 +2186,4 @@
 25152	kathode
 25153	katze
 25154	kauen
+25155	kauern
