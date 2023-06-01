@@ -2248,3 +2248,4 @@ Kind
 Kinetik
 Kinn
 Kino
+Kiosk

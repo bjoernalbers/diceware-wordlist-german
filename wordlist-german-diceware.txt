@@ -2248,3 +2248,4 @@
 25334	kinetik
 25335	kinn
 25336	kino
+25341	kiosk
