@@ -2216,3 +2216,4 @@
 25242	kern
 25243	kernel
 25244	kernig
+25245	kernlos
