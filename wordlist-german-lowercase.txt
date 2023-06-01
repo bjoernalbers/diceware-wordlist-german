@@ -2220,3 +2220,4 @@ kernlos
 kerosin
 kerze
 kescher
+kessel

@@ -2220,3 +2220,4 @@ kernlos
 Kerosin
 Kerze
 Kescher
+Kessel

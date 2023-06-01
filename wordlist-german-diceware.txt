@@ -2220,3 +2220,4 @@
 25246	kerosin
 25251	kerze
 25252	kescher
+25253	kessel
