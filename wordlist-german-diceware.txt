@@ -2187,3 +2187,4 @@
 25153	katze
 25154	kauen
 25155	kauern
+25156	kaufen
