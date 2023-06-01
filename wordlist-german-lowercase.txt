@@ -2213,3 +2213,4 @@ kenner
 keramik
 kerbe
 kerbel
+kern

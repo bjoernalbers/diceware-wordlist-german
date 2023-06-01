@@ -2213,3 +2213,4 @@ Kenner
 Keramik
 Kerbe
 Kerbel
+Kern
