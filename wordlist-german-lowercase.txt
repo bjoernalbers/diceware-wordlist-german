@@ -2188,3 +2188,4 @@ katze
 kauen
 kauern
 kaufen
+kausal
