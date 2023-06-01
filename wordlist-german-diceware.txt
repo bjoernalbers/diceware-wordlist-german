@@ -2215,3 +2215,4 @@
 25241	kerbel
 25242	kern
 25243	kernel
+25244	kernig

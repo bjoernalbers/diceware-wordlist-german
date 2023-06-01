@@ -2215,3 +2215,4 @@ kerbe
 kerbel
 kern
 kernel
+kernig
