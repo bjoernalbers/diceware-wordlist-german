@@ -2195,3 +2195,4 @@
 25165	keck
 25166	keeper
 25211	kefir
+25212	kegel
