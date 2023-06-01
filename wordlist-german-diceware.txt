@@ -2259,3 +2259,4 @@
 25353	kissen
 25354	kiste
 25355	kit
+25356	kita
