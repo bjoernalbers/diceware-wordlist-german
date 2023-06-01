@@ -2249,3 +2249,4 @@
 25335	kinn
 25336	kino
 25341	kiosk
+25342	kipferl

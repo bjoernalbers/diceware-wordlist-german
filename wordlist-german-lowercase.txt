@@ -2249,3 +2249,4 @@ kinetik
 kinn
 kino
 kiosk
+kipferl
