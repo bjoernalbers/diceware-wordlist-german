@@ -2227,3 +2227,4 @@
 25261	keule
 25262	keyword
 25263	kichern
+25264	kick
