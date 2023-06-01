@@ -2264,3 +2264,4 @@
 25362	kitsch
 25363	kitt
 25364	kittel
+25365	kitten
