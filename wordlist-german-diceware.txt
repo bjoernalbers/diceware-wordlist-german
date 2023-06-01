@@ -2198,3 +2198,4 @@
 25212	kegel
 25213	kegeln
 25214	kegler
+25215	kehren
