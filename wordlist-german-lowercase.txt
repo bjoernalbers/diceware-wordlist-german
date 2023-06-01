@@ -2247,3 +2247,4 @@ kimono
 kind
 kinetik
 kinn
+kino
