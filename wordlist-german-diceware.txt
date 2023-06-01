@@ -2205,3 +2205,4 @@
 25223	keimen
 25224	keks
 25225	kelle
+25226	keller
