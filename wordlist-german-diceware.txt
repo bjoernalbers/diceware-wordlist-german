@@ -2194,3 +2194,4 @@
 25164	kebab
 25165	keck
 25166	keeper
+25211	kefir
