@@ -2214,3 +2214,4 @@ keramik
 kerbe
 kerbel
 kern
+kernel

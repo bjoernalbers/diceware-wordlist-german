@@ -2214,3 +2214,4 @@
 25236	kerbe
 25241	kerbel
 25242	kern
+25243	kernel
