@@ -2254,3 +2254,4 @@
 25344	kippeln
 25345	kippen
 25346	kirmes
+25351	kirre
