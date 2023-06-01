@@ -2212,3 +2212,4 @@
 25234	kenner
 25235	keramik
 25236	kerbe
+25241	kerbel
