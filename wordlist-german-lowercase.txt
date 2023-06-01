@@ -2183,3 +2183,4 @@ kat
 katalog
 kater
 kathete
+kathode

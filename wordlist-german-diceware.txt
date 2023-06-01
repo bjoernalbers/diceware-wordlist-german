@@ -2183,3 +2183,4 @@
 25145	katalog
 25146	kater
 25151	kathete
+25152	kathode
