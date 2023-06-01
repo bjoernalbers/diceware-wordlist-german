@@ -2189,3 +2189,4 @@
 25155	kauern
 25156	kaufen
 25161	kausal
+25162	kaution
