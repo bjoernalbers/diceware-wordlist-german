@@ -2241,3 +2241,4 @@
 25323	kiesweg
 25324	kiez
 25325	kilo
+25326	kilt
