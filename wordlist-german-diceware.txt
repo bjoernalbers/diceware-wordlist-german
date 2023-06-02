@@ -2333,3 +2333,4 @@
 25555	kneifen
 25556	kneifer
 25561	kneipe
+25562	knete
