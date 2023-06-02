@@ -2289,3 +2289,4 @@
 25443	kleben
 25444	kleber
 25445	klebrig
+25446	klecks
