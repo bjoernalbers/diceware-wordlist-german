@@ -2339,3 +2339,4 @@
 25565	knicken
 25566	knicks
 25611	knie
+25612	knien

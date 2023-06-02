@@ -2339,3 +2339,4 @@ knick
 knicken
 knicks
 knie
+knien
