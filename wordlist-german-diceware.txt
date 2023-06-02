@@ -2296,3 +2296,4 @@
 25454	kleie
 25455	klein
 25456	klemme
+25461	klemmen
