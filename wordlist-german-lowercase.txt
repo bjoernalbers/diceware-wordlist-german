@@ -2294,3 +2294,4 @@ klee
 kleid
 kleiden
 kleie
+klein
