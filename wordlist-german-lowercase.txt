@@ -2277,3 +2277,4 @@ klampfe
 klang
 klappe
 klappen
+klar

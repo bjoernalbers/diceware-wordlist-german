@@ -2277,3 +2277,4 @@
 25423	klang
 25424	klappe
 25425	klappen
+25426	klar
