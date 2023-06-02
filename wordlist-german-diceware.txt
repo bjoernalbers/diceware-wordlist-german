@@ -2324,3 +2324,4 @@
 25542	knackig
 25543	knacks
 25544	knall
+25545	knallen

@@ -2324,3 +2324,4 @@ knacken
 knackig
 Knacks
 Knall
+knallen
