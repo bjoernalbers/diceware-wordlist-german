@@ -2283,3 +2283,4 @@ klassik
 klatsch
 klaue
 klauen
+klausel

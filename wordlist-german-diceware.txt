@@ -2283,3 +2283,4 @@
 25433	klatsch
 25434	klaue
 25435	klauen
+25436	klausel
