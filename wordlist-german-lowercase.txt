@@ -2334,3 +2334,4 @@ kneifen
 kneifer
 kneipe
 knete
+kneten
