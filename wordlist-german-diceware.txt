@@ -2316,3 +2316,4 @@
 25526	klotzen
 25531	kluft
 25532	klug
+25533	klumpen

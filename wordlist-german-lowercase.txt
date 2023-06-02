@@ -2316,3 +2316,4 @@ klotz
 klotzen
 kluft
 klug
+klumpen
