@@ -2265,3 +2265,4 @@
 25363	kitt
 25364	kittel
 25365	kitten
+25366	kitzeln
