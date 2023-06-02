@@ -2326,3 +2326,4 @@ knacks
 knall
 knallen
 knaller
+knallig
