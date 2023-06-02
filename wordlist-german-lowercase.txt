@@ -2310,3 +2310,4 @@ klinke
 klinker
 klippe
 klobig
+klonen

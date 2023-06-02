@@ -2310,3 +2310,4 @@
 25516	klinker
 25521	klippe
 25522	klobig
+25523	klonen
