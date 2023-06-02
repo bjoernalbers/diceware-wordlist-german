@@ -2284,3 +2284,4 @@
 25434	klaue
 25435	klauen
 25436	klausel
+25441	klausur
