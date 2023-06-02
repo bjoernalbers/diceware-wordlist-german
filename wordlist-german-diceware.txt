@@ -2336,3 +2336,4 @@
 25562	knete
 25563	kneten
 25564	knick
+25565	knicken
