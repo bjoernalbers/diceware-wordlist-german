@@ -2328,3 +2328,4 @@
 25546	knaller
 25551	knallig
 25552	knapp
+25553	knarren
