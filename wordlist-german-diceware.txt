@@ -2268,3 +2268,4 @@
 25366	kitzeln
 25411	kitzlig
 25412	kiwi
+25413	klacks
