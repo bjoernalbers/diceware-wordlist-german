@@ -2318,3 +2318,4 @@
 25532	klug
 25533	klumpen
 25534	klumpig
+25535	klunker

@@ -2318,3 +2318,4 @@ kluft
 klug
 klumpen
 klumpig
+klunker
