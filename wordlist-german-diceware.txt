@@ -2304,3 +2304,4 @@
 25466	klima
 25511	klimbim
 25512	klingel
+25513	klingen

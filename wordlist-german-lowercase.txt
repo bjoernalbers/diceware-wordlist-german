@@ -2304,3 +2304,4 @@ klient
 klima
 klimbim
 klingel
+klingen
