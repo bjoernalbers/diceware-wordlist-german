@@ -2314,3 +2314,4 @@
 25524	klopfen
 25525	klotz
 25526	klotzen
+25531	kluft
