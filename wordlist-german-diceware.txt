@@ -2332,3 +2332,4 @@
 25554	knauf
 25555	kneifen
 25556	kneifer
+25561	kneipe
