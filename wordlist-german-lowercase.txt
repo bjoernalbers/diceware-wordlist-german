@@ -2320,3 +2320,4 @@ klumpen
 klumpig
 klunker
 knabe
+knacken

@@ -2320,3 +2320,4 @@
 25534	klumpig
 25535	klunker
 25536	knabe
+25541	knacken
