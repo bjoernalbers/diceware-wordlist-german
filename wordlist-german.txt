@@ -2281,3 +2281,4 @@ klar
 Klasse
 Klassik
 Klatsch
+Klaue

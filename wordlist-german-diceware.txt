@@ -2281,3 +2281,4 @@
 25431	klasse
 25432	klassik
 25433	klatsch
+25434	klaue
