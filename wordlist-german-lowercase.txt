@@ -2312,3 +2312,4 @@ klippe
 klobig
 klonen
 klopfen
+klotz
