@@ -2308,3 +2308,4 @@
 25514	klinik
 25515	klinke
 25516	klinker
+25521	klippe

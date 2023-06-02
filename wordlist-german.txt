@@ -2308,3 +2308,4 @@ klingen
 Klinik
 Klinke
 Klinker
+Klippe
