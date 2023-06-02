@@ -2293,3 +2293,4 @@
 25451	klee
 25452	kleid
 25453	kleiden
+25454	kleie
