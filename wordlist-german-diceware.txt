@@ -2273,3 +2273,4 @@
 25415	klamauk
 25416	klamm
 25421	klammer
+25422	klampfe
