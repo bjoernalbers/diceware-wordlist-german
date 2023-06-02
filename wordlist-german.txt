@@ -2306,3 +2306,4 @@ Klimbim
 Klingel
 klingen
 Klinik
+Klinke
