@@ -2331,3 +2331,4 @@ knapp
 knarren
 Knauf
 kneifen
+Kneifer

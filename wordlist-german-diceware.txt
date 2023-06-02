@@ -2331,3 +2331,4 @@
 25553	knarren
 25554	knauf
 25555	kneifen
+25556	kneifer
