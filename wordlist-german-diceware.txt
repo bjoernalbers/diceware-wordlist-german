@@ -2313,3 +2313,4 @@
 25523	klonen
 25524	klopfen
 25525	klotz
+25526	klotzen
