@@ -2335,3 +2335,4 @@
 25561	kneipe
 25562	knete
 25563	kneten
+25564	knick
