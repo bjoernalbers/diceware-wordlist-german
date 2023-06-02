@@ -2282,3 +2282,4 @@ klasse
 klassik
 klatsch
 klaue
+klauen

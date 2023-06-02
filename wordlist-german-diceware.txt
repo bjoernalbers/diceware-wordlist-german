@@ -2282,3 +2282,4 @@
 25432	klassik
 25433	klatsch
 25434	klaue
+25435	klauen
