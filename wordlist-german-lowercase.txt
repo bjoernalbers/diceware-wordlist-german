@@ -2305,3 +2305,4 @@ klima
 klimbim
 klingel
 klingen
+klinik

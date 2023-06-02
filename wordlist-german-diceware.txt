@@ -2305,3 +2305,4 @@
 25511	klimbim
 25512	klingel
 25513	klingen
+25514	klinik
