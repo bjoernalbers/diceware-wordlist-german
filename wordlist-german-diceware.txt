@@ -2303,3 +2303,4 @@
 25465	klient
 25466	klima
 25511	klimbim
+25512	klingel
