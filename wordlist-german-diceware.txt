@@ -2301,3 +2301,4 @@
 25463	klick
 25464	klicken
 25465	klient
+25466	klima

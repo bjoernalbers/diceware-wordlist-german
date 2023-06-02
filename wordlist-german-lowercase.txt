@@ -2301,3 +2301,4 @@ klette
 klick
 klicken
 klient
+klima
