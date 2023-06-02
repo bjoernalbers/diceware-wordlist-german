@@ -2329,3 +2329,4 @@
 25551	knallig
 25552	knapp
 25553	knarren
+25554	knauf
