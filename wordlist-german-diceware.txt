@@ -2275,3 +2275,4 @@
 25421	klammer
 25422	klampfe
 25423	klang
+25424	klappe

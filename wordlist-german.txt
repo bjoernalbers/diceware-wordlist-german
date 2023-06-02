@@ -2275,3 +2275,4 @@ klamm
 Klammer
 Klampfe
 Klang
+Klappe
