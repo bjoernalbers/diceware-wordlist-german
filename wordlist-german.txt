@@ -2287,3 +2287,4 @@ Klausel
 Klausur
 Klavier
 kleben
+Kleber

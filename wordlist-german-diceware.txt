@@ -2287,3 +2287,4 @@
 25441	klausur
 25442	klavier
 25443	kleben
+25444	kleber
