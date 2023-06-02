@@ -2321,3 +2321,4 @@
 25535	klunker
 25536	knabe
 25541	knacken
+25542	knackig
