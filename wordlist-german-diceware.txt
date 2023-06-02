@@ -2309,3 +2309,4 @@
 25515	klinke
 25516	klinker
 25521	klippe
+25522	klobig
