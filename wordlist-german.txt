@@ -2315,3 +2315,4 @@ klopfen
 Klotz
 klotzen
 Kluft
+klug

@@ -2315,3 +2315,4 @@
 25525	klotz
 25526	klotzen
 25531	kluft
+25532	klug
