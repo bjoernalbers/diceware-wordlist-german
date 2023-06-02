@@ -2330,3 +2330,4 @@ knallig
 knapp
 knarren
 Knauf
+kneifen
