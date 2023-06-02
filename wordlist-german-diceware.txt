@@ -2292,3 +2292,4 @@
 25446	klecks
 25451	klee
 25452	kleid
+25453	kleiden
