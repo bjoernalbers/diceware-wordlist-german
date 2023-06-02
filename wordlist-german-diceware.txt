@@ -2280,3 +2280,4 @@
 25426	klar
 25431	klasse
 25432	klassik
+25433	klatsch
