@@ -2311,3 +2311,4 @@
 25521	klippe
 25522	klobig
 25523	klonen
+25524	klopfen

@@ -2311,3 +2311,4 @@ Klinker
 Klippe
 klobig
 klonen
+klopfen
