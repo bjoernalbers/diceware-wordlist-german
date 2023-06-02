@@ -2295,3 +2295,4 @@
 25453	kleiden
 25454	kleie
 25455	klein
+25456	klemme

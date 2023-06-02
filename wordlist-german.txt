@@ -2295,3 +2295,4 @@ Kleid
 kleiden
 Kleie
 klein
+Klemme
