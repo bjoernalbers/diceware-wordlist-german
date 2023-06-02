@@ -2274,3 +2274,4 @@ klamauk
 klamm
 klammer
 klampfe
+klang
