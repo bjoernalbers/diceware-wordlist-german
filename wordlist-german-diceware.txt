@@ -2352,3 +2352,4 @@
 25626	knospe
 25631	knoten
 25632	knowhow
+25633	knubbel

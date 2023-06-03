@@ -2352,3 +2352,4 @@ knorpel
 knospe
 knoten
 knowhow
+knubbel
