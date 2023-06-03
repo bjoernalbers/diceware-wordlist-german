@@ -2349,3 +2349,4 @@ Knochen
 Knolle
 Knopf
 Knorpel
+Knospe
