@@ -2373,3 +2373,4 @@
 25663	kojote
 25664	kokeln
 25665	kokon
+25666	kolben
