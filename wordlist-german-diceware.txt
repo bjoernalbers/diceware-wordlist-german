@@ -2504,3 +2504,4 @@
 26442	kulant
 26443	kulanz
 26444	kuli
+26445	kulisse
