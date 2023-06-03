@@ -2494,3 +2494,4 @@ krug
 krumm
 kruste
 krypton
+kubus
