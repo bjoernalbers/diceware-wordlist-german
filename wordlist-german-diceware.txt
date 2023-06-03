@@ -2440,3 +2440,4 @@
 26254	kost
 26255	kostbar
 26256	kosten
+26261	krabbe
