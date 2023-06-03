@@ -2493,3 +2493,4 @@ kross
 krug
 krumm
 kruste
+krypton
