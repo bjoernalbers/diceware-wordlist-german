@@ -2405,3 +2405,4 @@
 26155	konkurs
 26156	konsens
 26161	konsole
+26162	konsul
