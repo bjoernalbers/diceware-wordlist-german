@@ -2342,3 +2342,4 @@
 25612	knien
 25613	kniff
 25614	knigge
+25615	knipsen
