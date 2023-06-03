@@ -2486,3 +2486,4 @@
 26412	krippe
 26413	krise
 26414	kritik
+26415	krokant
