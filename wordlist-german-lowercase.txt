@@ -2529,3 +2529,4 @@ kurve
 kurvig
 kurz
 kuss
+kutsche
