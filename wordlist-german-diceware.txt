@@ -2367,3 +2367,4 @@
 25653	koffein
 25654	koffer
 25655	kohl
+25656	kohle
