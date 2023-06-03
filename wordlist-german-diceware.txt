@@ -2370,3 +2370,4 @@
 25656	kohle
 25661	koi
 25662	koje
+25663	kojote
