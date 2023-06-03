@@ -2397,3 +2397,4 @@
 26143	kompott
 26144	kondor
 26145	konfekt
+26146	konform

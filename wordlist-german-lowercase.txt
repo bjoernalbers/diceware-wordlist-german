@@ -2397,3 +2397,4 @@ kompost
 kompott
 kondor
 konfekt
+konform
