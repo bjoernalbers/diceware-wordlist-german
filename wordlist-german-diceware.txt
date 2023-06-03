@@ -2511,3 +2511,4 @@
 26453	kultur
 26454	kumpel
 26455	kunde
+26456	kunst
