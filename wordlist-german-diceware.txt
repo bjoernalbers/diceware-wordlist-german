@@ -2452,3 +2452,4 @@
 26314	krallen
 26315	kram
 26316	kramen
+26321	kran
