@@ -2454,3 +2454,4 @@ kram
 kramen
 kran
 kranich
+kranz
