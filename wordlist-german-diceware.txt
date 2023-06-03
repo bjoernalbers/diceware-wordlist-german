@@ -2436,3 +2436,4 @@
 26246	korrekt
 26251	korso
 26252	kosinus
+26253	kosmos
