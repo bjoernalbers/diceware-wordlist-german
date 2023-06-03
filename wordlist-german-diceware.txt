@@ -2439,3 +2439,4 @@
 26253	kosmos
 26254	kost
 26255	kostbar
+26256	kosten

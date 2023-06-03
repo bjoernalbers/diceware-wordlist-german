@@ -2439,3 +2439,4 @@ Kosinus
 Kosmos
 Kost
 kostbar
+Kosten
