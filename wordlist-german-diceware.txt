@@ -2531,3 +2531,4 @@
 26525	kuss
 26526	kutsche
 26531	kutter
+26532	kuvert

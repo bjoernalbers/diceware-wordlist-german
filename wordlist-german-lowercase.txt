@@ -2531,3 +2531,4 @@ kurz
 kuss
 kutsche
 kutter
+kuvert
