@@ -2526,3 +2526,4 @@ Kurs
 kursiv
 Kurtaxe
 Kurve
+kurvig

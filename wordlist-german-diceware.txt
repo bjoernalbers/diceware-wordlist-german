@@ -2526,3 +2526,4 @@
 26516	kursiv
 26521	kurtaxe
 26522	kurve
+26523	kurvig
