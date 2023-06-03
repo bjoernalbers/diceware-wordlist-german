@@ -2350,3 +2350,4 @@ Knolle
 Knopf
 Knorpel
 Knospe
+Knoten
