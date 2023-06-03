@@ -2448,3 +2448,4 @@
 26266	kragen
 26311	krake
 26312	krakeln
+26313	kralle
