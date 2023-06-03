@@ -2462,3 +2462,4 @@
 26332	kratzer
 26333	kratzig
 26334	kraulen
+26335	kraus
