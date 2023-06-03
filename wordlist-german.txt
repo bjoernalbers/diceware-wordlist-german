@@ -2472,3 +2472,4 @@ Kreide
 Kreis
 Kreisel
 kreisen
+Krempel
