@@ -2358,3 +2358,4 @@
 25636	koautor
 25641	koaxial
 25642	kobalt
+25643	kobold
