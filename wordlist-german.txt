@@ -2395,3 +2395,4 @@ Kompass
 komplex
 Kompost
 Kompott
+Kondor
