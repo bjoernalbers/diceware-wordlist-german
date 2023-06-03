@@ -2387,3 +2387,4 @@
 26125	komitee
 26126	komma
 26131	kommen
+26132	kommerz
