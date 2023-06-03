@@ -2443,3 +2443,4 @@ Kosten
 Krabbe
 Krach
 krachen
+Kracher

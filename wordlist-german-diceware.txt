@@ -2443,3 +2443,4 @@
 26261	krabbe
 26262	krach
 26263	krachen
+26264	kracher
