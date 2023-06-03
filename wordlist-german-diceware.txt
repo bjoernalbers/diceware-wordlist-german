@@ -2435,3 +2435,4 @@
 26245	korpus
 26246	korrekt
 26251	korso
+26252	kosinus
