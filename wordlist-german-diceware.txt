@@ -2522,3 +2522,4 @@
 26512	kurios
 26513	kurort
 26514	kurpark
+26515	kurs

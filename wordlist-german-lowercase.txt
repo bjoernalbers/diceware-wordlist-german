@@ -2522,3 +2522,4 @@ kurier
 kurios
 kurort
 kurpark
+kurs

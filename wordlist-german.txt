@@ -2522,3 +2522,4 @@ Kurier
 kurios
 Kurort
 Kurpark
+Kurs
