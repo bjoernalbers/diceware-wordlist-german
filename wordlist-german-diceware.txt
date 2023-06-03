@@ -2429,3 +2429,4 @@
 26235	korb
 26236	kord
 26241	kordel
+26242	kork
