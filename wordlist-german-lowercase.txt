@@ -2369,3 +2369,4 @@ koffer
 kohl
 kohle
 koi
+koje
