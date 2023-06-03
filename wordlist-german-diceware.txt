@@ -2463,3 +2463,4 @@
 26333	kratzig
 26334	kraulen
 26335	kraus
+26336	kraut
