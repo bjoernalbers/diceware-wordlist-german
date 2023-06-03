@@ -2459,3 +2459,4 @@
 26325	krass
 26326	krater
 26331	kratzen
+26332	kratzer
