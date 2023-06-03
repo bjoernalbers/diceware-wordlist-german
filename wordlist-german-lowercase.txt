@@ -2368,3 +2368,4 @@ koffein
 koffer
 kohl
 kohle
+koi

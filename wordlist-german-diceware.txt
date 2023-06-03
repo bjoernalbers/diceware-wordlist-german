@@ -2368,3 +2368,4 @@
 25654	koffer
 25655	kohl
 25656	kohle
+25661	koi
