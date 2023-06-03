@@ -2509,3 +2509,4 @@
 26451	kult
 26452	kultig
 26453	kultur
+26454	kumpel
