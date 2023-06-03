@@ -2396,3 +2396,4 @@
 26142	kompost
 26143	kompott
 26144	kondor
+26145	konfekt

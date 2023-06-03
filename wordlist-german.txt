@@ -2396,3 +2396,4 @@ komplex
 Kompost
 Kompott
 Kondor
+Konfekt
