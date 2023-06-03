@@ -2499,3 +2499,4 @@
 26433	kuckuck
 26434	kufe
 26435	kugel
+26436	kugeln
