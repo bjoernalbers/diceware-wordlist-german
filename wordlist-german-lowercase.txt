@@ -2515,3 +2515,4 @@ kunst
 kupfer
 kuppe
 kuppel
+kur

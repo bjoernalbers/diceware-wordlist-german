@@ -2515,3 +2515,4 @@
 26461	kupfer
 26462	kuppe
 26463	kuppel
+26464	kur
