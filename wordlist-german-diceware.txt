@@ -2393,3 +2393,4 @@
 26135	kompakt
 26136	kompass
 26141	komplex
+26142	kompost

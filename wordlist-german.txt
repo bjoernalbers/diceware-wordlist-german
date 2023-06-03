@@ -2393,3 +2393,4 @@ Kommune
 kompakt
 Kompass
 komplex
+Kompost
