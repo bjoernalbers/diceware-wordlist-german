@@ -2348,3 +2348,4 @@
 25622	knochen
 25623	knolle
 25624	knopf
+25625	knorpel

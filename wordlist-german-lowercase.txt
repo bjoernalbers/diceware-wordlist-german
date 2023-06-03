@@ -2348,3 +2348,4 @@ knobi
 knochen
 knolle
 knopf
+knorpel

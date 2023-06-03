@@ -2348,3 +2348,4 @@ Knobi
 Knochen
 Knolle
 Knopf
+Knorpel
