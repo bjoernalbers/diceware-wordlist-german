@@ -2418,3 +2418,4 @@
 26216	konvex
 26221	konvoi
 26222	konzept
+26223	konzern
