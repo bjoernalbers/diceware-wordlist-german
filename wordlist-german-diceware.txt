@@ -2426,3 +2426,4 @@
 26232	koppel
 26233	koppeln
 26234	koralle
+26235	korb
