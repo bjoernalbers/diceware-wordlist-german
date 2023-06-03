@@ -2384,3 +2384,4 @@
 26122	komet
 26123	komfort
 26124	komik
+26125	komitee
