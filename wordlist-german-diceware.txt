@@ -2488,3 +2488,4 @@
 26414	kritik
 26415	krokant
 26416	krokus
+26421	krone
