@@ -2380,3 +2380,4 @@ kolonie
 kolonne
 koloss
 kolumne
+kombi

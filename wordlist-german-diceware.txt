@@ -2380,3 +2380,4 @@
 26114	kolonne
 26115	koloss
 26116	kolumne
+26121	kombi
