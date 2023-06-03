@@ -2402,3 +2402,4 @@
 26152	konisch
 26153	konkav
 26154	konkret
+26155	konkurs
