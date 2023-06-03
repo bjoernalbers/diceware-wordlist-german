@@ -2475,3 +2475,4 @@
 26353	krempel
 26354	kreole
 26355	krepp
+26356	kresse
