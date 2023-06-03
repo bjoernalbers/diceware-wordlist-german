@@ -2490,3 +2490,4 @@ Krokant
 Krokus
 Krone
 kross
+Krug

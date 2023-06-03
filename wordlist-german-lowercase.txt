@@ -2490,3 +2490,4 @@ krokant
 krokus
 krone
 kross
+krug
