@@ -2507,3 +2507,4 @@ kuli
 kulisse
 kullern
 kult
+kultig
