@@ -2527,3 +2527,4 @@
 26521	kurtaxe
 26522	kurve
 26523	kurvig
+26524	kurz

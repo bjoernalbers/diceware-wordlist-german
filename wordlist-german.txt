@@ -2527,3 +2527,4 @@ kursiv
 Kurtaxe
 Kurve
 kurvig
+kurz
