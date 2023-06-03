@@ -2461,3 +2461,4 @@ Krater
 kratzen
 Kratzer
 kratzig
+kraulen

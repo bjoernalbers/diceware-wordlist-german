@@ -2461,3 +2461,4 @@
 26331	kratzen
 26332	kratzer
 26333	kratzig
+26334	kraulen
