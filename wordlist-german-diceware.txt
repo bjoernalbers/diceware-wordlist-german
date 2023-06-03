@@ -2408,3 +2408,4 @@
 26162	konsul
 26163	konsum
 26164	kontakt
+26165	konter

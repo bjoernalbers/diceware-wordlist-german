@@ -2408,3 +2408,4 @@ konsole
 konsul
 konsum
 kontakt
+konter
