@@ -2466,3 +2466,4 @@
 26336	kraut
 26341	krawall
 26342	kraxeln
+26343	kreativ
