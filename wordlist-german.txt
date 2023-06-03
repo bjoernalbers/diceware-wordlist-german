@@ -2438,3 +2438,4 @@ Korso
 Kosinus
 Kosmos
 Kost
+kostbar

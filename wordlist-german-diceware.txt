@@ -2438,3 +2438,4 @@
 26252	kosinus
 26253	kosmos
 26254	kost
+26255	kostbar
