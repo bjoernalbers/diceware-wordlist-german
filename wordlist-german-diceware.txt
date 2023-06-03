@@ -2409,3 +2409,4 @@
 26163	konsum
 26164	kontakt
 26165	konter
+26166	kontern

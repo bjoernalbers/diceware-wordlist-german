@@ -2409,3 +2409,4 @@ konsul
 konsum
 kontakt
 konter
+kontern
