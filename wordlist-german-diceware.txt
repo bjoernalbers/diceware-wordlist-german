@@ -2520,3 +2520,4 @@
 26466	kurbeln
 26511	kurier
 26512	kurios
+26513	kurort

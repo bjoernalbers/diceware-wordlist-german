@@ -2520,3 +2520,4 @@ kurbel
 kurbeln
 kurier
 kurios
+kurort
