@@ -2391,3 +2391,4 @@
 26133	kommode
 26134	kommune
 26135	kompakt
+26136	kompass
