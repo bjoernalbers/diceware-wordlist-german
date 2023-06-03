@@ -2525,3 +2525,4 @@
 26515	kurs
 26516	kursiv
 26521	kurtaxe
+26522	kurve

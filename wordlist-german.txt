@@ -2525,3 +2525,4 @@ Kurpark
 Kurs
 kursiv
 Kurtaxe
+Kurve
