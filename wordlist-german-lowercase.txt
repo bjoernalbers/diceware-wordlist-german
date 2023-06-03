@@ -2497,3 +2497,4 @@ krypton
 kubus
 kuchen
 kuckuck
+kufe
