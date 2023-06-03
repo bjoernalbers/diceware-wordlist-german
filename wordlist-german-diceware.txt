@@ -2433,3 +2433,4 @@
 26243	korken
 26244	korn
 26245	korpus
+26246	korrekt
