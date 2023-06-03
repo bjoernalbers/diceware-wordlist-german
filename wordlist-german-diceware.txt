@@ -2487,3 +2487,4 @@
 26413	krise
 26414	kritik
 26415	krokant
+26416	krokus
