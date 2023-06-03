@@ -2524,3 +2524,4 @@ Kurort
 Kurpark
 Kurs
 kursiv
+Kurtaxe
