@@ -2510,3 +2510,4 @@
 26452	kultig
 26453	kultur
 26454	kumpel
+26455	kunde

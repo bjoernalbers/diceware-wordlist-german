@@ -2510,3 +2510,4 @@ Kult
 kultig
 Kultur
 Kumpel
+Kunde
