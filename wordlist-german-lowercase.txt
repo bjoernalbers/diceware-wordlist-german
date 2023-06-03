@@ -2362,3 +2362,4 @@ kobold
 kobra
 koch
 kochen
+kocher
