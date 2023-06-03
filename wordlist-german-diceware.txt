@@ -2359,3 +2359,4 @@
 25641	koaxial
 25642	kobalt
 25643	kobold
+25644	kobra
