@@ -2489,3 +2489,4 @@
 26415	krokant
 26416	krokus
 26421	krone
+26422	kross
