@@ -2460,3 +2460,4 @@ krass
 krater
 kratzen
 kratzer
+kratzig
