@@ -2517,3 +2517,4 @@
 26463	kuppel
 26464	kur
 26465	kurbel
+26466	kurbeln
