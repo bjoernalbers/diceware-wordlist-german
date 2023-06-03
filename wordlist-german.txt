@@ -2381,3 +2381,4 @@ Kolonne
 Koloss
 Kolumne
 Kombi
+Komet

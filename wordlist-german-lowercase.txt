@@ -2381,3 +2381,4 @@ kolonne
 koloss
 kolumne
 kombi
+komet
