@@ -2445,3 +2445,4 @@
 26263	krachen
 26264	kracher
 26265	kraft
+26266	kragen
