@@ -2406,3 +2406,4 @@
 26156	konsens
 26161	konsole
 26162	konsul
+26163	konsum
