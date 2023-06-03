@@ -2478,3 +2478,4 @@ krepp
 kresse
 kreuzen
 kreuzer
+kricket

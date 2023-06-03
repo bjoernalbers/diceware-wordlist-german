@@ -2478,3 +2478,4 @@ Krepp
 Kresse
 kreuzen
 Kreuzer
+Kricket
