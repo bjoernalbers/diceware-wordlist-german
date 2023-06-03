@@ -2401,3 +2401,4 @@ konform
 konfus
 konisch
 konkav
+konkret
