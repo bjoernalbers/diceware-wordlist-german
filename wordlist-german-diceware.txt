@@ -2430,3 +2430,4 @@
 26236	kord
 26241	kordel
 26242	kork
+26243	korken
