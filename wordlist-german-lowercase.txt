@@ -2392,3 +2392,4 @@ kommode
 kommune
 kompakt
 kompass
+komplex

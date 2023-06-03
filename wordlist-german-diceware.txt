@@ -2392,3 +2392,4 @@
 26134	kommune
 26135	kompakt
 26136	kompass
+26141	komplex
