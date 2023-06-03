@@ -2382,3 +2382,4 @@ Koloss
 Kolumne
 Kombi
 Komet
+Komfort

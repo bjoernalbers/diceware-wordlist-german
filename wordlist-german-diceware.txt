@@ -2382,3 +2382,4 @@
 26116	kolumne
 26121	kombi
 26122	komet
+26123	komfort
