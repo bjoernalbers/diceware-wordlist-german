@@ -2514,3 +2514,4 @@ kunde
 kunst
 kupfer
 kuppe
+kuppel
