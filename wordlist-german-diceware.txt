@@ -2469,3 +2469,4 @@
 26343	kreativ
 26344	kredit
 26345	kreide
+26346	kreis
