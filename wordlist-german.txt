@@ -2347,3 +2347,4 @@ knobeln
 Knobi
 Knochen
 Knolle
+Knopf
