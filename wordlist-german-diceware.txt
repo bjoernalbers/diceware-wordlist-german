@@ -2414,3 +2414,4 @@
 26212	konto
 26213	kontra
 26214	kontur
+26215	konus
