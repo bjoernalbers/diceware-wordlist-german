@@ -2523,3 +2523,4 @@
 26513	kurort
 26514	kurpark
 26515	kurs
+26516	kursiv

@@ -2523,3 +2523,4 @@ kurios
 Kurort
 Kurpark
 Kurs
+kursiv
