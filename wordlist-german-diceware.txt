@@ -2341,3 +2341,4 @@
 25611	knie
 25612	knien
 25613	kniff
+25614	knigge
