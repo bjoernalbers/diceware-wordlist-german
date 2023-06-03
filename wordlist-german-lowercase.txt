@@ -2471,3 +2471,4 @@ kredit
 kreide
 kreis
 kreisel
+kreisen

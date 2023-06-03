@@ -2471,3 +2471,4 @@
 26345	kreide
 26346	kreis
 26351	kreisel
+26352	kreisen
