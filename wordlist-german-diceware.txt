@@ -2513,3 +2513,4 @@
 26455	kunde
 26456	kunst
 26461	kupfer
+26462	kuppe
