@@ -2503,3 +2503,4 @@
 26441	kuhle
 26442	kulant
 26443	kulanz
+26444	kuli
