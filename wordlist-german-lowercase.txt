@@ -2502,3 +2502,4 @@ kugel
 kugeln
 kuhle
 kulant
+kulanz

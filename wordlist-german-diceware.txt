@@ -2502,3 +2502,4 @@
 26436	kugeln
 26441	kuhle
 26442	kulant
+26443	kulanz
