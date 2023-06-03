@@ -2415,3 +2415,4 @@ konto
 kontra
 kontur
 konus
+konvex
