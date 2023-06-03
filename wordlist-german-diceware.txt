@@ -2375,3 +2375,4 @@
 25665	kokon
 25666	kolben
 26111	kolibri
+26112	kollege
