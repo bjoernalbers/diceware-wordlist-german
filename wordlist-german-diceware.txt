@@ -2345,3 +2345,4 @@
 25615	knipsen
 25616	knobeln
 25621	knobi
+25622	knochen
