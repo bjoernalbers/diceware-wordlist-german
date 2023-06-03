@@ -2498,3 +2498,4 @@ kubus
 kuchen
 kuckuck
 kufe
+kugel
