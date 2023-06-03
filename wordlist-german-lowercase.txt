@@ -2372,3 +2372,4 @@ koi
 koje
 kojote
 kokeln
+kokon
