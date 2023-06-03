@@ -2442,3 +2442,4 @@ kostbar
 kosten
 krabbe
 krach
+krachen
