@@ -2340,3 +2340,4 @@
 25566	knicks
 25611	knie
 25612	knien
+25613	kniff
