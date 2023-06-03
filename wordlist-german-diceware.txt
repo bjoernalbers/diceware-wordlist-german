@@ -2361,3 +2361,4 @@
 25643	kobold
 25644	kobra
 25645	koch
+25646	kochen
