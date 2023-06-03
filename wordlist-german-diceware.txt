@@ -2470,3 +2470,4 @@
 26344	kredit
 26345	kreide
 26346	kreis
+26351	kreisel
