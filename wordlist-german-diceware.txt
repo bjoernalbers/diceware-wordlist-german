@@ -2492,3 +2492,4 @@
 26422	kross
 26423	krug
 26424	krumm
+26425	kruste

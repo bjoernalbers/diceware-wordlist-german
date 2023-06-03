@@ -2492,3 +2492,4 @@ Krone
 kross
 Krug
 krumm
+Kruste
