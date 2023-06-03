@@ -2424,3 +2424,4 @@
 26226	kopie
 26231	kopilot
 26232	koppel
+26233	koppeln
