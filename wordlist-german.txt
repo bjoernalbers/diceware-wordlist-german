@@ -2365,3 +2365,4 @@ kochen
 Kocher
 Kodex
 Koffein
+Koffer
