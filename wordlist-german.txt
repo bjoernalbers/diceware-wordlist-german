@@ -2437,3 +2437,4 @@ korrekt
 Korso
 Kosinus
 Kosmos
+Kost

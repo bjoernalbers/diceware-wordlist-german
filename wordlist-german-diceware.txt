@@ -2437,3 +2437,4 @@
 26251	korso
 26252	kosinus
 26253	kosmos
+26254	kost
