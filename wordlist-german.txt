@@ -2394,3 +2394,4 @@ kompakt
 Kompass
 komplex
 Kompost
+Kompott

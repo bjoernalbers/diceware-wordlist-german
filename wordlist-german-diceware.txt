@@ -2394,3 +2394,4 @@
 26136	kompass
 26141	komplex
 26142	kompost
+26143	kompott
