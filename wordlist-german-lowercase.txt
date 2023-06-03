@@ -2417,3 +2417,4 @@ kontur
 konus
 konvex
 konvoi
+konzept

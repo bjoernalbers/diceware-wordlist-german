@@ -2417,3 +2417,4 @@
 26215	konus
 26216	konvex
 26221	konvoi
+26222	konzept
