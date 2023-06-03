@@ -2447,3 +2447,4 @@
 26265	kraft
 26266	kragen
 26311	krake
+26312	krakeln
