@@ -2431,3 +2431,4 @@
 26241	kordel
 26242	kork
 26243	korken
+26244	korn
