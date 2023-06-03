@@ -2495,3 +2495,4 @@ krumm
 kruste
 krypton
 kubus
+kuchen

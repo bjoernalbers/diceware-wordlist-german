@@ -2495,3 +2495,4 @@
 26425	kruste
 26426	krypton
 26431	kubus
+26432	kuchen
