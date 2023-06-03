@@ -2482,3 +2482,4 @@ kricket
 kriegen
 krimi
 kringel
+kripo
