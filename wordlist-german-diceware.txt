@@ -2530,3 +2530,4 @@
 26524	kurz
 26525	kuss
 26526	kutsche
+26531	kutter
