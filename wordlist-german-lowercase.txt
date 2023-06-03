@@ -2346,3 +2346,4 @@ knipsen
 knobeln
 knobi
 knochen
+knolle
