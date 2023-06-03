@@ -2519,3 +2519,4 @@
 26465	kurbel
 26466	kurbeln
 26511	kurier
+26512	kurios

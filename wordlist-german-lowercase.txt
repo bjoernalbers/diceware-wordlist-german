@@ -2519,3 +2519,4 @@ kur
 kurbel
 kurbeln
 kurier
+kurios
