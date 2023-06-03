@@ -2366,3 +2366,4 @@ kocher
 kodex
 koffein
 koffer
+kohl

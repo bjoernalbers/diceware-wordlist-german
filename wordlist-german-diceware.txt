@@ -2366,3 +2366,4 @@
 25652	kodex
 25653	koffein
 25654	koffer
+25655	kohl
