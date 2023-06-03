@@ -2500,3 +2500,4 @@
 26434	kufe
 26435	kugel
 26436	kugeln
+26441	kuhle
