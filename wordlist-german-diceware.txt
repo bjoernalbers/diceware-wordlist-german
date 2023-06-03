@@ -2423,3 +2423,4 @@
 26225	kopf
 26226	kopie
 26231	kopilot
+26232	koppel
