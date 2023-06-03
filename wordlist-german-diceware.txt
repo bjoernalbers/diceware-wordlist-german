@@ -2477,3 +2477,4 @@
 26355	krepp
 26356	kresse
 26361	kreuzen
+26362	kreuzer
