@@ -2467,3 +2467,4 @@
 26341	krawall
 26342	kraxeln
 26343	kreativ
+26344	kredit
