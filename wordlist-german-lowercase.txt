@@ -2421,3 +2421,4 @@ konzept
 konzern
 konzert
 kopf
+kopie

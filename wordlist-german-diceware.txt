@@ -2421,3 +2421,4 @@
 26223	konzern
 26224	konzert
 26225	kopf
+26226	kopie
