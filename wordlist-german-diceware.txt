@@ -2390,3 +2390,4 @@
 26132	kommerz
 26133	kommode
 26134	kommune
+26135	kompakt
