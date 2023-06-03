@@ -2404,3 +2404,4 @@
 26154	konkret
 26155	konkurs
 26156	konsens
+26161	konsole

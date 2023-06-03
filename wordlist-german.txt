@@ -2404,3 +2404,4 @@ konkav
 konkret
 Konkurs
 Konsens
+Konsole
