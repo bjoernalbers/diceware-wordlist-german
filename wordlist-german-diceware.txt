@@ -2420,3 +2420,4 @@
 26222	konzept
 26223	konzern
 26224	konzert
+26225	kopf
