@@ -2400,3 +2400,4 @@
 26146	konform
 26151	konfus
 26152	konisch
+26153	konkav
