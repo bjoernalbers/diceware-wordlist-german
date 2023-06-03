@@ -2508,3 +2508,4 @@
 26446	kullern
 26451	kult
 26452	kultig
+26453	kultur
