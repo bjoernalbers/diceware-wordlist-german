@@ -2412,3 +2412,4 @@ Konter
 kontern
 Kontext
 Konto
+Kontra

@@ -2412,3 +2412,4 @@
 26166	kontern
 26211	kontext
 26212	konto
+26213	kontra
