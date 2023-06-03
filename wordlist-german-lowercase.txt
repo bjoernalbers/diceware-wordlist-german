@@ -2398,3 +2398,4 @@ kompott
 kondor
 konfekt
 konform
+konfus

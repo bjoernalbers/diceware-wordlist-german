@@ -2398,3 +2398,4 @@
 26144	kondor
 26145	konfekt
 26146	konform
+26151	konfus
