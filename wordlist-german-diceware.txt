@@ -2388,3 +2388,4 @@
 26126	komma
 26131	kommen
 26132	kommerz
+26133	kommode
