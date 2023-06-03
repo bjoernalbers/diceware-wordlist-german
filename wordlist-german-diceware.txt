@@ -2441,3 +2441,4 @@
 26255	kostbar
 26256	kosten
 26261	krabbe
+26262	krach

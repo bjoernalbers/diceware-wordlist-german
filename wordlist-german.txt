@@ -2441,3 +2441,4 @@ Kost
 kostbar
 Kosten
 Krabbe
+Krach
