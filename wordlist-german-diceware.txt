@@ -2427,3 +2427,4 @@
 26233	koppeln
 26234	koralle
 26235	korb
+26236	kord
