@@ -2389,3 +2389,4 @@
 26131	kommen
 26132	kommerz
 26133	kommode
+26134	kommune
