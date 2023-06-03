@@ -2343,3 +2343,4 @@ knien
 Kniff
 Knigge
 knipsen
+knobeln
