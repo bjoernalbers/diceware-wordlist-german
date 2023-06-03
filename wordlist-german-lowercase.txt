@@ -2521,3 +2521,4 @@ kurbeln
 kurier
 kurios
 kurort
+kurpark
