@@ -2456,3 +2456,4 @@
 26322	kranich
 26323	kranz
 26324	krapfen
+26325	krass
