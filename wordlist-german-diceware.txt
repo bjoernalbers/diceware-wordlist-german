@@ -2457,3 +2457,4 @@
 26323	kranz
 26324	krapfen
 26325	krass
+26326	krater
