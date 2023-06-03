@@ -2356,3 +2356,4 @@
 25634	knuffig
 25635	knurren
 25636	koautor
+25641	koaxial

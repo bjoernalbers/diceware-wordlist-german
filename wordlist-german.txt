@@ -2356,3 +2356,4 @@ Knubbel
 knuffig
 knurren
 Koautor
+koaxial
