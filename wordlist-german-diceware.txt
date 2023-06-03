@@ -2480,3 +2480,4 @@
 26362	kreuzer
 26363	kricket
 26364	kriegen
+26365	krimi
