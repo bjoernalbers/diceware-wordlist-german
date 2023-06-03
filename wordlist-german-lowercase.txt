@@ -2379,3 +2379,4 @@ kollege
 kolonie
 kolonne
 koloss
+kolumne

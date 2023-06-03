@@ -2379,3 +2379,4 @@
 26113	kolonie
 26114	kolonne
 26115	koloss
+26116	kolumne
