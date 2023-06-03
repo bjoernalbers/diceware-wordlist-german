@@ -2416,3 +2416,4 @@
 26214	kontur
 26215	konus
 26216	konvex
+26221	konvoi
