@@ -2562,3 +2562,4 @@
 26616	lametta
 26621	laminat
 26622	lamm
+26623	lampe
