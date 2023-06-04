@@ -2544,3 +2544,4 @@ Lack
 Lactat
 Lade
 laden
+Ladung

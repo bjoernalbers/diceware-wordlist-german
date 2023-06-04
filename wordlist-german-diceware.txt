@@ -2544,3 +2544,4 @@
 26546	lactat
 26551	lade
 26552	laden
+26553	ladung
