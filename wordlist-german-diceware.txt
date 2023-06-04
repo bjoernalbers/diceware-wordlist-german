@@ -2534,3 +2534,4 @@
 26532	kuvert
 26533	labbrig
 26534	label
+26535	labern
