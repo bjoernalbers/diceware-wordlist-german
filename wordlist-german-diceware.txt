@@ -2540,3 +2540,4 @@
 26542	lacher
 26543	lachgas
 26544	lachs
+26545	lack
