@@ -2547,3 +2547,4 @@ laden
 ladung
 lage
 lager
+lagern
