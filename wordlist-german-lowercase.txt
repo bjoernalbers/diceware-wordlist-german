@@ -2535,3 +2535,4 @@ kuvert
 labbrig
 label
 labern
+labor
