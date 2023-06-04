@@ -2549,3 +2549,4 @@
 26555	lager
 26556	lagern
 26561	lagune
+26562	laib
