@@ -2538,3 +2538,4 @@ labern
 labor
 lachen
 lacher
+lachgas
