@@ -2564,3 +2564,4 @@
 26622	lamm
 26623	lampe
 26624	lampion
+26625	land
