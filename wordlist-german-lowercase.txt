@@ -2558,3 +2558,4 @@ laktose
 lallen
 lama
 lambda
+lamelle

@@ -2558,3 +2558,4 @@
 26612	lallen
 26613	lama
 26614	lambda
+26615	lamelle
