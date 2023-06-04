@@ -2555,3 +2555,4 @@ laie
 laken
 lakritz
 laktose
+lallen

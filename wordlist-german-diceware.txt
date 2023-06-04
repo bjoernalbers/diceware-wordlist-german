@@ -2555,3 +2555,4 @@
 26565	laken
 26566	lakritz
 26611	laktose
+26612	lallen
