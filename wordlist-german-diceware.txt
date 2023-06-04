@@ -2542,3 +2542,4 @@
 26544	lachs
 26545	lack
 26546	lactat
+26551	lade
