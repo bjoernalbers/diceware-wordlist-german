@@ -2565,3 +2565,4 @@
 26623	lampe
 26624	lampion
 26625	land
+26626	landen
