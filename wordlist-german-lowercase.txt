@@ -2541,3 +2541,4 @@ lacher
 lachgas
 lachs
 lack
+lactat
