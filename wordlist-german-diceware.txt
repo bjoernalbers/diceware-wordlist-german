@@ -2548,3 +2548,4 @@
 26554	lage
 26555	lager
 26556	lagern
+26561	lagune

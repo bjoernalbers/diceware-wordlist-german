@@ -2548,3 +2548,4 @@ ladung
 lage
 lager
 lagern
+lagune
