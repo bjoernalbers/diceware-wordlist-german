@@ -2539,3 +2539,4 @@ Labor
 lachen
 Lacher
 Lachgas
+Lachs

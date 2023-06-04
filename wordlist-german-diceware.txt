@@ -2539,3 +2539,4 @@
 26541	lachen
 26542	lacher
 26543	lachgas
+26544	lachs
