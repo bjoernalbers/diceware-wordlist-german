@@ -2553,3 +2553,4 @@
 26563	laichen
 26564	laie
 26565	laken
+26566	lakritz
