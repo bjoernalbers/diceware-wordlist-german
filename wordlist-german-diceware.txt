@@ -2557,3 +2557,4 @@
 26611	laktose
 26612	lallen
 26613	lama
+26614	lambda
