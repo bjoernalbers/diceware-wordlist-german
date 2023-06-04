@@ -2543,3 +2543,4 @@
 26545	lack
 26546	lactat
 26551	lade
+26552	laden
