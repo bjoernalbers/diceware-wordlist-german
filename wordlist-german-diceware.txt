@@ -2532,3 +2532,4 @@
 26526	kutsche
 26531	kutter
 26532	kuvert
+26533	labbrig
