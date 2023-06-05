@@ -2602,3 +2602,4 @@
 31124	lautlos
 31125	lauwarm
 31126	lava
+31131	lawine
