@@ -2570,3 +2570,4 @@
 26632	lang
 26633	langen
 26634	langos
+26635	langsam
