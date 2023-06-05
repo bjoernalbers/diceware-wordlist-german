@@ -2589,3 +2589,4 @@
 26663	latex
 26664	latz
 26665	latzen
+26666	laub
