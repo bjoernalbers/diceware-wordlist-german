@@ -2573,3 +2573,4 @@
 26635	langsam
 26636	lanze
 26641	lapidar
+26642	laptop
