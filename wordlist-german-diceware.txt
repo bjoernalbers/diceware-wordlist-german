@@ -2575,3 +2575,4 @@
 26641	lapidar
 26642	laptop
 26643	larve
+26644	lasagne
