@@ -2592,3 +2592,4 @@
 26666	laub
 31111	laube
 31112	lauern
+31113	lauf

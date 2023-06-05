@@ -2592,3 +2592,4 @@ latzen
 Laub
 Laube
 lauern
+Lauf
