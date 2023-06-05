@@ -2584,3 +2584,4 @@
 26654	laster
 26655	lasur
 26656	latein
+26661	latenz
