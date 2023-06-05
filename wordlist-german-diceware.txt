@@ -2600,3 +2600,4 @@
 31122	laus
 31123	laut
 31124	lautlos
+31125	lauwarm
