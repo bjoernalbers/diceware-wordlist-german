@@ -2579,3 +2579,4 @@
 26645	lasche
 26646	laser
 26651	lassi
+26652	lasso

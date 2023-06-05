@@ -2579,3 +2579,4 @@ lasagne
 lasche
 laser
 lassi
+lasso
