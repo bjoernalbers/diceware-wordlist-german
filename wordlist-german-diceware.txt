@@ -2586,3 +2586,4 @@
 26656	latein
 26661	latenz
 26662	laterne
+26663	latex

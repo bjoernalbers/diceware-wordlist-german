@@ -2586,3 +2586,4 @@ Lasur
 Latein
 Latenz
 Laterne
+Latex
