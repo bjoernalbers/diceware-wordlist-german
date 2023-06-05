@@ -2578,3 +2578,4 @@
 26644	lasagne
 26645	lasche
 26646	laser
+26651	lassi
