@@ -2598,3 +2598,4 @@ laufrad
 lauge
 laune
 laus
+laut

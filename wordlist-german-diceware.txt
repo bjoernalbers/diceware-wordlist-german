@@ -2598,3 +2598,4 @@
 31116	lauge
 31121	laune
 31122	laus
+31123	laut
