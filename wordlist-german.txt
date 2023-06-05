@@ -2596,3 +2596,4 @@ Lauf
 laufen
 Laufrad
 Lauge
+Laune

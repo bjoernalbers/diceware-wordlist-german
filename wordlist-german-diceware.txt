@@ -2596,3 +2596,4 @@
 31114	laufen
 31115	laufrad
 31116	lauge
+31121	laune
