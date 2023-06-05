@@ -2595,3 +2595,4 @@ lauern
 lauf
 laufen
 laufrad
+lauge

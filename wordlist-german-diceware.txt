@@ -2595,3 +2595,4 @@
 31113	lauf
 31114	laufen
 31115	laufrad
+31116	lauge
