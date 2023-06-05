@@ -2583,3 +2583,4 @@
 26653	last
 26654	laster
 26655	lasur
+26656	latein
