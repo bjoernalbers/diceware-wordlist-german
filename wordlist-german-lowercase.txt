@@ -2577,3 +2577,4 @@ laptop
 larve
 lasagne
 lasche
+laser
