@@ -2572,3 +2572,4 @@
 26634	langos
 26635	langsam
 26636	lanze
+26641	lapidar

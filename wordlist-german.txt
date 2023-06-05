@@ -2572,3 +2572,4 @@ langen
 Langos
 langsam
 Lanze
+lapidar
