@@ -2582,3 +2582,4 @@ lassi
 lasso
 last
 laster
+lasur

@@ -2582,3 +2582,4 @@
 26652	lasso
 26653	last
 26654	laster
+26655	lasur
