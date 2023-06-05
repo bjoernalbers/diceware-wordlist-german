@@ -2593,3 +2593,4 @@
 31111	laube
 31112	lauern
 31113	lauf
+31114	laufen

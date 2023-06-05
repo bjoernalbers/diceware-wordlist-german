@@ -2593,3 +2593,4 @@ Laub
 Laube
 lauern
 Lauf
+laufen
