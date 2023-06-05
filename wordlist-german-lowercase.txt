@@ -2597,3 +2597,4 @@ laufen
 laufrad
 lauge
 laune
+laus
