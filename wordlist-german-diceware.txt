@@ -2588,3 +2588,4 @@
 26662	laterne
 26663	latex
 26664	latz
+26665	latzen
