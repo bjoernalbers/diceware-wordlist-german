@@ -2587,3 +2587,4 @@ latein
 latenz
 laterne
 latex
+latz

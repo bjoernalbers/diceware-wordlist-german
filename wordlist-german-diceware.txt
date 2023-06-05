@@ -2587,3 +2587,4 @@
 26661	latenz
 26662	laterne
 26663	latex
+26664	latz
