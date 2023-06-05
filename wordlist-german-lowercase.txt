@@ -2591,3 +2591,4 @@ latz
 latzen
 laub
 laube
+lauern

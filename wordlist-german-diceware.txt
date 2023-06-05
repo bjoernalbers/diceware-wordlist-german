@@ -2591,3 +2591,4 @@
 26665	latzen
 26666	laub
 31111	laube
+31112	lauern
