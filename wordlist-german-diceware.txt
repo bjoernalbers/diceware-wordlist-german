@@ -2590,3 +2590,4 @@
 26664	latz
 26665	latzen
 26666	laub
+31111	laube

@@ -2590,3 +2590,4 @@ Latex
 Latz
 latzen
 Laub
+Laube
