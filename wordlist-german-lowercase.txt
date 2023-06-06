@@ -2647,3 +2647,4 @@ leiten
 leiter
 leitung
 lektion
+lektor

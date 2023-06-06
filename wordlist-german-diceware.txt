@@ -2647,3 +2647,4 @@
 31241	leiter
 31242	leitung
 31243	lektion
+31244	lektor
