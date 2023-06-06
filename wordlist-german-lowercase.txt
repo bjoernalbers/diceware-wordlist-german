@@ -2652,3 +2652,4 @@ lemming
 lenken
 lenker
 lenkrad
+lenkung
