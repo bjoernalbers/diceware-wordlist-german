@@ -2636,3 +2636,4 @@ lehrer
 leib
 leicht
 leiern
+leihen
