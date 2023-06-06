@@ -2639,3 +2639,4 @@
 31225	leihen
 31226	leim
 31231	leimen
+31232	leine
