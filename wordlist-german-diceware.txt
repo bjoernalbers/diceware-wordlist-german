@@ -2634,3 +2634,4 @@
 31216	lehren
 31221	lehrer
 31222	leib
+31223	leicht
