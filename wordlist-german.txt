@@ -2651,3 +2651,4 @@ Lektor
 Lemming
 lenken
 Lenker
+Lenkrad

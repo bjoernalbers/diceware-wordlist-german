@@ -2651,3 +2651,4 @@
 31245	lemming
 31246	lenken
 31251	lenker
+31252	lenkrad
