@@ -2676,3 +2676,4 @@
 31326	liefern
 31331	liege
 31332	liegen
+31333	lift
