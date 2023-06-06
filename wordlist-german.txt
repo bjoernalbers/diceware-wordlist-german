@@ -2650,3 +2650,4 @@ Lektion
 Lektor
 Lemming
 lenken
+Lenker

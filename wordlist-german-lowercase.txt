@@ -2650,3 +2650,4 @@ lektion
 lektor
 lemming
 lenken
+lenker
