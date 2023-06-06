@@ -2609,3 +2609,4 @@
 31135	leasing
 31136	leben
 31141	leber
+31142	lebhaft
