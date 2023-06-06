@@ -2611,3 +2611,4 @@
 31141	leber
 31142	lebhaft
 31143	leck
+31144	lecker
