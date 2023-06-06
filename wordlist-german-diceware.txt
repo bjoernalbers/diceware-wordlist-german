@@ -2628,3 +2628,4 @@
 31166	lehm
 31211	lehmig
 31212	lehne
+31213	lehnen

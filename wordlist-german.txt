@@ -2628,3 +2628,4 @@ Leguan
 Lehm
 lehmig
 Lehne
+lehnen
