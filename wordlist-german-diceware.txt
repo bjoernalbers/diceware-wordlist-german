@@ -2649,3 +2649,4 @@
 31243	lektion
 31244	lektor
 31245	lemming
+31246	lenken
