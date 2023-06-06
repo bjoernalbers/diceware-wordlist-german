@@ -2608,3 +2608,4 @@
 31134	leasen
 31135	leasing
 31136	leben
+31141	leber
