@@ -2620,3 +2620,4 @@ leeren
 leergut
 leerung
 legal
+legen

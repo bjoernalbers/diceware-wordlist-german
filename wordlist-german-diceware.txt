@@ -2620,3 +2620,4 @@
 31154	leergut
 31155	leerung
 31156	legal
+31161	legen
