@@ -2630,3 +2630,4 @@
 31212	lehne
 31213	lehnen
 31214	lehramt
+31215	lehre
