@@ -2622,3 +2622,4 @@
 31156	legal
 31161	legen
 31162	legende
+31163	leger
