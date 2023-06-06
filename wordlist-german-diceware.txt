@@ -2631,3 +2631,4 @@
 31213	lehnen
 31214	lehramt
 31215	lehre
+31216	lehren

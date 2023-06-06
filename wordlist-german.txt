@@ -2631,3 +2631,4 @@ Lehne
 lehnen
 Lehramt
 Lehre
+lehren
