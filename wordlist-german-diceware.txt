@@ -2641,3 +2641,4 @@
 31231	leimen
 31232	leine
 31233	leise
+31234	leiste
