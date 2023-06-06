@@ -2655,3 +2655,4 @@
 31253	lenkung
 31254	leopard
 31255	lerche
+31256	lernen

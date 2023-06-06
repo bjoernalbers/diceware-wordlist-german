@@ -2655,3 +2655,4 @@ Lenkrad
 Lenkung
 Leopard
 Lerche
+lernen
