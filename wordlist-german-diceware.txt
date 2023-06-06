@@ -2627,3 +2627,4 @@
 31165	leguan
 31166	lehm
 31211	lehmig
+31212	lehne
