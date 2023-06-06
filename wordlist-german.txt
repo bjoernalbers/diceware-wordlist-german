@@ -2677,3 +2677,4 @@ liefern
 Liege
 liegen
 Lift
+Liga

@@ -2677,3 +2677,4 @@
 31331	liege
 31332	liegen
 31333	lift
+31334	liga
