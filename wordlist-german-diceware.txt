@@ -2637,3 +2637,4 @@
 31223	leicht
 31224	leiern
 31225	leihen
+31226	leim
