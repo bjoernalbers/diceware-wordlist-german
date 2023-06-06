@@ -2675,3 +2675,4 @@ lieben
 lied
 liefern
 liege
+liegen

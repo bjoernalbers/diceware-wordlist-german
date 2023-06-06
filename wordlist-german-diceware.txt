@@ -2675,3 +2675,4 @@
 31325	lied
 31326	liefern
 31331	liege
+31332	liegen
