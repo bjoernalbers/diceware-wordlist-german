@@ -2657,3 +2657,4 @@ leopard
 lerche
 lernen
 lesen
+leser
