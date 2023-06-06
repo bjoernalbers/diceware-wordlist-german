@@ -2633,3 +2633,4 @@ lehramt
 lehre
 lehren
 lehrer
+leib

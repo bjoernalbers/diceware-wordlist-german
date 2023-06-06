@@ -2633,3 +2633,4 @@
 31215	lehre
 31216	lehren
 31221	lehrer
+31222	leib

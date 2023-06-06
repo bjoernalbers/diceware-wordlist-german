@@ -2633,3 +2633,4 @@ Lehramt
 Lehre
 lehren
 Lehrer
+Leib
