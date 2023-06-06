@@ -2659,3 +2659,4 @@
 31261	lesen
 31262	leser
 31263	lesung
+31264	leuchte

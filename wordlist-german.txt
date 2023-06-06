@@ -2659,3 +2659,4 @@ lernen
 lesen
 Leser
 Lesung
+Leuchte
