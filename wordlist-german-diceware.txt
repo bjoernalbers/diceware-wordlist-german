@@ -2674,3 +2674,4 @@
 31324	lieben
 31325	lied
 31326	liefern
+31331	liege
