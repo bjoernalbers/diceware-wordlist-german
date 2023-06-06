@@ -2614,3 +2614,4 @@ leck
 lecker
 leder
 ledig
+leer

@@ -2614,3 +2614,4 @@
 31144	lecker
 31145	leder
 31146	ledig
+31151	leer
