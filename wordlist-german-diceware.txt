@@ -2646,3 +2646,4 @@
 31236	leiten
 31241	leiter
 31242	leitung
+31243	lektion

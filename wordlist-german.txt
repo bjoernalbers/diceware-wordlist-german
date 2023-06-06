@@ -2646,3 +2646,4 @@ leisten
 leiten
 Leiter
 Leitung
+Lektion
