@@ -2616,3 +2616,4 @@ leder
 ledig
 leer
 leere
+leeren

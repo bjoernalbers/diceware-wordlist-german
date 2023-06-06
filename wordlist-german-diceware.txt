@@ -2616,3 +2616,4 @@
 31146	ledig
 31151	leer
 31152	leere
+31153	leeren
