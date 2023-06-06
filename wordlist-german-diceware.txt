@@ -2656,3 +2656,4 @@
 31254	leopard
 31255	lerche
 31256	lernen
+31261	lesen
