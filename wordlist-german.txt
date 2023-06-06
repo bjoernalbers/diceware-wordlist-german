@@ -2632,3 +2632,4 @@ lehnen
 Lehramt
 Lehre
 lehren
+Lehrer
