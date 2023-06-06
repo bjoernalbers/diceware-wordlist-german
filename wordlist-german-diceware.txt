@@ -2623,3 +2623,4 @@
 31161	legen
 31162	legende
 31163	leger
+31164	leggins
