@@ -2615,3 +2615,4 @@ lecker
 Leder
 ledig
 leer
+Leere
