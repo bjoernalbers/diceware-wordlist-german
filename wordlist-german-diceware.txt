@@ -2654,3 +2654,4 @@
 31252	lenkrad
 31253	lenkung
 31254	leopard
+31255	lerche
