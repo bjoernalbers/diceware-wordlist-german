@@ -2617,3 +2617,4 @@
 31151	leer
 31152	leere
 31153	leeren
+31154	leergut

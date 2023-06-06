@@ -2617,3 +2617,4 @@ ledig
 leer
 leere
 leeren
+leergut
