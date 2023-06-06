@@ -2635,3 +2635,4 @@
 31221	lehrer
 31222	leib
 31223	leicht
+31224	leiern
