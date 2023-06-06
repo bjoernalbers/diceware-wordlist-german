@@ -2688,3 +2688,4 @@ limit
 limo
 linde
 lindern
+lineal
