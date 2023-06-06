@@ -2661,3 +2661,4 @@
 31263	lesung
 31264	leuchte
 31265	leugnen
+31266	leute

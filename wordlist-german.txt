@@ -2661,3 +2661,4 @@ Leser
 Lesung
 Leuchte
 leugnen
+Leute
