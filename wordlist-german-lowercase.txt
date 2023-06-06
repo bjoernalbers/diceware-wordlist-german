@@ -2660,3 +2660,4 @@ lesen
 leser
 lesung
 leuchte
+leugnen
