@@ -2658,3 +2658,4 @@ Lerche
 lernen
 lesen
 Leser
+Lesung

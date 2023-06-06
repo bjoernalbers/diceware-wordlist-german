@@ -2658,3 +2658,4 @@
 31256	lernen
 31261	lesen
 31262	leser
+31263	lesung
