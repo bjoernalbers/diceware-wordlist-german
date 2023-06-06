@@ -2645,3 +2645,4 @@
 31235	leisten
 31236	leiten
 31241	leiter
+31242	leitung
