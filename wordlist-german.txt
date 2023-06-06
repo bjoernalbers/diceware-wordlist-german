@@ -2613,3 +2613,4 @@ lebhaft
 Leck
 lecker
 Leder
+ledig
