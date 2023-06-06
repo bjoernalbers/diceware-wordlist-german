@@ -2640,3 +2640,4 @@ leihen
 leim
 leimen
 leine
+leise
