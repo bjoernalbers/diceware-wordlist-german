@@ -2621,3 +2621,4 @@ leergut
 leerung
 legal
 legen
+legende
