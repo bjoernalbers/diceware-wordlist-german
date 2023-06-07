@@ -2733,3 +2733,4 @@ look
 looping
 lorbeer
 lord
+lore

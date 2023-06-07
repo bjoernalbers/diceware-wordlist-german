@@ -2733,3 +2733,4 @@ Look
 Looping
 Lorbeer
 Lord
+Lore
