@@ -2718,3 +2718,4 @@
 31436	logbuch
 31441	loge
 31442	logfile
+31443	loggia
