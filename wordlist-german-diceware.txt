@@ -2702,3 +2702,4 @@
 31412	litschi
 31413	litze
 31414	lizenz
+31415	lkw
