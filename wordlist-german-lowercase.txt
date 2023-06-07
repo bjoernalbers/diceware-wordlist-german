@@ -2709,3 +2709,4 @@ loben
 lochen
 locher
 locke
+locker
