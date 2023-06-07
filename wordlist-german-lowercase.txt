@@ -2725,3 +2725,4 @@ logisch
 logo
 lohn
 lohnen
+loipe
