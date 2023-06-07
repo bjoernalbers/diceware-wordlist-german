@@ -2727,3 +2727,4 @@
 31453	lohnen
 31454	loipe
 31455	lok
+31456	lokal

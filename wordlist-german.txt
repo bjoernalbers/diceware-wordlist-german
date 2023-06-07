@@ -2727,3 +2727,4 @@ Lohn
 lohnen
 Loipe
 Lok
+Lokal
