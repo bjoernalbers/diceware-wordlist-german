@@ -2698,3 +2698,4 @@
 31364	liste
 31365	listig
 31366	liter
+31411	lithium
