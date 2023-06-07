@@ -2719,3 +2719,4 @@
 31441	loge
 31442	logfile
 31443	loggia
+31444	logik
