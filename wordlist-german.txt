@@ -2700,3 +2700,4 @@ listig
 Liter
 Lithium
 Litschi
+Litze
