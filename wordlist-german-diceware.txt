@@ -2724,3 +2724,4 @@
 31446	logisch
 31451	logo
 31452	lohn
+31453	lohnen
