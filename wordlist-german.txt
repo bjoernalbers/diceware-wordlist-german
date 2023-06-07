@@ -2699,3 +2699,4 @@ Liste
 listig
 Liter
 Lithium
+Litschi
