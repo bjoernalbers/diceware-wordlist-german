@@ -2737,3 +2737,4 @@
 31511	los
 31512	lose
 31513	losen
+31514	losung

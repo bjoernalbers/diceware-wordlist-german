@@ -2737,3 +2737,4 @@ Lore
 Los
 lose
 losen
+Losung
