@@ -2723,3 +2723,4 @@ Logik
 Login
 logisch
 Logo
+Lohn
