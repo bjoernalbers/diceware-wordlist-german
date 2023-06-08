@@ -2756,3 +2756,4 @@
 31542	lungern
 31543	lunte
 31544	lupe
+31545	lupfen
