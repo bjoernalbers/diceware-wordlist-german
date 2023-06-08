@@ -2771,3 +2771,4 @@
 31565	macht
 31566	madam
 31611	maestro
+31612	magazin
