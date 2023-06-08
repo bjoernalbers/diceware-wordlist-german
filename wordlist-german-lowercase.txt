@@ -2752,3 +2752,4 @@ luftig
 luke
 lumen
 lunch
+lunge
