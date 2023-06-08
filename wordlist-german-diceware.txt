@@ -2746,3 +2746,4 @@
 31524	lotus
 31525	lounge
 31526	loyal
+31531	luchs
