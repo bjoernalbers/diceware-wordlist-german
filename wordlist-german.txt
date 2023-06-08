@@ -2748,3 +2748,4 @@ Lounge
 loyal
 Luchs
 Luft
+luftig
