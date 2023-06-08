@@ -2745,3 +2745,4 @@
 31523	lotto
 31524	lotus
 31525	lounge
+31526	loyal
