@@ -2786,3 +2786,4 @@ mailbox
 mailen
 mailing
 mais
+majoran

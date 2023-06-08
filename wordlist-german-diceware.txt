@@ -2786,3 +2786,4 @@
 31632	mailen
 31633	mailing
 31634	mais
+31635	majoran
