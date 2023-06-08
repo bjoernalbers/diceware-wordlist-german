@@ -2749,3 +2749,4 @@
 31531	luchs
 31532	luft
 31533	luftig
+31534	luke
