@@ -2759,3 +2759,4 @@
 31545	lupfen
 31546	lupine
 31551	lurch
+31552	lust
