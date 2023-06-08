@@ -2750,3 +2750,4 @@ luchs
 luft
 luftig
 luke
+lumen
