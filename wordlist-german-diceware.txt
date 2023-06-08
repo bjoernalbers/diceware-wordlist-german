@@ -2761,3 +2761,4 @@
 31551	lurch
 31552	lust
 31553	lustig
+31554	lyrik
