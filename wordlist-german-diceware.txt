@@ -2747,3 +2747,4 @@
 31525	lounge
 31526	loyal
 31531	luchs
+31532	luft
