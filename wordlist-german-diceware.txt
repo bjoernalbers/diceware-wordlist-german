@@ -2743,3 +2743,4 @@
 31521	lotse
 31522	lotsen
 31523	lotto
+31524	lotus
