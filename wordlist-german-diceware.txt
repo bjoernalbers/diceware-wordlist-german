@@ -2762,3 +2762,4 @@
 31552	lust
 31553	lustig
 31554	lyrik
+31555	lyrisch
