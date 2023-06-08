@@ -2777,3 +2777,4 @@
 31615	magie
 31616	magier
 31621	magisch
+31622	magma
