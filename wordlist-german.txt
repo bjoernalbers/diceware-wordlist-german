@@ -2778,3 +2778,4 @@ Magie
 Magier
 magisch
 Magma
+Magnet

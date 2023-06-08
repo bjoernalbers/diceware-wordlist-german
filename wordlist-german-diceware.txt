@@ -2778,3 +2778,4 @@
 31616	magier
 31621	magisch
 31622	magma
+31623	magnet
