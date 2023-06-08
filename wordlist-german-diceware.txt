@@ -2760,3 +2760,4 @@
 31546	lupine
 31551	lurch
 31552	lust
+31553	lustig
