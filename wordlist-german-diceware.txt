@@ -2753,3 +2753,4 @@
 31535	lumen
 31536	lunch
 31541	lunge
+31542	lungern
