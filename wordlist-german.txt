@@ -2805,3 +2805,4 @@ mampfen
 managen
 Manager
 Mandant
+Mandel

@@ -2805,3 +2805,4 @@
 31663	managen
 31664	manager
 31665	mandant
+31666	mandel
