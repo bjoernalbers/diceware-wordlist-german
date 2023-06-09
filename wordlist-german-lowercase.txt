@@ -2795,3 +2795,4 @@ malbuch
 malen
 maler
 malware
+malz
