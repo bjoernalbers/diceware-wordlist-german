@@ -2810,3 +2810,4 @@
 32112	manga
 32113	mango
 32114	mangold
+32115	mann
