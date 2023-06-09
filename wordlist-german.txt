@@ -2804,3 +2804,4 @@ Mammut
 mampfen
 managen
 Manager
+Mandant
