@@ -2807,3 +2807,4 @@
 31665	mandant
 31666	mandel
 32111	manege
+32112	manga
