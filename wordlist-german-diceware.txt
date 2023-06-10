@@ -2853,3 +2853,4 @@
 32223	mauern
 32224	maul
 32225	maurer
+32226	maus

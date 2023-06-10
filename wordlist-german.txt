@@ -2853,3 +2853,4 @@ Mauer
 mauern
 Maul
 Maurer
+Maus
