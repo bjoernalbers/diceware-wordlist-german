@@ -2854,3 +2854,4 @@ mauern
 maul
 maurer
 maus
+mausi
