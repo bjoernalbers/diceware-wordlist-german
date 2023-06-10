@@ -2850,3 +2850,4 @@
 32216	matte
 32221	mau
 32222	mauer
+32223	mauern
