@@ -2941,3 +2941,4 @@ mineral
 mini
 minibar
 minibus
+minijob
