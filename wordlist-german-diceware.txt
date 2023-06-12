@@ -2871,3 +2871,4 @@
 32253	megahit
 32254	mehl
 32255	mehlig
+32256	mehrweg
