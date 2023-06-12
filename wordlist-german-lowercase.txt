@@ -2876,3 +2876,4 @@ meiden
 meile
 meineid
 meinen
+meinung

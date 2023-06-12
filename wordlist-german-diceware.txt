@@ -2876,3 +2876,4 @@
 32262	meile
 32263	meineid
 32264	meinen
+32265	meinung
