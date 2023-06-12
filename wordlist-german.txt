@@ -2938,3 +2938,4 @@ Mimik
 mindern
 Mindmap
 Mineral
+mini
