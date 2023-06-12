@@ -2940,3 +2940,4 @@ mindmap
 mineral
 mini
 minibar
+minibus

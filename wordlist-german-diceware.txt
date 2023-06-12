@@ -2940,3 +2940,4 @@
 32446	mineral
 32451	mini
 32452	minibar
+32453	minibus
