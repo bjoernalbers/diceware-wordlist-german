@@ -2875,3 +2875,4 @@ Mehrweg
 meiden
 Meile
 Meineid
+meinen
