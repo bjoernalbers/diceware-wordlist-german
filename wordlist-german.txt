@@ -2939,3 +2939,4 @@ mindern
 Mindmap
 Mineral
 mini
+Minibar
