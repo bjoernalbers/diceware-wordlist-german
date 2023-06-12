@@ -2937,3 +2937,4 @@ milz
 mimik
 mindern
 mindmap
+mineral
