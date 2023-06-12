@@ -2892,3 +2892,4 @@
 32326	memoire
 32331	memory
 32332	menge
+32333	mensa
