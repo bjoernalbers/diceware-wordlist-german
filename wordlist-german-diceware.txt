@@ -2877,3 +2877,4 @@
 32263	meineid
 32264	meinen
 32265	meinung
+32266	meise
