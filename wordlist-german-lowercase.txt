@@ -2942,3 +2942,4 @@ mini
 minibar
 minibus
 minijob
+minimal

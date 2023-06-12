@@ -2942,3 +2942,4 @@ mini
 Minibar
 Minibus
 Minijob
+minimal

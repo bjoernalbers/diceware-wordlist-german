@@ -2942,3 +2942,4 @@
 32452	minibar
 32453	minibus
 32454	minijob
+32455	minimal
