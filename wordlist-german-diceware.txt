@@ -2866,3 +2866,4 @@
 32244	medizin
 32245	meer
 32246	meeting
+32251	megabit
