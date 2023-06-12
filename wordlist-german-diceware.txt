@@ -2869,3 +2869,4 @@
 32251	megabit
 32252	megafon
 32253	megahit
+32254	mehl
