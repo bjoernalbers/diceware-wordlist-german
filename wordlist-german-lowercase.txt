@@ -2893,3 +2893,4 @@ memoire
 memory
 menge
 mensa
+mensch
