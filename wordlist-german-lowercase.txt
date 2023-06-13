@@ -2959,3 +2959,4 @@ mistral
 mitgift
 mitlaut
 mittag
+mitte

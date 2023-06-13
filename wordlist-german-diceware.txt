@@ -2959,3 +2959,4 @@
 32521	mitgift
 32522	mitlaut
 32523	mittag
+32524	mitte
