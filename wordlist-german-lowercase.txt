@@ -2995,3 +2995,4 @@ monat
 mond
 moneten
 monitor
+monokel
