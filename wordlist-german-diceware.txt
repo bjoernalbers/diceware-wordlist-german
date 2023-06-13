@@ -2994,3 +2994,4 @@
 32616	monat
 32621	mond
 32622	moneten
+32623	monitor
