@@ -2961,3 +2961,4 @@
 32523	mittag
 32524	mitte
 32525	mittel
+32526	mittig

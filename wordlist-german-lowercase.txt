@@ -2961,3 +2961,4 @@ mitlaut
 mittag
 mitte
 mittel
+mittig
