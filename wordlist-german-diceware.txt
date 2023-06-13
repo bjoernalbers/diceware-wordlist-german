@@ -2960,3 +2960,4 @@
 32522	mitlaut
 32523	mittag
 32524	mitte
+32525	mittel

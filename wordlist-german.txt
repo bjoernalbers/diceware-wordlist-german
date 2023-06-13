@@ -2960,3 +2960,4 @@ Mitgift
 Mitlaut
 Mittag
 Mitte
+Mittel
