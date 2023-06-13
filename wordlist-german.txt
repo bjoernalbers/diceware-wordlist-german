@@ -2946,3 +2946,4 @@ minimal
 Minimum
 Minipli
 Minivan
+Minus
