@@ -2999,3 +2999,4 @@
 32625	monolog
 32626	monopol
 32631	monoton
+32632	monsun
