@@ -2976,3 +2976,4 @@ modeln
 modem
 moderat
 modern
+modisch
