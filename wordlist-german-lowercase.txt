@@ -2951,3 +2951,4 @@ minute
 minze
 mischen
 mischer
+mispel
