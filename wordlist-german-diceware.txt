@@ -2979,3 +2979,4 @@
 32553	modisch
 32554	modul
 32555	modular
+32556	modus
