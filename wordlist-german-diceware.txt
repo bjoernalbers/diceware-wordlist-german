@@ -2947,3 +2947,4 @@
 32461	minipli
 32462	minivan
 32463	minus
+32464	minute
