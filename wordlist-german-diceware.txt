@@ -2993,3 +2993,4 @@
 32615	monarch
 32616	monat
 32621	mond
+32622	moneten
