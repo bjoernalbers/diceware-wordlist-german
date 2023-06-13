@@ -2955,3 +2955,4 @@ mispel
 missen
 mission
 mistel
+mistral
