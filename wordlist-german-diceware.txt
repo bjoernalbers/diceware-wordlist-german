@@ -3023,3 +3023,4 @@
 32665	motiv
 32666	motor
 33111	motorik
+33112	motte
