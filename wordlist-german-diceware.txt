@@ -3042,3 +3042,4 @@
 33136	mumps
 33141	mund
 33142	munden
+33143	munkeln
