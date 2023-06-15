@@ -3098,3 +3098,4 @@ Natter
 Natur
 Navi
 Nebel
+nebelig

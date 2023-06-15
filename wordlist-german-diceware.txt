@@ -3098,3 +3098,4 @@
 33312	natur
 33313	navi
 33314	nebel
+33315	nebelig
