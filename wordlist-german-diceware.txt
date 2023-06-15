@@ -3073,3 +3073,4 @@
 33231	nacken
 33232	nackt
 33233	nadel
+33234	nagel
