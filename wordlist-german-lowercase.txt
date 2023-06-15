@@ -3081,3 +3081,4 @@ nahen
 nahrung
 naht
 nahtlos
+naiv

@@ -3081,3 +3081,4 @@
 33243	nahrung
 33244	naht
 33245	nahtlos
+33246	naiv
