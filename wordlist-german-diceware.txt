@@ -3079,3 +3079,4 @@
 33241	nah
 33242	nahen
 33243	nahrung
+33244	naht
