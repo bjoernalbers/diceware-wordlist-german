@@ -3095,3 +3095,4 @@
 33265	natrium
 33266	natron
 33311	natter
+33312	natur
