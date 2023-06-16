@@ -3103,3 +3103,4 @@
 33321	neffe
 33322	negativ
 33323	nehmen
+33324	neigen

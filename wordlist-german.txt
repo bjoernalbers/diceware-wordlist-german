@@ -3103,3 +3103,4 @@ necken
 Neffe
 negativ
 nehmen
+neigen
