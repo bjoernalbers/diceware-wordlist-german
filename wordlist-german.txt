@@ -3106,3 +3106,4 @@ nehmen
 neigen
 Neigung
 Nein
+Nektar

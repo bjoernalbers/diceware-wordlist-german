@@ -3106,3 +3106,4 @@ nehmen
 neigen
 neigung
 nein
+nektar
