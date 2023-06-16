@@ -3139,3 +3139,4 @@
 33421	newton
 33422	nice
 33423	nichte
+33424	nichtig
