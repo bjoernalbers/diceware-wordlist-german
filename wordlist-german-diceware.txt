@@ -3174,3 +3174,4 @@
 33516	norm
 33521	normal
 33522	normung
+33523	not
