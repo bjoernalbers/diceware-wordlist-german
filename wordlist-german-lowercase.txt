@@ -3107,3 +3107,4 @@ neigen
 neigung
 nein
 nektar
+nelke
