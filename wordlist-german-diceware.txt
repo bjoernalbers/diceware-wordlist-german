@@ -3128,3 +3128,4 @@
 33362	neu
 33363	neugier
 33364	neuheit
+33365	neujahr
