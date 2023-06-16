@@ -3176,3 +3176,4 @@
 33522	normung
 33523	not
 33524	notar
+33525	notarzt
