@@ -3104,3 +3104,4 @@
 33322	negativ
 33323	nehmen
 33324	neigen
+33325	neigung

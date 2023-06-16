@@ -3104,3 +3104,4 @@ Neffe
 negativ
 nehmen
 neigen
+Neigung
