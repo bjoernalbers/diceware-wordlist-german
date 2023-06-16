@@ -3105,3 +3105,4 @@
 33323	nehmen
 33324	neigen
 33325	neigung
+33326	nein

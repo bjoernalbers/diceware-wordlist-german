@@ -3105,3 +3105,4 @@ negativ
 nehmen
 neigen
 Neigung
+Nein
