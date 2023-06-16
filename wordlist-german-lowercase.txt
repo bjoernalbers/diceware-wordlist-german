@@ -3170,3 +3170,4 @@ noppe
 nord
 norden
 nordost
+nordpol

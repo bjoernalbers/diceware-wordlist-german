@@ -3170,3 +3170,4 @@
 33512	nord
 33513	norden
 33514	nordost
+33515	nordpol
