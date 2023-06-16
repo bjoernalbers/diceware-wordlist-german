@@ -3171,3 +3171,4 @@ nord
 norden
 nordost
 nordpol
+norm
