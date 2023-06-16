@@ -3130,3 +3130,4 @@
 33364	neuheit
 33365	neujahr
 33366	neuland
+33411	neuling
