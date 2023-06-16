@@ -3102,3 +3102,4 @@
 33316	necken
 33321	neffe
 33322	negativ
+33323	nehmen
