@@ -3101,3 +3101,4 @@ nebel
 nebelig
 necken
 neffe
+negativ

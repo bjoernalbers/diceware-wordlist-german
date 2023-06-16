@@ -3101,3 +3101,4 @@
 33315	nebelig
 33316	necken
 33321	neffe
+33322	negativ
