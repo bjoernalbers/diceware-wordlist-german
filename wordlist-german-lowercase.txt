@@ -3184,3 +3184,4 @@ notruf
 notwehr
 novelle
 novize
+novum

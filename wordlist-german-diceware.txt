@@ -3184,3 +3184,4 @@
 33534	notwehr
 33535	novelle
 33536	novize
+33541	novum
