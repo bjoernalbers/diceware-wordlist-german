@@ -3282,3 +3282,4 @@
 34216	ortsnah
 34221	ortung
 34222	ost
+34223	osten
