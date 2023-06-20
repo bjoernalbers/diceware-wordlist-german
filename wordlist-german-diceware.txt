@@ -3283,3 +3283,4 @@
 34221	ortung
 34222	ost
 34223	osten
+34224	osteria
