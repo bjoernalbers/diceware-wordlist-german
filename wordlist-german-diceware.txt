@@ -3278,3 +3278,4 @@
 34212	orkan
 34213	ort
 34214	orten
+34215	orthese
