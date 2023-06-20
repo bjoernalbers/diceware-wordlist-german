@@ -3223,3 +3223,4 @@
 33641	offerte
 33642	offset
 33643	ohm
+33644	ohr
