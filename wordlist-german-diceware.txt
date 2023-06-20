@@ -3281,3 +3281,4 @@
 34215	orthese
 34216	ortsnah
 34221	ortung
+34222	ost
