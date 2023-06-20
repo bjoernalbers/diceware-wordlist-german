@@ -3259,3 +3259,4 @@ Optiker
 optimal
 Optimum
 Option
+optisch

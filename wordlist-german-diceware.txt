@@ -3259,3 +3259,4 @@
 34141	optimal
 34142	optimum
 34143	option
+34144	optisch
