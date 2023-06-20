@@ -3227,3 +3227,4 @@
 33645	ohrclip
 33646	ohrring
 33651	ohrwurm
+33652	okay
