@@ -3214,3 +3214,4 @@ obskur
 obsolet
 obst
 obstler
+ochse

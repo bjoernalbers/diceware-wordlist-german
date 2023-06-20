@@ -3214,3 +3214,4 @@
 33624	obsolet
 33625	obst
 33626	obstler
+33631	ochse
