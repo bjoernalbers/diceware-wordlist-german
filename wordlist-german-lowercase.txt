@@ -3192,3 +3192,4 @@ nudel
 nugat
 nugget
 nuklear
+nummer
