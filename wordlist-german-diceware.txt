@@ -3194,3 +3194,4 @@
 33552	nuklear
 33553	nummer
 33554	nuss
+33555	nussig
