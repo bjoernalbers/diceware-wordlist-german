@@ -3183,3 +3183,4 @@ notrad
 notruf
 notwehr
 novelle
+novize
