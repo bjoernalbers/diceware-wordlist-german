@@ -3191,3 +3191,4 @@
 33545	nudel
 33546	nugat
 33551	nugget
+33552	nuklear
