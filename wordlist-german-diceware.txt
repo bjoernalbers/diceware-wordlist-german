@@ -3193,3 +3193,4 @@
 33551	nugget
 33552	nuklear
 33553	nummer
+33554	nuss
