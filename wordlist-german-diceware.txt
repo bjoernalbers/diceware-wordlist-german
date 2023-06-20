@@ -3181,3 +3181,4 @@
 33531	notiz
 33532	notrad
 33533	notruf
+33534	notwehr
