@@ -3232,3 +3232,4 @@
 33654	oktan
 33655	oktave
 33656	oktett
+33661	oktober
