@@ -3293,3 +3293,4 @@
 34235	outlet
 34236	output
 34241	ouzo
+34242	oval
