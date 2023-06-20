@@ -3229,3 +3229,4 @@
 33651	ohrwurm
 33652	okay
 33653	oktagon
+33654	oktan
