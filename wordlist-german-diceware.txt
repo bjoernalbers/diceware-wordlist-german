@@ -3225,3 +3225,4 @@
 33643	ohm
 33644	ohr
 33645	ohrclip
+33646	ohrring

@@ -3225,3 +3225,4 @@ offset
 ohm
 ohr
 ohrclip
+ohrring
