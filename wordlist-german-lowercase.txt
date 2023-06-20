@@ -3243,3 +3243,4 @@ omega
 omelett
 omen
 omi
+omikron
