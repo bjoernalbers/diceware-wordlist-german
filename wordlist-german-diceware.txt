@@ -3185,3 +3185,4 @@
 33535	novelle
 33536	novize
 33541	novum
+33542	nuance
