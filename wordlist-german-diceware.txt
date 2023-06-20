@@ -3189,3 +3189,4 @@
 33543	nuckel
 33544	nuckeln
 33545	nudel
+33546	nugat
