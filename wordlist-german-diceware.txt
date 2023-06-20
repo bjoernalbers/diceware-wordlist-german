@@ -3195,3 +3195,4 @@
 33553	nummer
 33554	nuss
 33555	nussig
+33556	nut
