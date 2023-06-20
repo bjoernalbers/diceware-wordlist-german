@@ -3187,3 +3187,4 @@
 33541	novum
 33542	nuance
 33543	nuckel
+33544	nuckeln
