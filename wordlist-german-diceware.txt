@@ -3212,3 +3212,4 @@
 33622	obolus
 33623	obskur
 33624	obsolet
+33625	obst
