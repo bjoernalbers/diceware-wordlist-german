@@ -3188,3 +3188,4 @@
 33542	nuance
 33543	nuckel
 33544	nuckeln
+33545	nudel
