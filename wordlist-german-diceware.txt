@@ -3299,3 +3299,4 @@
 34245	ozon
 34246	paar
 34251	paaren
+34252	paarung
