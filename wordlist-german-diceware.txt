@@ -3300,3 +3300,4 @@
 34246	paar
 34251	paaren
 34252	paarung
+34253	pacer
