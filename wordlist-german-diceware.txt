@@ -3325,3 +3325,4 @@
 34331	pampig
 34332	panik
 34333	panisch
+34334	panne
