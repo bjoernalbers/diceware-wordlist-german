@@ -3298,3 +3298,4 @@
 34244	ozean
 34245	ozon
 34246	paar
+34251	paaren
