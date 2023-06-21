@@ -3336,3 +3336,4 @@
 34346	papier
 34351	pappe
 34352	pappel
+34353	paprika

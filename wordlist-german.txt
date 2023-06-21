@@ -3336,3 +3336,4 @@ Papi
 Papier
 Pappe
 Pappel
+Paprika
