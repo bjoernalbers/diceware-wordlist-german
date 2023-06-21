@@ -3301,3 +3301,4 @@
 34251	paaren
 34252	paarung
 34253	pacer
+34254	pacht
