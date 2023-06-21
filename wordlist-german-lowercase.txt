@@ -3337,3 +3337,4 @@ papier
 pappe
 pappel
 paprika
+papyrus
