@@ -3326,3 +3326,4 @@
 34332	panik
 34333	panisch
 34334	panne
+34335	pansen

@@ -3326,3 +3326,4 @@ pampig
 panik
 panisch
 panne
+pansen
