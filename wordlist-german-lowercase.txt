@@ -3302,3 +3302,4 @@ paaren
 paarung
 pacer
 pacht
+pachten
