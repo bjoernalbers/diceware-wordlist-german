@@ -3317,3 +3317,4 @@ paket
 pakt
 palast
 palaver
+palette
