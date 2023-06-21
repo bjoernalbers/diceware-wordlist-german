@@ -3323,3 +3323,4 @@
 34325	pampa
 34326	pampe
 34331	pampig
+34332	panik
