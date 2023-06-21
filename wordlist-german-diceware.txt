@@ -3316,3 +3316,4 @@
 34314	paket
 34315	pakt
 34316	palast
+34321	palaver
