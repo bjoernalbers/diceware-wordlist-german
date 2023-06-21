@@ -3327,3 +3327,4 @@ panik
 panisch
 panne
 pansen
+panther
