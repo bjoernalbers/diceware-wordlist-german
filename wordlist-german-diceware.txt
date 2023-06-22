@@ -3389,3 +3389,4 @@
 34515	paywall
 34516	peanuts
 34521	pech
+34522	pedal
