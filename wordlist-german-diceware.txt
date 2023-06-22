@@ -3366,3 +3366,4 @@
 34436	passion
 34441	passiv
 34442	passus
+34443	pasta
