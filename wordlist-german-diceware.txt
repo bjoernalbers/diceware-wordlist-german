@@ -3367,3 +3367,4 @@
 34441	passiv
 34442	passus
 34443	pasta
+34444	paste
