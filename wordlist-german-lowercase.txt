@@ -3365,3 +3365,4 @@ passee
 passen
 passion
 passiv
+passus
