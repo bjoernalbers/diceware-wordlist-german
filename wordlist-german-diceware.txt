@@ -3364,3 +3364,4 @@
 34434	passee
 34435	passen
 34436	passion
+34441	passiv
