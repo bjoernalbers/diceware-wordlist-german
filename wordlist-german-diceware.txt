@@ -3369,3 +3369,4 @@
 34443	pasta
 34444	paste
 34445	pastell
+34446	pastete
