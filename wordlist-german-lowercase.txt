@@ -3368,3 +3368,4 @@ passiv
 passus
 pasta
 paste
+pastell
