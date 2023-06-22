@@ -3353,3 +3353,4 @@ parole
 paroli
 part
 partei
+partial
