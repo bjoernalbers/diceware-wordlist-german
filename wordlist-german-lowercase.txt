@@ -3374,3 +3374,4 @@ patch
 patchen
 pate
 patent
+patient
