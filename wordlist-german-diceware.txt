@@ -3355,3 +3355,4 @@
 34421	partei
 34422	partial
 34423	partie
+34424	partner
