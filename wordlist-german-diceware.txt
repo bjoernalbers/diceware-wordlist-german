@@ -3381,3 +3381,4 @@
 34463	patsche
 34464	patt
 34465	patzer
+34466	pauke
