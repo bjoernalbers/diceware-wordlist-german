@@ -3432,3 +3432,4 @@
 34626	pfeifen
 34631	pfeil
 34632	pfeiler
+34633	pfennig

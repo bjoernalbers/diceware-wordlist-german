@@ -3432,3 +3432,4 @@ pfeife
 pfeifen
 pfeil
 pfeiler
+pfennig
