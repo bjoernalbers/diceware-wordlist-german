@@ -3406,3 +3406,4 @@ pendant
 pendel
 pendeln
 pendler
+penibel
