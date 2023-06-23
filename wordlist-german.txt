@@ -3429,3 +3429,4 @@ Pfanne
 Pfau
 Pfeffer
 Pfeife
+pfeifen

@@ -3429,3 +3429,4 @@
 34623	pfau
 34624	pfeffer
 34625	pfeife
+34626	pfeifen
