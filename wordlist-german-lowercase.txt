@@ -3425,3 +3425,4 @@ pfad
 pfahl
 pfalz
 pfand
+pfanne

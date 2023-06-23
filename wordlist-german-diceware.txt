@@ -3425,3 +3425,4 @@
 34615	pfahl
 34616	pfalz
 34621	pfand
+34622	pfanne
