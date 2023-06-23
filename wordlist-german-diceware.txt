@@ -3400,3 +3400,4 @@
 34534	pelle
 34535	pellen
 34536	pellet
+34541	pelz
