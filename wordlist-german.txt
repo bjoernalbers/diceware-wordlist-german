@@ -3441,3 +3441,4 @@ Pflaume
 Pflege
 pflegen
 Pfleger
+Pflicht

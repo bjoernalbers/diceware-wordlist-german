@@ -3441,3 +3441,4 @@
 34643	pflege
 34644	pflegen
 34645	pfleger
+34646	pflicht
