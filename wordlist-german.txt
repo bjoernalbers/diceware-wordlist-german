@@ -3444,3 +3444,4 @@ Pfleger
 Pflicht
 Pflock
 Pflug
+Pforte
