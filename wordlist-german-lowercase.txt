@@ -3436,3 +3436,4 @@ pfennig
 pferd
 pfiff
 pfiffig
+pflanze
