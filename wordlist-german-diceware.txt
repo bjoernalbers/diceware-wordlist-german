@@ -3442,3 +3442,4 @@
 34644	pflegen
 34645	pfleger
 34646	pflicht
+34651	pflock

@@ -3442,3 +3442,4 @@ Pflege
 pflegen
 Pfleger
 Pflicht
+Pflock
