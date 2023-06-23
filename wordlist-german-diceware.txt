@@ -3435,3 +3435,4 @@
 34633	pfennig
 34634	pferd
 34635	pfiff
+34636	pfiffig
