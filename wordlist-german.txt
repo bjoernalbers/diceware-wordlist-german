@@ -3440,3 +3440,4 @@ Pflanze
 Pflaume
 Pflege
 pflegen
+Pfleger
