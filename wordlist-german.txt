@@ -3430,3 +3430,4 @@ Pfau
 Pfeffer
 Pfeife
 pfeifen
+Pfeil

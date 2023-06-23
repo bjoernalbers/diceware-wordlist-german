@@ -3430,3 +3430,4 @@
 34624	pfeffer
 34625	pfeife
 34626	pfeifen
+34631	pfeil
