@@ -3407,3 +3407,4 @@ pendel
 pendeln
 pendler
 penibel
+pennen
