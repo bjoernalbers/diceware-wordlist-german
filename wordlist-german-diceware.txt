@@ -3433,3 +3433,4 @@
 34631	pfeil
 34632	pfeiler
 34633	pfennig
+34634	pferd

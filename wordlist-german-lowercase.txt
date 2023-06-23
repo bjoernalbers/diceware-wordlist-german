@@ -3433,3 +3433,4 @@ pfeifen
 pfeil
 pfeiler
 pfennig
+pferd
