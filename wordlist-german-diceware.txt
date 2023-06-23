@@ -3401,3 +3401,4 @@
 34535	pellen
 34536	pellet
 34541	pelz
+34542	pelzig
