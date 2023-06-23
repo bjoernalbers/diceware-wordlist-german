@@ -3405,3 +3405,4 @@
 34543	pendant
 34544	pendel
 34545	pendeln
+34546	pendler
