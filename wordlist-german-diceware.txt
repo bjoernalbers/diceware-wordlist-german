@@ -3437,3 +3437,4 @@
 34635	pfiff
 34636	pfiffig
 34641	pflanze
+34642	pflaume
