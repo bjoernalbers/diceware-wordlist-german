@@ -3411,3 +3411,4 @@
 34553	pension
 34554	pensum
 34555	perdu
+34556	perfekt
