@@ -3434,3 +3434,4 @@ pfeil
 pfeiler
 pfennig
 pferd
+pfiff
