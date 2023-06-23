@@ -3402,3 +3402,4 @@ pellen
 pellet
 pelz
 pelzig
+pendant
