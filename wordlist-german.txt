@@ -3396,3 +3396,4 @@ Pegasus
 Pegel
 peilen
 Peilung
+Pelikan

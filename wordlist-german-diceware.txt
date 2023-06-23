@@ -3396,3 +3396,4 @@
 34526	pegel
 34531	peilen
 34532	peilung
+34533	pelikan
