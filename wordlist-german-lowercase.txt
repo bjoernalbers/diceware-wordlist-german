@@ -3409,3 +3409,4 @@ pendler
 penibel
 pennen
 pension
+pensum

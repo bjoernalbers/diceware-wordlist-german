@@ -3409,3 +3409,4 @@ Pendler
 penibel
 pennen
 Pension
+Pensum

@@ -3409,3 +3409,4 @@
 34551	penibel
 34552	pennen
 34553	pension
+34554	pensum
