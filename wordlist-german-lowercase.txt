@@ -3403,3 +3403,4 @@ pellet
 pelz
 pelzig
 pendant
+pendel

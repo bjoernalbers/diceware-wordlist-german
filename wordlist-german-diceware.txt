@@ -3403,3 +3403,4 @@
 34541	pelz
 34542	pelzig
 34543	pendant
+34544	pendel
