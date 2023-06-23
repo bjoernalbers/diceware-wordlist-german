@@ -3424,3 +3424,4 @@
 34614	pfad
 34615	pfahl
 34616	pfalz
+34621	pfand
