@@ -3390,3 +3390,4 @@ Paywall
 Peanuts
 Pech
 Pedal
+Pedelec
