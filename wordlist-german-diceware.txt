@@ -3520,3 +3520,4 @@
 35254	pkw
 35255	placebo
 35256	plagen
+35261	plagiat
