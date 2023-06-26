@@ -3521,3 +3521,4 @@
 35255	placebo
 35256	plagen
 35261	plagiat
+35262	plakat

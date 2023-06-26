@@ -3521,3 +3521,4 @@ Pkw
 Placebo
 plagen
 Plagiat
+Plakat
