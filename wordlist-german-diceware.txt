@@ -3522,3 +3522,4 @@
 35256	plagen
 35261	plagiat
 35262	plakat
+35263	plan
