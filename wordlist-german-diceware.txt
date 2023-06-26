@@ -3478,3 +3478,4 @@
 35144	pik
 35145	pikacht
 35146	pikant
+35151	pikass
