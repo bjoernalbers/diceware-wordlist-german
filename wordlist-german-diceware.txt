@@ -3477,3 +3477,4 @@
 35143	pigment
 35144	pik
 35145	pikacht
+35146	pikant
