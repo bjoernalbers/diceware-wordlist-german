@@ -3501,3 +3501,4 @@
 35223	pinnen
 35224	pinsel
 35225	pinseln
+35226	pinte
