@@ -3533,3 +3533,4 @@ plaque
 plasma
 plastik
 plateau
+platin

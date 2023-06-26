@@ -3533,3 +3533,4 @@ Plaque
 Plasma
 Plastik
 Plateau
+Platin
