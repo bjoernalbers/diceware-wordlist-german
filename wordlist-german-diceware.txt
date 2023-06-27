@@ -3570,3 +3570,4 @@
 35416	pokern
 35421	pol
 35422	polenta
+35423	polente
