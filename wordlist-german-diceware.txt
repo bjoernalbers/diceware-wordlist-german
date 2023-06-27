@@ -3567,3 +3567,4 @@
 35413	pointer
 35414	pokal
 35415	poker
+35416	pokern
