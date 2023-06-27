@@ -3595,3 +3595,4 @@ pool
 pop
 popcorn
 poppig
+popstar
