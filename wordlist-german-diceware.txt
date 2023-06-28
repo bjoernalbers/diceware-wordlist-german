@@ -3635,3 +3635,4 @@
 35565	primus
 35566	printe
 35611	printer
+35612	prinz
