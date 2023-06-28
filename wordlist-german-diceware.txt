@@ -3632,3 +3632,4 @@
 35562	prima
 35563	prime
 35564	primel
+35565	primus
