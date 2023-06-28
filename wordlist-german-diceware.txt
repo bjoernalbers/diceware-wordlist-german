@@ -3615,3 +3615,4 @@
 35533	power
 35534	pracht
 35535	prahlen
+35536	praktik
