@@ -3637,3 +3637,4 @@
 35611	printer
 35612	prinz
 35613	prinzip
+35614	prise
