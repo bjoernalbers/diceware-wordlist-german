@@ -3657,3 +3657,4 @@
 35643	prosa
 35644	prosit
 35645	prosten
+35646	protein
