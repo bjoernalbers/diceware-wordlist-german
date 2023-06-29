@@ -3673,3 +3673,4 @@
 36111	pudel
 36112	puder
 36113	pudern
+36114	puffer
