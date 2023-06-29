@@ -3679,3 +3679,4 @@
 36121	pulle
 36122	pulli
 36123	puls
+36124	pult
