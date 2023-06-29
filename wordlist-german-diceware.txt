@@ -3668,3 +3668,4 @@
 35662	psyche
 35663	pub
 35664	publik
+35665	puck
