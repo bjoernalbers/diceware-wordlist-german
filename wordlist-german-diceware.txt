@@ -3681,3 +3681,4 @@
 36123	puls
 36124	pult
 36125	pulver
+36126	puma
