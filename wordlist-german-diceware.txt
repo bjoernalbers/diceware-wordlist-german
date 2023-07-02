@@ -3709,3 +3709,4 @@
 36211	putzig
 36212	puzzeln
 36213	puzzle
+36214	pyjama
