@@ -3741,3 +3741,4 @@
 36263	quirlig
 36264	quitte
 36265	quiz
+36266	quote
