@@ -3725,3 +3725,4 @@
 36235	quarz
 36236	quast
 36241	quatsch
+36242	quechua
