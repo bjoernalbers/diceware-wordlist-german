@@ -3723,3 +3723,4 @@
 36233	quark
 36234	quartal
 36235	quarz
+36236	quast
