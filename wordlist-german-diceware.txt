@@ -3740,3 +3740,4 @@
 36262	quirlen
 36263	quirlig
 36264	quitte
+36265	quiz
