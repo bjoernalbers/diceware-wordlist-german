@@ -3731,3 +3731,4 @@
 36245	quellen
 36246	quere
 36251	queren
+36252	querung
