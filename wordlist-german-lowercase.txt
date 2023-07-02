@@ -3721,3 +3721,4 @@ qualm
 qualmen
 quantum
 quark
+quartal
