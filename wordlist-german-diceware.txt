@@ -3729,3 +3729,4 @@
 36243	queen
 36244	quelle
 36245	quellen
+36246	quere

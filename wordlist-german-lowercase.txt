@@ -3729,3 +3729,4 @@ quechua
 queen
 quelle
 quellen
+quere
