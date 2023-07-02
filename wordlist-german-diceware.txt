@@ -3708,3 +3708,4 @@
 36166	putzen
 36211	putzig
 36212	puzzeln
+36213	puzzle
