@@ -3690,3 +3690,4 @@
 36136	punker
 36141	punkt
 36142	punsch
+36143	pupille
