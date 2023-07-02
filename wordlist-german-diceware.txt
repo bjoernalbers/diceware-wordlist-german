@@ -3730,3 +3730,4 @@
 36244	quelle
 36245	quellen
 36246	quere
+36251	queren
