@@ -3739,3 +3739,4 @@
 36261	quirl
 36262	quirlen
 36263	quirlig
+36264	quitte
