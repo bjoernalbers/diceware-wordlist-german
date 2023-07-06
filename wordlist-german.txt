@@ -3765,3 +3765,4 @@ Radius
 Radler
 Radnabe
 Radtour
+Radweg
