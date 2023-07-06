@@ -3767,3 +3767,4 @@
 36345	radtour
 36346	radweg
 36351	raffen
+36352	rafting
