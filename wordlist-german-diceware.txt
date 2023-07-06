@@ -3786,3 +3786,4 @@
 36416	ranken
 36421	ranking
 36422	ranzen
+36423	ranzig
