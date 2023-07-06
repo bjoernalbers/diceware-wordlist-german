@@ -3821,3 +3821,4 @@
 36515	raub
 36516	rauben
 36521	rauch
+36522	rauchen
