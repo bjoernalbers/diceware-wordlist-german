@@ -3803,3 +3803,4 @@ Rasse
 Rassel
 rasseln
 Rast
+rasten
