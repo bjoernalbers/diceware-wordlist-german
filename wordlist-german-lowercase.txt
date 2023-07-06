@@ -3823,3 +3823,4 @@ rauben
 rauch
 rauchen
 raucher
+rauchig
