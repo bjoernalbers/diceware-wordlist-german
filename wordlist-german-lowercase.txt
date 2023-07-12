@@ -3860,3 +3860,4 @@ reform
 refrain
 regal
 regatta
+regel
