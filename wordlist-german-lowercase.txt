@@ -3864,3 +3864,4 @@ regel
 regeln
 regen
 regie
+regime
