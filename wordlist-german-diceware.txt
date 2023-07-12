@@ -3833,3 +3833,4 @@
 36535	raupe
 36536	raureif
 36541	rausch
+36542	raute
