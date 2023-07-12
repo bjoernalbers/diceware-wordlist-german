@@ -3847,3 +3847,4 @@
 36561	rebhuhn
 36562	rechnen
 36563	rechner
+36564	recht
