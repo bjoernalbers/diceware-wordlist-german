@@ -3825,3 +3825,4 @@ rauchen
 Raucher
 rauchig
 raufen
+Rauke

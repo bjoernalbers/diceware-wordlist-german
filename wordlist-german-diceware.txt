@@ -3825,3 +3825,4 @@
 36523	raucher
 36524	rauchig
 36525	raufen
+36526	rauke
