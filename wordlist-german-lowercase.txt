@@ -3887,3 +3887,4 @@ reiher
 reim
 reimen
 rein
+reis
