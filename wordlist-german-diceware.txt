@@ -3889,3 +3889,4 @@
 41111	rein
 41112	reis
 41113	reise
+41114	reisen
