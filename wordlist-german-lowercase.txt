@@ -3862,3 +3862,4 @@ regal
 regatta
 regel
 regeln
+regen
