@@ -3888,3 +3888,4 @@
 36666	reimen
 41111	rein
 41112	reis
+41113	reise
