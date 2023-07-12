@@ -3859,3 +3859,4 @@ reflex
 reform
 refrain
 regal
+regatta
