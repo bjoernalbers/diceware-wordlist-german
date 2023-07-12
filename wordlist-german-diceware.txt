@@ -3891,3 +3891,4 @@
 41113	reise
 41114	reisen
 41115	reisig
+41116	reiten
