@@ -3861,3 +3861,4 @@ Refrain
 Regal
 Regatta
 Regel
+regeln
