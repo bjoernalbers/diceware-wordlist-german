@@ -3869,3 +3869,4 @@ Region
 Regler
 regnen
 Regress
+Regung
