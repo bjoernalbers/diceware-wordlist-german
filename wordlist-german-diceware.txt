@@ -3858,3 +3858,4 @@
 36616	reflex
 36621	reform
 36622	refrain
+36623	regal
