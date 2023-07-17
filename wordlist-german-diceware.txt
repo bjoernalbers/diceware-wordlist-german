@@ -3936,3 +3936,4 @@
 41226	retro
 41231	retten
 41232	retter
+41233	rettich
