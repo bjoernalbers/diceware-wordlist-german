@@ -3916,3 +3916,4 @@
 41154	rendite
 41155	rennen
 41156	rennrad
+41161	rente
