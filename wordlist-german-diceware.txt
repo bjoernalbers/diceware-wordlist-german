@@ -3914,3 +3914,4 @@
 41152	rempeln
 41153	rendern
 41154	rendite
+41155	rennen
