@@ -3953,3 +3953,4 @@
 41255	ricotta
 41256	riechen
 41261	riecher
+41262	riefe
