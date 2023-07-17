@@ -3917,3 +3917,4 @@
 41155	rennen
 41156	rennrad
 41161	rente
+41162	rentier
