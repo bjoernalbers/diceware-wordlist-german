@@ -3949,3 +3949,4 @@ rheuma
 rho
 richten
 richter
+richtig

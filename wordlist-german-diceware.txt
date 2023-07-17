@@ -3949,3 +3949,4 @@
 41251	rho
 41252	richten
 41253	richter
+41254	richtig
