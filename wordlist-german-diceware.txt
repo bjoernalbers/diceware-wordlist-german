@@ -3950,3 +3950,4 @@
 41252	richten
 41253	richter
 41254	richtig
+41255	ricotta
