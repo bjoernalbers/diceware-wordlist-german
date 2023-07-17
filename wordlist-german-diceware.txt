@@ -3940,3 +3940,4 @@
 41234	rettung
 41235	retweet
 41236	reue
+41241	revers
