@@ -3952,3 +3952,4 @@ richter
 richtig
 ricotta
 riechen
+riecher
