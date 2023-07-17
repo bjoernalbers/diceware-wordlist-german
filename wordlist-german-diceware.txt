@@ -3929,3 +3929,4 @@
 41215	respekt
 41216	ressort
 41221	rest
+41222	restlos
