@@ -3927,3 +3927,4 @@
 41213	resolut
 41214	resort
 41215	respekt
+41216	ressort
