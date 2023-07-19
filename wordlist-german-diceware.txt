@@ -3967,3 +3967,4 @@
 41321	rind
 41322	rinde
 41323	ring
+41324	ringel
