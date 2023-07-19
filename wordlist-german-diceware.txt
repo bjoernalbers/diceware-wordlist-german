@@ -3979,3 +3979,4 @@
 41341	riskant
 41342	risotto
 41343	rispe
+41344	riss
