@@ -3973,3 +3973,4 @@
 41331	ringer
 41332	rinne
 41333	rinnen
+41334	rinnsal
