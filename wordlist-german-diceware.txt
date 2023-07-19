@@ -3964,3 +3964,4 @@
 41314	rigoros
 41315	rikscha
 41316	rille
+41321	rind
