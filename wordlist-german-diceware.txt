@@ -3978,3 +3978,4 @@
 41336	risiko
 41341	riskant
 41342	risotto
+41343	rispe
