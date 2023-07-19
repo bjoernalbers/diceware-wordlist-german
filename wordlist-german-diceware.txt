@@ -3966,3 +3966,4 @@
 41316	rille
 41321	rind
 41322	rinde
+41323	ring
