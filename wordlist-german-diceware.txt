@@ -3976,3 +3976,4 @@
 41334	rinnsal
 41335	rippe
 41336	risiko
+41341	riskant
