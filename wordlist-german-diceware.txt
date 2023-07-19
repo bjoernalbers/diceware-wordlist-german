@@ -3985,3 +3985,4 @@
 41351	ritt
 41352	ritter
 41353	ritual
+41354	rivale
