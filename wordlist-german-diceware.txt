@@ -3975,3 +3975,4 @@
 41333	rinnen
 41334	rinnsal
 41335	rippe
+41336	risiko
