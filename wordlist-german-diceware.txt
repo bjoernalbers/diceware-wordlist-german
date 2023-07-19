@@ -3980,3 +3980,4 @@
 41342	risotto
 41343	rispe
 41344	riss
+41345	rissig
