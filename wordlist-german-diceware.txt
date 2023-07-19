@@ -3959,3 +3959,4 @@
 41265	riese
 41266	rieseln
 41311	riesig
+41312	riester
