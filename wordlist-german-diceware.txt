@@ -3981,3 +3981,4 @@
 41343	rispe
 41344	riss
 41345	rissig
+41346	ritalin
