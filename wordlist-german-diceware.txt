@@ -3962,3 +3962,4 @@
 41312	riester
 41313	riff
 41314	rigoros
+41315	rikscha
