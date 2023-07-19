@@ -3965,3 +3965,4 @@ rigoros
 rikscha
 rille
 rind
+rinde

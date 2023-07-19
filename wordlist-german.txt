@@ -3965,3 +3965,4 @@ rigoros
 Rikscha
 Rille
 Rind
+Rinde

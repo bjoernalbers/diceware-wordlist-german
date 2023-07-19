@@ -3965,3 +3965,4 @@
 41315	rikscha
 41316	rille
 41321	rind
+41322	rinde
