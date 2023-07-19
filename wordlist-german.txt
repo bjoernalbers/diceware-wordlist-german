@@ -3961,3 +3961,4 @@ rieseln
 riesig
 Riester
 Riff
+rigoros

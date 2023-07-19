@@ -3961,3 +3961,4 @@
 41311	riesig
 41312	riester
 41313	riff
+41314	rigoros
