@@ -3986,3 +3986,4 @@
 41352	ritter
 41353	ritual
 41354	rivale
+41355	rizinus
