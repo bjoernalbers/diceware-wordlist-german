@@ -4001,3 +4001,4 @@ rocker
 rodeln
 roden
 rodung
+roggen

@@ -4001,3 +4001,4 @@
 41415	rodeln
 41416	roden
 41421	rodung
+41422	roggen
