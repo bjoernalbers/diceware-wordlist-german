@@ -4021,3 +4021,4 @@
 41451	rosarot
 41452	rose
 41453	rosig
+41454	rosine
