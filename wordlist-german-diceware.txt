@@ -4002,3 +4002,4 @@
 41416	roden
 41421	rodung
 41422	roggen
+41423	roh
