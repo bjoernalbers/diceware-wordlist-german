@@ -4004,3 +4004,4 @@
 41422	roggen
 41423	roh
 41424	rohkost
+41425	rohling
