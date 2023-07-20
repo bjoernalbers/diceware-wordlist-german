@@ -4028,3 +4028,4 @@
 41462	rostig
 41463	rostrot
 41464	rot
+41465	rotkohl

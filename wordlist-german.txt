@@ -4028,3 +4028,4 @@ rosten
 rostig
 rostrot
 rot
+Rotkohl
