@@ -4029,3 +4029,4 @@
 41463	rostrot
 41464	rot
 41465	rotkohl
+41466	rotor
