@@ -4003,3 +4003,4 @@
 41421	rodung
 41422	roggen
 41423	roh
+41424	rohkost

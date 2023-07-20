@@ -4003,3 +4003,4 @@ roden
 Rodung
 Roggen
 roh
+Rohkost
