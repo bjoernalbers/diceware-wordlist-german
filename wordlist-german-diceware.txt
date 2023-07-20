@@ -3997,3 +3997,4 @@
 41411	rochade
 41412	rochen
 41413	rock
+41414	rocker
