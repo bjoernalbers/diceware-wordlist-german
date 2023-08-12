@@ -4081,3 +4081,4 @@
 41631	rupie
 41632	ruppig
 41633	rute
+41634	rutsche
