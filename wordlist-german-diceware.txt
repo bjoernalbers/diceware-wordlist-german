@@ -4049,3 +4049,4 @@
 41535	rudel
 41536	ruder
 41541	ruderer
+41542	rudern
