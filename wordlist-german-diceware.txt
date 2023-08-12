@@ -4030,3 +4030,4 @@
 41464	rot
 41465	rotkohl
 41466	rotor
+41511	rotwein
