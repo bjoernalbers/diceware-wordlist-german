@@ -4057,3 +4057,4 @@
 41551	ruhelos
 41552	ruhen
 41553	ruheort
+41554	ruhetag

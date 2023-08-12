@@ -4057,3 +4057,4 @@ Ruhe
 ruhelos
 ruhen
 Ruheort
+Ruhetag
