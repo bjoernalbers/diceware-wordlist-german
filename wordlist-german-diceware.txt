@@ -4043,3 +4043,4 @@
 41525	rubel
 41526	rubin
 41531	rubrik
+41532	ruck
