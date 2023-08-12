@@ -4031,3 +4031,4 @@
 41465	rotkohl
 41466	rotor
 41511	rotwein
+41512	rotwild

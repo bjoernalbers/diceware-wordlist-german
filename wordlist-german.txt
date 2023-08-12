@@ -4031,3 +4031,4 @@ rot
 Rotkohl
 Rotor
 Rotwein
+Rotwild
