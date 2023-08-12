@@ -4050,3 +4050,4 @@
 41536	ruder
 41541	ruderer
 41542	rudern
+41543	ruf
