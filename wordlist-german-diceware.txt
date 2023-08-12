@@ -4046,3 +4046,4 @@
 41532	ruck
 41533	ruckeln
 41534	rucola
+41535	rudel
