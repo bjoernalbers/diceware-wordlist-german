@@ -4039,3 +4039,4 @@
 41521	router
 41522	routine
 41523	rowdy
+41524	royal
