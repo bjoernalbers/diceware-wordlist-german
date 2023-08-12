@@ -4042,3 +4042,4 @@
 41524	royal
 41525	rubel
 41526	rubin
+41531	rubrik
