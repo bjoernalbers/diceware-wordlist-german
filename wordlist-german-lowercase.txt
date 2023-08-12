@@ -4032,3 +4032,4 @@ rotkohl
 rotor
 rotwein
 rotwild
+rouge
