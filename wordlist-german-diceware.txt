@@ -4077,3 +4077,4 @@
 41623	rundung
 41624	rundweg
 41625	runzeln
+41626	rupfen

@@ -4077,3 +4077,4 @@ runden
 Rundung
 Rundweg
 runzeln
+rupfen
