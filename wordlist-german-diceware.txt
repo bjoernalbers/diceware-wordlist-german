@@ -4075,3 +4075,4 @@
 41621	runde
 41622	runden
 41623	rundung
+41624	rundweg
