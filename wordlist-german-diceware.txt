@@ -4085,3 +4085,4 @@
 41635	saal
 41636	saat
 41641	saatgut
+41642	sabbeln
