@@ -4125,3 +4125,4 @@ sammeln
 Sammler
 Sampler
 Samstag
+Samt

@@ -4125,3 +4125,4 @@
 42143	sammler
 42144	sampler
 42145	samstag
+42146	samt
