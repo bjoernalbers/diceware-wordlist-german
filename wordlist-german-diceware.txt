@@ -4122,3 +4122,4 @@
 42136	samba
 42141	sambuca
 42142	sammeln
+42143	sammler
