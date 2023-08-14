@@ -4115,3 +4115,4 @@
 42125	saloon
 42126	salopp
 42131	salsa
+42132	salto
