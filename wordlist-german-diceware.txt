@@ -4119,3 +4119,4 @@
 42133	salz
 42134	salzen
 42135	salzig
+42136	samba
