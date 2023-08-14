@@ -4149,3 +4149,4 @@
 42223	saukalt
 42224	saum
 42225	sauna
+42226	saurier
