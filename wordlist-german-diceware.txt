@@ -4110,3 +4110,4 @@
 42116	salbei
 42121	saldo
 42122	saline
+42123	salmiak
