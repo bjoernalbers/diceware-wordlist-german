@@ -4124,3 +4124,4 @@ sambuca
 sammeln
 sammler
 sampler
+samstag
