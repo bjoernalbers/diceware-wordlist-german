@@ -4139,3 +4139,4 @@
 42165	sattel
 42166	satteln
 42211	satz
+42212	satzung
