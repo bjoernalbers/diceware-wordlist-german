@@ -4116,3 +4116,4 @@
 42126	salopp
 42131	salsa
 42132	salto
+42133	salz
