@@ -4127,3 +4127,4 @@ Sampler
 Samstag
 Samt
 Sand
+Sandale

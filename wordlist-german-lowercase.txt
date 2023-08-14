@@ -4127,3 +4127,4 @@ sampler
 samstag
 samt
 sand
+sandale
