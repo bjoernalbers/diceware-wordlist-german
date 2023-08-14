@@ -4086,3 +4086,4 @@ saal
 saat
 saatgut
 sabbeln
+sabbern
