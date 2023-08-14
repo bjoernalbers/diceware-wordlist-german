@@ -4105,3 +4105,4 @@
 42111	sake
 42112	sakko
 42113	salami
+42114	salat
