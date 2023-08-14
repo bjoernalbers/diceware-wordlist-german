@@ -4146,3 +4146,4 @@
 42216	sauerei
 42221	saugen
 42222	sauger
+42223	saukalt
