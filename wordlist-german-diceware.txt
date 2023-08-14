@@ -4155,3 +4155,4 @@
 42233	saxofon
 42234	scan
 42235	scannen
+42236	scanner
