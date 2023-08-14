@@ -4103,3 +4103,4 @@
 41665	saison
 41666	saite
 42111	sake
+42112	sakko
