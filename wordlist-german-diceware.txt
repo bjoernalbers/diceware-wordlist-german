@@ -4106,3 +4106,4 @@
 42112	sakko
 42113	salami
 42114	salat
+42115	salbe
