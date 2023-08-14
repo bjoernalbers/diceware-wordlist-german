@@ -4154,3 +4154,4 @@
 42232	sausen
 42233	saxofon
 42234	scan
+42235	scannen
