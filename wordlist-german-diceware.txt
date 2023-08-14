@@ -4084,3 +4084,4 @@
 41634	rutsche
 41635	saal
 41636	saat
+41641	saatgut
