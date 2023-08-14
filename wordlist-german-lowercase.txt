@@ -4142,3 +4142,4 @@ satz
 satzung
 sauber
 sauce
+sauer
