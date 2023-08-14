@@ -4130,3 +4130,4 @@
 42152	sandale
 42153	sandig
 42154	sanduhr
+42155	sanft
