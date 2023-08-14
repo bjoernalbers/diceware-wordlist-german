@@ -4098,3 +4098,4 @@
 41656	saftig
 41661	sage
 41662	sagen
+41663	sahne
