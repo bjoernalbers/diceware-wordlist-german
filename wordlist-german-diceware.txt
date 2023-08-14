@@ -4113,3 +4113,4 @@
 42123	salmiak
 42124	salon
 42125	saloon
+42126	salopp
