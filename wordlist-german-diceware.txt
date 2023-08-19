@@ -4188,3 +4188,4 @@
 42326	schemel
 42331	scherbe
 42332	schere
+42333	scherz
