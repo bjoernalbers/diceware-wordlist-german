@@ -4166,3 +4166,4 @@
 42252	schaden
 42253	schaf
 42254	schaft
+42255	schakal
