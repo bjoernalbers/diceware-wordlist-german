@@ -4190,3 +4190,4 @@ scherbe
 schere
 scherz
 scheu
+scheune

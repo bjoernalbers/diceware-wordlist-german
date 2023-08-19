@@ -4190,3 +4190,4 @@ Scherbe
 Schere
 Scherz
 scheu
+Scheune

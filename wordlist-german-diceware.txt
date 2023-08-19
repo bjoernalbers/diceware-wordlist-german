@@ -4190,3 +4190,4 @@
 42332	schere
 42333	scherz
 42334	scheu
+42335	scheune
