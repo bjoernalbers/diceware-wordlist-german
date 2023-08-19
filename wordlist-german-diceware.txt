@@ -4161,3 +4161,4 @@
 42243	schaben
 42244	schaber
 42245	schach
+42246	schacht
