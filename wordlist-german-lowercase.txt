@@ -4171,3 +4171,4 @@ schal
 schale
 schalk
 schall
+schanze

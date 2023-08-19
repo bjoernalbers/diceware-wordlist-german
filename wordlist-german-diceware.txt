@@ -4171,3 +4171,4 @@
 42261	schale
 42262	schalk
 42263	schall
+42264	schanze
