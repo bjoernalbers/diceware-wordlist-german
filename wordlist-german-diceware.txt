@@ -4164,3 +4164,4 @@
 42246	schacht
 42251	schade
 42252	schaden
+42253	schaf
