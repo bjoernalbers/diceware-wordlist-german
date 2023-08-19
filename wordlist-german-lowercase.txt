@@ -4187,3 +4187,4 @@ schelm
 schema
 schemel
 scherbe
+schere

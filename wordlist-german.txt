@@ -4187,3 +4187,4 @@ Schelm
 Schema
 Schemel
 Scherbe
+Schere
