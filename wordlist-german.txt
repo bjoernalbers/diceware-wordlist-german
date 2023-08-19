@@ -4193,3 +4193,4 @@ scheu
 Scheune
 Schicht
 schick
+schief

@@ -4193,3 +4193,4 @@
 42335	scheune
 42336	schicht
 42341	schick
+42342	schief
