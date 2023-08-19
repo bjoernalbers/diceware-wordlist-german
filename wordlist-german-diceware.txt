@@ -4160,3 +4160,4 @@
 42242	schabe
 42243	schaben
 42244	schaber
+42245	schach
