@@ -4167,3 +4167,4 @@
 42253	schaf
 42254	schaft
 42255	schakal
+42256	schal
