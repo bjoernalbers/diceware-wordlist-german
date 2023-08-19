@@ -4173,3 +4173,4 @@
 42263	schall
 42264	schanze
 42265	scharf
+42266	schatz
