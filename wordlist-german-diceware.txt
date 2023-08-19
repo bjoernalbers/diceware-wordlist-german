@@ -4168,3 +4168,4 @@
 42254	schaft
 42255	schakal
 42256	schal
+42261	schale
