@@ -4191,3 +4191,4 @@
 42333	scherz
 42334	scheu
 42335	scheune
+42336	schicht

@@ -4191,3 +4191,4 @@ Schere
 Scherz
 scheu
 Scheune
+Schicht

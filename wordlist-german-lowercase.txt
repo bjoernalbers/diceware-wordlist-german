@@ -4191,3 +4191,4 @@ schere
 scherz
 scheu
 scheune
+schicht
