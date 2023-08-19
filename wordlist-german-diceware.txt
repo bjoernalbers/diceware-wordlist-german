@@ -4165,3 +4165,4 @@
 42251	schade
 42252	schaden
 42253	schaf
+42254	schaft

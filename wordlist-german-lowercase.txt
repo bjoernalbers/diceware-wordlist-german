@@ -4165,3 +4165,4 @@ schacht
 schade
 schaden
 schaf
+schaft
