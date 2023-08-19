@@ -4194,3 +4194,4 @@ Scheune
 Schicht
 schick
 schief
+Schiene
