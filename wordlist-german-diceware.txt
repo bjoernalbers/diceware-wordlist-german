@@ -4195,3 +4195,4 @@
 42341	schick
 42342	schief
 42343	schiene
+42344	schiff
