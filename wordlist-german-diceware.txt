@@ -4192,3 +4192,4 @@
 42334	scheu
 42335	scheune
 42336	schicht
+42341	schick
