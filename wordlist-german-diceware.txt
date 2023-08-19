@@ -4189,3 +4189,4 @@
 42331	scherbe
 42332	schere
 42333	scherz
+42334	scheu
