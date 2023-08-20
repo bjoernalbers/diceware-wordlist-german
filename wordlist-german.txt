@@ -4343,3 +4343,4 @@ Set
 Setup
 setzen
 Seuche
+seufzen

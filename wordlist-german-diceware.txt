@@ -4343,3 +4343,4 @@
 43145	setup
 43146	setzen
 43151	seuche
+43152	seufzen
