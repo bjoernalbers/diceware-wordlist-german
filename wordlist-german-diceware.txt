@@ -4489,3 +4489,4 @@
 43551	speer
 43552	speiche
 43553	speise
+43554	speisen
