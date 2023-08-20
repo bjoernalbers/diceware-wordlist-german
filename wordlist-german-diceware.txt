@@ -4243,3 +4243,4 @@
 42461	schoner
 42462	schopf
 42463	schorle
+42464	schose
