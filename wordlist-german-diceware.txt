@@ -4468,3 +4468,4 @@
 43514	sorte
 43515	soul
 43516	sound
+43521	sozial
