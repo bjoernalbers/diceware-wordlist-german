@@ -4647,3 +4647,4 @@
 44413	straff
 44414	strahl
 44415	stramm
+44416	strand
