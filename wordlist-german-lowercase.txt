@@ -4428,3 +4428,4 @@ slip
 slipper
 slogan
 smaragd
+smart
