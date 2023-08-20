@@ -4696,3 +4696,4 @@
 44534	sturz
 44535	stute
 44536	stutzen
+44541	stutzig

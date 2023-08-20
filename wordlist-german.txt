@@ -4696,3 +4696,4 @@ Sturm
 Sturz
 Stute
 stutzen
+stutzig
