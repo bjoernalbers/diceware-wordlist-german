@@ -4274,3 +4274,4 @@ schweif
 schwer
 schwert
 schwips
+schwund

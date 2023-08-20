@@ -4274,3 +4274,4 @@ Schweif
 schwer
 Schwert
 Schwips
+Schwund
