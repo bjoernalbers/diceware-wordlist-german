@@ -4706,3 +4706,4 @@
 44552	suche
 44553	suchen
 44554	sud
+44555	sudoku
