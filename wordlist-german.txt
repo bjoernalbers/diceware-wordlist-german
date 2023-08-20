@@ -4198,3 +4198,4 @@ Schiene
 Schiff
 Schild
 Schilf
+Schippe

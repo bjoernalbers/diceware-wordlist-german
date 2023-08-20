@@ -4198,3 +4198,4 @@
 42344	schiff
 42345	schild
 42346	schilf
+42351	schippe

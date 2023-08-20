@@ -4198,3 +4198,4 @@ schiene
 schiff
 schild
 schilf
+schippe
