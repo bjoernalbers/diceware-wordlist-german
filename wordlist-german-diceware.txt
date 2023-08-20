@@ -4385,3 +4385,4 @@
 43255	singen
 43256	single
 43261	sinken
+43262	sinn
