@@ -4472,3 +4472,4 @@
 43522	spa
 43523	spagat
 43524	spalt
+43525	spalten
