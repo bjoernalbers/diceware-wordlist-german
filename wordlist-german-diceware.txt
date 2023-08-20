@@ -4656,3 +4656,4 @@
 44426	strecke
 44431	streich
 44432	streife
+44433	streik
