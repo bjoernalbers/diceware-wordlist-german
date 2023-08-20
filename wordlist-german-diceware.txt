@@ -4613,3 +4613,4 @@
 44315	steuern
 44316	stich
 44321	sticken
+44322	sticker

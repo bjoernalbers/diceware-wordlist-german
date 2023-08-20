@@ -4613,3 +4613,4 @@ steuer
 steuern
 stich
 sticken
+sticker

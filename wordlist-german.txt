@@ -4613,3 +4613,4 @@ Steuer
 steuern
 Stich
 sticken
+Sticker
