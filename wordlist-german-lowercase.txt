@@ -4455,3 +4455,4 @@ soll
 sollen
 solo
 sommer
+sonde
