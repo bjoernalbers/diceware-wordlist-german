@@ -4272,3 +4272,4 @@ schwarm
 schwarz
 schweif
 schwer
+schwert

@@ -4272,3 +4272,4 @@ Schwarm
 schwarz
 Schweif
 schwer
+Schwert
