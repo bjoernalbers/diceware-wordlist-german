@@ -4258,3 +4258,4 @@
 42524	schubs
 42525	schuh
 42526	schule
+42531	schulen
