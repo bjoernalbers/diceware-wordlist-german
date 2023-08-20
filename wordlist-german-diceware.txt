@@ -4731,3 +4731,4 @@
 44633	switch
 44634	symbol
 44635	symptom
+44636	synapse
