@@ -4683,3 +4683,4 @@
 44513	stufe
 44514	stuhl
 44515	stulle
+44516	stulpe
