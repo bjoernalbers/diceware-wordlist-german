@@ -4543,3 +4543,4 @@ spulen
 spur
 spurlos
 sputen
+squash
