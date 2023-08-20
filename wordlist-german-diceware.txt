@@ -4273,3 +4273,4 @@
 42551	schweif
 42552	schwer
 42553	schwert
+42554	schwips
