@@ -4498,3 +4498,4 @@ sperren
 sperrig
 spesen
 spezi
+spezial
