@@ -4605,3 +4605,4 @@
 44263	stengel
 44264	steno
 44265	stepper
+44266	stereo
