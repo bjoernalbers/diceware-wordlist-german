@@ -4429,3 +4429,4 @@ slipper
 slogan
 smaragd
 smart
+smiley

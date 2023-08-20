@@ -4429,3 +4429,4 @@ Slipper
 Slogan
 Smaragd
 smart
+Smiley
