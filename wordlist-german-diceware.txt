@@ -4576,3 +4576,4 @@
 44214	statik
 44215	station
 44216	statist
+44221	stativ

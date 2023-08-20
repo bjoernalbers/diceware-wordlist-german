@@ -4576,3 +4576,4 @@ Startup
 Statik
 Station
 Statist
+Stativ
