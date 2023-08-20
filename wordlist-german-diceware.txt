@@ -4661,3 +4661,4 @@
 44435	streng
 44436	stretch
 44441	streu
+44442	streuen
