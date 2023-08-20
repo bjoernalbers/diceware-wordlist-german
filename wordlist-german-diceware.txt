@@ -4550,3 +4550,4 @@
 44132	stachel
 44133	stadion
 44134	stadium
+44135	stadt
