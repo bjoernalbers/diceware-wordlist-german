@@ -4312,3 +4312,4 @@
 42654	selten
 42655	seltsam
 42656	seminar
+42661	semmel
