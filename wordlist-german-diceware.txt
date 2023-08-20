@@ -4588,3 +4588,4 @@
 44234	staunen
 44235	stausee
 44236	steak
+44241	stechen

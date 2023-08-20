@@ -4588,3 +4588,4 @@ stauen
 staunen
 stausee
 steak
+stechen
