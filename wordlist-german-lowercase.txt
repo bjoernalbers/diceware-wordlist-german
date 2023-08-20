@@ -4674,3 +4674,4 @@ strophe
 strudel
 strumpf
 strunk
+stube

@@ -4674,3 +4674,4 @@
 44456	strudel
 44461	strumpf
 44462	strunk
+44463	stube
