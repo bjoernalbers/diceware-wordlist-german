@@ -4561,3 +4561,4 @@
 44151	stange
 44152	stanze
 44153	stanzen
+44154	stapel
