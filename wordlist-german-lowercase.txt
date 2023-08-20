@@ -4508,3 +4508,4 @@ spielen
 spieler
 spike
 spin
+spinat

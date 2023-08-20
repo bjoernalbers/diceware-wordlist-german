@@ -4508,3 +4508,4 @@
 43622	spieler
 43623	spike
 43624	spin
+43625	spinat
