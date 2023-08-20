@@ -4408,3 +4408,4 @@
 43334	skelett
 43335	skepsis
 43336	sketch
+43341	ski
