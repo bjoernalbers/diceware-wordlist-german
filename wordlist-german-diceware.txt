@@ -4206,3 +4206,4 @@
 42356	schlamm
 42361	schlank
 42362	schlapp
+42363	schlau
