@@ -4423,3 +4423,4 @@ skurril
 skyline
 skypen
 slalom
+slang
