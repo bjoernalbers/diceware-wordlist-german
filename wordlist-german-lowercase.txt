@@ -4331,3 +4331,4 @@ sepia
 sequel
 sequenz
 serie
+seriell

@@ -4331,3 +4331,4 @@
 43125	sequel
 43126	sequenz
 43131	serie
+43132	seriell
