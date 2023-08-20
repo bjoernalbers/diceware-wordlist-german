@@ -4609,3 +4609,4 @@ stereo
 steril
 Stern
 stetig
+Steuer

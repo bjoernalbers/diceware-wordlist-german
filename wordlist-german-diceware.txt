@@ -4609,3 +4609,4 @@
 44311	steril
 44312	stern
 44313	stetig
+44314	steuer
