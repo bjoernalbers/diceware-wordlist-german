@@ -4583,3 +4583,4 @@
 44225	stau
 44226	staub
 44231	staubig
+44232	staude
