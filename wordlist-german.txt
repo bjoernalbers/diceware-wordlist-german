@@ -4476,3 +4476,4 @@ spalten
 Spam
 spammen
 Spange
+sparen
