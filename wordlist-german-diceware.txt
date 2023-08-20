@@ -4641,3 +4641,4 @@
 44363	stoppen
 44364	stopper
 44365	storch
+44366	store
