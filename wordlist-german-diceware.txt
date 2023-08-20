@@ -4690,3 +4690,4 @@
 44524	stunde
 44525	stunt
 44526	stups
+44531	stupsen

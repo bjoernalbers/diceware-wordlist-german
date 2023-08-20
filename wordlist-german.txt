@@ -4690,3 +4690,4 @@ stumpf
 Stunde
 Stunt
 Stups
+stupsen
