@@ -4483,3 +4483,4 @@
 43541	spatel
 43542	spaten
 43543	spatz
+43544	specht
