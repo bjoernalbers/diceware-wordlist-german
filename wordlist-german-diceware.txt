@@ -4399,3 +4399,4 @@
 43321	sitz
 43322	sitzen
 43323	sitzung
+43324	sixpack
