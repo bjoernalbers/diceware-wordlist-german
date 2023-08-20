@@ -4414,3 +4414,4 @@ Skilift
 Skill
 Skipass
 Skipper
+Skizze
