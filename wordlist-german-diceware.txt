@@ -4374,3 +4374,4 @@
 43236	siesta
 43241	siezen
 43242	signal
+43243	silbe
