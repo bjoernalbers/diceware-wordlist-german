@@ -4639,3 +4639,4 @@ stopfen
 Stopp
 Stoppel
 stoppen
+Stopper
