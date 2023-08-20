@@ -4291,3 +4291,4 @@
 42621	segel
 42622	segeln
 42623	segler
+42624	segment
