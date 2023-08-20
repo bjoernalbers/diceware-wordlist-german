@@ -4545,3 +4545,4 @@
 44123	sputen
 44124	squash
 44125	staat
+44126	stab
