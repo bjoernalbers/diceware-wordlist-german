@@ -4288,3 +4288,4 @@
 42614	seenot
 42615	seerose
 42616	seesack
+42621	segel
