@@ -4555,3 +4555,4 @@ staffel
 stahl
 staksen
 stall
+stamm

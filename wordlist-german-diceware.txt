@@ -4555,3 +4555,4 @@
 44141	stahl
 44142	staksen
 44143	stall
+44144	stamm
