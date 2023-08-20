@@ -4212,3 +4212,4 @@ Schlick
 Schliff
 schlimm
 Schlips
+Schlitz

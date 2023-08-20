@@ -4212,3 +4212,4 @@
 42366	schliff
 42411	schlimm
 42412	schlips
+42413	schlitz
