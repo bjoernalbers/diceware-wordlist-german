@@ -4695,3 +4695,4 @@
 44533	sturm
 44534	sturz
 44535	stute
+44536	stutzen

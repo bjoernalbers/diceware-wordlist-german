@@ -4695,3 +4695,4 @@ stur
 sturm
 sturz
 stute
+stutzen
