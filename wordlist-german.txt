@@ -4544,3 +4544,4 @@ Spur
 spurlos
 sputen
 Squash
+Staat
