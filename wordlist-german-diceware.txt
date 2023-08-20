@@ -4699,3 +4699,4 @@
 44541	stutzig
 44542	style
 44543	styling
+44544	stylish
