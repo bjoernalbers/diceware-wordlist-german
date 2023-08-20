@@ -4397,3 +4397,4 @@
 43315	sitte
 43316	sittich
 43321	sitz
+43322	sitzen

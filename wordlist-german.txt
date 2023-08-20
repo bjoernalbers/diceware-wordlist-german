@@ -4397,3 +4397,4 @@ Sitcom
 Sitte
 Sittich
 Sitz
+sitzen
