@@ -4594,3 +4594,4 @@
 44244	stehen
 44245	stehlen
 44246	steigen
+44251	steil
