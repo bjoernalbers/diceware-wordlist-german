@@ -4256,3 +4256,4 @@
 42522	schrott
 42523	schub
 42524	schubs
+42525	schuh
