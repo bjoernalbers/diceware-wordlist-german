@@ -4513,3 +4513,4 @@
 43631	spindel
 43632	spinne
 43633	spion
+43634	spirale

@@ -4513,3 +4513,4 @@ spind
 spindel
 spinne
 spion
+spirale
