@@ -4234,3 +4234,4 @@
 42444	schnee
 42445	schnell
 42446	schnitt
+42451	schnur
