@@ -4590,3 +4590,4 @@
 44236	steak
 44241	stechen
 44242	stecker
+44243	steg
