@@ -4592,3 +4592,4 @@
 44242	stecker
 44243	steg
 44244	stehen
+44245	stehlen
