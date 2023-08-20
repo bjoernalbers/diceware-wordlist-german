@@ -4612,3 +4612,4 @@
 44314	steuer
 44315	steuern
 44316	stich
+44321	sticken

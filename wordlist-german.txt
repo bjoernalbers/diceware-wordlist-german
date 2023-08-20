@@ -4612,3 +4612,4 @@ stetig
 Steuer
 steuern
 Stich
+sticken
