@@ -4687,3 +4687,4 @@
 44521	stumm
 44522	stummel
 44523	stumpf
+44524	stunde
