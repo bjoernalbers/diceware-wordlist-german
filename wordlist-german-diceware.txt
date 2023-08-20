@@ -4694,3 +4694,4 @@
 44532	stur
 44533	sturm
 44534	sturz
+44535	stute
