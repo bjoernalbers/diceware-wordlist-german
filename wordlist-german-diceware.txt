@@ -4573,3 +4573,4 @@
 44211	starten
 44212	starter
 44213	startup
+44214	statik
