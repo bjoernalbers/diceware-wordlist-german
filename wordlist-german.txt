@@ -4520,3 +4520,4 @@ Splint
 Splitt
 Spoiler
 Sponsor
+spontan
