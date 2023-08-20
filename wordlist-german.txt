@@ -4655,3 +4655,4 @@ Strebe
 streben
 Strecke
 Streich
+Streife
