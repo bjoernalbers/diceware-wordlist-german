@@ -4603,3 +4603,4 @@ Stelze
 stemmen
 Stempel
 Stengel
+Steno
