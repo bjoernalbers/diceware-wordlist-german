@@ -4514,3 +4514,4 @@ spindel
 spinne
 spion
 spirale
+spitz
