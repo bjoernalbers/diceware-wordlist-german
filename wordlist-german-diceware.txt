@@ -4595,3 +4595,4 @@
 44245	stehlen
 44246	steigen
 44251	steil
+44252	stein

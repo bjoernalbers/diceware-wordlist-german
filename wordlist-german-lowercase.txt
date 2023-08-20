@@ -4595,3 +4595,4 @@ stehen
 stehlen
 steigen
 steil
+stein
