@@ -4463,3 +4463,4 @@
 43465	sonntag
 43466	sorbet
 43511	sorge
+43512	sorgen
