@@ -4497,3 +4497,4 @@
 43563	sperren
 43564	sperrig
 43565	spesen
+43566	spezi
