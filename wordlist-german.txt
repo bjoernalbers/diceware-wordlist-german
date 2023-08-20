@@ -4565,3 +4565,4 @@ Stapel
 stapeln
 stapfen
 Stapler
+Star

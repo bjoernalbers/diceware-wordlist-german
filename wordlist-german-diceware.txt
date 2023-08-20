@@ -4565,3 +4565,4 @@
 44155	stapeln
 44156	stapfen
 44161	stapler
+44162	star
