@@ -4564,3 +4564,4 @@
 44154	stapel
 44155	stapeln
 44156	stapfen
+44161	stapler
