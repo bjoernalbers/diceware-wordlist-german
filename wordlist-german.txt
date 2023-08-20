@@ -4636,3 +4636,4 @@ stoisch
 Stollen
 stolz
 stopfen
+Stopp
