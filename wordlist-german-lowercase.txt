@@ -4475,3 +4475,4 @@ spalt
 spalten
 spam
 spammen
+spange

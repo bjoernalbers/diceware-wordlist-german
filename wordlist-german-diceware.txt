@@ -4475,3 +4475,4 @@
 43525	spalten
 43526	spam
 43531	spammen
+43532	spange
