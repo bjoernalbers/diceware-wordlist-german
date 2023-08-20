@@ -4470,3 +4470,4 @@
 43516	sound
 43521	sozial
 43522	spa
+43523	spagat
