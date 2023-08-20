@@ -4419,3 +4419,4 @@ skonto
 skooter
 skript
 skrupel
+skurril

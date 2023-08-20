@@ -4419,3 +4419,4 @@
 43353	skooter
 43354	skript
 43355	skrupel
+43356	skurril
