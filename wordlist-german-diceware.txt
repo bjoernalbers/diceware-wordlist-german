@@ -4496,3 +4496,4 @@
 43562	sperre
 43563	sperren
 43564	sperrig
+43565	spesen

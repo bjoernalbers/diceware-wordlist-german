@@ -4496,3 +4496,4 @@ Spender
 Sperre
 sperren
 sperrig
+Spesen
