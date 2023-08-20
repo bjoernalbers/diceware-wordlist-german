@@ -4665,3 +4665,4 @@
 44443	streuer
 44444	strich
 44445	strick
+44446	strikt

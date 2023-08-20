@@ -4665,3 +4665,4 @@ streuen
 streuer
 strich
 strick
+strikt
