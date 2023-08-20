@@ -4648,3 +4648,4 @@
 44414	strahl
 44415	stramm
 44416	strand
+44421	strang
