@@ -4633,3 +4633,4 @@
 44351	stocken
 44352	stoff
 44353	stoisch
+44354	stollen

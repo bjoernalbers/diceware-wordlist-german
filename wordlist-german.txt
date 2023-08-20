@@ -4633,3 +4633,4 @@ Stock
 stocken
 Stoff
 stoisch
+Stollen
