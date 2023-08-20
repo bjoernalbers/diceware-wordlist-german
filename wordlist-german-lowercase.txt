@@ -4276,3 +4276,4 @@ schwert
 schwips
 schwund
 schwung
+schwur
