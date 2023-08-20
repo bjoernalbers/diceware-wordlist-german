@@ -4376,3 +4376,4 @@
 43242	signal
 43243	silbe
 43244	silber
+43245	silbern
