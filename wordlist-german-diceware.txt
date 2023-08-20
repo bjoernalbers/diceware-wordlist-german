@@ -4586,3 +4586,4 @@
 44232	staude
 44233	stauen
 44234	staunen
+44235	stausee
