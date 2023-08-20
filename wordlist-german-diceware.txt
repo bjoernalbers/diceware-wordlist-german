@@ -4644,3 +4644,4 @@
 44366	store
 44411	storno
 44412	story
+44413	straff
