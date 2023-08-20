@@ -4205,3 +4205,4 @@
 42355	schlag
 42356	schlamm
 42361	schlank
+42362	schlapp

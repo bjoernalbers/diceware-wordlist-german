@@ -4205,3 +4205,4 @@ schlaf
 schlag
 schlamm
 schlank
+schlapp
