@@ -4732,3 +4732,4 @@ switch
 symbol
 symptom
 synapse
+synonym
