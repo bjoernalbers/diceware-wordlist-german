@@ -4430,3 +4430,4 @@
 43412	smaragd
 43413	smart
 43414	smiley
+43415	smog
