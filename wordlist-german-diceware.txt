@@ -4306,3 +4306,4 @@
 42644	seite
 42645	sekret
 42646	sekt
+42651	sektor
