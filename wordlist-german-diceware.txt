@@ -4390,3 +4390,4 @@
 43264	sinus
 43265	siphon
 43266	sippe
+43311	sir
