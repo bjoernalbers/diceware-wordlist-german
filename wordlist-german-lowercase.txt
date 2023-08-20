@@ -4560,3 +4560,4 @@ stand
 standby
 stange
 stanze
+stanzen

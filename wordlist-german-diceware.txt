@@ -4560,3 +4560,4 @@
 44146	standby
 44151	stange
 44152	stanze
+44153	stanzen
