@@ -4300,3 +4300,4 @@
 42634	seicht
 42635	seide
 42636	seidig
+42641	seife
