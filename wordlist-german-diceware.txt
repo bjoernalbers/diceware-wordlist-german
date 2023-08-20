@@ -4577,3 +4577,4 @@
 44215	station
 44216	statist
 44221	stativ
+44222	statue
