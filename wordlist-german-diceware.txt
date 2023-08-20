@@ -4537,3 +4537,4 @@
 44111	spucke
 44112	spucken
 44113	spuk
+44114	spuken
