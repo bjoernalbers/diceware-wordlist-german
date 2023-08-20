@@ -4266,3 +4266,4 @@
 42536	schutz
 42541	schwabe
 42542	schwach
+42543	schwamm
