@@ -4477,3 +4477,4 @@
 43531	spammen
 43532	spange
 43533	sparen
+43534	spargel
