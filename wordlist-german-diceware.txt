@@ -4659,3 +4659,4 @@
 44433	streik
 44434	streit
 44435	streng
+44436	stretch
