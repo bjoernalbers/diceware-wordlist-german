@@ -4511,3 +4511,4 @@
 43625	spinat
 43626	spind
 43631	spindel
+43632	spinne

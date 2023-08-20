@@ -4511,3 +4511,4 @@ spin
 spinat
 spind
 spindel
+spinne
