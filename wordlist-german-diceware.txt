@@ -4346,3 +4346,4 @@
 43152	seufzen
 43153	seufzer
 43154	shaker
+43155	shampoo
