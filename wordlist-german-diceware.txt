@@ -4229,3 +4229,4 @@
 42435	schmuck
 42436	schmutz
 42441	schnack
+42442	schnake
