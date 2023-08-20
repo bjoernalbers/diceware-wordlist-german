@@ -4666,3 +4666,4 @@ Streuer
 Strich
 Strick
 strikt
+Strippe
