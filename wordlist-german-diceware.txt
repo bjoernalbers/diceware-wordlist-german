@@ -4260,3 +4260,4 @@
 42526	schule
 42531	schulen
 42532	schund
+42533	schuppe
