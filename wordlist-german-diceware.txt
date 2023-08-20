@@ -4689,3 +4689,4 @@
 44523	stumpf
 44524	stunde
 44525	stunt
+44526	stups
