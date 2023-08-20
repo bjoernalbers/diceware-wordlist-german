@@ -4277,3 +4277,4 @@
 42555	schwund
 42556	schwung
 42561	schwur
+42562	scooter
