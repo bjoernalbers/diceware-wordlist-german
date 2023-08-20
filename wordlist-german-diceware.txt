@@ -4607,3 +4607,4 @@
 44265	stepper
 44266	stereo
 44311	steril
+44312	stern

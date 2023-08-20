@@ -4607,3 +4607,4 @@ steno
 stepper
 stereo
 steril
+stern
