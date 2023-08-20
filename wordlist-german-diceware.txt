@@ -4626,3 +4626,4 @@
 44336	stimme
 44341	stimmen
 44342	stimmig
+44343	stinkig
