@@ -4686,3 +4686,4 @@
 44516	stulpe
 44521	stumm
 44522	stummel
+44523	stumpf
