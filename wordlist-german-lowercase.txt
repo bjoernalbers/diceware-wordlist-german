@@ -4286,3 +4286,4 @@ seeigel
 seele
 seemann
 seenot
+seerose

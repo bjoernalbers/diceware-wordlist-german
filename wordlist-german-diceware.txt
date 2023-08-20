@@ -4286,3 +4286,4 @@
 42612	seele
 42613	seemann
 42614	seenot
+42615	seerose
