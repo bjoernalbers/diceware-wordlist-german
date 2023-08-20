@@ -4248,3 +4248,4 @@ schote
 schrank
 schreck
 schrei
+schrift
