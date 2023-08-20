@@ -4471,3 +4471,4 @@ sound
 sozial
 spa
 spagat
+spalt
