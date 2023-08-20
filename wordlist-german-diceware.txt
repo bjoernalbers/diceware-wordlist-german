@@ -4352,3 +4352,4 @@
 43162	shift
 43163	shirt
 43164	shisha
+43165	shop
