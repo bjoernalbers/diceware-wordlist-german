@@ -4278,3 +4278,4 @@ schwund
 schwung
 schwur
 scooter
+score

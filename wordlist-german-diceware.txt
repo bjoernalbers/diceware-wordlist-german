@@ -4278,3 +4278,4 @@
 42556	schwung
 42561	schwur
 42562	scooter
+42563	score
