@@ -4465,3 +4465,4 @@
 43511	sorge
 43512	sorgen
 43513	sorglos
+43514	sorte
