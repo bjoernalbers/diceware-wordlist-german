@@ -4233,3 +4233,4 @@
 42443	schnaps
 42444	schnee
 42445	schnell
+42446	schnitt
