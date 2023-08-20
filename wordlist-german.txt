@@ -4635,3 +4635,4 @@ Stoff
 stoisch
 Stollen
 stolz
+stopfen

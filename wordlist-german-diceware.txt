@@ -4635,3 +4635,4 @@
 44353	stoisch
 44354	stollen
 44355	stolz
+44356	stopfen
