@@ -4401,3 +4401,4 @@
 43323	sitzung
 43324	sixpack
 43325	skala
+43326	skandal
