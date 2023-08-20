@@ -4616,3 +4616,4 @@ sticken
 sticker
 stiefel
 stiel
+stier

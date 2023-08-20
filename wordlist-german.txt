@@ -4616,3 +4616,4 @@ sticken
 Sticker
 Stiefel
 Stiel
+Stier
