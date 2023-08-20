@@ -4405,3 +4405,4 @@
 43331	skat
 43332	skaten
 43333	skater
+43334	skelett
