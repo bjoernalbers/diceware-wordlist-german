@@ -4244,3 +4244,4 @@ schoner
 schopf
 schorle
 schose
+schote

@@ -4244,3 +4244,4 @@
 42462	schopf
 42463	schorle
 42464	schose
+42465	schote
