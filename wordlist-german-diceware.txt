@@ -4253,3 +4253,4 @@
 42515	schritt
 42516	schroff
 42521	schrot
+42522	schrott
