@@ -4534,3 +4534,4 @@
 43664	spruch
 43665	sprudel
 43666	sprung
+44111	spucke
