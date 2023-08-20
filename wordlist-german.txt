@@ -4558,3 +4558,4 @@ Stall
 Stamm
 Stand
 Standby
+Stange

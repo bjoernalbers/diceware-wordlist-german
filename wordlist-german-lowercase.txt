@@ -4558,3 +4558,4 @@ stall
 stamm
 stand
 standby
+stange

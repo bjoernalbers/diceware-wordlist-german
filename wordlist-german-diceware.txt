@@ -4558,3 +4558,4 @@
 44144	stamm
 44145	stand
 44146	standby
+44151	stange
