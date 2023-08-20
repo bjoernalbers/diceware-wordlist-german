@@ -4591,3 +4591,4 @@
 44241	stechen
 44242	stecker
 44243	steg
+44244	stehen

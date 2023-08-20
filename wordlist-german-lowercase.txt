@@ -4591,3 +4591,4 @@ steak
 stechen
 stecker
 steg
+stehen
