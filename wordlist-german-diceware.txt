@@ -4559,3 +4559,4 @@
 44145	stand
 44146	standby
 44151	stange
+44152	stanze

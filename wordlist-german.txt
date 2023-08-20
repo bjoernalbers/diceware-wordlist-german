@@ -4559,3 +4559,4 @@ Stamm
 Stand
 Standby
 Stange
+Stanze
