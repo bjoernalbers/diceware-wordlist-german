@@ -4232,3 +4232,4 @@ schnack
 schnake
 schnaps
 schnee
+schnell

@@ -4232,3 +4232,4 @@
 42442	schnake
 42443	schnaps
 42444	schnee
+42445	schnell
