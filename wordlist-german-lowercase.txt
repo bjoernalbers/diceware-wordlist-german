@@ -4487,3 +4487,4 @@ specht
 speck
 speed
 speer
+speiche
