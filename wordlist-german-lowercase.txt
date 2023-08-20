@@ -4658,3 +4658,4 @@ streich
 streife
 streik
 streit
+streng

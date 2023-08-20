@@ -4658,3 +4658,4 @@
 44432	streife
 44433	streik
 44434	streit
+44435	streng
