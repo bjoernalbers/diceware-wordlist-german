@@ -4482,3 +4482,4 @@ sparsam
 sparte
 spatel
 spaten
+spatz

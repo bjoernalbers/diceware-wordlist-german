@@ -4482,3 +4482,4 @@
 43536	sparte
 43541	spatel
 43542	spaten
+43543	spatz

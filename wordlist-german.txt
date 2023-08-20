@@ -4482,3 +4482,4 @@ sparsam
 Sparte
 Spatel
 Spaten
+Spatz
