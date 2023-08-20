@@ -4402,3 +4402,4 @@ sitzung
 sixpack
 skala
 skandal
+skat
