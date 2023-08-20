@@ -4579,3 +4579,4 @@
 44221	stativ
 44222	statue
 44223	statur
+44224	status
