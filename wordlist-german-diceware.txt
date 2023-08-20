@@ -4672,3 +4672,4 @@
 44454	strom
 44455	strophe
 44456	strudel
+44461	strumpf

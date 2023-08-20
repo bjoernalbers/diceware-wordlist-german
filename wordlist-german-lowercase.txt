@@ -4672,3 +4672,4 @@ strolch
 strom
 strophe
 strudel
+strumpf
