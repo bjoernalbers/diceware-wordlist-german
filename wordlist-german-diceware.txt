@@ -4235,3 +4235,4 @@
 42445	schnell
 42446	schnitt
 42451	schnur
+42452	schnute
