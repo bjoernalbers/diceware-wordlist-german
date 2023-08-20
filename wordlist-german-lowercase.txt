@@ -4515,3 +4515,4 @@ spinne
 spion
 spirale
 spitz
+spitze
