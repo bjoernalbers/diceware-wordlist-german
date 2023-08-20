@@ -4554,3 +4554,4 @@ stadt
 staffel
 stahl
 staksen
+stall
