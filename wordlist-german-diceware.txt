@@ -4218,3 +4218,4 @@
 42416	schlund
 42421	schluss
 42422	schmal
+42423	schmalz
