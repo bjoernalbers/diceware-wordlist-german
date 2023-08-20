@@ -4211,3 +4211,4 @@ schleim
 schlick
 schliff
 schlimm
+schlips
