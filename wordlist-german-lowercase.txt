@@ -4596,3 +4596,4 @@ stehlen
 steigen
 steil
 stein
+steinig

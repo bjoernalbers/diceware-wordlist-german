@@ -4596,3 +4596,4 @@
 44246	steigen
 44251	steil
 44252	stein
+44253	steinig
