@@ -4492,3 +4492,4 @@
 43554	speisen
 43555	spende
 43556	spenden
+43561	spender

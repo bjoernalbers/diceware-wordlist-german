@@ -4492,3 +4492,4 @@ speise
 speisen
 spende
 spenden
+spender
