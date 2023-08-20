@@ -4431,3 +4431,4 @@ smaragd
 smart
 smiley
 smog
+smoker
