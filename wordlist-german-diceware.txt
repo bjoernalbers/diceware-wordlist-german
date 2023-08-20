@@ -4715,3 +4715,4 @@
 44565	summer
 44566	sumo
 44611	sumpf
+44612	sumpfig
