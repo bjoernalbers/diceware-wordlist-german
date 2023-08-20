@@ -4275,3 +4275,4 @@
 42553	schwert
 42554	schwips
 42555	schwund
+42556	schwung

@@ -4275,3 +4275,4 @@ schwer
 Schwert
 Schwips
 Schwund
+Schwung
