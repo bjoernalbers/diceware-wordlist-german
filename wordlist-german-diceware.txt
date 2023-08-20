@@ -4418,3 +4418,4 @@
 43352	skonto
 43353	skooter
 43354	skript
+43355	skrupel
