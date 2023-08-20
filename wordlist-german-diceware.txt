@@ -4262,3 +4262,4 @@
 42532	schund
 42533	schuppe
 42534	schuss
+42535	schutt
