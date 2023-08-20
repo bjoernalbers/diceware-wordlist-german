@@ -4410,3 +4410,4 @@
 43336	sketch
 43341	ski
 43342	skihose
+43343	skilift
