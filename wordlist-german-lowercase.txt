@@ -4593,3 +4593,4 @@ stecker
 steg
 stehen
 stehlen
+steigen
