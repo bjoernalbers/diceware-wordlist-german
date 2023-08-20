@@ -4479,3 +4479,4 @@ Spange
 sparen
 Spargel
 sparsam
+Sparte

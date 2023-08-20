@@ -4479,3 +4479,4 @@
 43533	sparen
 43534	spargel
 43535	sparsam
+43536	sparte
