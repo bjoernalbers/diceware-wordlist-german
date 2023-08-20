@@ -4730,3 +4730,4 @@ Sweater
 Swing
 Switch
 Symbol
+Symptom
