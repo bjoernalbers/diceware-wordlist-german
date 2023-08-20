@@ -4580,3 +4580,4 @@
 44222	statue
 44223	statur
 44224	status
+44225	stau
