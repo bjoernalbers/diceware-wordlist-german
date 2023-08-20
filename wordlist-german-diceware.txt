@@ -4685,3 +4685,4 @@
 44515	stulle
 44516	stulpe
 44521	stumm
+44522	stummel
