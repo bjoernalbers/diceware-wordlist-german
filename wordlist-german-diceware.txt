@@ -4370,3 +4370,4 @@
 43232	sieg
 43233	siegel
 43234	siegen
+43235	sieger
