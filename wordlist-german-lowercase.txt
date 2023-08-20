@@ -4264,3 +4264,4 @@ schuppe
 schuss
 schutt
 schutz
+schwabe

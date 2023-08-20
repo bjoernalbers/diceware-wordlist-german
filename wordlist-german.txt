@@ -4264,3 +4264,4 @@ Schuppe
 Schuss
 Schutt
 Schutz
+Schwabe
