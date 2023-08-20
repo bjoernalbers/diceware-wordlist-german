@@ -4538,3 +4538,4 @@ spucke
 spucken
 spuk
 spuken
+spule
