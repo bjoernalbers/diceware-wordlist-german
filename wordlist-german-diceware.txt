@@ -4628,3 +4628,4 @@
 44342	stimmig
 44343	stinkig
 44344	stippen
+44345	stirn
