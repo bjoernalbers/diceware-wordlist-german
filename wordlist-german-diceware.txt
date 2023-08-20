@@ -4729,3 +4729,4 @@
 44631	sweater
 44632	swing
 44633	switch
+44634	symbol
