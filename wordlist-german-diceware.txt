@@ -4454,3 +4454,4 @@
 43452	soll
 43453	sollen
 43454	solo
+43455	sommer
