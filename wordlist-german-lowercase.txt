@@ -4562,3 +4562,4 @@ stange
 stanze
 stanzen
 stapel
+stapeln
