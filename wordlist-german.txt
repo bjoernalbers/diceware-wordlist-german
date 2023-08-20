@@ -4602,3 +4602,4 @@ stellen
 Stelze
 stemmen
 Stempel
+Stengel
