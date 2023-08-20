@@ -4638,3 +4638,4 @@ stolz
 stopfen
 Stopp
 Stoppel
+stoppen
