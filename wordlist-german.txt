@@ -4502,3 +4502,4 @@ spezial
 Sphinx
 spicken
 Spicker
+Spiegel
