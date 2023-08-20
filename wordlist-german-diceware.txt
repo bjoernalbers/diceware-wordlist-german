@@ -4324,3 +4324,4 @@
 43114	senkel
 43115	senken
 43116	sense
+43121	sensor
