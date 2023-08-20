@@ -4403,3 +4403,4 @@
 43325	skala
 43326	skandal
 43331	skat
+43332	skaten
