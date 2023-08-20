@@ -4634,3 +4634,4 @@
 44352	stoff
 44353	stoisch
 44354	stollen
+44355	stolz
