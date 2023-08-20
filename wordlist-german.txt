@@ -4460,3 +4460,4 @@ Song
 Sonne
 sonnen
 sonnig
+Sonntag

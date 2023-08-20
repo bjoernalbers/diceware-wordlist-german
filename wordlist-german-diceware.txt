@@ -4460,3 +4460,4 @@
 43462	sonne
 43463	sonnen
 43464	sonnig
+43465	sonntag
