@@ -4484,3 +4484,4 @@ Spatel
 Spaten
 Spatz
 Specht
+Speck

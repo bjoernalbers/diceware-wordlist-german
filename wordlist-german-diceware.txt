@@ -4484,3 +4484,4 @@
 43542	spaten
 43543	spatz
 43544	specht
+43545	speck
