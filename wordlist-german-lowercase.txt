@@ -4252,3 +4252,4 @@ schrift
 schrill
 schritt
 schroff
+schrot
