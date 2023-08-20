@@ -4551,3 +4551,4 @@ stachel
 stadion
 stadium
 stadt
+staffel
