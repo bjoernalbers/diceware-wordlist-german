@@ -4366,3 +4366,4 @@
 43224	sieben
 43225	siebtel
 43226	sieden
+43231	siedler
