@@ -4307,3 +4307,4 @@
 42645	sekret
 42646	sekt
 42651	sektor
+42652	sekunde

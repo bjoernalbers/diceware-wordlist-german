@@ -4307,3 +4307,4 @@ Seite
 Sekret
 Sekt
 Sektor
+Sekunde

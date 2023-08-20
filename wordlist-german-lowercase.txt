@@ -4307,3 +4307,4 @@ seite
 sekret
 sekt
 sektor
+sekunde
