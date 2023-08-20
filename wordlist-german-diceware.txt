@@ -4536,3 +4536,4 @@
 43666	sprung
 44111	spucke
 44112	spucken
+44113	spuk
