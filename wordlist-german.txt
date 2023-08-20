@@ -4299,3 +4299,4 @@ sehnen
 Sehtest
 seicht
 Seide
+seidig
