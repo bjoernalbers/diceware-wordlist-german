@@ -4379,3 +4379,4 @@
 43245	silbern
 43246	silikon
 43251	silo
+43252	simpel
