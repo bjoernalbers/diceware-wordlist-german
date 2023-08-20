@@ -4610,3 +4610,4 @@ steril
 Stern
 stetig
 Steuer
+steuern
