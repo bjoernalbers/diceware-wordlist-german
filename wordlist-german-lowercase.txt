@@ -4220,3 +4220,4 @@ schluss
 schmal
 schmalz
 schmand
+schmatz
