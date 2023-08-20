@@ -4486,3 +4486,4 @@
 43544	specht
 43545	speck
 43546	speed
+43551	speer
