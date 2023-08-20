@@ -4219,3 +4219,4 @@
 42421	schluss
 42422	schmal
 42423	schmalz
+42424	schmand

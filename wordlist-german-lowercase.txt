@@ -4219,3 +4219,4 @@ schlund
 schluss
 schmal
 schmalz
+schmand
