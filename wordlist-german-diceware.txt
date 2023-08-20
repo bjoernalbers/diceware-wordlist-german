@@ -4578,3 +4578,4 @@
 44216	statist
 44221	stativ
 44222	statue
+44223	statur
