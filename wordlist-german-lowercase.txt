@@ -4309,3 +4309,4 @@ sekt
 sektor
 sekunde
 selfie
+selten
