@@ -4713,3 +4713,4 @@
 44563	summe
 44564	summen
 44565	summer
+44566	sumo
