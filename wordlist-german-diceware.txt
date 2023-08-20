@@ -4297,3 +4297,4 @@
 42631	sehne
 42632	sehnen
 42633	sehtest
+42634	seicht

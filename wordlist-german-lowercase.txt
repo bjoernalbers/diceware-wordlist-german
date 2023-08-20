@@ -4297,3 +4297,4 @@ sehen
 sehne
 sehnen
 sehtest
+seicht
