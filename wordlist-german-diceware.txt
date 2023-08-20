@@ -4317,3 +4317,4 @@
 42663	senator
 42664	senden
 42665	sender
+42666	sendung
