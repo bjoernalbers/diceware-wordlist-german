@@ -4310,3 +4310,4 @@
 42652	sekunde
 42653	selfie
 42654	selten
+42655	seltsam
