@@ -4332,3 +4332,4 @@
 43126	sequenz
 43131	serie
 43132	seriell
+43133	serum
