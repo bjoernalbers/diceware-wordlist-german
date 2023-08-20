@@ -4416,3 +4416,4 @@
 43346	skipper
 43351	skizze
 43352	skonto
+43353	skooter
