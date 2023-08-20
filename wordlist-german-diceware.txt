@@ -4542,3 +4542,4 @@
 44116	spulen
 44121	spur
 44122	spurlos
+44123	sputen
