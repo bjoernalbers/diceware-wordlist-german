@@ -4700,3 +4700,4 @@
 44542	style
 44543	styling
 44544	stylish
+44545	stylist
