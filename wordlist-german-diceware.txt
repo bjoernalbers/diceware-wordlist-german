@@ -4682,3 +4682,4 @@
 44512	studium
 44513	stufe
 44514	stuhl
+44515	stulle
