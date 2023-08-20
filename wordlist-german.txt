@@ -4645,3 +4645,4 @@ Store
 Storno
 Story
 straff
+Strahl
