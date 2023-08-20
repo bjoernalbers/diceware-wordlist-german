@@ -4427,3 +4427,4 @@
 43365	slip
 43366	slipper
 43411	slogan
+43412	smaragd
