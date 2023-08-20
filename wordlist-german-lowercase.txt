@@ -4493,3 +4493,4 @@ speisen
 spende
 spenden
 spender
+sperre

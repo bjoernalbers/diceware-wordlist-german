@@ -4493,3 +4493,4 @@
 43555	spende
 43556	spenden
 43561	spender
+43562	sperre
