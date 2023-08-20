@@ -4532,3 +4532,4 @@
 43662	sprit
 43663	sprosse
 43664	spruch
+43665	sprudel
