@@ -4556,3 +4556,4 @@ stahl
 staksen
 stall
 stamm
+stand

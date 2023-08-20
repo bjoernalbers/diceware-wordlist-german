@@ -4556,3 +4556,4 @@
 44142	staksen
 44143	stall
 44144	stamm
+44145	stand
