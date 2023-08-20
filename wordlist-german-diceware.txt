@@ -4236,3 +4236,4 @@
 42446	schnitt
 42451	schnur
 42452	schnute
+42453	schock

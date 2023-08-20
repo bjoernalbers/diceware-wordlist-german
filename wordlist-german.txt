@@ -4236,3 +4236,4 @@ schnell
 Schnitt
 Schnur
 Schnute
+Schock
