@@ -4350,3 +4350,4 @@
 43156	sheriff
 43161	sherpa
 43162	shift
+43163	shirt
