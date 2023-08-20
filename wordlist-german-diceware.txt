@@ -4611,3 +4611,4 @@
 44313	stetig
 44314	steuer
 44315	steuern
+44316	stich

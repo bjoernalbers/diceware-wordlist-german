@@ -4611,3 +4611,4 @@ stern
 stetig
 steuer
 steuern
+stich
