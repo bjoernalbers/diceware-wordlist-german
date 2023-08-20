@@ -4409,3 +4409,4 @@
 43335	skepsis
 43336	sketch
 43341	ski
+43342	skihose
