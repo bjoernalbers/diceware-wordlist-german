@@ -4400,3 +4400,4 @@
 43322	sitzen
 43323	sitzung
 43324	sixpack
+43325	skala

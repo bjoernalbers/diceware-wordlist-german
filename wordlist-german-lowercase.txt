@@ -4400,3 +4400,4 @@ sitz
 sitzen
 sitzung
 sixpack
+skala
