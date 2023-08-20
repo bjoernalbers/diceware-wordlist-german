@@ -4255,3 +4255,4 @@
 42521	schrot
 42522	schrott
 42523	schub
+42524	schubs
