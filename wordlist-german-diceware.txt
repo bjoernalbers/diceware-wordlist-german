@@ -4499,3 +4499,4 @@
 43565	spesen
 43566	spezi
 43611	spezial
+43612	sphinx

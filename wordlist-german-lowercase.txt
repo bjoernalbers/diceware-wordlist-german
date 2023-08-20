@@ -4499,3 +4499,4 @@ sperrig
 spesen
 spezi
 spezial
+sphinx
