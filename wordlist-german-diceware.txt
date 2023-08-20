@@ -4541,3 +4541,4 @@
 44115	spule
 44116	spulen
 44121	spur
+44122	spurlos
