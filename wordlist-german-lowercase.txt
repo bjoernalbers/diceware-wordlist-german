@@ -4490,3 +4490,4 @@ speer
 speiche
 speise
 speisen
+spende

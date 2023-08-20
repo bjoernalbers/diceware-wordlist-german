@@ -4490,3 +4490,4 @@
 43552	speiche
 43553	speise
 43554	speisen
+43555	spende
