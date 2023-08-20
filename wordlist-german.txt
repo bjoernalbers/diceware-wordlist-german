@@ -4294,3 +4294,4 @@ Segler
 Segment
 Segway
 sehen
+Sehne

@@ -4294,3 +4294,4 @@
 42624	segment
 42625	segway
 42626	sehen
+42631	sehne
