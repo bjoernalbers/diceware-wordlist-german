@@ -4308,3 +4308,4 @@
 42646	sekt
 42651	sektor
 42652	sekunde
+42653	selfie
