@@ -4230,3 +4230,4 @@
 42436	schmutz
 42441	schnack
 42442	schnake
+42443	schnaps
