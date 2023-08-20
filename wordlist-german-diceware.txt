@@ -4693,3 +4693,4 @@
 44531	stupsen
 44532	stur
 44533	sturm
+44534	sturz
