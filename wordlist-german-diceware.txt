@@ -4231,3 +4231,4 @@
 42441	schnack
 42442	schnake
 42443	schnaps
+42444	schnee
