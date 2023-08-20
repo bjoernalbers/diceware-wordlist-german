@@ -4516,3 +4516,4 @@
 43634	spirale
 43635	spitz
 43636	spitze
+43641	splint
