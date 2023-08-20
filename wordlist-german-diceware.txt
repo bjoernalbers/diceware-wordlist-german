@@ -4217,3 +4217,4 @@
 42415	schluck
 42416	schlund
 42421	schluss
+42422	schmal
