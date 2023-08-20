@@ -4426,3 +4426,4 @@ slalom
 slang
 slip
 slipper
+slogan
