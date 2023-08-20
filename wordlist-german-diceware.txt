@@ -4292,3 +4292,4 @@
 42622	segeln
 42623	segler
 42624	segment
+42625	segway

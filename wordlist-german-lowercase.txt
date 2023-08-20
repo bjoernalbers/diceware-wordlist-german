@@ -4292,3 +4292,4 @@ segel
 segeln
 segler
 segment
+segway
