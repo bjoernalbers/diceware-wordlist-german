@@ -4398,3 +4398,4 @@
 43316	sittich
 43321	sitz
 43322	sitzen
+43323	sitzung
