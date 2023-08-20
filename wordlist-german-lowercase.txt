@@ -4663,3 +4663,4 @@ stretch
 streu
 streuen
 streuer
+strich

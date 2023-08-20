@@ -4663,3 +4663,4 @@
 44441	streu
 44442	streuen
 44443	streuer
+44444	strich
