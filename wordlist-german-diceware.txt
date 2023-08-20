@@ -4712,3 +4712,4 @@
 44562	sultan
 44563	summe
 44564	summen
+44565	summer
