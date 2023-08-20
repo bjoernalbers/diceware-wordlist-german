@@ -4691,3 +4691,4 @@
 44525	stunt
 44526	stups
 44531	stupsen
+44532	stur

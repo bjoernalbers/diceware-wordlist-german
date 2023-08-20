@@ -4691,3 +4691,4 @@ stunde
 stunt
 stups
 stupsen
+stur
