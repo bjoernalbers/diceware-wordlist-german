@@ -4585,3 +4585,4 @@
 44231	staubig
 44232	staude
 44233	stauen
+44234	staunen
