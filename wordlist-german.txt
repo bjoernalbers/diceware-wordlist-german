@@ -4539,3 +4539,4 @@ spucken
 Spuk
 spuken
 Spule
+spulen

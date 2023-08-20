@@ -4539,3 +4539,4 @@
 44113	spuk
 44114	spuken
 44115	spule
+44116	spulen
