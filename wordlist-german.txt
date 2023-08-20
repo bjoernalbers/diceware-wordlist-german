@@ -4614,3 +4614,4 @@ steuern
 Stich
 sticken
 Sticker
+Stiefel

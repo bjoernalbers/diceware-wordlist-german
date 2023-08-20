@@ -4614,3 +4614,4 @@ steuern
 stich
 sticken
 sticker
+stiefel
