@@ -4387,3 +4387,4 @@
 43261	sinken
 43262	sinn
 43263	sinnlos
+43264	sinus

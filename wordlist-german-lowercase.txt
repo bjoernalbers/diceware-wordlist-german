@@ -4387,3 +4387,4 @@ single
 sinken
 sinn
 sinnlos
+sinus
