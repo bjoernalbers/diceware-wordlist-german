@@ -4202,3 +4202,4 @@ schippe
 schiri
 schirm
 schlaf
+schlag

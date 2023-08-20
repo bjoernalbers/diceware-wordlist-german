@@ -4202,3 +4202,4 @@
 42352	schiri
 42353	schirm
 42354	schlaf
+42355	schlag
