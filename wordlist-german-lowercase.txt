@@ -4709,3 +4709,4 @@ sud
 sudoku
 suffix
 suite
+sultan
