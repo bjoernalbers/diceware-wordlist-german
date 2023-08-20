@@ -4395,3 +4395,4 @@ sirene
 sirup
 sitcom
 sitte
+sittich
