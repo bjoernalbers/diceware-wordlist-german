@@ -4415,3 +4415,4 @@ skill
 skipass
 skipper
 skizze
+skonto
