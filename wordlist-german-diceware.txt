@@ -4660,3 +4660,4 @@
 44434	streit
 44435	streng
 44436	stretch
+44441	streu
