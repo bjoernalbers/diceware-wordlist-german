@@ -4533,3 +4533,4 @@
 43663	sprosse
 43664	spruch
 43665	sprudel
+43666	sprung
