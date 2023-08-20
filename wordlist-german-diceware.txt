@@ -4441,3 +4441,4 @@
 43431	socke
 43432	sockel
 43433	soda
+43434	sofa
