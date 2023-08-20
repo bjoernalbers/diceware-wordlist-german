@@ -4697,3 +4697,4 @@
 44535	stute
 44536	stutzen
 44541	stutzig
+44542	style
