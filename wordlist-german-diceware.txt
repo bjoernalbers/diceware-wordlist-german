@@ -4295,3 +4295,4 @@
 42625	segway
 42626	sehen
 42631	sehne
+42632	sehnen
