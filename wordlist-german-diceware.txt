@@ -4435,3 +4435,4 @@
 43421	smoking
 43422	snack
 43423	snacken
+43424	sneaker
