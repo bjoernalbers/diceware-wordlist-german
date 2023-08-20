@@ -4553,3 +4553,4 @@
 44135	stadt
 44136	staffel
 44141	stahl
+44142	staksen
