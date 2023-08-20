@@ -4480,3 +4480,4 @@
 43534	spargel
 43535	sparsam
 43536	sparte
+43541	spatel

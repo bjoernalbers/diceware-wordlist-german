@@ -4480,3 +4480,4 @@ sparen
 spargel
 sparsam
 sparte
+spatel
