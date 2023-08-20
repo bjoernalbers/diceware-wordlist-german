@@ -4517,3 +4517,4 @@ Spirale
 spitz
 Spitze
 Splint
+Splitt

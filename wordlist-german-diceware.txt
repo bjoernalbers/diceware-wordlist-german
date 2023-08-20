@@ -4517,3 +4517,4 @@
 43635	spitz
 43636	spitze
 43641	splint
+43642	splitt
