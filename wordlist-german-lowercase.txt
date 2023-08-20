@@ -4531,3 +4531,4 @@ spreu
 sprint
 sprit
 sprosse
+spruch
