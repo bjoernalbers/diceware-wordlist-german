@@ -4618,3 +4618,4 @@
 44324	stiel
 44325	stier
 44326	stift
+44331	stiften
