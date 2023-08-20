@@ -4344,3 +4344,4 @@ Setup
 setzen
 Seuche
 seufzen
+Seufzer
