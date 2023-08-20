@@ -4265,3 +4265,4 @@
 42535	schutt
 42536	schutz
 42541	schwabe
+42542	schwach
