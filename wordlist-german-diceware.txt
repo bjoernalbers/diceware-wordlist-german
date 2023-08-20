@@ -4675,3 +4675,4 @@
 44461	strumpf
 44462	strunk
 44463	stube
+44464	stuck

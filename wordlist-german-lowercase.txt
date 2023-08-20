@@ -4675,3 +4675,4 @@ strudel
 strumpf
 strunk
 stube
+stuck
