@@ -4250,3 +4250,4 @@
 42512	schrei
 42513	schrift
 42514	schrill
+42515	schritt
