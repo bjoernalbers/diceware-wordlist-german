@@ -4770,3 +4770,4 @@
 45136	tanga
 45141	tango
 45142	tank
+45143	tanke
