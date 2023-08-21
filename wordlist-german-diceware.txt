@@ -4747,3 +4747,4 @@
 44661	taco
 44662	tadel
 44663	tadeln
+44664	tafel
