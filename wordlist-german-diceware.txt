@@ -4757,3 +4757,4 @@
 45115	taiga
 45116	taille
 45121	take
+45122	takt
