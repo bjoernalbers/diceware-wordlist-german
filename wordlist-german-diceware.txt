@@ -4754,3 +4754,4 @@
 45112	taggen
 45113	tagung
 45114	taifun
+45115	taiga
