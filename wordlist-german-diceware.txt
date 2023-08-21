@@ -4762,3 +4762,4 @@
 45124	taktlos
 45125	tal
 45126	talent
+45131	taler

@@ -4762,3 +4762,4 @@ taktik
 taktlos
 tal
 talent
+taler
