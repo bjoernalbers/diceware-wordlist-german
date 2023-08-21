@@ -4766,3 +4766,4 @@
 45132	talg
 45133	tampon
 45134	tamtam
+45135	tandem
