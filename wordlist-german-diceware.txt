@@ -4764,3 +4764,4 @@
 45126	talent
 45131	taler
 45132	talg
+45133	tampon
