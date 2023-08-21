@@ -4759,3 +4759,4 @@
 45121	take
 45122	takt
 45123	taktik
+45124	taktlos
