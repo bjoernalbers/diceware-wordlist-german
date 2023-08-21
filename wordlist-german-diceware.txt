@@ -4763,3 +4763,4 @@
 45125	tal
 45126	talent
 45131	taler
+45132	talg
