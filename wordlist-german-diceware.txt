@@ -4772,3 +4772,4 @@
 45142	tank
 45143	tanke
 45144	tanken
+45145	tanker
