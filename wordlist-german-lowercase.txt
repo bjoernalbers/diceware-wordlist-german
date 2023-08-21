@@ -4758,3 +4758,4 @@ taiga
 taille
 take
 takt
+taktik
