@@ -4808,3 +4808,4 @@
 45242	tausch
 45243	taverne
 45244	taxi
+45245	teak
