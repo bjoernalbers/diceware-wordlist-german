@@ -4831,3 +4831,4 @@
 45321	teint
 45322	telefax
 45323	telefon
+45324	telegen

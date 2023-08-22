@@ -4831,3 +4831,4 @@ Teilung
 Teint
 Telefax
 Telefon
+telegen
