@@ -4776,3 +4776,4 @@
 45146	tanktop
 45151	tanne
 45152	tante
+45153	tanz
