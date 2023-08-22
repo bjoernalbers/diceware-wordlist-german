@@ -4842,3 +4842,4 @@ Tensid
 Teppich
 Tequila
 Term
+Termin
