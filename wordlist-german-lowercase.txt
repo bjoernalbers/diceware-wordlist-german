@@ -4826,3 +4826,4 @@ teig
 teil
 teilbar
 teilen
+teiler
