@@ -4792,3 +4792,4 @@
 45214	taste
 45215	tasten
 45216	taster
+45221	tat
