@@ -4832,3 +4832,4 @@ Teint
 Telefax
 Telefon
 telegen
+Teller
