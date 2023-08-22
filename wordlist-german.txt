@@ -4790,3 +4790,4 @@ Tarzan
 Tasche
 Tasse
 Taste
+tasten

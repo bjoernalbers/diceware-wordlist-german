@@ -4790,3 +4790,4 @@
 45212	tasche
 45213	tasse
 45214	taste
+45215	tasten
