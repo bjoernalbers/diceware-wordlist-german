@@ -4834,3 +4834,4 @@ Telefon
 telegen
 Teller
 Telnet
+Tempo
