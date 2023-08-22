@@ -4797,3 +4797,4 @@
 45223	tatort
 45224	tattoo
 45225	tattrig
+45226	tatze
