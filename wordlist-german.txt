@@ -4837,3 +4837,4 @@ Telnet
 Tempo
 Tendenz
 Tennis
+Tenor
