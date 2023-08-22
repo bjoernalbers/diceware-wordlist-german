@@ -4791,3 +4791,4 @@
 45213	tasse
 45214	taste
 45215	tasten
+45216	taster

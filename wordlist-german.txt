@@ -4791,3 +4791,4 @@ Tasche
 Tasse
 Taste
 tasten
+Taster
