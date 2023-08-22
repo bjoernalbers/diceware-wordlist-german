@@ -4777,3 +4777,4 @@
 45151	tanne
 45152	tante
 45153	tanz
+45154	tanzen
