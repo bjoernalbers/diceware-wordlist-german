@@ -4827,3 +4827,4 @@ teil
 teilbar
 teilen
 teiler
+teilung

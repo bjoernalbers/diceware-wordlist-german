@@ -4827,3 +4827,4 @@
 45313	teilbar
 45314	teilen
 45315	teiler
+45316	teilung
