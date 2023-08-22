@@ -4822,3 +4822,4 @@
 45264	teesieb
 45265	teflon
 45266	teich
+45311	teig
