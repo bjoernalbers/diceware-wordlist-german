@@ -4838,3 +4838,4 @@ tempo
 tendenz
 tennis
 tenor
+tensid

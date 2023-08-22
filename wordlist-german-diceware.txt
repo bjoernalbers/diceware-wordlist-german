@@ -4838,3 +4838,4 @@
 45332	tendenz
 45333	tennis
 45334	tenor
+45335	tensid
