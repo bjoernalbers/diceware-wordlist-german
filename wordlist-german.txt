@@ -4828,3 +4828,4 @@ teilbar
 teilen
 Teiler
 Teilung
+Teint

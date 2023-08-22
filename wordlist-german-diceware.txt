@@ -4828,3 +4828,4 @@
 45314	teilen
 45315	teiler
 45316	teilung
+45321	teint
