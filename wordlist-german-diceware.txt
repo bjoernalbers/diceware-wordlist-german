@@ -4804,3 +4804,4 @@
 45234	tauchen
 45235	taucher
 45236	taugen
+45241	taumeln
