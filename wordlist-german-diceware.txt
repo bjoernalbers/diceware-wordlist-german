@@ -4839,3 +4839,4 @@
 45333	tennis
 45334	tenor
 45335	tensid
+45336	teppich
