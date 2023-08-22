@@ -4784,3 +4784,4 @@ tapfer
 Tapir
 tappen
 Tarif
+tarnen
