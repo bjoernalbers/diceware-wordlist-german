@@ -4836,3 +4836,4 @@
 45326	telnet
 45331	tempo
 45332	tendenz
+45333	tennis
