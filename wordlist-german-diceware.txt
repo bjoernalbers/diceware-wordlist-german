@@ -4825,3 +4825,4 @@
 45311	teig
 45312	teil
 45313	teilbar
+45314	teilen

@@ -4825,3 +4825,4 @@ Teich
 Teig
 Teil
 teilbar
+teilen
