@@ -4802,3 +4802,4 @@
 45232	taub
 45233	taube
 45234	tauchen
+45235	taucher
