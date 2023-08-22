@@ -4829,3 +4829,4 @@ teilen
 Teiler
 Teilung
 Teint
+Telefax

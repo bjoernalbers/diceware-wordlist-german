@@ -4829,3 +4829,4 @@
 45315	teiler
 45316	teilung
 45321	teint
+45322	telefax
