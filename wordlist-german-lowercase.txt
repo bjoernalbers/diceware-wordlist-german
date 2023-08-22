@@ -4833,3 +4833,4 @@ telefax
 telefon
 telegen
 teller
+telnet

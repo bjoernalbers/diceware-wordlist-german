@@ -4833,3 +4833,4 @@
 45323	telefon
 45324	telegen
 45325	teller
+45326	telnet
