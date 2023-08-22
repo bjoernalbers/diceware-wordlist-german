@@ -4783,3 +4783,4 @@ tapete
 tapfer
 tapir
 tappen
+tarif
