@@ -4824,3 +4824,4 @@ teflon
 teich
 teig
 teil
+teilbar
