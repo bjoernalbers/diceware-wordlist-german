@@ -4775,3 +4775,4 @@
 45145	tanker
 45146	tanktop
 45151	tanne
+45152	tante

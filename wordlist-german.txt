@@ -4775,3 +4775,4 @@ tanken
 Tanker
 Tanktop
 Tanne
+Tante
