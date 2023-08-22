@@ -4835,3 +4835,4 @@ telegen
 teller
 telnet
 tempo
+tendenz

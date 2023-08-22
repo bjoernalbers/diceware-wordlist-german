@@ -4835,3 +4835,4 @@ telegen
 Teller
 Telnet
 Tempo
+Tendenz

@@ -4835,3 +4835,4 @@
 45325	teller
 45326	telnet
 45331	tempo
+45332	tendenz
