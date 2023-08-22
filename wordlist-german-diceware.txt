@@ -4805,3 +4805,4 @@
 45235	taucher
 45236	taugen
 45241	taumeln
+45242	tausch
