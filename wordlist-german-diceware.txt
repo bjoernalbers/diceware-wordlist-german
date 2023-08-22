@@ -4811,3 +4811,4 @@
 45245	teak
 45246	team
 45251	teaser
+45252	technik
