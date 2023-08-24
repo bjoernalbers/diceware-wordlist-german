@@ -5031,3 +5031,4 @@ trudeln
 truhe
 trumpf
 trunk
+truppe
