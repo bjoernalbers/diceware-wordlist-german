@@ -4914,3 +4914,4 @@
 45536	tonic
 45541	tonkrug
 45542	tonlage
+45543	tonne
