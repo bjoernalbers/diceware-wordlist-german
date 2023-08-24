@@ -5058,3 +5058,4 @@ Turm
 turnen
 Turner
 Turnier
+Turnus

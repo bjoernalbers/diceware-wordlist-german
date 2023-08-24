@@ -5058,3 +5058,4 @@
 46336	turnen
 46341	turner
 46342	turnier
+46343	turnus
