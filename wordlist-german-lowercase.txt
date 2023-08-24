@@ -5059,3 +5059,4 @@ turnen
 turner
 turnier
 turnus
+turteln

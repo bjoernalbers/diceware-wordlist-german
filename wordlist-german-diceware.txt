@@ -5059,3 +5059,4 @@
 46341	turner
 46342	turnier
 46343	turnus
+46344	turteln
