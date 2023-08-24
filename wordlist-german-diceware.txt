@@ -4993,3 +4993,4 @@
 46151	tresor
 46152	treten
 46153	treter
+46154	treu
