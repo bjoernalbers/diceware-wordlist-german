@@ -4879,3 +4879,4 @@ Tiger
 Tilde
 tilgen
 Tilgung
+Timer
