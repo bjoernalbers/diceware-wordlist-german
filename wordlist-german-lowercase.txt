@@ -5066,3 +5066,4 @@ tuten
 tutor
 tweet
 tweeten
+typ
