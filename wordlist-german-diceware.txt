@@ -5011,3 +5011,4 @@
 46221	tritt
 46222	triumph
 46223	trivial
+46224	trocken
