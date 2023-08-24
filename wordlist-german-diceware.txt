@@ -4938,3 +4938,4 @@
 45616	tour
 45621	touren
 45622	touri
+45623	tourist
