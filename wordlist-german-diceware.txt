@@ -4931,3 +4931,4 @@
 45565	torte
 45566	tortur
 45611	torwart
+45612	tosen
