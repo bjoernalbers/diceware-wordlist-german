@@ -5045,3 +5045,4 @@
 46315	tundra
 46316	tunen
 46321	tuner
+46322	tunika
