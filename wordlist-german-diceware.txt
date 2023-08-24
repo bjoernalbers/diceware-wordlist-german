@@ -5028,3 +5028,4 @@
 46246	truck
 46251	trucker
 46252	trudeln
+46253	truhe
