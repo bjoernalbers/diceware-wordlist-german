@@ -4929,3 +4929,4 @@
 45563	torpedo
 45564	torso
 45565	torte
+45566	tortur
