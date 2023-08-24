@@ -4939,3 +4939,4 @@
 45621	touren
 45622	touri
 45623	tourist
+45624	tournee
