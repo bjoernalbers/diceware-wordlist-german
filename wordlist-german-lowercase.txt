@@ -5055,3 +5055,4 @@ turban
 turbine
 turbo
 turm
+turnen
