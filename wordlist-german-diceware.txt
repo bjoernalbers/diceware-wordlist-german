@@ -5030,3 +5030,4 @@
 46252	trudeln
 46253	truhe
 46254	trumpf
+46255	trunk
