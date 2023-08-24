@@ -5067,3 +5067,4 @@ Tutor
 Tweet
 tweeten
 Typ
+typisch

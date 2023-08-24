@@ -5067,3 +5067,4 @@
 46353	tweet
 46354	tweeten
 46355	typ
+46356	typisch
