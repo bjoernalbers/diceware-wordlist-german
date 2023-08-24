@@ -4956,3 +4956,4 @@
 45646	trafo
 45651	tragbar
 45652	trage
+45653	tragen
