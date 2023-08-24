@@ -4986,3 +4986,4 @@
 46136	treiber
 46141	trekkie
 46142	trend
+46143	trendig
