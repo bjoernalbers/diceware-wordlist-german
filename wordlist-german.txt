@@ -5002,3 +5002,4 @@ triftig
 Trigger
 Trikot
 Triller
+trimmen
