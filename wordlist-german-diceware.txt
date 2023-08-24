@@ -5033,3 +5033,4 @@
 46255	trunk
 46256	truppe
 46261	tsunami
+46262	tuba
