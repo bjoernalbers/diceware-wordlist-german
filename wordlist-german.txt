@@ -5003,3 +5003,4 @@ Trigger
 Trikot
 Triller
 trimmen
+Trimmer
