@@ -5007,3 +5007,4 @@
 46213	trinken
 46214	trio
 46215	trip
+46216	trist

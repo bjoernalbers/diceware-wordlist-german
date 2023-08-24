@@ -5007,3 +5007,4 @@ trimmer
 trinken
 trio
 trip
+trist
