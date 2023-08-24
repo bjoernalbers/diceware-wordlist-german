@@ -4998,3 +4998,4 @@
 46156	trick
 46161	triefen
 46162	triezen
+46163	triftig
