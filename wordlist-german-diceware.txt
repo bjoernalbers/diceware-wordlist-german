@@ -5012,3 +5012,4 @@
 46222	triumph
 46223	trivial
 46224	trocken
+46225	trog
