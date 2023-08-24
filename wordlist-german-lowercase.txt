@@ -5010,3 +5010,4 @@ trip
 trist
 tritt
 triumph
+trivial
