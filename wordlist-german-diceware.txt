@@ -5020,3 +5020,4 @@
 46234	tropfen
 46235	trost
 46236	trott
+46241	trotten
