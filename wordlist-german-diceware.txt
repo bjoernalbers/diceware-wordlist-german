@@ -5026,3 +5026,4 @@
 46244	trouble
 46245	trubel
 46246	truck
+46251	trucker
