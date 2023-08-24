@@ -5009,3 +5009,4 @@
 46215	trip
 46216	trist
 46221	tritt
+46222	triumph
