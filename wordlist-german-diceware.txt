@@ -4888,3 +4888,4 @@
 45454	tippeln
 45455	tippen
 45456	tirade
+45461	tisch
