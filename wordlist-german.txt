@@ -4857,3 +4857,4 @@ teuer
 Text
 texten
 Textil
+Textur
