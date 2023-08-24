@@ -5037,3 +5037,4 @@
 46263	tube
 46264	tuch
 46265	tuckern
+46266	tugend
