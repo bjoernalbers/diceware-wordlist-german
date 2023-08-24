@@ -5029,3 +5029,4 @@
 46251	trucker
 46252	trudeln
 46253	truhe
+46254	trumpf
