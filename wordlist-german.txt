@@ -5051,3 +5051,4 @@ tunken
 Tunnel
 tupfen
 Tupfer
+Turban
