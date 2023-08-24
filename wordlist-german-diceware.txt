@@ -4987,3 +4987,4 @@
 46141	trekkie
 46142	trend
 46143	trendig
+46144	trennen
