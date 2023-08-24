@@ -5000,3 +5000,4 @@ triefen
 triezen
 triftig
 trigger
+trikot

@@ -5000,3 +5000,4 @@
 46162	triezen
 46163	triftig
 46164	trigger
+46165	trikot
