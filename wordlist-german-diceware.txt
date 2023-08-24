@@ -4975,3 +4975,4 @@
 46121	trasse
 46122	tratsch
 46123	traube
+46124	trauen
