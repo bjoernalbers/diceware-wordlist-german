@@ -4883,3 +4883,4 @@ Timer
 Timing
 Tinktur
 Tinnef
+Tinte

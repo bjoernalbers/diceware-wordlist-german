@@ -4883,3 +4883,4 @@ timer
 timing
 tinktur
 tinnef
+tinte

@@ -4883,3 +4883,4 @@
 45445	timing
 45446	tinktur
 45451	tinnef
+45452	tinte
