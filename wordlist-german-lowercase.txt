@@ -5052,3 +5052,4 @@ tunnel
 tupfen
 tupfer
 turban
+turbine
