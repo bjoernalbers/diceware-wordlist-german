@@ -5312,3 +5312,4 @@
 51442	waggon
 51443	wahl
 51444	wahr
+51445	waise

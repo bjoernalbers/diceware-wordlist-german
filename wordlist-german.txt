@@ -5312,3 +5312,4 @@ Wagen
 Waggon
 Wahl
 wahr
+Waise
