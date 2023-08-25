@@ -5327,3 +5327,4 @@
 51465	walzen
 51466	walzer
 51511	wampe
+51512	wand
