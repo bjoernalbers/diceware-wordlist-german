@@ -5072,3 +5072,4 @@ ufer
 ufo
 uhr
 uhrwerk
+uhrzeit
