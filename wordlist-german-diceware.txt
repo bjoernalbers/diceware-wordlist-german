@@ -5168,3 +5168,4 @@
 46642	urwald
 46643	user
 46644	usus
+46645	utensil
