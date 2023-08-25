@@ -5326,3 +5326,4 @@
 51464	walze
 51465	walzen
 51466	walzer
+51511	wampe
