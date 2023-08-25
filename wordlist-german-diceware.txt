@@ -5221,3 +5221,4 @@
 51211	viadukt
 51212	video
 51213	viech
+51214	vieh
