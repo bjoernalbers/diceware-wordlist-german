@@ -5068,3 +5068,4 @@
 46354	tweeten
 46355	typ
 46356	typisch
+46361	ufer
