@@ -5092,3 +5092,4 @@ umhang
 umladen
 umlage
 umlaut
+umluft

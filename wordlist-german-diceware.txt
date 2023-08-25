@@ -5092,3 +5092,4 @@
 46434	umladen
 46435	umlage
 46436	umlaut
+46441	umluft
