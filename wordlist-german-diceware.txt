@@ -5310,3 +5310,4 @@
 51436	waffel
 51441	wagen
 51442	waggon
+51443	wahl
