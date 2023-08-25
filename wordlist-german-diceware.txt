@@ -5269,3 +5269,4 @@
 51331	vorfall
 51332	vorfeld
 51333	vorfilm
+51334	vorgang
