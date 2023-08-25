@@ -5116,3 +5116,4 @@ unfair
 Unfall
 unfrei
 Unfug
+ungenau
