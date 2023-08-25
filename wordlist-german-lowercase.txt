@@ -5295,3 +5295,4 @@ vorzeit
 vorzug
 voting
 vulkan
+waage
