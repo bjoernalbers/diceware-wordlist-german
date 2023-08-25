@@ -5173,3 +5173,4 @@
 46651	utopie
 46652	vage
 46653	vakant
+46654	vakuum
