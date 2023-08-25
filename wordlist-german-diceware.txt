@@ -5186,3 +5186,4 @@
 51112	veganer
 51113	vehikel
 51114	vektor
+51115	velo

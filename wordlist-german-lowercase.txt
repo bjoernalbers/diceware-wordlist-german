@@ -5186,3 +5186,4 @@ vegan
 veganer
 vehikel
 vektor
+velo
