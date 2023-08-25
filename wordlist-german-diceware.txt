@@ -5114,3 +5114,4 @@
 46512	uneinig
 46513	unfair
 46514	unfall
+46515	unfrei
