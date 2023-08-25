@@ -5101,3 +5101,4 @@
 46451	umstieg
 46452	umsturz
 46453	umtrunk
+46454	umweg
