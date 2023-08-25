@@ -5207,3 +5207,4 @@
 51145	vermerk
 51146	vers
 51151	versand
+51152	versatz
