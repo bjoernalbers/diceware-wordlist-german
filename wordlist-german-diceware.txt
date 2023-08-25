@@ -5169,3 +5169,4 @@
 46643	user
 46644	usus
 46645	utensil
+46646	uterus
