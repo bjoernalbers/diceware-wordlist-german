@@ -5203,3 +5203,4 @@
 51141	verlag
 51142	verlauf
 51143	verleih
+51144	verlies

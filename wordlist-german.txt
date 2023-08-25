@@ -5203,3 +5203,4 @@ Verkehr
 Verlag
 Verlauf
 Verleih
+Verlies
