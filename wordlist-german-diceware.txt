@@ -5255,3 +5255,4 @@
 51265	vokal
 51266	volk
 51311	voll
+51312	vollbad
