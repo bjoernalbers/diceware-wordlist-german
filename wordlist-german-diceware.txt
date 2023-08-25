@@ -5093,3 +5093,4 @@
 46435	umlage
 46436	umlaut
 46441	umluft
+46442	umpolen

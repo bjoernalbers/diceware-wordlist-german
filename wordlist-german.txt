@@ -5093,3 +5093,4 @@ umladen
 Umlage
 Umlaut
 Umluft
+umpolen
