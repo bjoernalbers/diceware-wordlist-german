@@ -5304,3 +5304,4 @@ Wachs
 wachsam
 wachsen
 Wachtel
+wackeln
