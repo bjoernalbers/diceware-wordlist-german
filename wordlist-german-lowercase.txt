@@ -5095,3 +5095,4 @@ umlaut
 umluft
 umpolen
 umriss
+umsatz
