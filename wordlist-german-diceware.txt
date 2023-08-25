@@ -5224,3 +5224,4 @@
 51214	vieh
 51215	viel
 51216	viereck
+51221	viertel
