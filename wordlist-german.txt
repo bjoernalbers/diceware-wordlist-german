@@ -5329,3 +5329,4 @@ Walzer
 Wampe
 Wand
 wandeln
+wandern

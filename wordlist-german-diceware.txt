@@ -5329,3 +5329,4 @@
 51511	wampe
 51512	wand
 51513	wandeln
+51514	wandern
