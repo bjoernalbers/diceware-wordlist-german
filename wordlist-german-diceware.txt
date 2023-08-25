@@ -5073,3 +5073,4 @@
 46363	uhr
 46364	uhrwerk
 46365	uhrzeit
+46366	uhu
