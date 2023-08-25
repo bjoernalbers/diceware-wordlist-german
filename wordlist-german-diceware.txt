@@ -5097,3 +5097,4 @@
 46443	umriss
 46444	umsatz
 46445	umsehen
+46446	umstand
