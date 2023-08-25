@@ -5280,3 +5280,4 @@
 51346	vorlaut
 51351	vormund
 51352	vorname
+51353	vornehm
