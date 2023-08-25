@@ -5086,3 +5086,4 @@ Umbruch
 Umfang
 Umfeld
 Umfrage
+umgeben

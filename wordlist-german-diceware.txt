@@ -5086,3 +5086,4 @@
 46424	umfang
 46425	umfeld
 46426	umfrage
+46431	umgeben
