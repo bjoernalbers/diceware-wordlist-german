@@ -5328,3 +5328,4 @@ walzen
 walzer
 wampe
 wand
+wandeln

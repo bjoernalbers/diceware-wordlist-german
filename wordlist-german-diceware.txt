@@ -5328,3 +5328,4 @@
 51466	walzer
 51511	wampe
 51512	wand
+51513	wandeln
