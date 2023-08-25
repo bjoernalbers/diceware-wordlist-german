@@ -5212,3 +5212,4 @@ version
 versuch
 vertrag
 vertun
+verweis

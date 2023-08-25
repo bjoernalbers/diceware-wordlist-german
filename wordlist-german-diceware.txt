@@ -5212,3 +5212,4 @@
 51154	versuch
 51155	vertrag
 51156	vertun
+51161	verweis
