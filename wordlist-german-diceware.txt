@@ -5163,3 +5163,4 @@
 46633	urkunde
 46634	urlaub
 46635	urologe
+46636	ursache

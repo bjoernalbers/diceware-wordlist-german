@@ -5163,3 +5163,4 @@ Urknall
 Urkunde
 Urlaub
 Urologe
+Ursache
