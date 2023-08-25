@@ -5279,3 +5279,4 @@
 51345	vorlauf
 51346	vorlaut
 51351	vormund
+51352	vorname
