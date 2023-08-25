@@ -5281,3 +5281,4 @@ vorlaut
 Vormund
 Vorname
 vornehm
+Vorort
