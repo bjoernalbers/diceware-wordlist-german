@@ -5120,3 +5120,4 @@ ungenau
 Unheil
 Uni
 Uniform
+Unikat
