@@ -5195,3 +5195,4 @@
 51125	verband
 51126	verbot
 51131	verbund
+51132	verdeck
