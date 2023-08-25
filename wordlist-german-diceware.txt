@@ -5301,3 +5301,4 @@
 51423	wach
 51424	wache
 51425	wachs
+51426	wachsam
