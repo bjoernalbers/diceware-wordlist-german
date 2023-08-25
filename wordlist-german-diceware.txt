@@ -5251,3 +5251,4 @@
 51261	vloggen
 51262	vlogger
 51263	vogel
+51264	vokabel

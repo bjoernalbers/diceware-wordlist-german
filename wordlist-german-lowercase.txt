@@ -5251,3 +5251,4 @@ vlog
 vloggen
 vlogger
 vogel
+vokabel
