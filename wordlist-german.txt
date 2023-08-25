@@ -5288,3 +5288,4 @@ Vorraum
 Vorsatz
 Vorsitz
 Vortag
+Vorteil

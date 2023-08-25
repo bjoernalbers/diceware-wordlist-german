@@ -5288,3 +5288,4 @@
 51362	vorsatz
 51363	vorsitz
 51364	vortag
+51365	vorteil
