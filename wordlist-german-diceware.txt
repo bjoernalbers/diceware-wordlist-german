@@ -5324,3 +5324,4 @@
 51462	walnuss
 51463	walz
 51464	walze
+51465	walzen
