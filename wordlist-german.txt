@@ -5316,3 +5316,4 @@ Waise
 Wal
 Wald
 Waldweg
+walken
