@@ -5083,3 +5083,4 @@
 46421	umbau
 46422	umbauen
 46423	umbruch
+46424	umfang
