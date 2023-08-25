@@ -5075,3 +5075,4 @@
 46365	uhrzeit
 46366	uhu
 46411	ukulele
+46412	ulkig
