@@ -5091,3 +5091,4 @@ umgehen
 Umhang
 umladen
 Umlage
+Umlaut
