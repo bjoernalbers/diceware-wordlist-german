@@ -5214,3 +5214,4 @@ Vertrag
 vertun
 Verweis
 Verzehr
+Verzug

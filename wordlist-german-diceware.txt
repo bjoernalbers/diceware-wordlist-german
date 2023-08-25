@@ -5214,3 +5214,4 @@
 51156	vertun
 51161	verweis
 51162	verzehr
+51163	verzug
