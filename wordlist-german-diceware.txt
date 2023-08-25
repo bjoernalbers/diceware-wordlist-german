@@ -5172,3 +5172,4 @@
 46646	uterus
 46651	utopie
 46652	vage
+46653	vakant
