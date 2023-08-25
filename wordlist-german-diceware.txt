@@ -5087,3 +5087,4 @@
 46425	umfeld
 46426	umfrage
 46431	umgeben
+46432	umgehen

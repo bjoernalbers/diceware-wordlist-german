@@ -5087,3 +5087,4 @@ umfang
 umfeld
 umfrage
 umgeben
+umgehen

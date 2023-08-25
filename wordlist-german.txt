@@ -5087,3 +5087,4 @@ Umfang
 Umfeld
 Umfrage
 umgeben
+umgehen
