@@ -5202,3 +5202,4 @@
 51136	verkehr
 51141	verlag
 51142	verlauf
+51143	verleih
