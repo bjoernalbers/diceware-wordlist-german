@@ -5189,3 +5189,4 @@
 51115	velo
 51116	velours
 51121	ventil
+51122	veranda

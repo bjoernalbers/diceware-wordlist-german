@@ -5189,3 +5189,4 @@ vektor
 velo
 velours
 ventil
+veranda
