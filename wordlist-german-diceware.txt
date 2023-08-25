@@ -5247,3 +5247,4 @@
 51253	vitrine
 51254	vize
 51255	vlies
+51256	vlog
