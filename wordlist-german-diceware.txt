@@ -5243,3 +5243,4 @@
 51245	visum
 51246	vita
 51251	vital
+51252	vitamin
