@@ -5274,3 +5274,4 @@
 51336	vorhang
 51341	vorhof
 51342	vorhut
+51343	vorjahr

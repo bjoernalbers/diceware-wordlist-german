@@ -5274,3 +5274,4 @@ vorhand
 vorhang
 vorhof
 vorhut
+vorjahr
