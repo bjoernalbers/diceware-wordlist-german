@@ -5283,3 +5283,4 @@ vorname
 vornehm
 vorort
 vorrang
+vorrat
