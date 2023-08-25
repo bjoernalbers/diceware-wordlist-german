@@ -5284,3 +5284,4 @@
 51354	vorort
 51355	vorrang
 51356	vorrat
+51361	vorraum

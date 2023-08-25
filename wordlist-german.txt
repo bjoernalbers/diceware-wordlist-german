@@ -5284,3 +5284,4 @@ vornehm
 Vorort
 Vorrang
 Vorrat
+Vorraum
