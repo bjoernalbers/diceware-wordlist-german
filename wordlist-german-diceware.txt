@@ -5103,3 +5103,4 @@
 46453	umtrunk
 46454	umweg
 46455	umwelt
+46456	umzug

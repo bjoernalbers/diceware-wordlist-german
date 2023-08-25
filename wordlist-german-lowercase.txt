@@ -5103,3 +5103,4 @@ umsturz
 umtrunk
 umweg
 umwelt
+umzug
