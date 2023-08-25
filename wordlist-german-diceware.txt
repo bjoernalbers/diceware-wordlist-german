@@ -5174,3 +5174,4 @@
 46652	vage
 46653	vakant
 46654	vakuum
+46655	valide
