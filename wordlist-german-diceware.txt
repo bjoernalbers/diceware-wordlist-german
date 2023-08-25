@@ -5205,3 +5205,4 @@
 51143	verleih
 51144	verlies
 51145	vermerk
+51146	vers
