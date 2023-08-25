@@ -5331,3 +5331,4 @@ Wand
 wandeln
 wandern
 Wanduhr
+Wange

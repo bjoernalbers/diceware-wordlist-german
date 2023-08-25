@@ -5331,3 +5331,4 @@
 51513	wandeln
 51514	wandern
 51515	wanduhr
+51516	wange
