@@ -5293,3 +5293,4 @@
 51411	vorwand
 51412	vorzeit
 51413	vorzug
+51414	voting
