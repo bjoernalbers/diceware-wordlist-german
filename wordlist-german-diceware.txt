@@ -5275,3 +5275,4 @@
 51341	vorhof
 51342	vorhut
 51343	vorjahr
+51344	vorkehr
