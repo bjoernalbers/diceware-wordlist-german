@@ -5201,3 +5201,4 @@
 51135	verkauf
 51136	verkehr
 51141	verlag
+51142	verlauf
