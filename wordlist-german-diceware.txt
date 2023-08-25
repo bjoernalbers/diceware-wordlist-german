@@ -5187,3 +5187,4 @@
 51113	vehikel
 51114	vektor
 51115	velo
+51116	velours
