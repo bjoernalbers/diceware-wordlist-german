@@ -5099,3 +5099,4 @@
 46445	umsehen
 46446	umstand
 46451	umstieg
+46452	umsturz

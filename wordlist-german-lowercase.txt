@@ -5099,3 +5099,4 @@ umsatz
 umsehen
 umstand
 umstieg
+umsturz
