@@ -5253,3 +5253,4 @@
 51263	vogel
 51264	vokabel
 51265	vokal
+51266	volk
