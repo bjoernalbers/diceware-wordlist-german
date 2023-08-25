@@ -5332,3 +5332,4 @@
 51514	wandern
 51515	wanduhr
 51516	wange
+51521	wanken
