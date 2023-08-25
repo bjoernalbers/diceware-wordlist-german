@@ -5330,3 +5330,4 @@
 51512	wand
 51513	wandeln
 51514	wandern
+51515	wanduhr

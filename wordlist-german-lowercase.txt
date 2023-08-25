@@ -5330,3 +5330,4 @@ wampe
 wand
 wandeln
 wandern
+wanduhr
