@@ -5204,3 +5204,4 @@
 51142	verlauf
 51143	verleih
 51144	verlies
+51145	vermerk
