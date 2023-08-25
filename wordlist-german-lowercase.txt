@@ -5311,3 +5311,4 @@ waffel
 wagen
 waggon
 wahl
+wahr
