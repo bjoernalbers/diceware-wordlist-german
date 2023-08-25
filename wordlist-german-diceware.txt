@@ -5303,3 +5303,4 @@
 51425	wachs
 51426	wachsam
 51431	wachsen
+51432	wachtel
