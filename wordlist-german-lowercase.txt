@@ -5276,3 +5276,4 @@ vorhof
 vorhut
 vorjahr
 vorkehr
+vorlauf
