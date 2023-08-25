@@ -5211,3 +5211,4 @@
 51153	version
 51154	versuch
 51155	vertrag
+51156	vertun
