@@ -5305,3 +5305,4 @@ wachsam
 wachsen
 Wachtel
 wackeln
+wacker

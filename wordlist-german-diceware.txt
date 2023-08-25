@@ -5305,3 +5305,4 @@
 51431	wachsen
 51432	wachtel
 51433	wackeln
+51434	wacker
