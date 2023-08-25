@@ -5082,3 +5082,4 @@
 46416	umarmen
 46421	umbau
 46422	umbauen
+46423	umbruch
