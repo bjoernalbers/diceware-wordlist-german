@@ -5285,3 +5285,4 @@
 51355	vorrang
 51356	vorrat
 51361	vorraum
+51362	vorsatz

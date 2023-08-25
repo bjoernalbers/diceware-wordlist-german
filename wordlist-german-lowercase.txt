@@ -5285,3 +5285,4 @@ vorort
 vorrang
 vorrat
 vorraum
+vorsatz
