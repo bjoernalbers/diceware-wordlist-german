@@ -5241,3 +5241,4 @@
 51243	viskose
 51244	visuell
 51245	visum
+51246	vita
