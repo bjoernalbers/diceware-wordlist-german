@@ -5071,3 +5071,4 @@ typisch
 Ufer
 Ufo
 Uhr
+Uhrwerk
