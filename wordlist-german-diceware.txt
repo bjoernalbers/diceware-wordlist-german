@@ -5216,3 +5216,4 @@
 51162	verzehr
 51163	verzug
 51164	vesper
+51165	veto
