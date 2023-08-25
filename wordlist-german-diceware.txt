@@ -5286,3 +5286,4 @@
 51356	vorrat
 51361	vorraum
 51362	vorsatz
+51363	vorsitz
