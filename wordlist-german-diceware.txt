@@ -5090,3 +5090,4 @@
 46432	umgehen
 46433	umhang
 46434	umladen
+46435	umlage
