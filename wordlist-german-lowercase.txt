@@ -5309,3 +5309,4 @@ wacker
 wade
 waffel
 wagen
+waggon
