@@ -5190,3 +5190,4 @@
 51116	velours
 51121	ventil
 51122	veranda
+51123	verb
