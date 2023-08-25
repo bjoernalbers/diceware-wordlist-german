@@ -5265,3 +5265,4 @@
 51323	vorbau
 51324	vorbild
 51325	vorbote
+51326	vordach
