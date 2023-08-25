@@ -5299,3 +5299,4 @@
 51421	wabbeln
 51422	wabe
 51423	wach
+51424	wache
