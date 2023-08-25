@@ -5287,3 +5287,4 @@ vorrat
 vorraum
 vorsatz
 vorsitz
+vortag
