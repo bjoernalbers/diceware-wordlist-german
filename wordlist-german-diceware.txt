@@ -5244,3 +5244,4 @@
 51246	vita
 51251	vital
 51252	vitamin
+51253	vitrine
