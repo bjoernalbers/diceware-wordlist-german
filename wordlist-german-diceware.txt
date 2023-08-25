@@ -5294,3 +5294,4 @@
 51412	vorzeit
 51413	vorzug
 51414	voting
+51415	vulkan
