@@ -5277,3 +5277,4 @@
 51343	vorjahr
 51344	vorkehr
 51345	vorlauf
+51346	vorlaut
