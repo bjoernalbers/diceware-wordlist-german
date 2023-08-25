@@ -5266,3 +5266,4 @@ vorbau
 vorbild
 vorbote
 vordach
+vorfall
