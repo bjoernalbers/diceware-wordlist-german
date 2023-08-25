@@ -5191,3 +5191,4 @@
 51121	ventil
 51122	veranda
 51123	verb
+51124	verbal

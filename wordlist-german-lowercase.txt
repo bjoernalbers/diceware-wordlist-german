@@ -5191,3 +5191,4 @@ velours
 ventil
 veranda
 verb
+verbal
