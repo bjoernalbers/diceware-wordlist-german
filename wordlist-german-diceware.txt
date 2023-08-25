@@ -5325,3 +5325,4 @@
 51463	walz
 51464	walze
 51465	walzen
+51466	walzer
