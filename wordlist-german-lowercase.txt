@@ -5254,3 +5254,4 @@ vogel
 vokabel
 vokal
 volk
+voll

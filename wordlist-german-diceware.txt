@@ -5254,3 +5254,4 @@
 51264	vokabel
 51265	vokal
 51266	volk
+51311	voll

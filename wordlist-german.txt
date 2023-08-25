@@ -5254,3 +5254,4 @@ Vogel
 Vokabel
 Vokal
 Volk
+voll
