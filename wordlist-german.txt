@@ -5252,3 +5252,4 @@ vloggen
 Vlogger
 Vogel
 Vokabel
+Vokal

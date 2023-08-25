@@ -5252,3 +5252,4 @@
 51262	vlogger
 51263	vogel
 51264	vokabel
+51265	vokal
