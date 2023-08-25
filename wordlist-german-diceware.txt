@@ -5273,3 +5273,4 @@
 51335	vorhand
 51336	vorhang
 51341	vorhof
+51342	vorhut
