@@ -5147,3 +5147,4 @@
 46565	unwort
 46566	unwucht
 46611	unzahl
+46612	unze
