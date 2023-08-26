@@ -5435,3 +5435,4 @@
 52165	widrig
 52166	wiege
 52211	wiegen
+52212	wiehern
