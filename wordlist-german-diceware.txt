@@ -5386,3 +5386,4 @@
 51644	weiter
 51645	weizen
 51646	welk
+51651	welken
