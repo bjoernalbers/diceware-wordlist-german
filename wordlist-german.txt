@@ -5376,3 +5376,4 @@ weigern
 Weiher
 Weile
 Wein
+weinen

@@ -5376,3 +5376,4 @@ weigern
 weiher
 weile
 wein
+weinen
