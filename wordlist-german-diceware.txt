@@ -5437,3 +5437,4 @@
 52211	wiegen
 52212	wiehern
 52213	wienern
+52214	wiese
