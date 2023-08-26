@@ -5369,3 +5369,4 @@
 51615	wehren
 51616	wehweh
 51621	weich
+51622	weiche
