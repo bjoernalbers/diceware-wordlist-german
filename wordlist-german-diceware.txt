@@ -5428,3 +5428,4 @@
 52154	wickel
 52155	wickeln
 52156	wickler
+52161	widder
