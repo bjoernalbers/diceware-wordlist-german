@@ -5399,3 +5399,4 @@
 51665	wendig
 51666	wenig
 52111	werben
+52112	werbung
