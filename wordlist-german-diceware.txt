@@ -5344,3 +5344,4 @@
 51534	warnung
 51535	warte
 51536	warten
+51541	wartung
