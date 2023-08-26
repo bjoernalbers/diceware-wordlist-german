@@ -5384,3 +5384,4 @@
 51642	weite
 51643	weiten
 51644	weiter
+51645	weizen
