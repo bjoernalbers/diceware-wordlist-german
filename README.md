@@ -19,7 +19,7 @@ This makes them easy to remember (for you) and hard to guess (for others):
 those passphrases using ordinary dice, invented by Arnold Reinhold.
 You simply roll five dice to pick a random word from a Diceware wordlist until
 you have enough words.
-This repository provices such a list.
+This repository provides such a list.
 
 ## Formats
 
