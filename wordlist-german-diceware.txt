@@ -5410,3 +5410,4 @@
 52124	werten
 52125	wertig
 52126	wertung
+52131	werwolf
