@@ -5366,3 +5366,4 @@ wecker
 wedeln
 weg
 wegrand
+wehren
