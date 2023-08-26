@@ -5337,3 +5337,4 @@
 51523	wanze
 51524	wappen
 51525	wappnen
+51526	ware
