@@ -5371,3 +5371,4 @@
 51621	weich
 51622	weiche
 51623	weichen
+51624	weide
