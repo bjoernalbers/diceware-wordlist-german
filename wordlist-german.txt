@@ -5351,3 +5351,4 @@ waschen
 Wasser
 waten
 Watt
+Watte
