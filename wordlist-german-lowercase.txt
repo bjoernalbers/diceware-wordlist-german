@@ -5396,3 +5396,4 @@ weltall
 weltcup
 wende
 wenden
+wendig
