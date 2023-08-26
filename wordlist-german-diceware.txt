@@ -5409,3 +5409,4 @@
 52123	wert
 52124	werten
 52125	wertig
+52126	wertung

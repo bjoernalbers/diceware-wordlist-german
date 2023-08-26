@@ -5409,3 +5409,4 @@ werktag
 wert
 werten
 wertig
+wertung
