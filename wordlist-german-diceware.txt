@@ -5353,3 +5353,4 @@
 51551	watt
 51552	watte
 51553	wau
+51554	wauwau
