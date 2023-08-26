@@ -5444,3 +5444,4 @@
 52222	wild
 52223	wildern
 52224	wildnis
+52225	wille
