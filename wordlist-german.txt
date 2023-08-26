@@ -5434,3 +5434,4 @@ widmen
 Widmung
 widrig
 Wiege
+wiegen
