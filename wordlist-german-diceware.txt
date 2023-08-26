@@ -5370,3 +5370,4 @@
 51616	wehweh
 51621	weich
 51622	weiche
+51623	weichen
