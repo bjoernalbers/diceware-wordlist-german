@@ -5455,3 +5455,4 @@
 52241	windig
 52242	windrad
 52243	windung
+52244	windzug
