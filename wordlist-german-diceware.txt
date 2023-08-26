@@ -5412,3 +5412,4 @@
 52126	wertung
 52131	werwolf
 52132	wesen
+52133	wespe

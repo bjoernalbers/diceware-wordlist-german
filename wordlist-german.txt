@@ -5412,3 +5412,4 @@ wertig
 Wertung
 Werwolf
 Wesen
+Wespe
