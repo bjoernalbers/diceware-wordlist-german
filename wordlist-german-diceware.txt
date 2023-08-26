@@ -5347,3 +5347,4 @@
 51541	wartung
 51542	warze
 51543	wasabi
+51544	waschen

@@ -5347,3 +5347,4 @@ warten
 wartung
 warze
 wasabi
+waschen
