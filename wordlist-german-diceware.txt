@@ -5424,3 +5424,4 @@
 52146	wetzen
 52151	whisky
 52152	wichtel
+52153	wichtig
