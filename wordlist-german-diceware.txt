@@ -5422,3 +5422,4 @@
 52144	wetter
 52145	wettern
 52146	wetzen
+52151	whisky
