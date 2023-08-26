@@ -5436,3 +5436,4 @@
 52166	wiege
 52211	wiegen
 52212	wiehern
+52213	wienern
