@@ -5445,3 +5445,4 @@
 52223	wildern
 52224	wildnis
 52225	wille
+52226	wimmern
