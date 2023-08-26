@@ -5378,3 +5378,4 @@
 51632	wein
 51633	weinen
 51634	weingut
+51635	weinrot
