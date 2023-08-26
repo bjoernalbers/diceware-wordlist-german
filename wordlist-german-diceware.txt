@@ -5382,3 +5382,4 @@
 51636	weise
 51641	weit
 51642	weite
+51643	weiten
