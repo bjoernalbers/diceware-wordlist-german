@@ -32,13 +32,13 @@ The wordlist is available in these formats:
 
 ## About the included words
 
-All included words have been manually checked and meet these conditions:
+Each word has been manually checked to be easy to remember and office-friendly
+(not vulgar, offensive, religious or with negative connotations).
+The words also meet these formal conditions:
 
 - 3 to 7 characters long
 - contains english letters only (no german special characters like umlauts)
 - a known noun, verb or adjective in its basic form
-- office-friendly (not vulgar, offensive, religious or with negative
-  connotations)
 
 ## Where do all those words come from?
 
