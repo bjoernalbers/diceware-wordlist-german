@@ -5388,3 +5388,4 @@
 51646	welk
 51651	welken
 51652	welle
+51653	wellig
