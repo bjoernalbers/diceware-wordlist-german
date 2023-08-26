@@ -5406,3 +5406,4 @@ werft
 werk
 werkeln
 werktag
+wert

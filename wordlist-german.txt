@@ -5406,3 +5406,4 @@ Werft
 Werk
 werkeln
 Werktag
+Wert

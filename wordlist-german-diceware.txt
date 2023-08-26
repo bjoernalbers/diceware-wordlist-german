@@ -5406,3 +5406,4 @@
 52116	werk
 52121	werkeln
 52122	werktag
+52123	wert
