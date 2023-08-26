@@ -5449,3 +5449,4 @@
 52231	wimpel
 52232	wimper
 52233	wind
+52234	winde
