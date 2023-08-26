@@ -5349,3 +5349,4 @@ Warze
 Wasabi
 waschen
 Wasser
+waten

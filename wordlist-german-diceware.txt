@@ -5349,3 +5349,4 @@
 51543	wasabi
 51544	waschen
 51545	wasser
+51546	waten
