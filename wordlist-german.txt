@@ -5333,3 +5333,4 @@ wandern
 Wanduhr
 Wange
 wanken
+Wanne

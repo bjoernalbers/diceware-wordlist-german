@@ -5333,3 +5333,4 @@
 51515	wanduhr
 51516	wange
 51521	wanken
+51522	wanne
