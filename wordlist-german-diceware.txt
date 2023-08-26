@@ -5454,3 +5454,4 @@
 52236	winden
 52241	windig
 52242	windrad
+52243	windung
