@@ -5408,3 +5408,4 @@
 52122	werktag
 52123	wert
 52124	werten
+52125	wertig

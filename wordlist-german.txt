@@ -5408,3 +5408,4 @@ werkeln
 Werktag
 Wert
 werten
+wertig
