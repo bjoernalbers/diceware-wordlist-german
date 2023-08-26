@@ -5427,3 +5427,4 @@
 52153	wichtig
 52154	wickel
 52155	wickeln
+52156	wickler
