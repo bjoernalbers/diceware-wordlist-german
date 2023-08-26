@@ -5417,3 +5417,4 @@
 52135	weste
 52136	westen
 52141	western
+52142	wette
