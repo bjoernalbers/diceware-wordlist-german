@@ -5456,3 +5456,4 @@
 52242	windrad
 52243	windung
 52244	windzug
+52245	wink
