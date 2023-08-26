@@ -5459,3 +5459,4 @@
 52245	wink
 52246	winkel
 52251	winkeln
+52252	winken
