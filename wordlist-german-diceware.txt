@@ -5420,3 +5420,4 @@
 52142	wette
 52143	wetten
 52144	wetter
+52145	wettern
