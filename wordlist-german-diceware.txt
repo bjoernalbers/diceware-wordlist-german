@@ -5362,3 +5362,4 @@
 51564	website
 51565	wechsel
 51566	wecken
+51611	wecker
