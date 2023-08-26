@@ -21,7 +21,7 @@ You simply roll five dice to pick a random word from a Diceware wordlist until
 you have enough words.
 This repository provides such a list.
 
-## Formats
+## Wordlist formats
 
 The wordlist is available in these formats:
 
@@ -30,7 +30,7 @@ The wordlist is available in these formats:
 - `wordlist-german-diceware.txt`: the actual german diceware wordlist made from
   the lowercase wordlist
 
-## Words
+## About the included words
 
 All included words have been manually checked and meet these conditions:
 
