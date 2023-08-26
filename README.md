@@ -2,6 +2,25 @@
 
 **Work in Progress**
 
+## Wait a minute, what are passphrases anyway?
+
+A [Passphrase](https://en.wikipedia.org/wiki/Passphrase) is a passwords made
+up of multiple words, such as:
+
+    correct horse battery staple
+
+This makes them easy to remember (for you) and hard to guess (for others):
+
+[![xkcd: Password Strength](https://imgs.xkcd.com/comics/password_strength.png "xkcd: Password Strength")](https://xkcd.com/936)
+
+## And what exactly is Diceware?
+
+[Diceware](https://en.wikipedia.org/wiki/Diceware) is a method to generate
+those passphrases using ordinary dice, invented by Arnold Reinhold.
+You simply roll five dice to pick a random word from a Diceware wordlist until
+you have enough words.
+This repository provices such a list.
+
 ## Formats
 
 The wordlist is available in these formats:
