@@ -5457,3 +5457,4 @@
 52243	windung
 52244	windzug
 52245	wink
+52246	winkel

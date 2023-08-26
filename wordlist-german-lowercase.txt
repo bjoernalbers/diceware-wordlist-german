@@ -5457,3 +5457,4 @@ windrad
 windung
 windzug
 wink
+winkel
