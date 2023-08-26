@@ -5345,3 +5345,4 @@
 51535	warte
 51536	warten
 51541	wartung
+51542	warze
