@@ -5426,3 +5426,4 @@
 52152	wichtel
 52153	wichtig
 52154	wickel
+52155	wickeln
