@@ -5418,3 +5418,4 @@
 52136	westen
 52141	western
 52142	wette
+52143	wetten
