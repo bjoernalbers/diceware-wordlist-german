@@ -5433,3 +5433,4 @@
 52163	widmen
 52164	widmung
 52165	widrig
+52166	wiege
