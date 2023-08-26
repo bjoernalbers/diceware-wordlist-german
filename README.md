@@ -39,3 +39,13 @@ All included words have been manually checked and meet these conditions:
 - a known noun, verb or adjective in its basic form
 - office-friendly (not vulgar, offensive, religious or with negative
   connotations)
+
+## Where do all those words come from?
+
+All words have been taken from the digital german dictionary
+[DWDS](https://www.dwds.de/):
+
+> DWDS – Digitales Wörterbuch der deutschen Sprache.
+> Das Wortauskunftssystem zur deutschen Sprache in Geschichte und Gegenwart,
+> hrsg. v. d. Berlin-Brandenburgischen Akademie der Wissenschaften,
+> <https://www.dwds.de/>, abgerufen am 17.01.2022.
