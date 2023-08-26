@@ -5403,3 +5403,4 @@
 52113	werden
 52114	werfen
 52115	werft
+52116	werk
