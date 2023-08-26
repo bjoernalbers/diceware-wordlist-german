@@ -5342,3 +5342,4 @@
 51532	warmup
 51533	warnen
 51534	warnung
+51535	warte
