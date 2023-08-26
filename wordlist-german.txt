@@ -5379,3 +5379,4 @@ Wein
 weinen
 Weingut
 weinrot
+Weise

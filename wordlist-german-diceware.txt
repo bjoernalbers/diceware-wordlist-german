@@ -5379,3 +5379,4 @@
 51633	weinen
 51634	weingut
 51635	weinrot
+51636	weise

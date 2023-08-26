@@ -5379,3 +5379,4 @@ wein
 weinen
 weingut
 weinrot
+weise
