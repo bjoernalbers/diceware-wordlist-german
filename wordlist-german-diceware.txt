@@ -5404,3 +5404,4 @@
 52114	werfen
 52115	werft
 52116	werk
+52121	werkeln
