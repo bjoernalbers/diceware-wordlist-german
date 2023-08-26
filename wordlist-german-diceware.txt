@@ -5372,3 +5372,4 @@
 51622	weiche
 51623	weichen
 51624	weide
+51625	weigern
