@@ -5375,3 +5375,4 @@
 51625	weigern
 51626	weiher
 51631	weile
+51632	wein
