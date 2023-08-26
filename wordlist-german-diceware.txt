@@ -5364,3 +5364,4 @@
 51566	wecken
 51611	wecker
 51612	wedeln
+51613	weg
