@@ -5425,3 +5425,4 @@
 52151	whisky
 52152	wichtel
 52153	wichtig
+52154	wickel
