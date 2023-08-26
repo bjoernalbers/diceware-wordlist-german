@@ -5385,3 +5385,4 @@
 51643	weiten
 51644	weiter
 51645	weizen
+51646	welk
