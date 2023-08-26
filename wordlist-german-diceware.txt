@@ -5397,3 +5397,4 @@
 51663	wende
 51664	wenden
 51665	wendig
+51666	wenig
