@@ -32,7 +32,7 @@ The wordlist is available in these formats:
 
 ## About the included words
 
-Each word has been manually checked to be easy to remember and office-friendly
+Each word has been manually checked to be familiar and office-friendly
 (not vulgar, offensive, religious or with negative connotations).
 The words also meet these formal conditions:
 
