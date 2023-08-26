@@ -5350,3 +5350,4 @@
 51544	waschen
 51545	wasser
 51546	waten
+51551	watt
