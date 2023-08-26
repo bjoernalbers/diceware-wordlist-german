@@ -5402,3 +5402,4 @@
 52112	werbung
 52113	werden
 52114	werfen
+52115	werft
