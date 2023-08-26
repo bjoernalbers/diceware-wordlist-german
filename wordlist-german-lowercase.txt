@@ -5432,3 +5432,4 @@ widder
 widget
 widmen
 widmung
+widrig

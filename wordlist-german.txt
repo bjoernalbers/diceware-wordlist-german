@@ -5432,3 +5432,4 @@ Widder
 Widget
 widmen
 Widmung
+widrig
