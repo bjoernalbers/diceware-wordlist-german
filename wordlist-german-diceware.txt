@@ -5336,3 +5336,4 @@
 51522	wanne
 51523	wanze
 51524	wappen
+51525	wappnen
