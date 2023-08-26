@@ -5423,3 +5423,4 @@
 52145	wettern
 52146	wetzen
 52151	whisky
+52152	wichtel
