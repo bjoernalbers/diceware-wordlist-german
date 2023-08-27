@@ -5477,3 +5477,4 @@
 52315	wisch
 52316	wischen
 52321	wischer
+52322	wissen
