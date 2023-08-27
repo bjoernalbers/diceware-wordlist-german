@@ -5507,3 +5507,4 @@ wuchten
 Wulst
 Wunder
 wundern
+Wunsch
