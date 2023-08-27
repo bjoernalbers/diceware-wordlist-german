@@ -5534,3 +5534,4 @@ Zahnrad
 Zahnung
 Zander
 Zange
+Zank

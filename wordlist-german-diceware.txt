@@ -5534,3 +5534,4 @@
 52452	zahnung
 52453	zander
 52454	zange
+52455	zank
