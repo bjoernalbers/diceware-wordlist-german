@@ -5530,3 +5530,4 @@ zahltag
 zahlung
 zahm
 zahn
+zahnrad
