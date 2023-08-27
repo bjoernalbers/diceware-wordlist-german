@@ -5470,3 +5470,4 @@
 52264	wirbeln
 52265	wirken
 52266	wirksam
+52311	wirkung
