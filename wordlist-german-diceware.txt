@@ -5532,3 +5532,4 @@
 52446	zahn
 52451	zahnrad
 52452	zahnung
+52453	zander
