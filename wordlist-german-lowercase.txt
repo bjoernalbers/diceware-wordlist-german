@@ -5462,3 +5462,4 @@ winkeln
 winken
 winseln
 winter
+winzer

@@ -5462,3 +5462,4 @@
 52252	winken
 52253	winseln
 52254	winter
+52255	winzer
