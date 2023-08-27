@@ -5493,3 +5493,4 @@
 52343	wolke
 52344	wolkig
 52345	wolle
+52346	wollen
