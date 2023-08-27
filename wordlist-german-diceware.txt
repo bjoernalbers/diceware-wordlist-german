@@ -5509,3 +5509,4 @@
 52411	wundern
 52412	wunsch
 52413	wurf
+52414	wurm
