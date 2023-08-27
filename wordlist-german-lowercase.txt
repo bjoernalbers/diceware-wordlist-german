@@ -5489,3 +5489,4 @@ wohnen
 wohnort
 wohnung
 wok
+wolf

@@ -5489,3 +5489,4 @@
 52335	wohnort
 52336	wohnung
 52341	wok
+52342	wolf
