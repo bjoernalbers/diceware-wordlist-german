@@ -5513,3 +5513,4 @@ wurm
 wurst
 wurzel
 wuselig
+wuseln

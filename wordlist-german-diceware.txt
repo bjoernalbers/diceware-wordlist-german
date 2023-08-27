@@ -5513,3 +5513,4 @@
 52415	wurst
 52416	wurzel
 52421	wuselig
+52422	wuseln
