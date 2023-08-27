@@ -5484,3 +5484,4 @@
 52326	witzig
 52331	woche
 52332	wodka
+52333	wohltat
