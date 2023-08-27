@@ -5479,3 +5479,4 @@
 52321	wischer
 52322	wissen
 52323	wittern
+52324	witz
