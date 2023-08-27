@@ -5544,3 +5544,4 @@
 52466	zart
 52511	zaster
 52512	zauber
+52513	zaubern
