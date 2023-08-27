@@ -5536,3 +5536,4 @@
 52454	zange
 52455	zank
 52456	zanken
+52461	zapfen
