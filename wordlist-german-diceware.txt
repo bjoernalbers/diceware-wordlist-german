@@ -5526,3 +5526,4 @@
 52436	zahl
 52441	zahlbar
 52442	zahlen
+52443	zahltag
