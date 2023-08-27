@@ -5505,3 +5505,4 @@ wuchern
 Wucht
 wuchten
 Wulst
+Wunder

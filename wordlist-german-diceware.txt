@@ -5505,3 +5505,4 @@
 52363	wucht
 52364	wuchten
 52365	wulst
+52366	wunder
