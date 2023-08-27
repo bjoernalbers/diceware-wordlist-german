@@ -5528,3 +5528,4 @@ zahlbar
 zahlen
 Zahltag
 Zahlung
+zahm

@@ -5528,3 +5528,4 @@
 52442	zahlen
 52443	zahltag
 52444	zahlung
+52445	zahm
