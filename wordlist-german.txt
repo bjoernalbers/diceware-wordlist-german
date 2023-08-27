@@ -5478,3 +5478,4 @@ Wisch
 wischen
 Wischer
 Wissen
+wittern
