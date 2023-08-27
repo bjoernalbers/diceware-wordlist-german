@@ -5539,3 +5539,4 @@
 52461	zapfen
 52462	zappeln
 52463	zappen
+52464	zar
