@@ -5550,3 +5550,4 @@
 52516	zeche
 52521	zecke
 52522	zeder
+52523	zeh
