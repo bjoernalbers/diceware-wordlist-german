@@ -5461,3 +5461,4 @@ winkel
 winkeln
 winken
 winseln
+winter
