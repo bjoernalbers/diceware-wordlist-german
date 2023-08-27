@@ -5506,3 +5506,4 @@
 52364	wuchten
 52365	wulst
 52366	wunder
+52411	wundern
