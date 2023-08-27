@@ -5500,3 +5500,4 @@
 52354	wrack
 52355	wrap
 52356	wringen
+52361	wucher

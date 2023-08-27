@@ -5500,3 +5500,4 @@ wortlos
 wrack
 wrap
 wringen
+wucher
