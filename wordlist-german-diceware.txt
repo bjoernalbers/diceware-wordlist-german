@@ -5469,3 +5469,4 @@
 52263	wirbel
 52264	wirbeln
 52265	wirken
+52266	wirksam

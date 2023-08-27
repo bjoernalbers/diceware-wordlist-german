@@ -5469,3 +5469,4 @@ wippen
 wirbel
 wirbeln
 wirken
+wirksam
