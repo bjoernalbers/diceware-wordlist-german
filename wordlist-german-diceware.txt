@@ -5516,3 +5516,4 @@
 52422	wuseln
 52423	xenon
 52424	xylofon
+52425	yak
