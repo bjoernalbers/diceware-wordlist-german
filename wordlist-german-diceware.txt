@@ -5552,3 +5552,4 @@
 52522	zeder
 52523	zeh
 52524	zehe
+52525	zehner
