@@ -5557,3 +5557,4 @@ zehntel
 zehren
 zeichen
 zeigen
+zeiger
