@@ -5488,3 +5488,4 @@
 52334	wohnen
 52335	wohnort
 52336	wohnung
+52341	wok
