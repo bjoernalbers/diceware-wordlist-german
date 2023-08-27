@@ -5512,3 +5512,4 @@ wurf
 wurm
 wurst
 wurzel
+wuselig

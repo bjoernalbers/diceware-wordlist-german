@@ -5512,3 +5512,4 @@
 52414	wurm
 52415	wurst
 52416	wurzel
+52421	wuselig
