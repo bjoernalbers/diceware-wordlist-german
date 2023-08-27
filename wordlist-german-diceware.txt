@@ -5560,3 +5560,4 @@
 52534	zeiger
 52535	zeile
 52536	zeisig
+52541	zeit
