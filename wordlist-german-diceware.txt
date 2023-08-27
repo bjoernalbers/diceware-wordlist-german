@@ -5482,3 +5482,4 @@
 52324	witz
 52325	witzeln
 52326	witzig
+52331	woche
