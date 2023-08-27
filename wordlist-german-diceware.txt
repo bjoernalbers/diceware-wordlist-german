@@ -5467,3 +5467,4 @@
 52261	wippe
 52262	wippen
 52263	wirbel
+52264	wirbeln
