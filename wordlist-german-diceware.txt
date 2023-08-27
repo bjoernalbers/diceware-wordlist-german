@@ -5468,3 +5468,4 @@
 52262	wippen
 52263	wirbel
 52264	wirbeln
+52265	wirken
