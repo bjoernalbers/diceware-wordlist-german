@@ -5546,3 +5546,4 @@
 52512	zauber
 52513	zaubern
 52514	zaun
+52515	zebra
