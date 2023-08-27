@@ -5510,3 +5510,4 @@ wundern
 wunsch
 wurf
 wurm
+wurst
