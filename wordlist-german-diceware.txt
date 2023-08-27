@@ -5556,3 +5556,4 @@
 52526	zehntel
 52531	zehren
 52532	zeichen
+52533	zeigen
