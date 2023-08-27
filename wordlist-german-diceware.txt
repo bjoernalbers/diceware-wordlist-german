@@ -5499,3 +5499,4 @@
 52353	wortlos
 52354	wrack
 52355	wrap
+52356	wringen
