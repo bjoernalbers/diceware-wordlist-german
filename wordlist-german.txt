@@ -5533,3 +5533,4 @@ Zahn
 Zahnrad
 Zahnung
 Zander
+Zange
