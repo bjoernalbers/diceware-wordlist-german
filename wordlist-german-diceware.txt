@@ -5504,3 +5504,4 @@
 52362	wuchern
 52363	wucht
 52364	wuchten
+52365	wulst
