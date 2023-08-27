@@ -5548,3 +5548,4 @@
 52514	zaun
 52515	zebra
 52516	zeche
+52521	zecke
