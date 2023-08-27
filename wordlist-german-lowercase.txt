@@ -5555,3 +5555,4 @@ zehe
 zehner
 zehntel
 zehren
+zeichen

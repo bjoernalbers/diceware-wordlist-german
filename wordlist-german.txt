@@ -5555,3 +5555,4 @@ Zehe
 Zehner
 Zehntel
 zehren
+Zeichen
