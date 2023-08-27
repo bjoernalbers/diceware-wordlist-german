@@ -5476,3 +5476,4 @@
 52314	wirt
 52315	wisch
 52316	wischen
+52321	wischer
