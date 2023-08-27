@@ -5561,3 +5561,4 @@ Zeiger
 Zeile
 Zeisig
 Zeit
+zeitig

@@ -5561,3 +5561,4 @@
 52535	zeile
 52536	zeisig
 52541	zeit
+52542	zeitig
