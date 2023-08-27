@@ -5492,3 +5492,4 @@
 52342	wolf
 52343	wolke
 52344	wolkig
+52345	wolle
