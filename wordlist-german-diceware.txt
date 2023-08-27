@@ -5465,3 +5465,4 @@
 52255	winzer
 52256	winzig
 52261	wippe
+52262	wippen
