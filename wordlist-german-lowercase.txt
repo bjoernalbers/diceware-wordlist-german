@@ -5559,3 +5559,4 @@ zeichen
 zeigen
 zeiger
 zeile
+zeisig
