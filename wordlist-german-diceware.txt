@@ -5502,3 +5502,4 @@
 52356	wringen
 52361	wucher
 52362	wuchern
+52363	wucht

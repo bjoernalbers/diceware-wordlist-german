@@ -5502,3 +5502,4 @@ wrap
 wringen
 wucher
 wuchern
+wucht
