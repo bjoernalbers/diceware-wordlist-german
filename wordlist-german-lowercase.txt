@@ -5524,3 +5524,4 @@ zacke
 zackig
 zaghaft
 zahl
+zahlbar
