@@ -5531,3 +5531,4 @@
 52445	zahm
 52446	zahn
 52451	zahnrad
+52452	zahnung
