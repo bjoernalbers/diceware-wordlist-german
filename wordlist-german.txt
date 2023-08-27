@@ -5508,3 +5508,4 @@ Wulst
 Wunder
 wundern
 Wunsch
+Wurf

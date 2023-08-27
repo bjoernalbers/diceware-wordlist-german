@@ -5508,3 +5508,4 @@ wulst
 wunder
 wundern
 wunsch
+wurf
