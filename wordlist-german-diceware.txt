@@ -5486,3 +5486,4 @@
 52332	wodka
 52333	wohltat
 52334	wohnen
+52335	wohnort

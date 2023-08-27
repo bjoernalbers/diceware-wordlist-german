@@ -5486,3 +5486,4 @@ woche
 wodka
 wohltat
 wohnen
+wohnort
