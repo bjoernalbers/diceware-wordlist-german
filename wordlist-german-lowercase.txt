@@ -5529,3 +5529,4 @@ zahlen
 zahltag
 zahlung
 zahm
+zahn
