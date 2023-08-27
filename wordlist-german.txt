@@ -5547,3 +5547,4 @@ Zauber
 zaubern
 Zaun
 Zebra
+Zeche
