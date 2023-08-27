@@ -5553,3 +5553,4 @@ zeder
 zeh
 zehe
 zehner
+zehntel
