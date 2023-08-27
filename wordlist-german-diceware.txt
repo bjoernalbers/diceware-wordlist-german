@@ -5511,3 +5511,4 @@
 52413	wurf
 52414	wurm
 52415	wurst
+52416	wurzel

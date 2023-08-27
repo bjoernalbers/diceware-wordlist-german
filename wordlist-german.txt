@@ -5511,3 +5511,4 @@ Wunsch
 Wurf
 Wurm
 Wurst
+Wurzel
