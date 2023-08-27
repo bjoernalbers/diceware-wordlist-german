@@ -5537,3 +5537,4 @@
 52455	zank
 52456	zanken
 52461	zapfen
+52462	zappeln

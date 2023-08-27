@@ -5537,3 +5537,4 @@ zange
 zank
 zanken
 zapfen
+zappeln
