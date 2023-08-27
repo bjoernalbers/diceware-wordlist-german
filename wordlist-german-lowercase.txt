@@ -5490,3 +5490,4 @@ wohnort
 wohnung
 wok
 wolf
+wolke

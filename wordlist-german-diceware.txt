@@ -5490,3 +5490,4 @@
 52336	wohnung
 52341	wok
 52342	wolf
+52343	wolke

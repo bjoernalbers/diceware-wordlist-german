@@ -5490,3 +5490,4 @@ Wohnort
 Wohnung
 Wok
 Wolf
+Wolke
