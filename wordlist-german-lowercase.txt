@@ -5485,3 +5485,4 @@ witzig
 woche
 wodka
 wohltat
+wohnen
