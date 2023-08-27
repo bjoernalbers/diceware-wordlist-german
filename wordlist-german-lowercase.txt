@@ -5487,3 +5487,4 @@ wodka
 wohltat
 wohnen
 wohnort
+wohnung

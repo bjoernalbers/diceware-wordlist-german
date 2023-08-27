@@ -5487,3 +5487,4 @@
 52333	wohltat
 52334	wohnen
 52335	wohnort
+52336	wohnung

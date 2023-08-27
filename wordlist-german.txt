@@ -5487,3 +5487,4 @@ Wodka
 Wohltat
 wohnen
 Wohnort
+Wohnung
