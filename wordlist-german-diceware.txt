@@ -5503,3 +5503,4 @@
 52361	wucher
 52362	wuchern
 52363	wucht
+52364	wuchten
