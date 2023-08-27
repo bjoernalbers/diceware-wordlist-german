@@ -5472,3 +5472,4 @@
 52266	wirksam
 52311	wirkung
 52312	wirr
+52313	wirsing

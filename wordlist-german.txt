@@ -5472,3 +5472,4 @@ wirken
 wirksam
 Wirkung
 wirr
+Wirsing
