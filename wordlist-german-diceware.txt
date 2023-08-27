@@ -5501,3 +5501,4 @@
 52355	wrap
 52356	wringen
 52361	wucher
+52362	wuchern
