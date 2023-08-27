@@ -5554,3 +5554,4 @@
 52524	zehe
 52525	zehner
 52526	zehntel
+52531	zehren
