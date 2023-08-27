@@ -5545,3 +5545,4 @@
 52511	zaster
 52512	zauber
 52513	zaubern
+52514	zaun
