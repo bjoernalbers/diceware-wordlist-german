@@ -5525,3 +5525,4 @@
 52435	zaghaft
 52436	zahl
 52441	zahlbar
+52442	zahlen
