@@ -5495,3 +5495,4 @@
 52345	wolle
 52346	wollen
 52351	workout
+52352	wort
