@@ -5518,3 +5518,4 @@
 52424	xylofon
 52425	yak
 52426	yeti
+52431	yoga
