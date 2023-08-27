@@ -5543,3 +5543,4 @@
 52465	zarge
 52466	zart
 52511	zaster
+52512	zauber
