@@ -5595,3 +5595,4 @@
 52633	zieren
 52634	ziffer
 52635	zigarre
+52636	zigfach
