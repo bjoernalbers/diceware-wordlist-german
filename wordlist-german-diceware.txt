@@ -5597,3 +5597,4 @@
 52635	zigarre
 52636	zigfach
 52641	zimmer
+52642	zimmern

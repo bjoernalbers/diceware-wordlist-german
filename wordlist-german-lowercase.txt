@@ -5597,3 +5597,4 @@ ziffer
 zigarre
 zigfach
 zimmer
+zimmern
