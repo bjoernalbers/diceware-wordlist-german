@@ -5581,3 +5581,4 @@
 52611	zerrung
 52612	zetern
 52613	zettel
+52614	zeug
