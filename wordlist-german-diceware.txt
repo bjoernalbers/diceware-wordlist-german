@@ -5586,3 +5586,4 @@
 52616	zeugnis
 52621	ziegel
 52622	ziehen
+52623	ziehung
