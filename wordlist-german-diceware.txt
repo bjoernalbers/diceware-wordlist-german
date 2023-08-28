@@ -5591,3 +5591,4 @@
 52625	zielen
 52626	ziellos
 52631	ziepen
+52632	zierde
