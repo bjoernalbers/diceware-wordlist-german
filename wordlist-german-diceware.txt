@@ -5572,3 +5572,4 @@
 52554	zen
 52555	zenit
 52556	zensur
+52561	zentner
