@@ -5563,3 +5563,4 @@ zeisig
 zeit
 zeitig
 zeitlos
+zeitnah
