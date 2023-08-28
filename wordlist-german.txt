@@ -5588,3 +5588,4 @@ Ziegel
 ziehen
 Ziehung
 Ziel
+zielen

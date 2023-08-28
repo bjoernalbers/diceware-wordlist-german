@@ -5588,3 +5588,4 @@ ziegel
 ziehen
 ziehung
 ziel
+zielen
