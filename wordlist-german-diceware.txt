@@ -5584,3 +5584,4 @@
 52614	zeug
 52615	zeuge
 52616	zeugnis
+52621	ziegel

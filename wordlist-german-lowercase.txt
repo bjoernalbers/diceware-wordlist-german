@@ -5584,3 +5584,4 @@ zettel
 zeug
 zeuge
 zeugnis
+ziegel
