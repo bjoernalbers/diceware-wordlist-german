@@ -5587,3 +5587,4 @@
 52621	ziegel
 52622	ziehen
 52623	ziehung
+52624	ziel
