@@ -5569,3 +5569,4 @@
 52551	zelt
 52552	zelten
 52553	zement
+52554	zen
