@@ -5575,3 +5575,4 @@
 52561	zentner
 52562	zentral
 52563	zentrum
+52564	zepter
