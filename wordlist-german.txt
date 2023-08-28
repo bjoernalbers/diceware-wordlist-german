@@ -5585,3 +5585,4 @@ Zeug
 Zeuge
 Zeugnis
 Ziegel
+ziehen
