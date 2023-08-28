@@ -5565,3 +5565,4 @@
 52543	zeitlos
 52544	zeitnah
 52545	zeitung
+52546	zelle
