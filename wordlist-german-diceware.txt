@@ -5564,3 +5564,4 @@
 52542	zeitig
 52543	zeitlos
 52544	zeitnah
+52545	zeitung

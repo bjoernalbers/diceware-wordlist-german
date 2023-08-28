@@ -5564,3 +5564,4 @@ Zeit
 zeitig
 zeitlos
 zeitnah
+Zeitung
