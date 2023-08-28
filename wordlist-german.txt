@@ -5579,3 +5579,4 @@ Zepter
 Zerfall
 zerren
 Zerrung
+zetern
