@@ -5567,3 +5567,4 @@ zeitnah
 Zeitung
 Zelle
 Zelt
+zelten

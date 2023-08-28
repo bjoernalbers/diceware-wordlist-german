@@ -5567,3 +5567,4 @@
 52545	zeitung
 52546	zelle
 52551	zelt
+52552	zelten
