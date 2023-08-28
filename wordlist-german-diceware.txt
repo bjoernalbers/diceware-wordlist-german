@@ -5583,3 +5583,4 @@
 52613	zettel
 52614	zeug
 52615	zeuge
+52616	zeugnis
