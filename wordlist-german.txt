@@ -5582,3 +5582,4 @@ Zerrung
 zetern
 Zettel
 Zeug
+Zeuge
