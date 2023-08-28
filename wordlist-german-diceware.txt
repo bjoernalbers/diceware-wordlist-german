@@ -5577,3 +5577,4 @@
 52563	zentrum
 52564	zepter
 52565	zerfall
+52566	zerren
