@@ -5598,3 +5598,4 @@ zigarre
 zigfach
 zimmer
 zimmern
+zimt

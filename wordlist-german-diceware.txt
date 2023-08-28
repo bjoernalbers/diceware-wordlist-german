@@ -5598,3 +5598,4 @@
 52636	zigfach
 52641	zimmer
 52642	zimmern
+52643	zimt
