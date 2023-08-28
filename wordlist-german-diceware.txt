@@ -5578,3 +5578,4 @@
 52564	zepter
 52565	zerfall
 52566	zerren
+52611	zerrung
