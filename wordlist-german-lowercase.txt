@@ -5596,3 +5596,4 @@ zieren
 ziffer
 zigarre
 zigfach
+zimmer
