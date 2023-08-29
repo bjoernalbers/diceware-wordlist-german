@@ -5635,3 +5635,4 @@ zugang
 zugeben
 zugegen
 zugriff
+zuhause

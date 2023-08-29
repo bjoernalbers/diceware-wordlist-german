@@ -5635,3 +5635,4 @@
 53141	zugeben
 53142	zugegen
 53143	zugriff
+53144	zuhause
