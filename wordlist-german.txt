@@ -5599,3 +5599,4 @@ zigfach
 Zimmer
 zimmern
 Zimt
+Zink
