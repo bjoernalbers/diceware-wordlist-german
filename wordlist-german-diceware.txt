@@ -5662,3 +5662,4 @@
 53224	zweig
 53225	zweirad
 53226	zweisam
+53231	zwicken
