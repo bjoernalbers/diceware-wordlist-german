@@ -5655,3 +5655,4 @@ zustand
 zutat
 zutritt
 zuwachs
+zwang

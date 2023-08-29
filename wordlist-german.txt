@@ -5655,3 +5655,4 @@ Zustand
 Zutat
 Zutritt
 Zuwachs
+Zwang

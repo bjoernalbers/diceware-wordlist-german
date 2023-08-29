@@ -5655,3 +5655,4 @@
 53213	zutat
 53214	zutritt
 53215	zuwachs
+53216	zwang
