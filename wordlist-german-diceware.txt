@@ -5656,3 +5656,4 @@
 53214	zutritt
 53215	zuwachs
 53216	zwang
+53221	zwanni
