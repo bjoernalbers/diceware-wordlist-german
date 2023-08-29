@@ -5633,3 +5633,4 @@ Zug
 Zugabe
 Zugang
 zugeben
+zugegen
