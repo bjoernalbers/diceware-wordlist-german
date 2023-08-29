@@ -5627,3 +5627,4 @@
 53125	zucht
 53126	zucken
 53131	zucker
+53132	zufahrt
