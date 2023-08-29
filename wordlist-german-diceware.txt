@@ -5653,3 +5653,4 @@
 53211	zusatz
 53212	zustand
 53213	zutat
+53214	zutritt
