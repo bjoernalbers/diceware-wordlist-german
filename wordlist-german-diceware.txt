@@ -5643,3 +5643,4 @@
 53153	zunahme
 53154	zunder
 53155	zunft
+53156	zunge
