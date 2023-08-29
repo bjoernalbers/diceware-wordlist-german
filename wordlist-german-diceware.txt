@@ -5639,3 +5639,4 @@
 53145	zukunft
 53146	zulage
 53151	zulauf
+53152	zumuten
