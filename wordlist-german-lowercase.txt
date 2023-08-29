@@ -5628,3 +5628,4 @@ zucht
 zucken
 zucker
 zufahrt
+zufall
