@@ -5622,3 +5622,4 @@
 53116	zoologe
 53121	zoom
 53122	zoomen
+53123	zopf
