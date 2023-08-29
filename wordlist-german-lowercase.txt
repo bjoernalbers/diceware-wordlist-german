@@ -5649,3 +5649,4 @@ zurren
 zuruf
 zurufen
 zusage
+zusagen
