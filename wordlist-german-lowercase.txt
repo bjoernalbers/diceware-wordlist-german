@@ -5630,3 +5630,4 @@ zucker
 zufahrt
 zufall
 zug
+zugabe
