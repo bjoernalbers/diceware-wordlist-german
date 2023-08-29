@@ -5640,3 +5640,4 @@ zukunft
 zulage
 zulauf
 zumuten
+zunahme

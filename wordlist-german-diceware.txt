@@ -5640,3 +5640,4 @@
 53146	zulage
 53151	zulauf
 53152	zumuten
+53153	zunahme
