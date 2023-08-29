@@ -5657,3 +5657,4 @@ Zutritt
 Zuwachs
 Zwang
 Zwanni
+Zweck

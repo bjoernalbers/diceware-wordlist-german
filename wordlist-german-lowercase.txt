@@ -5657,3 +5657,4 @@ zutritt
 zuwachs
 zwang
 zwanni
+zweck
