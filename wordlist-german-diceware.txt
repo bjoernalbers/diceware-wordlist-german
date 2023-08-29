@@ -5605,3 +5605,4 @@
 52651	zinslos
 52652	zipfel
 52653	zirkel
+52654	zirkus
