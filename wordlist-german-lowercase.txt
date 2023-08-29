@@ -5654,3 +5654,4 @@ zusatz
 zustand
 zutat
 zutritt
+zuwachs

@@ -5654,3 +5654,4 @@
 53212	zustand
 53213	zutat
 53214	zutritt
+53215	zuwachs
