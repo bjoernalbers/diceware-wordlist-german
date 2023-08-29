@@ -5629,3 +5629,4 @@
 53131	zucker
 53132	zufahrt
 53133	zufall
+53134	zug
