@@ -5669,3 +5669,4 @@
 53235	zwinger
 53236	zwirn
 53241	zyklop
+53242	zyklus
