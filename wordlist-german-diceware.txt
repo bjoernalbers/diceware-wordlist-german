@@ -5652,3 +5652,4 @@
 53166	zusagen
 53211	zusatz
 53212	zustand
+53213	zutat
