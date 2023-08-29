@@ -5648,3 +5648,4 @@ zupfen
 zurren
 Zuruf
 zurufen
+Zusage
