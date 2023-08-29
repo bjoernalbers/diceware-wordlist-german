@@ -5659,3 +5659,4 @@
 53221	zwanni
 53222	zweck
 53223	zweifel
+53224	zweig
