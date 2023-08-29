@@ -5665,3 +5665,4 @@
 53231	zwicken
 53232	zwiebel
 53233	zwinge
+53234	zwingen
