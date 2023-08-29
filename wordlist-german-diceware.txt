@@ -5600,3 +5600,4 @@
 52642	zimmern
 52643	zimt
 52644	zink
+52645	zinn
