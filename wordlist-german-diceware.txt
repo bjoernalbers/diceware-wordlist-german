@@ -5636,3 +5636,4 @@
 53142	zugegen
 53143	zugriff
 53144	zuhause
+53145	zukunft

@@ -5636,3 +5636,4 @@ zugeben
 zugegen
 Zugriff
 Zuhause
+Zukunft
