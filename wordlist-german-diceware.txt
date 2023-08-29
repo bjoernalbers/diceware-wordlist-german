@@ -5645,3 +5645,4 @@
 53155	zunft
 53156	zunge
 53161	zupfen
+53162	zurren
