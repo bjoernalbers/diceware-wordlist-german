@@ -5603,3 +5603,4 @@
 52645	zinn
 52646	zins
 52651	zinslos
+52652	zipfel
