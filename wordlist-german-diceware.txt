@@ -5614,3 +5614,4 @@
 52664	zivi
 52665	zivil
 52666	zoff
+53111	zoffen
