@@ -5670,3 +5670,4 @@
 53236	zwirn
 53241	zyklop
 53242	zyklus
+53243	zynisch
