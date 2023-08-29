@@ -5626,3 +5626,4 @@
 53124	zubrot
 53125	zucht
 53126	zucken
+53131	zucker
