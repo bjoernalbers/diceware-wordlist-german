@@ -5638,3 +5638,4 @@
 53144	zuhause
 53145	zukunft
 53146	zulage
+53151	zulauf
