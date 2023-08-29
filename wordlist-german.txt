@@ -5651,3 +5651,4 @@ zurufen
 Zusage
 zusagen
 Zusatz
+Zustand
