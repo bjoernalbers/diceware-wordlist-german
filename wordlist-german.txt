@@ -5604,3 +5604,4 @@ Zinn
 Zins
 zinslos
 Zipfel
+Zirkel

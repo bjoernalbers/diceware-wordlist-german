@@ -5604,3 +5604,4 @@
 52646	zins
 52651	zinslos
 52652	zipfel
+52653	zirkel
