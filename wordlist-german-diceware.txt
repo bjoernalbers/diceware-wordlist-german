@@ -5637,3 +5637,4 @@
 53143	zugriff
 53144	zuhause
 53145	zukunft
+53146	zulage
