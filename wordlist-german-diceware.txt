@@ -5666,3 +5666,4 @@
 53232	zwiebel
 53233	zwinge
 53234	zwingen
+53235	zwinger
