@@ -5641,3 +5641,4 @@
 53151	zulauf
 53152	zumuten
 53153	zunahme
+53154	zunder

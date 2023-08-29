@@ -5641,3 +5641,4 @@ zulage
 zulauf
 zumuten
 zunahme
+zunder
