@@ -5631,3 +5631,4 @@
 53133	zufall
 53134	zug
 53135	zugabe
+53136	zugang

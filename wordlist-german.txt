@@ -5631,3 +5631,4 @@ Zufahrt
 Zufall
 Zug
 Zugabe
+Zugang
