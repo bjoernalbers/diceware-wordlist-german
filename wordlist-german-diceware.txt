@@ -5602,3 +5602,4 @@
 52644	zink
 52645	zinn
 52646	zins
+52651	zinslos

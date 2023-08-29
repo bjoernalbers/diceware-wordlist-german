@@ -5602,3 +5602,4 @@ zimt
 zink
 zinn
 zins
+zinslos
