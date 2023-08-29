@@ -5624,3 +5624,4 @@
 53122	zoomen
 53123	zopf
 53124	zubrot
+53125	zucht

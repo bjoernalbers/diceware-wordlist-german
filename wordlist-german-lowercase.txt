@@ -5624,3 +5624,4 @@ zoom
 zoomen
 zopf
 zubrot
+zucht
