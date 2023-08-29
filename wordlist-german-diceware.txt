@@ -5607,3 +5607,4 @@
 52653	zirkel
 52654	zirkus
 52655	zirpen
+52656	zischen
