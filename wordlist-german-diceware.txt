@@ -5646,3 +5646,4 @@
 53156	zunge
 53161	zupfen
 53162	zurren
+53163	zuruf
