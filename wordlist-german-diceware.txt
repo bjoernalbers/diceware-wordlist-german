@@ -5650,3 +5650,4 @@
 53164	zurufen
 53165	zusage
 53166	zusagen
+53211	zusatz
