@@ -5613,3 +5613,4 @@
 52663	zittern
 52664	zivi
 52665	zivil
+52666	zoff
