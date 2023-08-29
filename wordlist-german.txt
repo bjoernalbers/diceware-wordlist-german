@@ -5632,3 +5632,4 @@ Zufall
 Zug
 Zugabe
 Zugang
+zugeben

@@ -5632,3 +5632,4 @@
 53134	zug
 53135	zugabe
 53136	zugang
+53141	zugeben
