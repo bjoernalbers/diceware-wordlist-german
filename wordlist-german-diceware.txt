@@ -5660,3 +5660,4 @@
 53222	zweck
 53223	zweifel
 53224	zweig
+53225	zweirad
