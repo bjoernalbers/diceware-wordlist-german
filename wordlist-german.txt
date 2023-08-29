@@ -5625,3 +5625,4 @@ zoomen
 Zopf
 Zubrot
 Zucht
+zucken

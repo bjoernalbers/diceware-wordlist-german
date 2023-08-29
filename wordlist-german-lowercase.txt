@@ -5625,3 +5625,4 @@ zoomen
 zopf
 zubrot
 zucht
+zucken
