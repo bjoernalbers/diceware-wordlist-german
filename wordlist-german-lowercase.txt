@@ -19,6 +19,7 @@ abends
 abfahren
 abfahrt
 abfallen
+abfangen
 abflug
 abfluss
 abfolge
