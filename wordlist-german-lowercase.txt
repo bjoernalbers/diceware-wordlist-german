@@ -6,6 +6,7 @@ abbilden
 abbinden
 abblasen
 abbruch
+abbuchen
 abc
 abdomen
 abdruck
