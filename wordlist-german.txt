@@ -8,6 +8,7 @@ abblasen
 Abbruch
 abbuchen
 Abc
+abdecken
 Abdomen
 Abdruck
 Abend
