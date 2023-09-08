@@ -50,6 +50,7 @@ abhetzen
 Abhilfe
 abholen
 Abholer
+Abholung
 Abi
 Abitur
 abladen
