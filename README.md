@@ -4,12 +4,13 @@
 
 ## Wait a minute, what are passphrases anyway?
 
-A [Passphrase](https://en.wikipedia.org/wiki/Passphrase) is a passwords made
+A [Passphrase](https://en.wikipedia.org/wiki/Passphrase) is a password made
 up of multiple words, such as:
 
     correct horse battery staple
 
-This makes them easy to remember (for you) and hard to guess (for others):
+Passphrases are excellent passwords because they are easy to remember (for you)
+and hard to guess (for others):
 
 [![xkcd: Password Strength](https://imgs.xkcd.com/comics/password_strength.png "xkcd: Password Strength")](https://xkcd.com/936)
 
