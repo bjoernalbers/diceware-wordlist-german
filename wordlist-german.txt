@@ -22,6 +22,7 @@ abfallen
 abfangen
 abfedern
 abfeiern
+abfetzen
 Abflug
 Abfluss
 Abfolge
