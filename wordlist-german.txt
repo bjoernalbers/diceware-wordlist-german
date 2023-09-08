@@ -46,6 +46,7 @@ abheben
 abheften
 abheilen
 abhelfen
+abhetzen
 Abhilfe
 abholen
 Abholer
