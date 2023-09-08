@@ -29,6 +29,7 @@ abflug
 abfluss
 abfolge
 abfrage
+abfragen
 abfuhr
 abgabe
 abgas
