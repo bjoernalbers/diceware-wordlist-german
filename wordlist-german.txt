@@ -9,6 +9,7 @@ Abbruch
 abbuchen
 Abc
 abdecken
+abdocken
 Abdomen
 Abdruck
 Abend
