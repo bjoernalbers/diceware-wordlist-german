@@ -4,6 +4,7 @@ abbiegen
 abbild
 abbilden
 abbinden
+abblasen
 abbruch
 abc
 abdomen
