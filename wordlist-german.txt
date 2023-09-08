@@ -16,6 +16,7 @@ Abdruck
 Abend
 Abendrot
 abends
+abfahren
 Abfahrt
 Abflug
 Abfluss
