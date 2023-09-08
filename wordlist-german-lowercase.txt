@@ -35,6 +35,7 @@ abgabe
 abgas
 abgeben
 abgehen
+abgleich
 abgrund
 abhaken
 abhang
