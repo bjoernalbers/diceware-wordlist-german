@@ -36,7 +36,7 @@ Each word has been manually checked to be familiar and office-friendly
 (not vulgar, offensive, religious or with negative connotations).
 The words also meet these formal conditions:
 
-- 3 to 7 characters long
+- 3 to 8 characters long
 - contains english letters only (no german special characters like umlauts)
 - a known noun, verb or adjective in its basic form
 
