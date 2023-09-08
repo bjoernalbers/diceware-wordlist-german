@@ -18,6 +18,7 @@ abendrot
 abends
 abfahren
 abfahrt
+abfallen
 abflug
 abfluss
 abfolge
