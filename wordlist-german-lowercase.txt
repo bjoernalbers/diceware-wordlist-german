@@ -21,6 +21,7 @@ abfahrt
 abfallen
 abfangen
 abfedern
+abfeiern
 abflug
 abfluss
 abfolge
