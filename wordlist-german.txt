@@ -583,6 +583,7 @@ Aura
 Aus
 ausarten
 ausatmen
+ausbauen
 Ausfall
 Ausflug
 Ausgabe
