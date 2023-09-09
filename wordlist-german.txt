@@ -139,6 +139,7 @@ Abtrag
 abtragen
 abtreten
 Abtreter
+abwarten
 Abwasch
 abwegig
 Abwehr
