@@ -414,6 +414,7 @@ Anschub
 Ansicht
 ansparen
 Ansporn
+Anspruch
 Anstand
 Anstieg
 Anteil
