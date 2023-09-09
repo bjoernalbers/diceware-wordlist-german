@@ -151,6 +151,7 @@ abwerben
 abwesend
 abwetzen
 abwiegen
+abwinken
 abzug
 abzweig
 account
