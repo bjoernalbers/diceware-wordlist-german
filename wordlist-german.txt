@@ -83,6 +83,7 @@ abpacken
 abpassen
 Abpfiff
 abpumpen
+abraffen
 abraten
 abregen
 Abreise
