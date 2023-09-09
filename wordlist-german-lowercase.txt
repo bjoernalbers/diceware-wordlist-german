@@ -183,6 +183,7 @@ adjektiv
 adler
 admin
 adoption
+adressat
 adresse
 adrett
 adverb
