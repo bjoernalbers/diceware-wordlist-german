@@ -547,6 +547,7 @@ aufholen
 aufladen
 auflage
 auflauf
+auflegen
 aufruf
 aufsatz
 auftakt
