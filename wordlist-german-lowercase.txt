@@ -367,6 +367,7 @@ anleinen
 anleiten
 anlernen
 anlesen
+anliegen
 anmalen
 anmutig
 annahme
