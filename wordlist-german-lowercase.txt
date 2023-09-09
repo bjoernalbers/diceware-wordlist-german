@@ -386,6 +386,7 @@ anonymus
 anorak
 anordnen
 anpacken
+anpassen
 anpfiff
 anprobe
 anrecht
