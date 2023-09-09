@@ -612,6 +612,7 @@ auslese
 auslesen
 auslosen
 ausloten
+ausmalen
 auspuff
 ausruf
 aussage
