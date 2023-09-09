@@ -87,6 +87,7 @@ abraffen
 abraten
 abregen
 Abreise
+abreisen
 Abrieb
 Abriss
 Abruf
