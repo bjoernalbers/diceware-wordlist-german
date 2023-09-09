@@ -525,6 +525,7 @@ atomkern
 atomuhr
 attest
 attrappe
+attribut
 audienz
 audit
 auditor
