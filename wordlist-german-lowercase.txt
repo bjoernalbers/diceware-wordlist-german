@@ -124,6 +124,7 @@ absolut
 abspann
 absprung
 abstand
+absteige
 abstieg
 absturz
 absurd
