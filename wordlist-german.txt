@@ -102,6 +102,7 @@ absacken
 Absacker
 Absage
 absagen
+absahnen
 Absatz
 absehen
 Abseits
