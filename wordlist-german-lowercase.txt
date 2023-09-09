@@ -276,6 +276,7 @@ ampel
 ampulle
 amsel
 amt
+amtieren
 amulett
 anaerob
 analog
