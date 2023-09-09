@@ -351,6 +351,7 @@ ankern
 anketten
 ankleben
 anknoten
+ankokeln
 ankunft
 anlage
 anlass
