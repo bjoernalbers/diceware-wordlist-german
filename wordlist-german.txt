@@ -348,6 +348,7 @@ ankarren
 ankaufen
 Anker
 ankern
+anketten
 Ankunft
 Anlage
 Anlass
