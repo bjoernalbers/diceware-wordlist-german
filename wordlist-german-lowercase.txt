@@ -417,6 +417,7 @@ ansporn
 anspruch
 anstand
 anstauen
+anstehen
 anstieg
 anteil
 antenne
