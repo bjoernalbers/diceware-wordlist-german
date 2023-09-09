@@ -154,6 +154,7 @@ abwiegen
 abwinken
 abzahlen
 abzapfen
+abziehen
 Abzug
 Abzweig
 Account
