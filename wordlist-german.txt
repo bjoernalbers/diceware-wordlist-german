@@ -387,6 +387,7 @@ Anorak
 anordnen
 anpacken
 anpassen
+anpeilen
 Anpfiff
 Anprobe
 Anrecht
