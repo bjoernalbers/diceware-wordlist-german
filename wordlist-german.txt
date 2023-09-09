@@ -620,6 +620,7 @@ Ausruf
 ausrufen
 ausruhen
 Aussage
+aussagen
 Auster
 Auswahl
 Ausweg
