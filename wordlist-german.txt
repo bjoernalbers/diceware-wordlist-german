@@ -421,6 +421,7 @@ anstehen
 Anstieg
 Anstrich
 Anteil
+anteilig
 Antenne
 Antidot
 antik
