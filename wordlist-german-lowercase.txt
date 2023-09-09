@@ -610,6 +610,7 @@ auslauf
 auslegen
 auslese
 auslesen
+auslosen
 auspuff
 ausruf
 aussage
