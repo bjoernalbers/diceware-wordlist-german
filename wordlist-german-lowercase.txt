@@ -219,6 +219,7 @@ akte
 aktie
 aktion
 aktiv
+aktivist
 aktuell
 akustik
 akut

@@ -219,6 +219,7 @@ Akte
 Aktie
 Aktion
 aktiv
+Aktivist
 aktuell
 Akustik
 akut
