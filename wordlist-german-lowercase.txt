@@ -55,6 +55,7 @@ abi
 abifeier
 abitur
 abkleben
+abkochen
 abladen
 ablage
 ablauf
