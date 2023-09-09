@@ -377,6 +377,7 @@ anmieten
 anmutig
 annageln
 Annahme
+annehmen
 Annonce
 Anode
 anonym
