@@ -321,6 +321,7 @@ anfassen
 anfeuern
 anflehen
 Anfrage
+anfragen
 Angabe
 Angebot
 angehen
