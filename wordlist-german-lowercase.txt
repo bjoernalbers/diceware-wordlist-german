@@ -350,6 +350,7 @@ anker
 ankern
 anketten
 anklage
+anklagen
 ankleben
 anknoten
 ankokeln
