@@ -136,6 +136,7 @@ abtauen
 abteil
 abtippen
 abtrag
+abtragen
 abwasch
 abwegig
 abwehr
