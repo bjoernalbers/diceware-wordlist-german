@@ -196,6 +196,7 @@ agave
 agenda
 agent
 agentur
+aggregat
 agieren
 agil
 ahnen
