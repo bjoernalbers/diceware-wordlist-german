@@ -261,6 +261,7 @@ Altstadt
 Altwagen
 Alu
 Alufelge
+Alufolie
 Amalgam
 Amarant
 Amboss

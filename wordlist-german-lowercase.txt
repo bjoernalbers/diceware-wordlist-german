@@ -261,6 +261,7 @@ altstadt
 altwagen
 alu
 alufelge
+alufolie
 amalgam
 amarant
 amboss
