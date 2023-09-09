@@ -641,6 +641,7 @@ autodach
 autofrei
 autogen
 autohaus
+autokino
 automat
 autonom
 autor
