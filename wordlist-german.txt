@@ -134,6 +134,7 @@ abtanzen
 abtasten
 abtauen
 Abteil
+abtippen
 Abtrag
 Abwasch
 abwegig
