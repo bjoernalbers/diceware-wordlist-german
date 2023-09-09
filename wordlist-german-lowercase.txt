@@ -350,6 +350,7 @@ anker
 ankern
 anketten
 ankleben
+anknoten
 ankunft
 anlage
 anlass
