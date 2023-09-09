@@ -689,6 +689,7 @@ bahncard
 bahnhof
 bahnnetz
 bahre
+bakterie
 balance
 balgen
 balken

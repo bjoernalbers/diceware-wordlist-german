@@ -689,6 +689,7 @@ Bahncard
 Bahnhof
 Bahnnetz
 Bahre
+Bakterie
 Balance
 balgen
 Balken
