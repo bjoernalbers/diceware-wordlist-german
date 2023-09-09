@@ -96,6 +96,7 @@ Abruf
 abrufbar
 abrufen
 abrunden
+abrupfen
 abrupt
 Absage
 absagen
