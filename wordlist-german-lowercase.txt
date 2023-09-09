@@ -621,6 +621,7 @@ ausrufen
 ausruhen
 aussage
 aussagen
+ausschau
 auster
 auswahl
 ausweg

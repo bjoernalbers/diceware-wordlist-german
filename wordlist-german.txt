@@ -621,6 +621,7 @@ ausrufen
 ausruhen
 Aussage
 aussagen
+Ausschau
 Auster
 Auswahl
 Ausweg
