@@ -568,6 +568,7 @@ auftakt
 auftauen
 auftrag
 auftrieb
+auftritt
 aufwand
 aufzug
 auge
