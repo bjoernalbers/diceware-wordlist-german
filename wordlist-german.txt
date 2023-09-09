@@ -316,6 +316,7 @@ Anekdote
 Anemone
 Anfahrt
 Anfang
+anfangen
 Anfrage
 Angabe
 Angebot

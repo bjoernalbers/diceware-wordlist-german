@@ -316,6 +316,7 @@ anekdote
 anemone
 anfahrt
 anfang
+anfangen
 anfrage
 angabe
 angebot
