@@ -521,6 +521,7 @@ Atmung
 Atoll
 Atom
 atomar
+Atomkern
 Atomuhr
 Attest
 Audienz
