@@ -609,6 +609,7 @@ ausland
 auslauf
 auslegen
 auslese
+auslesen
 auspuff
 ausruf
 aussage

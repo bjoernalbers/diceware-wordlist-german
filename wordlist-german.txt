@@ -609,6 +609,7 @@ Ausland
 Auslauf
 auslegen
 Auslese
+auslesen
 Auspuff
 Ausruf
 Aussage
