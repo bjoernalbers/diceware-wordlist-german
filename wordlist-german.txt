@@ -52,6 +52,7 @@ abholen
 Abholer
 Abholung
 Abi
+Abifeier
 Abitur
 abladen
 Ablage
