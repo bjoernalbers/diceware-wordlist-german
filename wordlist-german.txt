@@ -114,6 +114,7 @@ abseilen
 Abseits
 absenden
 Absender
+absenken
 Absicht
 Absinth
 absolut
