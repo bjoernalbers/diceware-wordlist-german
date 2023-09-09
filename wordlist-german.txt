@@ -105,6 +105,7 @@ absagen
 absahnen
 Absatz
 Abschied
+Abschlag
 absehen
 Abseits
 Absicht
