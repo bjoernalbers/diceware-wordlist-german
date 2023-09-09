@@ -536,6 +536,7 @@ aufbruch
 aufdruck
 aufessen
 auffahrt
+auffegen
 aufgabe
 aufguss
 auflage
