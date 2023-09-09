@@ -352,6 +352,7 @@ anketten
 ankleben
 anknoten
 ankokeln
+ankommen
 Ankunft
 Anlage
 Anlass
