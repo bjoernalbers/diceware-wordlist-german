@@ -174,6 +174,7 @@ Ackerbau
 ackern
 Acryl
 Adapter
+addieren
 Additiv
 Adel
 adelig
