@@ -594,6 +594,7 @@ ausfall
 ausflug
 ausgabe
 ausgang
+ausgeben
 ausguck
 ausguss
 aushang
