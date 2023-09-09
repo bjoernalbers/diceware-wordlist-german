@@ -74,6 +74,7 @@ abmalen
 abmelden
 abmessen
 abnahme
+abnehmer
 abo
 abpfiff
 abraten
