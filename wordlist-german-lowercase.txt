@@ -553,6 +553,7 @@ aufmalen
 aufnahme
 aufprall
 aufpreis
+aufregen
 aufruf
 aufsatz
 auftakt
