@@ -679,6 +679,7 @@ Badehose
 Bademode
 baden
 Badesalz
+Badetuch
 baff
 Bagel
 Bagger
