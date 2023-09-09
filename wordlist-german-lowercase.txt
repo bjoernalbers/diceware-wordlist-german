@@ -607,6 +607,7 @@ ausladen
 auslage
 ausland
 auslauf
+auslegen
 auslese
 auspuff
 ausruf

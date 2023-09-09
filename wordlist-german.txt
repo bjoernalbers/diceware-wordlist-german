@@ -607,6 +607,7 @@ ausladen
 Auslage
 Ausland
 Auslauf
+auslegen
 Auslese
 Auspuff
 Ausruf
