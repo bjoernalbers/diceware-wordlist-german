@@ -560,6 +560,7 @@ aufsagen
 Aufsatz
 Aufschub
 Aufsehen
+Aufseher
 Auftakt
 Auftrag
 Aufwand
