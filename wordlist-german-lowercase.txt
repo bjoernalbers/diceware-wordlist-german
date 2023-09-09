@@ -255,6 +255,7 @@ alraune
 alster
 altbau
 altbier
+altertum
 altglas
 alu
 amalgam
