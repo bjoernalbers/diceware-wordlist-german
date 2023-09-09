@@ -257,6 +257,7 @@ Altbau
 Altbier
 Altertum
 Altglas
+Altstadt
 Alu
 Amalgam
 Amarant
