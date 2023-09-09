@@ -441,6 +441,7 @@ anwesen
 anwesend
 anwohner
 anzahl
+anzahlen
 anzeige
 anzug
 apfel
