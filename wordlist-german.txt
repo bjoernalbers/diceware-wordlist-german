@@ -79,6 +79,7 @@ abnicken
 abnutzen
 Abo
 Abonnent
+abpacken
 Abpfiff
 abraten
 abregen
