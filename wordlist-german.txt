@@ -340,6 +340,7 @@ Anhang
 anheben
 Anhebung
 anheften
+anheizen
 Anime
 Anis
 Anker
