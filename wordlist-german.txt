@@ -628,6 +628,7 @@ Ausstand
 Ausstieg
 Auster
 austoben
+Austritt
 Auswahl
 Ausweg
 Ausweis
