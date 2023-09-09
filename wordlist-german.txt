@@ -63,6 +63,7 @@ Ablauf
 ablegen
 Ableger
 ablehnen
+ableiten
 ablesen
 Abluft
 abmalen
