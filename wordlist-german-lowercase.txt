@@ -369,6 +369,7 @@ anlernen
 anlesen
 anliegen
 anlieger
+anlocken
 anmalen
 anmutig
 annahme
