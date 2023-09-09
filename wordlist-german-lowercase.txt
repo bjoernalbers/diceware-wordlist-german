@@ -561,6 +561,7 @@ aufsatz
 aufschub
 aufsehen
 aufseher
+aufsicht
 auftakt
 auftrag
 aufwand
