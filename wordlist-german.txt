@@ -433,6 +433,7 @@ Antrieb
 Antwort
 Anwalt
 anweisen
+Anweiser
 Anwesen
 Anzahl
 Anzeige
