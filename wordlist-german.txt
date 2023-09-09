@@ -93,6 +93,7 @@ Abriss
 abrollen
 Abroller
 Abruf
+abrufbar
 abrufen
 abrupt
 Absage

@@ -93,6 +93,7 @@ abriss
 abrollen
 abroller
 abruf
+abrufbar
 abrufen
 abrupt
 absage
