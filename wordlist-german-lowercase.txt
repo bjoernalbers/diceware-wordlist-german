@@ -146,6 +146,7 @@ abwegig
 abwehr
 abwehren
 abweisen
+abwenden
 abzug
 abzweig
 account
