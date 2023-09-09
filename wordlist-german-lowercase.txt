@@ -584,6 +584,7 @@ aus
 ausarten
 ausatmen
 ausbauen
+ausbeute
 ausfall
 ausflug
 ausgabe
