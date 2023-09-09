@@ -278,6 +278,7 @@ amsel
 amt
 amtieren
 amtsadel
+amtszeit
 amulett
 anaerob
 analog
