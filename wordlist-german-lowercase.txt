@@ -69,6 +69,7 @@ ablesbar
 ablesen
 ablesung
 abluft
+abmachen
 abmalen
 abnahme
 abo
