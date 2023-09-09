@@ -504,6 +504,7 @@ ass
 ast
 asta
 asteroid
+astgabel
 astloch
 astral
 astrein
