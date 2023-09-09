@@ -538,6 +538,7 @@ aufessen
 auffahrt
 auffegen
 aufgabe
+aufgeben
 aufguss
 auflage
 auflauf
