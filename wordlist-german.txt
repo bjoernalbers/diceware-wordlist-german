@@ -389,6 +389,7 @@ anpacken
 anpassen
 anpeilen
 Anpfiff
+anpinnen
 Anprobe
 Anrecht
 Anrede
