@@ -638,6 +638,7 @@ autark
 Auto
 Autobahn
 Autodach
+autofrei
 autogen
 Automat
 autonom
