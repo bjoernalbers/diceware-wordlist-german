@@ -565,6 +565,7 @@ aufsicht
 aufstand
 aufstieg
 auftakt
+auftauen
 auftrag
 aufwand
 aufzug

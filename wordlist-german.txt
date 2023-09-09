@@ -565,6 +565,7 @@ Aufsicht
 Aufstand
 Aufstieg
 Auftakt
+auftauen
 Auftrag
 Aufwand
 Aufzug
