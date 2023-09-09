@@ -582,6 +582,7 @@ Aula
 Aura
 Aus
 ausarten
+ausatmen
 Ausfall
 Ausflug
 Ausgabe
