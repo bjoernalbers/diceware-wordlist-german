@@ -372,6 +372,7 @@ Anlieger
 anlocken
 anmalen
 anmelden
+anmerken
 anmutig
 Annahme
 Annonce
