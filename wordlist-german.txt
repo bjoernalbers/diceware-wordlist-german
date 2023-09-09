@@ -508,6 +508,7 @@ Astgabel
 Astloch
 astral
 astrein
+Astronom
 Atelier
 Atem
 atemlos
