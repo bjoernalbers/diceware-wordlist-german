@@ -447,6 +447,7 @@ Anzeige
 anzeigen
 anziehen
 Anzug
+Aperitif
 Apfel
 App
 Apparat
