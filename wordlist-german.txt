@@ -281,6 +281,7 @@ Amtsadel
 Amtszeit
 Amulett
 anaerob
+Anakonda
 analog
 Analyse
 Analyst
