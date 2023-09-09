@@ -260,6 +260,7 @@ Altglas
 Altstadt
 Altwagen
 Alu
+Alufelge
 Amalgam
 Amarant
 Amboss

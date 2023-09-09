@@ -260,6 +260,7 @@ altglas
 altstadt
 altwagen
 alu
+alufelge
 amalgam
 amarant
 amboss
