@@ -623,6 +623,7 @@ aussage
 aussagen
 ausschau
 aussehen
+aussicht
 auster
 auswahl
 ausweg
