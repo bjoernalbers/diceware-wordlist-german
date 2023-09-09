@@ -439,6 +439,7 @@ Anwender
 anwerben
 Anwesen
 anwesend
+Anwohner
 Anzahl
 Anzeige
 Anzug
