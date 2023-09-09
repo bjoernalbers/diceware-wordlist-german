@@ -361,6 +361,7 @@ anlasser
 anlauf
 anlegen
 anleger
+anlehnen
 anleihe
 anlesen
 anmalen
