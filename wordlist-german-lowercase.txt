@@ -595,6 +595,7 @@ ausflug
 ausgabe
 ausgang
 ausgeben
+ausgehen
 ausguck
 ausguss
 aushang
