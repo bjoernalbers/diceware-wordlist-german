@@ -283,6 +283,7 @@ amulett
 anaerob
 anakonda
 analog
+analogie
 analyse
 analyst
 ananas

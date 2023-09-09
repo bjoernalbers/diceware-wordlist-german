@@ -283,6 +283,7 @@ Amulett
 anaerob
 Anakonda
 analog
+Analogie
 Analyse
 Analyst
 Ananas
