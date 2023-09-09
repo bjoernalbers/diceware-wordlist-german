@@ -442,6 +442,7 @@ anwesend
 anwohner
 anzahl
 anzahlen
+anzapfen
 anzeige
 anzug
 apfel
