@@ -556,6 +556,7 @@ Aufpreis
 aufregen
 Aufruf
 aufrufen
+aufsagen
 Aufsatz
 Auftakt
 Auftrag
