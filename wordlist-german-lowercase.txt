@@ -544,6 +544,7 @@ aufgehen
 aufguss
 aufheben
 aufholen
+aufladen
 auflage
 auflauf
 aufruf
