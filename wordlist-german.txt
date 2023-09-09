@@ -543,6 +543,7 @@ Aufgebot
 aufgehen
 Aufguss
 aufheben
+aufholen
 Auflage
 Auflauf
 Aufruf
