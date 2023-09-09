@@ -126,6 +126,7 @@ Absprung
 Abstand
 Absteige
 Abstieg
+abstrakt
 Absturz
 absurd
 abtauen
