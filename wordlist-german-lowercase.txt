@@ -550,6 +550,7 @@ auflauf
 auflegen
 auflesen
 aufmalen
+aufnahme
 aufruf
 aufsatz
 auftakt
