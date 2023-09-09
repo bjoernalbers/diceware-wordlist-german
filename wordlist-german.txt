@@ -693,6 +693,7 @@ Bakterie
 Balance
 Baldrian
 balgen
+Balgerei
 Balken
 Balkon
 Ball
