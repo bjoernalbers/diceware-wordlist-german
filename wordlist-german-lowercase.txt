@@ -486,6 +486,7 @@ arnika
 aroma
 arrest
 art
+artefakt
 artig
 artikel
 artist
