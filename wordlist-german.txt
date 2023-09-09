@@ -54,6 +54,7 @@ Abholung
 Abi
 Abifeier
 Abitur
+abkleben
 abladen
 Ablage
 Ablauf
