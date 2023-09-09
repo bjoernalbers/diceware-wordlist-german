@@ -599,6 +599,7 @@ ausgehen
 ausguck
 ausguss
 aushang
+ausheben
 auslage
 ausland
 auslauf
