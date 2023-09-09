@@ -240,6 +240,7 @@ Alkohol
 All
 alle
 Allee
+Allergie
 Allianz
 Allrad
 Alltag

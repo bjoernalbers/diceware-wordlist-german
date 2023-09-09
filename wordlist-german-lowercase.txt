@@ -240,6 +240,7 @@ alkohol
 all
 alle
 allee
+allergie
 allianz
 allrad
 alltag
