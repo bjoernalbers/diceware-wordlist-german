@@ -141,6 +141,7 @@ abtreten
 abtreter
 abwarten
 abwasch
+abwasser
 abwegig
 abwehr
 abzug
