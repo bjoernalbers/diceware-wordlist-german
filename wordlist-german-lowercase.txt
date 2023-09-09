@@ -107,6 +107,7 @@ absatz
 abschied
 abschlag
 absegnen
+absehbar
 absehen
 abseits
 absicht
