@@ -271,6 +271,7 @@ Amboss
 ambulant
 Ambulanz
 Ameise
+Ammoniak
 Ampel
 Ampulle
 Amsel

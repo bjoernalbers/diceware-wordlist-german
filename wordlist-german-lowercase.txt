@@ -271,6 +271,7 @@ amboss
 ambulant
 ambulanz
 ameise
+ammoniak
 ampel
 ampulle
 amsel
