@@ -412,6 +412,7 @@ ansatz
 anschein
 anschub
 ansicht
+ansparen
 ansporn
 anstand
 anstieg
