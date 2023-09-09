@@ -207,6 +207,7 @@ Airbag
 Airbrush
 Airline
 Airport
+Akademie
 Akazie
 Akkord
 Akku

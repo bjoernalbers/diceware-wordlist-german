@@ -207,6 +207,7 @@ airbag
 airbrush
 airline
 airport
+akademie
 akazie
 akkord
 akku
