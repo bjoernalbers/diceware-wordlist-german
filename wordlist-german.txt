@@ -76,6 +76,7 @@ abmessen
 Abnahme
 Abnehmer
 abnicken
+abnutzen
 Abo
 Abpfiff
 abraten
