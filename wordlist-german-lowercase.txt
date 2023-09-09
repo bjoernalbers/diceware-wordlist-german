@@ -145,6 +145,7 @@ abwasser
 abwegig
 abwehr
 abwehren
+abweisen
 abzug
 abzweig
 account
