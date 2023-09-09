@@ -611,6 +611,7 @@ auslegen
 Auslese
 auslesen
 auslosen
+ausloten
 Auspuff
 Ausruf
 Aussage
