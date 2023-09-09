@@ -449,6 +449,7 @@ anziehen
 Anzug
 Aperitif
 Apfel
+Apfelmus
 App
 Apparat
 Appell
