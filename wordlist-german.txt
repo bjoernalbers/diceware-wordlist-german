@@ -534,6 +534,7 @@ Aufbau
 aufbauen
 Aufbruch
 Aufdruck
+aufessen
 Aufgabe
 Aufguss
 Auflage
