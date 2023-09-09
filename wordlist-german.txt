@@ -602,6 +602,7 @@ Aushang
 ausheben
 Aushilfe
 ausholen
+Auskunft
 Auslage
 Ausland
 Auslauf
