@@ -685,6 +685,7 @@ baff
 bagel
 bagger
 bahn
+bahncard
 bahnhof
 bahre
 balance

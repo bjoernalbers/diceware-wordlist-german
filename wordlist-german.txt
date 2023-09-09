@@ -685,6 +685,7 @@ baff
 Bagel
 Bagger
 Bahn
+Bahncard
 Bahnhof
 Bahre
 Balance
