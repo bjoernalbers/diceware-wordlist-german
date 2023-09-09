@@ -62,6 +62,7 @@ Ablage
 Ablauf
 ablegen
 Ableger
+ablehnen
 ablesen
 Abluft
 abmalen
