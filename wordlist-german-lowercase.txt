@@ -618,6 +618,7 @@ auspuff
 ausreise
 ausruf
 ausrufen
+ausruhen
 aussage
 auster
 auswahl
