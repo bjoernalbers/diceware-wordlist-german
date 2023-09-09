@@ -452,6 +452,7 @@ anzug
 aperitif
 apfel
 apfelmus
+apotheke
 app
 apparat
 appell

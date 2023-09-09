@@ -452,6 +452,7 @@ Anzug
 Aperitif
 Apfel
 Apfelmus
+Apotheke
 App
 Apparat
 Appell
