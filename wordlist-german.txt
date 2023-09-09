@@ -363,6 +363,7 @@ anlegen
 Anleger
 anlehnen
 Anleihe
+anleinen
 anlesen
 anmalen
 anmutig
