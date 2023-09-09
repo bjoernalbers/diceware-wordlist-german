@@ -589,6 +589,7 @@ ausblick
 ausbruch
 ausdauer
 ausdruck
+ausfahrt
 ausfall
 ausflug
 ausgabe
