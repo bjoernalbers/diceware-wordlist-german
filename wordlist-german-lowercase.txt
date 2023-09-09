@@ -319,6 +319,7 @@ anfang
 anfangen
 anfassen
 anfeuern
+anflehen
 anfrage
 angabe
 angebot
