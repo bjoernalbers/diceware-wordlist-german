@@ -432,6 +432,7 @@ antrag
 antrieb
 antwort
 anwalt
+anweisen
 anwesen
 anzahl
 anzeige
