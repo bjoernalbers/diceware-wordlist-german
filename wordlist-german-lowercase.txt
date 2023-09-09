@@ -624,6 +624,7 @@ aussagen
 ausschau
 aussehen
 aussicht
+ausstand
 auster
 auswahl
 ausweg
