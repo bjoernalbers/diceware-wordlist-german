@@ -540,6 +540,7 @@ auffegen
 Aufgabe
 aufgeben
 Aufgebot
+aufgehen
 Aufguss
 Auflage
 Auflauf
