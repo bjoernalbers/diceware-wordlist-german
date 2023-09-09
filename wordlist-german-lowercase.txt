@@ -138,6 +138,7 @@ abtippen
 abtrag
 abtragen
 abtreten
+abtreter
 abwasch
 abwegig
 abwehr
