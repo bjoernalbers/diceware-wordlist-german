@@ -675,6 +675,7 @@ bacon
 bad
 badeente
 badegast
+badehose
 baden
 baff
 bagel
