@@ -78,6 +78,7 @@ Abnehmer
 abnicken
 abnutzen
 Abo
+Abonnent
 Abpfiff
 abraten
 abregen
