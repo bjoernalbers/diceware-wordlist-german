@@ -555,6 +555,7 @@ aufprall
 aufpreis
 aufregen
 aufruf
+aufrufen
 aufsatz
 auftakt
 auftrag
