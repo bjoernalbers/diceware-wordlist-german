@@ -393,6 +393,7 @@ anpinnen
 Anprobe
 anpumpen
 anpusten
+anrauhen
 Anrecht
 Anrede
 anregen
