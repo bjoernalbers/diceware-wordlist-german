@@ -636,6 +636,7 @@ ausweis
 auszeit
 autark
 auto
+autobahn
 autogen
 automat
 autonom
