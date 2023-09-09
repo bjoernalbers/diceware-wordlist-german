@@ -65,6 +65,7 @@ Ableger
 ablehnen
 ableiten
 ablenken
+ablesbar
 ablesen
 Abluft
 abmalen
