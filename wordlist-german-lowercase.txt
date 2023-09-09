@@ -90,6 +90,7 @@ abreise
 abreisen
 abrieb
 abriss
+abrollen
 abruf
 abrufen
 abrupt
