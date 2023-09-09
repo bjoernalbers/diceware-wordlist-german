@@ -627,6 +627,7 @@ Aussicht
 Ausstand
 Ausstieg
 Auster
+austoben
 Auswahl
 Ausweg
 Ausweis

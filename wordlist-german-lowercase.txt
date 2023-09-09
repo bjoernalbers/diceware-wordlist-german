@@ -627,6 +627,7 @@ aussicht
 ausstand
 ausstieg
 auster
+austoben
 auswahl
 ausweg
 ausweis
