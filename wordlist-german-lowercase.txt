@@ -317,6 +317,7 @@ anemone
 anfahrt
 anfang
 anfangen
+anfassen
 anfrage
 angabe
 angebot
