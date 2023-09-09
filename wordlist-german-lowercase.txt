@@ -419,6 +419,7 @@ anstand
 anstauen
 anstehen
 anstieg
+anstrich
 anteil
 antenne
 antidot
