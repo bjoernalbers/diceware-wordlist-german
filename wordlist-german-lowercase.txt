@@ -304,6 +304,7 @@ anblick
 anbohren
 anbraten
 anchovis
+andauern
 andrang
 android
 anemone
