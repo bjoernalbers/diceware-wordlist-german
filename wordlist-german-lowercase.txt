@@ -613,6 +613,7 @@ auslesen
 auslosen
 ausloten
 ausmalen
+ausnahme
 auspuff
 ausruf
 aussage
