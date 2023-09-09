@@ -587,6 +587,7 @@ ausbauen
 ausbeute
 ausblick
 ausbruch
+ausdauer
 ausfall
 ausflug
 ausgabe
