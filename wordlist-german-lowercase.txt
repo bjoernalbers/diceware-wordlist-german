@@ -380,6 +380,7 @@ annahme
 annehmen
 annonce
 anode
+anomalie
 anonym
 anorak
 anpfiff
