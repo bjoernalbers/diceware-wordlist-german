@@ -478,6 +478,7 @@ Armatur
 Armband
 Armbeuge
 Armbinde
+Armbruch
 Armreif
 Arnika
 Aroma
