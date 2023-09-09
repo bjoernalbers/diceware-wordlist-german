@@ -264,6 +264,7 @@ alufelge
 alufolie
 amalgam
 amarant
+amaranth
 amboss
 ameise
 ampel
