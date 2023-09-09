@@ -349,6 +349,7 @@ ankaufen
 anker
 ankern
 anketten
+ankleben
 ankunft
 anlage
 anlass
