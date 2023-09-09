@@ -152,6 +152,7 @@ abwesend
 abwetzen
 abwiegen
 abwinken
+abzahlen
 Abzug
 Abzweig
 Account
