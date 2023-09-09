@@ -503,6 +503,7 @@ aspirin
 ass
 ast
 asta
+asteroid
 astloch
 astral
 astrein
