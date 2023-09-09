@@ -466,6 +466,7 @@ Aquarium
 Aquavit
 Arbeit
 arbeiten
+Arbeiter
 Archiv
 Areal
 Arena
