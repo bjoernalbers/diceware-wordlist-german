@@ -416,6 +416,7 @@ ansparen
 ansporn
 anspruch
 anstand
+anstauen
 anstieg
 anteil
 antenne
