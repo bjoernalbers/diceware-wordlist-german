@@ -434,6 +434,7 @@ Antwort
 Anwalt
 anweisen
 Anweiser
+anwenden
 Anwesen
 Anzahl
 Anzeige
