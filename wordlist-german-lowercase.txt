@@ -67,6 +67,7 @@ ableiten
 ablenken
 ablesbar
 ablesen
+ablesung
 abluft
 abmalen
 abnahme
