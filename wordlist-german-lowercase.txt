@@ -91,6 +91,7 @@ abreisen
 abrieb
 abriss
 abrollen
+abroller
 abruf
 abrufen
 abrupt
