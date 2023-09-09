@@ -480,6 +480,7 @@ armbeuge
 armbinde
 armbruch
 armbrust
+armlehne
 armreif
 arnika
 aroma
