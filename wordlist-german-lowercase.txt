@@ -99,6 +99,7 @@ abrunden
 abrupfen
 abrupt
 absacken
+absacker
 absage
 absagen
 absatz
