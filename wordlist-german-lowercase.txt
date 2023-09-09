@@ -258,6 +258,7 @@ altbier
 altertum
 altglas
 altstadt
+altwagen
 alu
 amalgam
 amarant

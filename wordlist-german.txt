@@ -258,6 +258,7 @@ Altbier
 Altertum
 Altglas
 Altstadt
+Altwagen
 Alu
 Amalgam
 Amarant
