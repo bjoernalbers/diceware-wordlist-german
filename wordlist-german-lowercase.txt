@@ -680,6 +680,7 @@ bademode
 baden
 badesalz
 badetuch
+badezeit
 baff
 bagel
 bagger
