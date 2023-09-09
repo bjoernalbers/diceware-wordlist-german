@@ -322,6 +322,7 @@ anfeuern
 anflehen
 anfrage
 anfragen
+anfunken
 angabe
 angebot
 angehen
