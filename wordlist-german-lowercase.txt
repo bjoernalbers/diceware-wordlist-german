@@ -771,6 +771,7 @@ bauplan
 bauplatz
 bausatz
 baustein
+baustoff
 bauteil
 bauwerk
 bauzaun
