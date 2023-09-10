@@ -813,6 +813,7 @@ beere
 beet
 befahren
 befallen
+befangen
 befehl
 befund
 beginn
