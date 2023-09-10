@@ -857,6 +857,7 @@ bein
 beispiel
 beistand
 beitrag
+beitritt
 beizen
 beladen
 belag
