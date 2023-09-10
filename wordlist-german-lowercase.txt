@@ -824,6 +824,7 @@ befragen
 befreien
 befugnis
 befund
+begabung
 beginn
 begonie
 begriff

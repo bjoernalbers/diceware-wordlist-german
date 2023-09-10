@@ -824,6 +824,7 @@ befragen
 befreien
 Befugnis
 Befund
+Begabung
 Beginn
 Begonie
 Begriff
