@@ -866,6 +866,7 @@ bekennen
 beklagen
 bekleben
 beknieen
+bekochen
 beladen
 belag
 beleg
