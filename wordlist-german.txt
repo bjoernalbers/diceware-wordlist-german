@@ -848,6 +848,7 @@ behutsam
 Beiboot
 Beifall
 beige
+beigeben
 Beil
 Beilage
 Bein
