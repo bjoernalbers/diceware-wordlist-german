@@ -798,6 +798,7 @@ becircen
 Becken
 bedanken
 Bedarf
+bedauern
 beeilen
 beenden
 Beere
