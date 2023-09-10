@@ -870,6 +870,7 @@ bekochen
 bekommen
 bekunden
 belabern
+belachen
 beladen
 belag
 beleg
