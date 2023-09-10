@@ -770,6 +770,7 @@ Baumring
 Bauplan
 Bauplatz
 Bausatz
+Baustein
 Bauteil
 Bauwerk
 Bauzaun
