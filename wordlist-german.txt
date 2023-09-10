@@ -861,6 +861,7 @@ Beitritt
 Beiwagen
 beizen
 bejubeln
+bekehren
 beladen
 Belag
 Beleg
