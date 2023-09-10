@@ -722,6 +722,7 @@ bankette
 bankier
 bankraub
 bankrott
+banksafe
 banner
 bar
 barbier
