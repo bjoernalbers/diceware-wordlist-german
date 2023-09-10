@@ -814,6 +814,7 @@ Beet
 befahren
 befallen
 befangen
+befassen
 Befehl
 Befund
 Beginn
