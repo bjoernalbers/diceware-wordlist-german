@@ -838,6 +838,7 @@ Begriff
 begucken
 behalten
 beharren
+behausen
 beheben
 Behelf
 Beiboot
