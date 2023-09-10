@@ -863,6 +863,7 @@ beizen
 bejubeln
 bekehren
 bekennen
+beklagen
 beladen
 Belag
 Beleg
