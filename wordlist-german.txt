@@ -751,6 +751,7 @@ Basthut
 Bastkorb
 Bastler
 Batik
+Batterie
 Batzen
 Bauamt
 bauen
