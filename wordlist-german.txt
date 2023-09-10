@@ -772,6 +772,7 @@ Bauplatz
 Bausatz
 Baustein
 Baustoff
+Baustopp
 Bauteil
 Bauwerk
 Bauzaun
