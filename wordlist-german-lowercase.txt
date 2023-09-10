@@ -748,6 +748,7 @@ bast
 bastelei
 basteln
 basthut
+bastkorb
 bastler
 batik
 batzen
