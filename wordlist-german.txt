@@ -819,6 +819,7 @@ Befehl
 befehlen
 befeuern
 befinden
+befolgen
 Befund
 Beginn
 Begonie

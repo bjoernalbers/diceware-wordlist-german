@@ -819,6 +819,7 @@ befehl
 befehlen
 befeuern
 befinden
+befolgen
 befund
 beginn
 begonie
