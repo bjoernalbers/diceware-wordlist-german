@@ -756,6 +756,7 @@ Batzen
 Bauamt
 Bauchweh
 bauen
+Baugrube
 Bauherr
 Baujahr
 Bauland
