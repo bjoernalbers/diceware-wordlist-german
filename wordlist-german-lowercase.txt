@@ -864,6 +864,7 @@ bejubeln
 bekehren
 bekennen
 beklagen
+bekleben
 beladen
 belag
 beleg
