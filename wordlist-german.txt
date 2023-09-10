@@ -766,6 +766,7 @@ Baumart
 baumeln
 Baumharz
 Baumhaus
+Baumring
 Bauplan
 Bausatz
 Bauteil

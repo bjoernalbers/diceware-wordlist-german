@@ -766,6 +766,7 @@ baumart
 baumeln
 baumharz
 baumhaus
+baumring
 bauplan
 bausatz
 bauteil
