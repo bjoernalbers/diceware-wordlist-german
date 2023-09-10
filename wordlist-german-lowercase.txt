@@ -820,6 +820,7 @@ befehlen
 befeuern
 befinden
 befolgen
+befragen
 befund
 beginn
 begonie
