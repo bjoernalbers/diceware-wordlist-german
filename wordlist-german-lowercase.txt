@@ -778,6 +778,7 @@ bauwagen
 bauweise
 bauwerk
 bauzaun
+bayrisch
 beagle
 beamen
 beamer
