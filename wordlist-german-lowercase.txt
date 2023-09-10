@@ -791,6 +791,7 @@ beatmen
 beatmung
 bebaubar
 bebauen
+bebauung
 beben
 becher
 becken
