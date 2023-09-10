@@ -828,6 +828,7 @@ begabung
 begegnen
 begehbar
 begehren
+begehung
 beginn
 begonie
 begriff
