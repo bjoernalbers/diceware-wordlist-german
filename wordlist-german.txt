@@ -827,6 +827,7 @@ Befund
 Begabung
 begegnen
 begehbar
+begehren
 Beginn
 Begonie
 Begriff
