@@ -818,6 +818,7 @@ befassen
 befehl
 befehlen
 befeuern
+befinden
 befund
 beginn
 begonie

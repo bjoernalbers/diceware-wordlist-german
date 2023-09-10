@@ -818,6 +818,7 @@ befassen
 Befehl
 befehlen
 befeuern
+befinden
 Befund
 Beginn
 Begonie
