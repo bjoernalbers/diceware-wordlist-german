@@ -730,6 +730,7 @@ Barbier
 Barcode
 Bargeld
 Barista
+Barkasse
 barock
 Baron
 Barsch

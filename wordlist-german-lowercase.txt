@@ -730,6 +730,7 @@ barbier
 barcode
 bargeld
 barista
+barkasse
 barock
 baron
 barsch
