@@ -841,6 +841,7 @@ beharren
 behausen
 behebbar
 beheben
+beheizen
 Behelf
 Beiboot
 Beifall
