@@ -852,6 +852,7 @@ beigeben
 Beihilfe
 Beil
 Beilage
+beilegen
 Bein
 Beitrag
 beizen
