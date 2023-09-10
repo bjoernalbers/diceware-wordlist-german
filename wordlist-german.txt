@@ -779,6 +779,7 @@ Bauweise
 Bauwerk
 Bauzaun
 bayrisch
+Bazillus
 Beagle
 beamen
 Beamer
