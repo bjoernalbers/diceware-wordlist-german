@@ -799,6 +799,7 @@ Becken
 bedanken
 Bedarf
 bedauern
+bedecken
 beeilen
 beenden
 Beere
