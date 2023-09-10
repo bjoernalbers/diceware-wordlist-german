@@ -718,6 +718,7 @@ Banjo
 Bank
 Banker
 Bankett
+Bankette
 Bankier
 Banner
 Bar
