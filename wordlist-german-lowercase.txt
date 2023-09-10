@@ -789,6 +789,7 @@ beat
 beatbox
 beatmen
 beatmung
+bebaubar
 bebauen
 beben
 becher
