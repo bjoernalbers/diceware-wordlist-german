@@ -780,6 +780,7 @@ Bauwerk
 Bauzaun
 bayrisch
 Bazillus
+beachten
 Beagle
 beamen
 Beamer
