@@ -794,6 +794,7 @@ bebauen
 Bebauung
 beben
 Becher
+becircen
 Becken
 Bedarf
 beeilen
