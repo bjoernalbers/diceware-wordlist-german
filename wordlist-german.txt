@@ -812,6 +812,7 @@ beenden
 Beere
 Beet
 befahren
+befallen
 Befehl
 Befund
 Beginn
