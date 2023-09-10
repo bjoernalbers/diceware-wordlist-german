@@ -800,6 +800,7 @@ bedanken
 bedarf
 bedauern
 bedecken
+bedenken
 beeilen
 beenden
 beere
