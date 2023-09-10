@@ -796,6 +796,7 @@ beben
 becher
 becircen
 becken
+bedanken
 bedarf
 beeilen
 beenden
