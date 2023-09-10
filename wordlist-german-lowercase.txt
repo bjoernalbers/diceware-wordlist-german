@@ -860,6 +860,7 @@ beitrag
 beitritt
 beiwagen
 beizen
+bejubeln
 beladen
 belag
 beleg
