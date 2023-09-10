@@ -874,6 +874,7 @@ belachen
 beladen
 beladung
 belag
+belagern
 beleg
 belegen
 bellen
