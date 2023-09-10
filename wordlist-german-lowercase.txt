@@ -721,6 +721,7 @@ bankett
 bankette
 bankier
 bankraub
+bankrott
 banner
 bar
 barbier
