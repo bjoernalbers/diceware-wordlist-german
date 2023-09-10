@@ -869,6 +869,7 @@ beknieen
 bekochen
 bekommen
 bekunden
+belabern
 beladen
 belag
 beleg
