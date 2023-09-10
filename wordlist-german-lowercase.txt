@@ -736,6 +736,7 @@ baron
 barriere
 barsch
 bart
+barthaar
 basar
 basis
 basisch
