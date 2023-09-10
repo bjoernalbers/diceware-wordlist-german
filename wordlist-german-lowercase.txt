@@ -733,6 +733,7 @@ barista
 barkasse
 barock
 baron
+barriere
 barsch
 bart
 basar
