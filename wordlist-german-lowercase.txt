@@ -830,6 +830,7 @@ begehbar
 begehren
 begehung
 begierde
+begierig
 beginn
 begonie
 begriff
