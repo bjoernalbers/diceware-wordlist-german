@@ -832,6 +832,7 @@ begehung
 begierde
 begierig
 beginn
+beginnen
 begonie
 begriff
 beheben

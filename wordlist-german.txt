@@ -832,6 +832,7 @@ Begehung
 Begierde
 begierig
 Beginn
+beginnen
 Begonie
 Begriff
 beheben
