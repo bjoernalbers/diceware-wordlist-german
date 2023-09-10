@@ -768,6 +768,7 @@ baumharz
 baumhaus
 baumring
 bauplan
+bauplatz
 bausatz
 bauteil
 bauwerk

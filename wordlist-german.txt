@@ -768,6 +768,7 @@ Baumharz
 Baumhaus
 Baumring
 Bauplan
+Bauplatz
 Bausatz
 Bauteil
 Bauwerk
