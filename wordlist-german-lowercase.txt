@@ -844,6 +844,7 @@ beheben
 beheizen
 behelf
 behelfen
+behutsam
 beiboot
 beifall
 beige
