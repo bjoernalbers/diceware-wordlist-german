@@ -843,6 +843,7 @@ behebbar
 beheben
 beheizen
 Behelf
+behelfen
 Beiboot
 Beifall
 beige
