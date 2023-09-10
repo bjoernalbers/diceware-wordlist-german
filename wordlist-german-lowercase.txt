@@ -713,6 +713,7 @@ band
 bandage
 bande
 bandit
+bandwurm
 banjo
 bank
 banker

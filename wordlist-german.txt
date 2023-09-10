@@ -713,6 +713,7 @@ Band
 Bandage
 Bande
 Bandit
+Bandwurm
 Banjo
 Bank
 Banker
