@@ -829,6 +829,7 @@ begegnen
 begehbar
 begehren
 Begehung
+Begierde
 Beginn
 Begonie
 Begriff
