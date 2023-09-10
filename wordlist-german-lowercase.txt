@@ -774,6 +774,7 @@ baustein
 baustoff
 baustopp
 bauteil
+bauwagen
 bauwerk
 bauzaun
 beagle
