@@ -858,6 +858,7 @@ beispiel
 beistand
 beitrag
 beitritt
+beiwagen
 beizen
 beladen
 belag
