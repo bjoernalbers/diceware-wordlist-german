@@ -865,6 +865,7 @@ bekehren
 bekennen
 beklagen
 bekleben
+beknieen
 beladen
 belag
 beleg
