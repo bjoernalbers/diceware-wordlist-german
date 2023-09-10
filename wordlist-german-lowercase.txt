@@ -803,6 +803,7 @@ bedecken
 bedenken
 bedeuten
 bedienen
+bedingen
 beeilen
 beenden
 beere
