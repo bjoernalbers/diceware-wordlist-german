@@ -811,6 +811,7 @@ beeilung
 beenden
 beere
 beet
+befahren
 befehl
 befund
 beginn
