@@ -764,6 +764,7 @@ Baum
 Baumarkt
 Baumart
 baumeln
+Baumharz
 Bauplan
 Bausatz
 Bauteil

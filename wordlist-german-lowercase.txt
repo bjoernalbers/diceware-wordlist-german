@@ -764,6 +764,7 @@ baum
 baumarkt
 baumart
 baumeln
+baumharz
 bauplan
 bausatz
 bauteil
