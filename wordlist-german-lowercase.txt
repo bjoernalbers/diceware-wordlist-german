@@ -725,6 +725,7 @@ bankrott
 banksafe
 banner
 bar
+barbecue
 barbier
 barcode
 bargeld
