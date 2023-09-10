@@ -816,6 +816,7 @@ befallen
 befangen
 befassen
 befehl
+befehlen
 befund
 beginn
 begonie

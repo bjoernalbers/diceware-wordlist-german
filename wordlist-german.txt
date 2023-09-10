@@ -816,6 +816,7 @@ befallen
 befangen
 befassen
 Befehl
+befehlen
 Befund
 Beginn
 Begonie
