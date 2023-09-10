@@ -801,6 +801,7 @@ bedarf
 bedauern
 bedecken
 bedenken
+bedeuten
 beeilen
 beenden
 beere
