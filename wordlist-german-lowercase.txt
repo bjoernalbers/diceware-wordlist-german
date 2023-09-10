@@ -825,6 +825,7 @@ befreien
 befugnis
 befund
 begabung
+begegnen
 beginn
 begonie
 begriff
