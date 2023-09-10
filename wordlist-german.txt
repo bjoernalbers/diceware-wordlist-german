@@ -775,6 +775,7 @@ Baustoff
 Baustopp
 Bauteil
 Bauwagen
+Bauweise
 Bauwerk
 Bauzaun
 Beagle
