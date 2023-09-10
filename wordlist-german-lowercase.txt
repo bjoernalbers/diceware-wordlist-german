@@ -837,6 +837,7 @@ begonie
 begriff
 begucken
 behalten
+beharren
 beheben
 behelf
 beiboot

@@ -837,6 +837,7 @@ Begonie
 Begriff
 begucken
 behalten
+beharren
 beheben
 Behelf
 Beiboot
