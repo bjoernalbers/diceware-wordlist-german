@@ -802,6 +802,7 @@ bedauern
 bedecken
 bedenken
 bedeuten
+bedienen
 beeilen
 beenden
 Beere
