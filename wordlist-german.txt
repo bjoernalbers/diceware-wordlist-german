@@ -955,6 +955,7 @@ betrauen
 Betreff
 betreten
 betreuen
+Betreuer
 Betrieb
 Bett
 betucht
