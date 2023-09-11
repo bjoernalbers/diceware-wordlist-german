@@ -939,6 +939,7 @@ bestform
 bestnote
 bestzeit
 besuch
+besuchen
 beta
 beton
 betrag
