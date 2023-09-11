@@ -965,6 +965,7 @@ Bettruhe
 Betttuch
 Bettzeug
 betucht
+betuppen
 beugen
 Beule
 Beute
