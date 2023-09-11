@@ -947,6 +947,7 @@ betasten
 beteuern
 betiteln
 beton
+betonung
 betrag
 betreff
 betrieb
