@@ -953,6 +953,7 @@ Betrag
 betragen
 betrauen
 Betreff
+betreten
 Betrieb
 Bett
 betucht
