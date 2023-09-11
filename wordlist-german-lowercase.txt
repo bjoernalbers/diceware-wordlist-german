@@ -1026,6 +1026,7 @@ biobauer
 bioei
 biogas
 biograph
+biohonig
 biologe
 bioobst
 biotop
