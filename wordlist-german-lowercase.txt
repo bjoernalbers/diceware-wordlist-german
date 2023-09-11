@@ -1000,6 +1000,7 @@ bidet
 biegen
 biene
 bier
+bierbude
 bieten
 bieter
 bike
