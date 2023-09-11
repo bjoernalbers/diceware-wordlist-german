@@ -958,6 +958,7 @@ betreuen
 Betreuer
 Betrieb
 Bett
+Bettchen
 betucht
 beugen
 Beule
