@@ -940,6 +940,7 @@ Bestnote
 Bestzeit
 Besuch
 besuchen
+Besucher
 Beta
 Beton
 Betrag
