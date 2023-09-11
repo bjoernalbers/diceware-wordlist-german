@@ -924,6 +924,7 @@ Beschlag
 besegeln
 Besen
 besetzen
+Besetzer
 Besitz
 Bestand
 Besteck
