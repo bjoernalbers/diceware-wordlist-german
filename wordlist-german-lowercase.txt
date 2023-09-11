@@ -954,6 +954,7 @@ betragen
 betrauen
 betreff
 betreten
+betreuen
 betrieb
 bett
 betucht
