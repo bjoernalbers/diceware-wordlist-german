@@ -889,6 +889,7 @@ bemalen
 bemalung
 bemehlen
 bemerken
+benehmen
 benoten
 benzin
 beraten
