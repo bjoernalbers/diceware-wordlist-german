@@ -988,6 +988,7 @@ bewohner
 bewuchs
 bewusst
 bezahlen
+bezeugen
 bezirk
 bibbern
 biber

@@ -988,6 +988,7 @@ Bewohner
 Bewuchs
 bewusst
 bezahlen
+bezeugen
 Bezirk
 bibbern
 Biber
