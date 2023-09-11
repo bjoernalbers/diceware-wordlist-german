@@ -928,6 +928,7 @@ Besetzer
 besiegen
 besinnen
 Besitz
+besitzen
 Bestand
 Besteck
 Besuch
