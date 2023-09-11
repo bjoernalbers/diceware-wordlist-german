@@ -963,6 +963,7 @@ Bettrand
 bettreif
 Bettruhe
 Betttuch
+Bettzeug
 betucht
 beugen
 Beule
