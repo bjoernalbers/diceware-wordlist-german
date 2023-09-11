@@ -1061,6 +1061,7 @@ blass
 Blatt
 blattlos
 blau
+blaugrau
 blaurot
 Blauwal
 Blazer

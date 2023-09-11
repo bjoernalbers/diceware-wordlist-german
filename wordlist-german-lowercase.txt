@@ -1061,6 +1061,7 @@ blass
 blatt
 blattlos
 blau
+blaugrau
 blaurot
 blauwal
 blazer
