@@ -1002,6 +1002,7 @@ Biene
 Bier
 Bierbude
 Bierchen
+Bierdose
 bieten
 Bieter
 Bike
