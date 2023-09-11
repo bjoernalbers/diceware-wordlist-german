@@ -951,6 +951,7 @@ betonung
 betracht
 betrag
 betragen
+betrauen
 betreff
 betrieb
 bett
