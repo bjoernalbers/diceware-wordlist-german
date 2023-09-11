@@ -977,6 +977,7 @@ bewahren
 bewegen
 Bewegung
 Beweis
+beweisen
 Bewuchs
 bewusst
 Bezirk
