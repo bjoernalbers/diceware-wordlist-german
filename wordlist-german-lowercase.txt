@@ -921,6 +921,7 @@ beruf
 berufung
 bescheid
 beschlag
+besegeln
 besen
 besitz
 bestand
