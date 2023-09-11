@@ -1001,6 +1001,7 @@ biegen
 biene
 bier
 bierbude
+bierchen
 bieten
 bieter
 bike
