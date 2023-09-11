@@ -991,6 +991,7 @@ bezahlen
 bezeugen
 beziehen
 bezirk
+bezirzen
 bibbern
 biber
 bidet
