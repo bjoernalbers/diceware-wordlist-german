@@ -1005,6 +1005,7 @@ bierchen
 bierdose
 bierfass
 bierglas
+bierkrug
 bieten
 bieter
 bike
