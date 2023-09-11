@@ -962,6 +962,7 @@ bettchen
 bettrand
 bettreif
 bettruhe
+betttuch
 betucht
 beugen
 beule
