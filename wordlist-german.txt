@@ -1025,6 +1025,7 @@ Bindung
 Biobauer
 Bioei
 Biogas
+Biograph
 Biologe
 Bioobst
 Biotop
