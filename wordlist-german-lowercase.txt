@@ -1062,6 +1062,7 @@ blatt
 blattlos
 blau
 blaugrau
+blauhelm
 blaurot
 blauwal
 blazer
