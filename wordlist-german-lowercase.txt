@@ -993,6 +993,7 @@ beziehen
 bezirk
 bezirzen
 biathlet
+biathlon
 bibbern
 biber
 bidet
