@@ -972,6 +972,7 @@ Beute
 Beutel
 Beutezug
 bewachen
+Bewacher
 bewegen
 Beweis
 Bewuchs
