@@ -948,6 +948,7 @@ beteuern
 betiteln
 beton
 betonung
+betracht
 betrag
 betreff
 betrieb
