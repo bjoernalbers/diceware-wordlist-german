@@ -794,7 +794,6 @@ bebauen
 bebauung
 beben
 becher
-becircen
 becken
 bedanken
 bedarf

@@ -794,7 +794,6 @@
 14512	bebauung
 14513	beben
 14514	becher
-14515	becircen
 14516	becken
 14521	bedanken
 14522	bedarf
