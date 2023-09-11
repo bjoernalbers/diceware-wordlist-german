@@ -930,6 +930,7 @@ besinnen
 besitz
 besitzen
 besitzer
+besohlen
 bestand
 besteck
 besuch
