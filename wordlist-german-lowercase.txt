@@ -900,6 +900,7 @@ benutzer
 benzin
 benziner
 bequemen
+berappen
 beraten
 berater
 bereden
