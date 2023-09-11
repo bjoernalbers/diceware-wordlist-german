@@ -984,6 +984,7 @@ bewerten
 bewirken
 bewirten
 bewohnen
+Bewohner
 Bewuchs
 bewusst
 Bezirk
