@@ -989,6 +989,7 @@ bewuchs
 bewusst
 bezahlen
 bezeugen
+beziehen
 bezirk
 bibbern
 biber
