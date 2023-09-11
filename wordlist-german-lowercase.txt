@@ -888,6 +888,7 @@ belohnen
 bemalen
 bemalung
 bemehlen
+bemerken
 benoten
 benzin
 beraten
