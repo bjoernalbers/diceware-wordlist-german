@@ -916,6 +916,7 @@ bergig
 bergsee
 bergtour
 bericht
+berliner
 beruf
 besen
 besitz
