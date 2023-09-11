@@ -936,6 +936,7 @@ Bestand
 Besteck
 bestehen
 Bestform
+Bestnote
 Besuch
 Beta
 Beton

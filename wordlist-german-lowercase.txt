@@ -936,6 +936,7 @@ bestand
 besteck
 bestehen
 bestform
+bestnote
 besuch
 beta
 beton
