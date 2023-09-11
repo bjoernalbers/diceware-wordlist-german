@@ -1029,6 +1029,7 @@ biograph
 biohonig
 bioladen
 biologe
+biologie
 bioobst
 biotop
 birke
