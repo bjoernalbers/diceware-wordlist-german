@@ -880,6 +880,7 @@ belaufen
 beleg
 belegbar
 belegen
+belegung
 bellen
 bemalen
 benoten
