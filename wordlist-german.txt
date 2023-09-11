@@ -1087,6 +1087,7 @@ Blinker
 blinzeln
 Blister
 Blitz
+Blitzeis
 blitzen
 Blitzer
 Block
