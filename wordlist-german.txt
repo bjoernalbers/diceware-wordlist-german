@@ -1074,6 +1074,7 @@ Bleibe
 bleiben
 bleich
 Bleiche
+bleichen
 Blende
 blenden
 Blessur
