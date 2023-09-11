@@ -944,6 +944,7 @@ besucher
 besudeln
 beta
 betasten
+beteuern
 beton
 betrag
 betreff
