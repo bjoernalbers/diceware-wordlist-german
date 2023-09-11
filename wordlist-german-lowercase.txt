@@ -975,6 +975,7 @@ bewachen
 bewacher
 bewahren
 bewegen
+bewegung
 beweis
 bewuchs
 bewusst
