@@ -929,6 +929,7 @@ besiegen
 besinnen
 Besitz
 besitzen
+Besitzer
 Bestand
 Besteck
 Besuch
