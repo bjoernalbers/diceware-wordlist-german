@@ -896,6 +896,7 @@ benetzen
 benoten
 benotung
 benutzen
+benutzer
 benzin
 beraten
 berater
