@@ -881,6 +881,7 @@ beleg
 belegbar
 belegen
 belegung
+belehren
 bellen
 bemalen
 benoten
