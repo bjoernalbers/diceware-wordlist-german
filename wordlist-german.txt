@@ -950,6 +950,7 @@ Beton
 Betonung
 Betracht
 Betrag
+betragen
 Betreff
 Betrieb
 Bett

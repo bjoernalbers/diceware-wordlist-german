@@ -950,6 +950,7 @@ beton
 betonung
 betracht
 betrag
+betragen
 betreff
 betrieb
 bett
