@@ -908,6 +908,7 @@ berauben
 bereden
 Bereich
 bereifen
+bereisen
 bereit
 Berg
 Bergbau
