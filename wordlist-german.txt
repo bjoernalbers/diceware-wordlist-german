@@ -925,6 +925,7 @@ besegeln
 Besen
 besetzen
 Besetzer
+besiegen
 Besitz
 Bestand
 Besteck
