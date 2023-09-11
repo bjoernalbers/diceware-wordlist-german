@@ -923,6 +923,7 @@ Bescheid
 Beschlag
 besegeln
 Besen
+besetzen
 Besitz
 Bestand
 Besteck
