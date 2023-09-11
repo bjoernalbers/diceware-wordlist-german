@@ -1003,6 +1003,7 @@ Bier
 Bierbude
 Bierchen
 Bierdose
+Bierfass
 bieten
 Bieter
 Bike

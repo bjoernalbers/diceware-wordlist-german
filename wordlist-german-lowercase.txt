@@ -1003,6 +1003,7 @@ bier
 bierbude
 bierchen
 bierdose
+bierfass
 bieten
 bieter
 bike
