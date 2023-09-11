@@ -973,6 +973,7 @@ beutel
 beutezug
 bewachen
 bewacher
+bewahren
 bewegen
 beweis
 bewuchs
