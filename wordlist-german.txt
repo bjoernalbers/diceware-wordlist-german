@@ -895,6 +895,7 @@ benennen
 benetzen
 benoten
 Benotung
+benutzen
 Benzin
 beraten
 Berater
