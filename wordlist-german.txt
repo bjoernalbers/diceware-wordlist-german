@@ -1022,6 +1022,7 @@ Bimbam
 Bimetall
 binden
 Bindung
+Biobauer
 Bioei
 Biogas
 Biologe
