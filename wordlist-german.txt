@@ -907,6 +907,7 @@ Beratung
 berauben
 bereden
 Bereich
+bereifen
 bereit
 Berg
 Bergbau
