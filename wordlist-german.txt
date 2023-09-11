@@ -926,6 +926,7 @@ Besen
 besetzen
 Besetzer
 besiegen
+besinnen
 Besitz
 Bestand
 Besteck
