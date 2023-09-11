@@ -1059,6 +1059,7 @@ Blase
 Blasrohr
 blass
 Blatt
+blattlos
 blau
 blaurot
 Blauwal
