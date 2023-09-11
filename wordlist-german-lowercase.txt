@@ -943,6 +943,7 @@ besuchen
 besucher
 besudeln
 beta
+betasten
 beton
 betrag
 betreff
