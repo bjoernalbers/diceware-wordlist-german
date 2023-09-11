@@ -919,6 +919,7 @@ Bericht
 Berliner
 Beruf
 Berufung
+Bescheid
 Besen
 Besitz
 Bestand
