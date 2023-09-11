@@ -1084,6 +1084,7 @@ blick
 blicken
 blinken
 blinker
+blinzeln
 blister
 blitz
 blitzen
