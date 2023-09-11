@@ -935,6 +935,7 @@ besorgen
 bestand
 besteck
 bestehen
+bestform
 besuch
 beta
 beton
