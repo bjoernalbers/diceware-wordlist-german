@@ -970,6 +970,7 @@ beugen
 Beule
 Beute
 Beutel
+Beutezug
 bewegen
 Beweis
 Bewuchs
