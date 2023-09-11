@@ -899,6 +899,7 @@ benutzen
 Benutzer
 Benzin
 Benziner
+bequemen
 beraten
 Berater
 bereden

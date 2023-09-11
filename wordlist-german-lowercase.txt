@@ -899,6 +899,7 @@ benutzen
 benutzer
 benzin
 benziner
+bequemen
 beraten
 berater
 bereden
