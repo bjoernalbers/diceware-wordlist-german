@@ -920,6 +920,7 @@ berliner
 beruf
 berufung
 bescheid
+beschlag
 besen
 besitz
 bestand

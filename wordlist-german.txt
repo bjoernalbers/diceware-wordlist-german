@@ -920,6 +920,7 @@ Berliner
 Beruf
 Berufung
 Bescheid
+Beschlag
 Besen
 Besitz
 Bestand
