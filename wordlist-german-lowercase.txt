@@ -934,6 +934,7 @@ besohlen
 besorgen
 bestand
 besteck
+bestehen
 besuch
 beta
 beton
