@@ -1099,6 +1099,7 @@ bloggen
 blogger
 blogpost
 blouson
+blubbern
 blues
 bluff
 bluffen
