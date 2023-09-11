@@ -987,6 +987,7 @@ bewohnen
 bewohner
 bewuchs
 bewusst
+bezahlen
 bezirk
 bibbern
 biber

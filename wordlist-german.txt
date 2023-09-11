@@ -987,6 +987,7 @@ bewohnen
 Bewohner
 Bewuchs
 bewusst
+bezahlen
 Bezirk
 bibbern
 Biber
