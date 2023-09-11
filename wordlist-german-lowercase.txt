@@ -1031,6 +1031,7 @@ bioladen
 biologe
 biologie
 biomarkt
+biomilch
 bioobst
 biotop
 birke
