@@ -931,6 +931,7 @@ Besitz
 besitzen
 Besitzer
 besohlen
+besorgen
 Bestand
 Besteck
 Besuch
