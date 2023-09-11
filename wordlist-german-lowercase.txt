@@ -878,6 +878,7 @@ belagern
 belasten
 belaufen
 beleg
+belegbar
 belegen
 bellen
 bemalen
