@@ -1017,6 +1017,7 @@ bildband
 bildlich
 bildung
 billard
+billigen
 bimbam
 binden
 bindung
