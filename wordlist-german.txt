@@ -1253,6 +1253,7 @@ Brunnen
 Brut
 Brutto
 Brutzeit
+brutzeln
 Bube
 Buch
 Buche

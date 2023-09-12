@@ -1253,6 +1253,7 @@ brunnen
 brut
 brutto
 brutzeit
+brutzeln
 bube
 buch
 buche
