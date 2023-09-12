@@ -1197,6 +1197,7 @@ Brauerei
 Braufass
 Brauhaus
 braun
+braunrot
 Brause
 brausen
 Braut
