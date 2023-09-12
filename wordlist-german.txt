@@ -1261,6 +1261,7 @@ buchen
 Buchse
 Bucht
 Buchtel
+Buchtipp
 Buchung
 buddeln
 Buddy
