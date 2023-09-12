@@ -1129,6 +1129,7 @@ bohne
 bohnern
 bohren
 bohrer
+bohrloch
 bohrung
 boiler
 bokeh
