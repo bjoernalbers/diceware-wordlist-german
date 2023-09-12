@@ -1193,6 +1193,7 @@ brauchen
 Braue
 brauen
 Brauer
+Brauerei
 braun
 Brause
 brausen
