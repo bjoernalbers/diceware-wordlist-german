@@ -1186,6 +1186,7 @@ brandy
 braten
 bratfett
 brathuhn
+bratling
 brauch
 braue
 brauen
