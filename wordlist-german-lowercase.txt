@@ -1252,6 +1252,7 @@ brunch
 brunnen
 brut
 brutto
+brutzeit
 bube
 buch
 buche
