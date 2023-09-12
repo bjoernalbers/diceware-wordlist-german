@@ -1187,6 +1187,7 @@ braten
 bratfett
 brathuhn
 bratling
+bratrost
 brauch
 braue
 brauen
