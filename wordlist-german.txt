@@ -1175,6 +1175,7 @@ Boxer
 Boxkampf
 Boxring
 Boxsport
+Boygroup
 Boykott
 Branche
 Brandy
