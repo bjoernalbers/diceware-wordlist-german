@@ -1137,6 +1137,7 @@ bokeh
 bolero
 bollern
 bolzen
+bolzerei
 bombig
 bommel
 bon
