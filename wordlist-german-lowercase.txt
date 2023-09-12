@@ -1189,6 +1189,7 @@ brathuhn
 bratling
 bratrost
 brauch
+brauchen
 braue
 brauen
 brauer
