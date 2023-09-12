@@ -1271,6 +1271,7 @@ Budget
 Bug
 Bugfix
 Buggy
+Bugwelle
 Bulette
 Bulgur
 bummeln

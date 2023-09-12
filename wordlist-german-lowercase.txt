@@ -1271,6 +1271,7 @@ budget
 bug
 bugfix
 buggy
+bugwelle
 bulette
 bulgur
 bummeln
