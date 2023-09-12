@@ -1274,6 +1274,7 @@ buggy
 bugwelle
 bulette
 bulgur
+bullauge
 bummeln
 bunkern
 bunt
