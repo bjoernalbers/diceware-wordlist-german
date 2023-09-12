@@ -1152,6 +1152,7 @@ Booster
 Boot
 booten
 Bord
+bordeaux
 borgen
 Borke
 Borste
