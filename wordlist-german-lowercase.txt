@@ -1233,6 +1233,7 @@ brise
 brocken
 brodeln
 broker
+brokkoli
 bronze
 brot
 brownie
