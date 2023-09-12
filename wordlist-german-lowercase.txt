@@ -1224,6 +1224,7 @@ bridge
 brief
 briefing
 brikett
+brillant
 brille
 bringen
 brisant
