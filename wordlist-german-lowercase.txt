@@ -1239,6 +1239,7 @@ bronze
 brot
 brotdose
 brotkorb
+brotlaib
 brownie
 browser
 bruder
