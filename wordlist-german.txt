@@ -1238,6 +1238,7 @@ Bronchie
 Bronze
 Brot
 Brotdose
+Brotkorb
 Brownie
 Browser
 Bruder
