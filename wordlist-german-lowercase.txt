@@ -1212,6 +1212,7 @@ bremse
 bremsen
 bremsung
 bremsweg
+brennbar
 brennen
 brenner
 brett
