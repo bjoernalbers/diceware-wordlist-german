@@ -1163,6 +1163,7 @@ botanik
 bote
 bottich
 bouillon
+bouldern
 bouquet
 bowle
 bowler
