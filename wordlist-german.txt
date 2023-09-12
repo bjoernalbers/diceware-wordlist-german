@@ -1172,6 +1172,7 @@ Bowling
 Box
 boxen
 Boxer
+Boxkampf
 Boxring
 Boykott
 Branche

@@ -1172,6 +1172,7 @@ bowling
 box
 boxen
 boxer
+boxkampf
 boxring
 boykott
 branche
