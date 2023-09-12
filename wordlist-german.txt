@@ -1194,6 +1194,7 @@ Braue
 brauen
 Brauer
 Brauerei
+Braufass
 braun
 Brause
 brausen
