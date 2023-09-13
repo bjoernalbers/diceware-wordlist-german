@@ -1338,6 +1338,7 @@ Cerealie
 Chakra
 Chalet
 Champ
+Champion
 Chance
 Channel
 Chanson

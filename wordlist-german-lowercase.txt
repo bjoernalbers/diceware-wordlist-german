@@ -1338,6 +1338,7 @@ cerealie
 chakra
 chalet
 champ
+champion
 chance
 channel
 chanson
