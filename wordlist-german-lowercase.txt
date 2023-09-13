@@ -1309,6 +1309,7 @@ canceln
 canyon
 cap
 cape
+capoeira
 caprese
 captcha
 caravan
