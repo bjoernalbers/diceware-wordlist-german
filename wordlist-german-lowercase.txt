@@ -1382,6 +1382,7 @@ chorizo
 chrom
 chronik
 chutney
+ciabatta
 cider
 cidre
 cinch
