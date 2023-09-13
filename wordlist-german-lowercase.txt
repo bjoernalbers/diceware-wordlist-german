@@ -1286,6 +1286,7 @@ burrito
 bursche
 bus
 busch
+busfahrt
 bussard
 bustier
 butler
