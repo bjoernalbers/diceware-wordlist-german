@@ -1329,6 +1329,7 @@ casual
 catchen
 catcher
 caterer
+catering
 cellist
 cello
 cent
