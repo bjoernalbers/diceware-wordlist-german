@@ -1388,6 +1388,7 @@ Cidre
 Cinch
 Circus
 City
+Citybike
 Clan
 clever
 Client
