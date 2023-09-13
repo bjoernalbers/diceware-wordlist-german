@@ -1361,6 +1361,7 @@ Checkbox
 checken
 Chef
 Chefarzt
+Chefkoch
 Chemie
 Chia
 Chianti
