@@ -1357,6 +1357,7 @@ Chateau
 Chatroom
 chatten
 Check
+Checkbox
 checken
 Chef
 Chemie
