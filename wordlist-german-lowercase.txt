@@ -1364,6 +1364,7 @@ chefarzt
 chefkoch
 chemie
 chemiker
+chemisch
 chia
 chianti
 chic
