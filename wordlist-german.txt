@@ -1360,6 +1360,7 @@ Check
 Checkbox
 checken
 Chef
+Chefarzt
 Chemie
 Chia
 Chianti
