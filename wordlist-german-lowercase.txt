@@ -1288,6 +1288,7 @@ bus
 busch
 busfahrt
 business
+buslinie
 bussard
 bustier
 butler
