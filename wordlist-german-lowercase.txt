@@ -1354,6 +1354,7 @@ charts
 chassis
 chat
 chateau
+chatroom
 chatten
 check
 checken
