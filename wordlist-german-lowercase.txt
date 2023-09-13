@@ -1334,6 +1334,7 @@ cellist
 cello
 cent
 center
+cerealie
 chakra
 chalet
 champ
