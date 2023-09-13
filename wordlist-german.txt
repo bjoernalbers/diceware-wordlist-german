@@ -1345,6 +1345,7 @@ Chanson
 Chaos
 Chapeau
 Charge
+Charisma
 Charme
 Charts
 Chassis
