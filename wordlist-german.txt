@@ -1349,6 +1349,7 @@ Charisma
 charmant
 Charme
 Charmeur
+chartern
 Charts
 Chassis
 Chat
