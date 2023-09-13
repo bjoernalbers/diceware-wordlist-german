@@ -1348,6 +1348,7 @@ Charge
 Charisma
 charmant
 Charme
+Charmeur
 Charts
 Chassis
 Chat
