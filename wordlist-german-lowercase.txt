@@ -1374,6 +1374,7 @@ chillen
 chip
 chirurg
 chlor
+chlorung
 chopper
 chor
 chorizo
