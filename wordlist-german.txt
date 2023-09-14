@@ -1524,6 +1524,7 @@ deftig
 Degen
 dehnbar
 dehnen
+Dehnfuge
 Dehnung
 Deich
 Dekade
