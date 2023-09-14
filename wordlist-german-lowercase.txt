@@ -1689,6 +1689,7 @@ drehen
 drehort
 drehung
 drehwurm
+drehzahl
 dreieck
 dreirad
 dress

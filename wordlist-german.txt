@@ -1689,6 +1689,7 @@ drehen
 Drehort
 Drehung
 Drehwurm
+Drehzahl
 Dreieck
 Dreirad
 Dress
