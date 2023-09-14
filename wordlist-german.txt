@@ -1580,6 +1580,7 @@ Diabolo
 Diadem
 Diagnose
 diagonal
+Diagramm
 Dialekt
 Dialog
 Diamant
