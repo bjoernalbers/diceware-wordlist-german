@@ -1651,6 +1651,7 @@ Dolch
 doll
 Dollar
 Domain
+dominant
 Domino
 Domizil
 Donner
