@@ -1697,6 +1697,7 @@ Dreisatz
 Dreizack
 Dress
 Dressing
+dribbeln
 driften
 Drink
 Drittel
