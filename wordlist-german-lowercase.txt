@@ -1484,6 +1484,7 @@ dampf
 dampfbad
 dampfen
 dampfer
+dampflok
 dancing
 dankbar
 danken
