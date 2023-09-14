@@ -1578,6 +1578,7 @@ dezimal
 Dia
 Diabolo
 Diadem
+Diagnose
 Dialekt
 Dialog
 Diamant
