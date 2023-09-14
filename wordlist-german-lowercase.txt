@@ -1401,6 +1401,7 @@ club
 cluster
 coach
 coachen
+coaching
 cockpit
 code
 cognac
