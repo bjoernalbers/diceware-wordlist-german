@@ -1429,6 +1429,7 @@ Coolness
 Cop
 Copilot
 Copyleft
+Copyshop
 Cord
 Couch
 Counter
