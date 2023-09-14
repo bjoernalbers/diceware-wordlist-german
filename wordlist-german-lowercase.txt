@@ -1652,6 +1652,7 @@ doll
 dollar
 domain
 dominant
+dominanz
 domino
 domizil
 donner
