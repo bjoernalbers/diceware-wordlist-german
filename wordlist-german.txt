@@ -1667,6 +1667,7 @@ Dorn
 dornig
 Dorsch
 Dose
+dosieren
 Dosis
 Dotter
 Double

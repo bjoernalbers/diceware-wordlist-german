@@ -1667,6 +1667,7 @@ dorn
 dornig
 dorsch
 dose
+dosieren
 dosis
 dotter
 double
