@@ -1403,6 +1403,7 @@ Coach
 coachen
 Coaching
 Cockpit
+Cocktail
 Code
 Cognac
 Collage
