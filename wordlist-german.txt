@@ -1489,6 +1489,7 @@ Dancing
 dankbar
 danken
 Darknet
+darlegen
 Darlehn
 Darling
 Dart
