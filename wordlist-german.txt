@@ -1617,6 +1617,7 @@ Dino
 Diode
 Dip
 Diplom
+Diplomat
 dippen
 direkt
 Dirndl
