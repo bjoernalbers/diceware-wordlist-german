@@ -1672,6 +1672,7 @@ Dosis
 dotieren
 Dotter
 Double
+Doughnut
 Dozent
 Dragee
 Draht

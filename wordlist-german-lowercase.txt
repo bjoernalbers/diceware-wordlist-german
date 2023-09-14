@@ -1672,6 +1672,7 @@ dosis
 dotieren
 dotter
 double
+doughnut
 dozent
 dragee
 draht
