@@ -1633,6 +1633,7 @@ display
 dispo
 distanz
 distel
+distrikt
 divers
 divisor
 doc
