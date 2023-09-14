@@ -1645,6 +1645,7 @@ Dohle
 doktern
 Doktor
 Doku
+Dokument
 Dolch
 doll
 Dollar
