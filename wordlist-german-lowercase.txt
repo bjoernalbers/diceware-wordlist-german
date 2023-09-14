@@ -1419,6 +1419,7 @@ comedian
 comedy
 comic
 compiler
+composer
 content
 contest
 cookie
