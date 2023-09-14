@@ -1432,6 +1432,7 @@ copyleft
 copyshop
 cord
 cordhose
+cortison
 couch
 counter
 coup
