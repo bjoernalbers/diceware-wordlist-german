@@ -1678,6 +1678,7 @@ Dozent
 Dragee
 Draht
 drahtig
+drahtlos
 Drang
 Dreh
 drehbar

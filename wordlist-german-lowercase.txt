@@ -1678,6 +1678,7 @@ dozent
 dragee
 draht
 drahtig
+drahtlos
 drang
 dreh
 drehbar
