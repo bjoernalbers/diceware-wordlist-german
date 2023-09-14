@@ -1702,6 +1702,7 @@ driften
 Drilling
 Drink
 Drittel
+dritteln
 Drohne
 drollig
 Drops
