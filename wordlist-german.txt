@@ -1572,6 +1572,7 @@ Devise
 Dextrose
 Dezember
 dezent
+Dezernat
 Dezibel
 dezimal
 Dia

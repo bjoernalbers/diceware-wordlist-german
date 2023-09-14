@@ -1572,6 +1572,7 @@ devise
 dextrose
 dezember
 dezent
+dezernat
 dezibel
 dezimal
 dia
