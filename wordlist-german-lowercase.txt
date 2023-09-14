@@ -1694,6 +1694,7 @@ dreibein
 dreieck
 dreirad
 dreisatz
+dreizack
 dress
 driften
 drink
