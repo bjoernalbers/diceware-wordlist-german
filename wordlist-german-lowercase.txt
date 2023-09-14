@@ -1407,6 +1407,7 @@ cocktail
 code
 codename
 codewort
+codieren
 cognac
 collage
 college
