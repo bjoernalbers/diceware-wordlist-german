@@ -1431,6 +1431,7 @@ copilot
 copyleft
 copyshop
 cord
+cordhose
 couch
 counter
 coup
