@@ -1710,6 +1710,7 @@ drollig
 dromedar
 drops
 drossel
+drosseln
 druck
 drucken
 drucker
