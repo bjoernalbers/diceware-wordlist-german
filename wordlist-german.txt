@@ -1581,6 +1581,7 @@ Diadem
 Diagnose
 diagonal
 Diagramm
+Diakonie
 Dialekt
 Dialog
 Diamant
