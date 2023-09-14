@@ -1420,6 +1420,7 @@ Comedy
 Comic
 Compiler
 Composer
+Computer
 Content
 Contest
 Cookie
