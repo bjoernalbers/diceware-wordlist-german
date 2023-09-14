@@ -1438,6 +1438,7 @@ counter
 coup
 coupon
 courage
+courtage
 cousin
 cover
 cowboy
