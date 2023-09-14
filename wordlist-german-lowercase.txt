@@ -1569,6 +1569,7 @@ deutlich
 deutsch
 deutung
 devise
+dextrose
 dezent
 dezibel
 dezimal
