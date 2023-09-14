@@ -1496,6 +1496,7 @@ darling
 dart
 date
 datei
+dateityp
 dativ
 dattel
 datum
