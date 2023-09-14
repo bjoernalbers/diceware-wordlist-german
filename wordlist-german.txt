@@ -1623,6 +1623,7 @@ direkt
 Direktor
 Dirigent
 Dirndl
+Discount
 Disk
 Disko
 diskret
