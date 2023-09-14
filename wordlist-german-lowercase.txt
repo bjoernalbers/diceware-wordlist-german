@@ -1418,6 +1418,7 @@ comeback
 comedian
 comedy
 comic
+compiler
 content
 contest
 cookie
