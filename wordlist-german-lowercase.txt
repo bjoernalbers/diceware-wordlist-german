@@ -1428,6 +1428,7 @@ cool
 coolness
 cop
 copilot
+copyleft
 cord
 couch
 counter

@@ -1428,6 +1428,7 @@ cool
 Coolness
 Cop
 Copilot
+Copyleft
 Cord
 Couch
 Counter
