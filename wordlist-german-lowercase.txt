@@ -1516,6 +1516,7 @@ debugger
 deck
 decke
 deckel
+deepfake
 defekt
 defizit
 deftig
