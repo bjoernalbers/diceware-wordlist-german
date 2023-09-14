@@ -1498,6 +1498,7 @@ Date
 Datei
 Dateityp
 Datentyp
+datieren
 Dativ
 Dattel
 Datum
