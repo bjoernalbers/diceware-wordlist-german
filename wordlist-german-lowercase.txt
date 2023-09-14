@@ -1563,6 +1563,7 @@ destille
 detail
 detektei
 detektiv
+detektor
 deuten
 deutsch
 deutung
