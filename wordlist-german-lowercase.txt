@@ -1599,6 +1599,7 @@ dienst
 dienstag
 diesel
 diesig
+diffizil
 diffus
 digital
 diktat
