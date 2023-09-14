@@ -1625,6 +1625,7 @@ dirigent
 dirndl
 discount
 disk
+diskette
 disko
 diskret
 diskus
