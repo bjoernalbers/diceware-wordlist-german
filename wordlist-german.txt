@@ -1669,6 +1669,7 @@ Dorsch
 Dose
 dosieren
 Dosis
+dotieren
 Dotter
 Double
 Dozent

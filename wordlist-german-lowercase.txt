@@ -1669,6 +1669,7 @@ dorsch
 dose
 dosieren
 dosis
+dotieren
 dotter
 double
 dozent
