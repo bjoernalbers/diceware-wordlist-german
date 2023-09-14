@@ -1562,6 +1562,7 @@ dessert
 destille
 detail
 detektei
+detektiv
 deuten
 deutsch
 deutung
