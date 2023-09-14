@@ -1726,6 +1726,7 @@ duett
 duft
 dufte
 duften
+duftnote
 dulden
 dummy
 dunkel
