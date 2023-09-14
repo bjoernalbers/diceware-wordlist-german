@@ -1579,6 +1579,7 @@ Dia
 Diabolo
 Diadem
 Diagnose
+diagonal
 Dialekt
 Dialog
 Diamant
