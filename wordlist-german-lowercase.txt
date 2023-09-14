@@ -1481,6 +1481,7 @@ dame
 damenrad
 damm
 dampf
+dampfbad
 dampfen
 dampfer
 dancing
