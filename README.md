@@ -2,7 +2,7 @@
 
 **Work in Progress**
 
-## Wait a minute, what are passphrases anyway?
+## What are passphrases anyway?
 
 A [Passphrase](https://en.wikipedia.org/wiki/Passphrase) is a password made
 up of multiple words, such as:
