@@ -1497,6 +1497,7 @@ Dart
 Date
 Datei
 Dateityp
+Datentyp
 Dativ
 Dattel
 Datum
