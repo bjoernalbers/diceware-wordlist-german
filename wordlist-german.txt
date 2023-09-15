@@ -1761,6 +1761,7 @@ Echtheit
 Echtzeit
 Eckball
 Eckbank
+Eckcouch
 Ecke
 eckig
 Ecksofa
