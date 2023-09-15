@@ -1786,6 +1786,7 @@ Ehepaar
 Ehering
 Ehre
 ehren
+Ehrenamt
 Ehrgeiz
 ehrlich
 Ehrung
