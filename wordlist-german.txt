@@ -1739,6 +1739,7 @@ Durst
 durstig
 Dusche
 duschen
+Duschgel
 duster
 Dutt
 Dutzend
