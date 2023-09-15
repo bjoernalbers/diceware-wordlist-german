@@ -1774,6 +1774,7 @@ Editor
 Efeu
 Effeff
 Effekt
+effektiv
 Effet
 egal
 Egge
