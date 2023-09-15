@@ -1787,6 +1787,7 @@ ehering
 ehre
 ehren
 ehrenamt
+ehrentag
 ehrgeiz
 ehrlich
 ehrung

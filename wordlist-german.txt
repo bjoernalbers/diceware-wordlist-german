@@ -1787,6 +1787,7 @@ Ehering
 Ehre
 ehren
 Ehrenamt
+Ehrentag
 Ehrgeiz
 ehrlich
 Ehrung
