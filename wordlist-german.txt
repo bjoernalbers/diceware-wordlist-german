@@ -1732,6 +1732,7 @@ Dummy
 dunkel
 Dunst
 Duo
+Duplikat
 Dur
 Durst
 durstig
