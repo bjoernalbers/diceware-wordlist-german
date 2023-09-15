@@ -1765,6 +1765,7 @@ eckcouch
 ecke
 eckig
 ecksofa
+eckstein
 eckzahn
 edel
 edelgas
