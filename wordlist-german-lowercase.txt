@@ -1752,6 +1752,7 @@ ebbe
 eben
 ebenbild
 ebene
+ebenholz
 ebnen
 echo
 echse
