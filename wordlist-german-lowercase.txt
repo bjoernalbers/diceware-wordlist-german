@@ -2644,6 +2644,7 @@ gazpacho
 geben
 geber
 gebiet
+gebieten
 gebilde
 gebirge
 gebiss
