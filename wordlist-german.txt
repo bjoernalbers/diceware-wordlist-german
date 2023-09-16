@@ -2377,6 +2377,7 @@ Flagge
 Flair
 Flakon
 Flamenco
+Flamingo
 Flamme
 Flanell
 Flanke

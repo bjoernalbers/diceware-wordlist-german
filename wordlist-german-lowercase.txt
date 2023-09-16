@@ -2377,6 +2377,7 @@ flagge
 flair
 flakon
 flamenco
+flamingo
 flamme
 flanell
 flanke
