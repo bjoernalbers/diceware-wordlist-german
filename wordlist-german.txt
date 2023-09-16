@@ -2015,6 +2015,7 @@ Erdkugel
 Erdkunde
 Erdmaus
 Erdnuss
+Erdreich
 Erdteil
 Erdwall
 Erfolg
