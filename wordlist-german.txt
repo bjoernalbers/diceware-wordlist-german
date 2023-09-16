@@ -2173,6 +2173,7 @@ Fahrstil
 Fahrt
 Fahrwerk
 Fahrzeit
+Fahrzeug
 Faible
 fair
 Fakir
