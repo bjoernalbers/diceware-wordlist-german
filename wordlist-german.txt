@@ -2366,6 +2366,7 @@ Fitness
 Fittich
 fix
 Fixie
+fixieren
 Fjord
 flach
 Flachs
