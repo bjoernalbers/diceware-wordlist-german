@@ -2074,6 +2074,7 @@ ersparen
 erstehen
 ersuchen
 ertappen
+ertasten
 Ertrag
 Erweis
 Erwerb
