@@ -2081,6 +2081,7 @@ ertragen
 eruieren
 Eruption
 erwachen
+erwarten
 Erweis
 Erwerb
 Erz
