@@ -2006,6 +2006,7 @@ erbse
 erdachse
 erdbeben
 erdbeere
+erdboden
 erde
 erdgas
 erdmaus
