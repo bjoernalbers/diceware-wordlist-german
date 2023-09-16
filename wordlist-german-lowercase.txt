@@ -2390,6 +2390,7 @@ flattern
 flaum
 flause
 flaute
+flechten
 fleck
 fleisch
 flex
