@@ -2050,6 +2050,7 @@ erlauben
 Erle
 erleben
 Erlebnis
+erlernen
 ernst
 Ernte
 ernten
