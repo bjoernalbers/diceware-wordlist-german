@@ -2181,6 +2181,7 @@ fairplay
 fakenews
 fakir
 fakt
+faktisch
 faktor
 falafel
 falke
