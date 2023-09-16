@@ -2027,6 +2027,7 @@ erfinden
 erfinder
 erfolg
 erfolgen
+erfragen
 erholen
 erker
 erle
