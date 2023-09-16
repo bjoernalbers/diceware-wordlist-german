@@ -2078,6 +2078,7 @@ ertasten
 erteilen
 Ertrag
 ertragen
+eruieren
 Erweis
 Erwerb
 Erz
