@@ -2404,6 +2404,7 @@ Flieger
 Fliese
 flimmern
 flink
+Flipflop
 Flipper
 Flirt
 flirten

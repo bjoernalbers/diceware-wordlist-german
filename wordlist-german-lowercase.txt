@@ -2404,6 +2404,7 @@ flieger
 fliese
 flimmern
 flink
+flipflop
 flipper
 flirt
 flirten
