@@ -2659,6 +2659,7 @@ Gedicht
 gediegen
 Geduld
 gedulden
+geduldig
 Geek
 Gegend
 Gegner

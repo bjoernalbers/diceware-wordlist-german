@@ -2659,6 +2659,7 @@ gedicht
 gediegen
 geduld
 gedulden
+geduldig
 geek
 gegend
 gegner
