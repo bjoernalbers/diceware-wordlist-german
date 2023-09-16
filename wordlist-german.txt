@@ -2721,6 +2721,7 @@ Genre
 Gentest
 Genuss
 Geologe
+Geologie
 Gepard
 gerade
 Geranie

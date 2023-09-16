@@ -2721,6 +2721,7 @@ genre
 gentest
 genuss
 geologe
+geologie
 gepard
 gerade
 geranie
