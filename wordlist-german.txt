@@ -1888,6 +1888,7 @@ Eisbombe
 Eischale
 Eischnee
 Eiscreme
+Eisdecke
 Eisen
 eisern
 Eisfach
