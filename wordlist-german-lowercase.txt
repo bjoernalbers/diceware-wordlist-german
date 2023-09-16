@@ -2169,6 +2169,7 @@ fahrer
 fahrgast
 fahrplan
 fahrrad
+fahrstil
 fahrt
 faible
 fair
