@@ -2395,6 +2395,7 @@ fleck
 fleisch
 flex
 flexen
+flexibel
 flicken
 flieder
 fliege
