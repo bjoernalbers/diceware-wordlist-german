@@ -2194,6 +2194,7 @@ fallrohr
 faltbar
 faltboot
 falter
+faltplan
 faltrad
 familie
 fan

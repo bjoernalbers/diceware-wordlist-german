@@ -2194,6 +2194,7 @@ Fallrohr
 faltbar
 Faltboot
 Falter
+Faltplan
 Faltrad
 Familie
 Fan
