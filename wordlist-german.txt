@@ -2707,6 +2707,7 @@ Gemurmel
 Gen
 genau
 Gendarm
+generell
 genesen
 Genetik
 genial
