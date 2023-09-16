@@ -2436,6 +2436,7 @@ flunkern
 Fluorid
 Fluppe
 Flur
+Flurfunk
 Fluse
 flusig
 Fluss
