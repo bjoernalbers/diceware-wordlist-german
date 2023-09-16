@@ -2494,6 +2494,7 @@ Fracking
 Frage
 fragen
 fragil
+fraglich
 Fraktur
 Franse
 fransig
