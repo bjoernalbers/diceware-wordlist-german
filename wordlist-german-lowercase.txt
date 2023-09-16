@@ -2075,6 +2075,7 @@ erstehen
 ersuchen
 ertappen
 ertasten
+erteilen
 ertrag
 erweis
 erwerb
