@@ -2022,6 +2022,7 @@ Erdwall
 ereignen
 Ereignis
 erfahren
+erfassen
 Erfolg
 erholen
 Erker
