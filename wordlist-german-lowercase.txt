@@ -2386,6 +2386,7 @@ flansch
 flasche
 flashmob
 flatrate
+flattern
 flaum
 flause
 flaute
