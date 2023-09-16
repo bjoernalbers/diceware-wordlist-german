@@ -1865,6 +1865,7 @@ Einsatz
 Einschub
 einsehen
 Einsicht
+Einstand
 Eintopf
 Eintrag
 Einwand
