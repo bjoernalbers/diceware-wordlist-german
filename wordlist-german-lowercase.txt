@@ -1885,6 +1885,7 @@ eisbein
 eisblock
 eisblume
 eisbombe
+eischale
 eisen
 eisern
 eisfach
