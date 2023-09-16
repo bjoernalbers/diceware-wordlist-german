@@ -2091,6 +2091,7 @@ erwerben
 erwidern
 erwirken
 Erz
+erzeugen
 Esche
 Essay
 essbar
