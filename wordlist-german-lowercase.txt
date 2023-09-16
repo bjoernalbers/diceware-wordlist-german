@@ -2114,6 +2114,7 @@ etappe
 etat
 eternit
 ethanol
+ethernet
 ethisch
 etikett
 etui
