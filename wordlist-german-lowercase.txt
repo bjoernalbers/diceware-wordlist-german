@@ -2305,6 +2305,7 @@ festland
 festlich
 festlohn
 festmahl
+festnetz
 festung
 feta
 fete
