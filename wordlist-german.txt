@@ -1898,6 +1898,7 @@ Eisfach
 eisfrei
 eisig
 eiskalt
+Eiskugel
 Eislauf
 Eismann
 Eismeer
