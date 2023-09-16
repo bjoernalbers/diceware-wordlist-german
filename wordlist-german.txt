@@ -1869,6 +1869,7 @@ Einstand
 Einstieg
 Eintopf
 Eintrag
+Eintritt
 Einwand
 Einwurf
 Einzahl
