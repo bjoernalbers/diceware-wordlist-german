@@ -2236,6 +2236,7 @@ fassbier
 fassen
 fassung
 fasten
+fastfood
 faszie
 fauchen
 fauna
