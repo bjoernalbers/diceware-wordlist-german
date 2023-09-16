@@ -2017,6 +2017,7 @@ Erdmaus
 Erdnuss
 Erdreich
 Erdteil
+erdulden
 Erdwall
 Erfolg
 erholen
