@@ -2232,6 +2232,7 @@ faserig
 Fashion
 Fass
 Fassade
+Fassbier
 fassen
 Fassung
 fasten
