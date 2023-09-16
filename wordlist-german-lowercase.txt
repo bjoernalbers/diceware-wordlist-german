@@ -1971,6 +1971,7 @@ enorm
 ensemble
 entasten
 ente
+enteisen
 enter
 entfall
 entgelt
