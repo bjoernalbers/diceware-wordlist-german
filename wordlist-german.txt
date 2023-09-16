@@ -2505,6 +2505,7 @@ Frau
 frei
 Freibad
 Freibier
+Freigabe
 Freitag
 Freude
 freudig
