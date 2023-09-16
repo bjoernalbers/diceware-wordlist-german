@@ -2083,6 +2083,7 @@ Eruption
 erwachen
 erwarten
 erwecken
+erwehren
 Erweis
 Erwerb
 Erz
