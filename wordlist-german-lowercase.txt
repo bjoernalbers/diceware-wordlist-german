@@ -2138,6 +2138,7 @@ expander
 experte
 explizit
 explosiv
+exponent
 export
 exposee
 express
