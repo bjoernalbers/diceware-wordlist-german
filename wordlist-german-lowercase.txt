@@ -2212,6 +2212,7 @@ fankurve
 fanmeile
 fanpost
 fanshop
+fantasie
 fantasy
 farbe
 farbig
