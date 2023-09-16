@@ -2272,6 +2272,7 @@ feinheit
 feinkost
 feinripp
 feld
+feldbett
 feldweg
 felge
 fell
