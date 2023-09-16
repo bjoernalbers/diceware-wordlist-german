@@ -2094,6 +2094,7 @@ Erz
 erzeugen
 Erzeuger
 erziehen
+Erzieher
 Esche
 Essay
 essbar
