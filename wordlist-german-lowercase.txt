@@ -2105,6 +2105,7 @@ essen
 essenz
 essig
 esstisch
+estragon
 estrich
 eszett
 etage
