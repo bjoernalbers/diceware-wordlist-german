@@ -2450,6 +2450,7 @@ Fokus
 Folge
 folgen
 folgern
+Folgetag
 Folie
 Fond
 Fondant
