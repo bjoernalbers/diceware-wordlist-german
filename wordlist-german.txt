@@ -1955,6 +1955,7 @@ Ende
 enden
 Endivie
 endlos
+Endoskop
 Endung
 Endzeit
 Energie
