@@ -2685,6 +2685,7 @@ Geiger
 Geist
 geistern
 Gekicher
+Gekrakel
 Gel
 gelb
 Geld
