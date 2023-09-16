@@ -2402,6 +2402,7 @@ fliege
 fliegen
 flieger
 fliese
+flimmern
 flink
 flipper
 flirt
