@@ -2616,6 +2616,7 @@ gardine
 garen
 garn
 garnele
+garnitur
 garten
 gas
 gasherd

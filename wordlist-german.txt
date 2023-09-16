@@ -2616,6 +2616,7 @@ Gardine
 garen
 Garn
 Garnele
+Garnitur
 Garten
 Gas
 Gasherd
