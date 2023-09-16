@@ -1928,6 +1928,7 @@ elektrik
 elektron
 element
 elfe
+elfmeter
 elite
 elixier
 ellipse
