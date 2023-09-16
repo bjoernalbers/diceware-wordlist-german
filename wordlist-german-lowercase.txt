@@ -2038,6 +2038,7 @@ erhitzen
 erhoffen
 erholen
 erholsam
+erholung
 erker
 erle
 erleben
