@@ -1908,6 +1908,7 @@ Eissalat
 Eissport
 Eisstock
 Eistee
+Eistorte
 Eiswein
 Eiszeit
 Eizelle
