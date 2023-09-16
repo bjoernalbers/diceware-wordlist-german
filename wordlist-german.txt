@@ -1889,6 +1889,7 @@ Eischale
 Eischnee
 Eiscreme
 Eisdecke
+Eisdiele
 Eisen
 eisern
 Eisfach
