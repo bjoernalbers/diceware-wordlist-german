@@ -2289,6 +2289,7 @@ Ferien
 fern
 Ferne
 Fernglas
+Fernkurs
 Fernost
 Fernweh
 Fernzug
