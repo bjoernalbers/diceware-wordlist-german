@@ -2512,6 +2512,7 @@ freiraum
 freisinn
 freitag
 freiwild
+freiwurf
 freude
 freudig
 freuen
