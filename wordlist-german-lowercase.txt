@@ -2134,6 +2134,7 @@ existent
 existenz
 exklusiv
 exotisch
+expander
 experte
 export
 exposee
