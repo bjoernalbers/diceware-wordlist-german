@@ -2260,6 +2260,7 @@ fegen
 fehde
 fehlen
 fehler
+fehlpass
 feier
 feiern
 feile
