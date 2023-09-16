@@ -2630,6 +2630,7 @@ Gast
 Gasthaus
 Gasthof
 gastlich
+Gastwirt
 Gasuhr
 Gaswerk
 Gate
