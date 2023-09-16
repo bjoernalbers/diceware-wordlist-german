@@ -2178,6 +2178,7 @@ faible
 fair
 fairness
 fairplay
+fakenews
 fakir
 fakt
 faktor
