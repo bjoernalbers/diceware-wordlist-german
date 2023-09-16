@@ -2406,6 +2406,7 @@ flimmern
 flink
 Flipflop
 Flipper
+flippern
 Flirt
 flirten
 flitzen
