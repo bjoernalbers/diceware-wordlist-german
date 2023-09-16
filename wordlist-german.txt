@@ -2146,6 +2146,7 @@ exquisit
 extern
 Extra
 Extrakt
+exzessiv
 Fabel
 Fabrik
 Facette
