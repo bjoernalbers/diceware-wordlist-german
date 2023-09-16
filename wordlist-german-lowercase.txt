@@ -1807,6 +1807,7 @@ eigelb
 eigen
 eigenbau
 eigentor
+eigentum
 eignen
 eiklar
 eiland
