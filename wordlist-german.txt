@@ -2649,6 +2649,7 @@ Gebilde
 Gebirge
 gebirgig
 Gebiss
+Gebrauch
 Geburt
 Gecko
 Gedanke
