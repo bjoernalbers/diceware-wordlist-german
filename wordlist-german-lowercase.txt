@@ -2371,6 +2371,7 @@ fixpreis
 fjord
 flach
 flachs
+flachsen
 flagge
 flair
 flakon

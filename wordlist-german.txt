@@ -2371,6 +2371,7 @@ Fixpreis
 Fjord
 flach
 Flachs
+flachsen
 Flagge
 Flair
 Flakon
