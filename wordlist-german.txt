@@ -2670,6 +2670,7 @@ Gehalt
 Gehege
 geheim
 gehen
+Gehhilfe
 Gehilfe
 Gehirn
 Gehrung

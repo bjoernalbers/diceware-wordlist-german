@@ -2670,6 +2670,7 @@ gehalt
 gehege
 geheim
 gehen
+gehhilfe
 gehilfe
 gehirn
 gehrung
