@@ -1796,6 +1796,7 @@ Eiche
 eichen
 Eid
 Eidechse
+Eidotter
 eiern
 Eieruhr
 Eifer
