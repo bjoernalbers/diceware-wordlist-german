@@ -1950,6 +1950,7 @@ empore
 emsig
 emu
 emulsion
+encoding
 ende
 enden
 endivie
