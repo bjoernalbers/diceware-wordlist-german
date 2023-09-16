@@ -2155,6 +2155,7 @@ Facette
 Fach
 Facharzt
 Fachbuch
+fachlich
 Fackel
 Faden
 Fahne
