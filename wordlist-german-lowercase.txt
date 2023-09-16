@@ -2104,6 +2104,7 @@ essbar
 essen
 essenz
 essig
+esstisch
 estrich
 eszett
 etage
