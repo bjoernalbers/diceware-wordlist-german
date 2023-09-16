@@ -2251,6 +2251,7 @@ Februar
 fechten
 Fechter
 Feder
+Federboa
 Fee
 fegen
 Fehde
