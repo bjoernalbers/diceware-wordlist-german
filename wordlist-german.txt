@@ -2010,6 +2010,7 @@ Erdboden
 Erde
 erdenken
 Erdgas
+Erdkabel
 Erdmaus
 Erdnuss
 Erdteil

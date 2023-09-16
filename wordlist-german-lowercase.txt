@@ -2010,6 +2010,7 @@ erdboden
 erde
 erdenken
 erdgas
+erdkabel
 erdmaus
 erdnuss
 erdteil
