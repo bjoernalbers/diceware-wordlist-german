@@ -2264,6 +2264,7 @@ fehlpass
 fehlzeit
 feier
 feiern
+feiertag
 feile
 feilen
 fein

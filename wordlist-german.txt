@@ -2264,6 +2264,7 @@ Fehlpass
 Fehlzeit
 Feier
 feiern
+Feiertag
 Feile
 feilen
 fein
