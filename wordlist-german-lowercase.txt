@@ -2070,6 +2070,7 @@ ersatz
 ersehnen
 ersetzen
 ersinnen
+ersparen
 ertrag
 erweis
 erwerb
