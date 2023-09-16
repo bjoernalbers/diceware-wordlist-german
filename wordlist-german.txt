@@ -2049,6 +2049,7 @@ erlassen
 erlauben
 Erle
 erleben
+Erlebnis
 ernst
 Ernte
 ernten
