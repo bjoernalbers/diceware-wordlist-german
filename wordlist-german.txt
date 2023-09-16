@@ -2611,6 +2611,7 @@ ganz
 Ganzzahl
 gar
 Garage
+Garantie
 Gardine
 garen
 Garn
