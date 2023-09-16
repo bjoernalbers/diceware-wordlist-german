@@ -2093,6 +2093,7 @@ erwirken
 erz
 erzeugen
 erzeuger
+erziehen
 esche
 essay
 essbar
