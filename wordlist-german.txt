@@ -1805,6 +1805,7 @@ eifern
 eifrig
 Eigelb
 eigen
+Eigenbau
 eignen
 Eiklar
 Eiland
