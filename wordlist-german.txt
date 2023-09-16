@@ -2490,6 +2490,7 @@ Foxtrott
 Fracht
 Frachter
 Frack
+Fracking
 Frage
 fragen
 fragil
