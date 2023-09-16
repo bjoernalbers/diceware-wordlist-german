@@ -2077,6 +2077,7 @@ ertappen
 ertasten
 erteilen
 Ertrag
+ertragen
 Erweis
 Erwerb
 Erz
