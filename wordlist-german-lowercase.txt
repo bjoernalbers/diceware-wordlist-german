@@ -1978,6 +1978,7 @@ entfall
 entgehen
 entgelt
 entladen
+entnahme
 entwurf
 entzwei
 enzian
