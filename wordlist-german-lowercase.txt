@@ -1905,6 +1905,7 @@ eismeer
 eisprung
 eisregen
 eissalat
+eissport
 eistee
 eiswein
 eiszeit
