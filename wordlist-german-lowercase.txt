@@ -2160,6 +2160,7 @@ fachmann
 fachwerk
 fackel
 faden
+fahndung
 fahne
 fahrbar
 fahren
