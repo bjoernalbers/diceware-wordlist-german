@@ -2012,6 +2012,7 @@ erdenken
 erdgas
 erdkabel
 erdkugel
+erdkunde
 erdmaus
 erdnuss
 erdteil
