@@ -2316,6 +2316,7 @@ fettnapf
 fetzen
 fetzig
 feuer
+feuerrot
 feurig
 fibel
 fichte
