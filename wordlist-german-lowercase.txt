@@ -2511,6 +2511,7 @@ freilauf
 freiraum
 freisinn
 freitag
+freiwild
 freude
 freudig
 freuen
