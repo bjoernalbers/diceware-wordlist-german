@@ -2125,6 +2125,7 @@ euphorie
 euro
 event
 ewig
+ewigkeit
 exakt
 examen
 experte
