@@ -2586,6 +2586,7 @@ futtern
 gabe
 gabel
 gabeln
+gabelung
 gackern
 gadget
 gag
