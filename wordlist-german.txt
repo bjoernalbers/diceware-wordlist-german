@@ -2085,6 +2085,7 @@ erwarten
 erwecken
 erwehren
 Erweis
+erweisen
 Erwerb
 Erz
 Esche

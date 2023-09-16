@@ -2085,6 +2085,7 @@ erwarten
 erwecken
 erwehren
 erweis
+erweisen
 erwerb
 erz
 esche
