@@ -1957,6 +1957,7 @@ Endivie
 endlos
 Endoskop
 Endpreis
+Endspiel
 Endung
 Endzeit
 Energie
