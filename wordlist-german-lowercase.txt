@@ -1999,6 +1999,7 @@ erben
 erbeuten
 erbfolge
 erbgut
+erbitten
 erbse
 erde
 erdgas
