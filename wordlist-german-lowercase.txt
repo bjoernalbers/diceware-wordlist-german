@@ -2488,6 +2488,7 @@ foul
 foulen
 foxtrott
 fracht
+frachter
 frack
 frage
 fragen
