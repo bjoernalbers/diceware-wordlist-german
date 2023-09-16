@@ -2088,6 +2088,7 @@ erweis
 erweisen
 erwerb
 erwerben
+erwidern
 erz
 esche
 essay

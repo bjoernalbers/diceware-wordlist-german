@@ -2088,6 +2088,7 @@ Erweis
 erweisen
 Erwerb
 erwerben
+erwidern
 Erz
 Esche
 Essay
