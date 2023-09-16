@@ -1930,6 +1930,7 @@ element
 elfe
 elfmeter
 elite
+eliteuni
 elixier
 ellipse
 elster
