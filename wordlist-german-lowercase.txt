@@ -2154,6 +2154,7 @@ fabrikat
 facette
 fach
 facharzt
+fachbuch
 fackel
 faden
 fahne
