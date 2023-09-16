@@ -2542,6 +2542,7 @@ frostig
 frottee
 frotzeln
 frucht
+fruchten
 fuchs
 fuchsie
 fuder
