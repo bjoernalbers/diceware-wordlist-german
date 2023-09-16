@@ -2268,6 +2268,7 @@ feiertag
 feile
 feilen
 fein
+feinheit
 feld
 feldweg
 felge
