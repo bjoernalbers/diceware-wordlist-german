@@ -2064,6 +2064,7 @@ erratbar
 erraten
 erregbar
 Erreger
+Erregung
 Ersatz
 Ertrag
 Erweis

@@ -2064,6 +2064,7 @@ erratbar
 erraten
 erregbar
 erreger
+erregung
 ersatz
 ertrag
 erweis
