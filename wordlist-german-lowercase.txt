@@ -1956,6 +1956,7 @@ enden
 endivie
 endlos
 endoskop
+endpreis
 endung
 endzeit
 energie
