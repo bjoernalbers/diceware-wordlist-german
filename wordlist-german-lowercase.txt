@@ -2384,6 +2384,7 @@ flanke
 flanken
 flansch
 flasche
+flashmob
 flaum
 flause
 flaute

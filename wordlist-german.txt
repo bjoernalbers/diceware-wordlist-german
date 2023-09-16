@@ -2384,6 +2384,7 @@ Flanke
 flanken
 Flansch
 Flasche
+Flashmob
 Flaum
 Flause
 Flaute
