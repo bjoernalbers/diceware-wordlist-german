@@ -2060,6 +2060,7 @@ Ernte
 ernten
 Erosion
 Erpel
+erratbar
 erraten
 Erreger
 Ersatz
