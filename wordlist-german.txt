@@ -2079,6 +2079,7 @@ erteilen
 Ertrag
 ertragen
 eruieren
+Eruption
 Erweis
 Erwerb
 Erz
