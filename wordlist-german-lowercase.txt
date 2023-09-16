@@ -1902,6 +1902,7 @@ eiskugel
 eislauf
 eismann
 eismeer
+eisprung
 eistee
 eiswein
 eiszeit
