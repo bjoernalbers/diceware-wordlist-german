@@ -1932,6 +1932,7 @@ Elfmeter
 Elite
 Eliteuni
 Elixier
+Ellbogen
 Ellipse
 Elster
 Eltern
