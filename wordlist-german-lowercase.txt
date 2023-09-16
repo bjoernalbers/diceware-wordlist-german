@@ -1968,6 +1968,7 @@ engpass
 enigma
 enkel
 enorm
+ensemble
 ente
 enter
 entfall
