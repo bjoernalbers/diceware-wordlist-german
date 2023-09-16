@@ -2296,6 +2296,7 @@ fernweh
 fernzug
 ferse
 fertig
+fertigen
 fesch
 fest
 festakt
