@@ -2054,6 +2054,7 @@ erlernen
 ermahnen
 ermessen
 ernennen
+erneuern
 ernst
 Ernte
 ernten
