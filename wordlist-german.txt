@@ -2157,6 +2157,7 @@ Facharzt
 Fachbuch
 fachlich
 Fachmann
+Fachwerk
 Fackel
 Faden
 Fahne
