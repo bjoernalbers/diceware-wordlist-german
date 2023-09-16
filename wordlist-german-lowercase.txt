@@ -2132,6 +2132,7 @@ exekutiv
 exemplar
 existent
 existenz
+exklusiv
 experte
 export
 exposee
