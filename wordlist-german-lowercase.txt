@@ -2303,6 +2303,7 @@ festakt
 festival
 festland
 festlich
+festlohn
 festung
 feta
 fete
