@@ -2428,6 +2428,7 @@ fluffig
 Flug
 Flugbahn
 Fluggast
+Flugplan
 Flunder
 Fluorid
 Fluppe
