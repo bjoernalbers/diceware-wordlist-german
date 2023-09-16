@@ -2654,6 +2654,7 @@ geburt
 gecko
 gedanke
 gedeck
+gedeihen
 gedicht
 geduld
 geek
