@@ -2627,6 +2627,7 @@ Gaspedal
 Gaspreis
 Gasse
 Gast
+Gasthaus
 Gasthof
 Gasuhr
 Gaswerk
