@@ -1940,6 +1940,7 @@ eltern
 email
 emblem
 embryo
+emission
 emmy
 emoji
 emotion
