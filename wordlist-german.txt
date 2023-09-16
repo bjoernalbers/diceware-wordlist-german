@@ -2529,6 +2529,7 @@ Friseur
 Frist
 fristlos
 Frisur
+Friteuse
 Fritte
 froh
 Front
