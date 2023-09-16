@@ -2166,6 +2166,7 @@ fahrbahn
 fahrbar
 fahren
 fahrer
+fahrgast
 fahrrad
 fahrt
 faible
