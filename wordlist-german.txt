@@ -2661,6 +2661,7 @@ Geduld
 gedulden
 geduldig
 Geek
+gefallen
 Gegend
 Gegner
 Gehalt
