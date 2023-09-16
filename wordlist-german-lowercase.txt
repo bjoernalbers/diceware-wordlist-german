@@ -2695,6 +2695,7 @@ geld
 gelee
 geleiten
 gelenk
+gelenkig
 geloben
 gelten
 gemahl
