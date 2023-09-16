@@ -2041,6 +2041,7 @@ erholsam
 Erholung
 erinnern
 erkalten
+erkennen
 Erker
 Erle
 erleben
