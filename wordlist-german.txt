@@ -2452,6 +2452,7 @@ folgen
 folgern
 Folgetag
 Folie
+Folklore
 Fond
 Fondant
 Fondue

@@ -2452,6 +2452,7 @@ folgen
 folgern
 folgetag
 folie
+folklore
 fond
 fondant
 fondue
