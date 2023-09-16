@@ -2647,6 +2647,7 @@ gebiet
 gebieten
 gebilde
 gebirge
+gebirgig
 gebiss
 geburt
 gecko

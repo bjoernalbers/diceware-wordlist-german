@@ -2647,6 +2647,7 @@ Gebiet
 gebieten
 Gebilde
 Gebirge
+gebirgig
 Gebiss
 Geburt
 Gecko
