@@ -2171,6 +2171,7 @@ Fahrplan
 Fahrrad
 Fahrstil
 Fahrt
+Fahrwerk
 Faible
 fair
 Fakir

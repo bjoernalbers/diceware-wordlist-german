@@ -2171,6 +2171,7 @@ fahrplan
 fahrrad
 fahrstil
 fahrt
+fahrwerk
 faible
 fair
 fakir
