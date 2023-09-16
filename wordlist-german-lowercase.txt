@@ -2095,6 +2095,7 @@ erzeugen
 erzeuger
 erziehen
 erzieher
+erzielen
 esche
 essay
 essbar
