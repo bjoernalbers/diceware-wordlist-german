@@ -2608,6 +2608,7 @@ gammelig
 gang
 gangster
 ganz
+ganzzahl
 gar
 garage
 gardine
