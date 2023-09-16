@@ -1838,6 +1838,7 @@ einfuhr
 eingabe
 eingang
 eingeben
+eingehen
 einheit
 einhorn
 einig
