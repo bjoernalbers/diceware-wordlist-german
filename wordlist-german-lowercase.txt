@@ -1969,6 +1969,7 @@ enigma
 enkel
 enorm
 ensemble
+entasten
 ente
 enter
 entfall
