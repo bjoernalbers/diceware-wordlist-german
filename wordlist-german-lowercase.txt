@@ -2291,6 +2291,7 @@ ferne
 fernglas
 fernkurs
 fernost
+fernrohr
 fernweh
 fernzug
 ferse
