@@ -1959,6 +1959,7 @@ endoskop
 endpreis
 endspiel
 endspurt
+endstufe
 endung
 endzeit
 energie
