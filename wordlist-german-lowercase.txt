@@ -2472,6 +2472,7 @@ formell
 formen
 formlos
 formtief
+formular
 forsch
 forst
 fort
