@@ -2623,6 +2623,7 @@ Gasbeton
 Gasherd
 Gasmaske
 Gasofen
+Gaspedal
 Gasse
 Gast
 Gasthof
