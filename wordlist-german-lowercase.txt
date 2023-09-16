@@ -2696,6 +2696,7 @@ gelee
 geleiten
 gelenk
 gelenkig
+gelieren
 geloben
 gelten
 gemahl

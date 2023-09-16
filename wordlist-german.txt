@@ -2696,6 +2696,7 @@ Gelee
 geleiten
 Gelenk
 gelenkig
+gelieren
 geloben
 gelten
 Gemahl
