@@ -2304,6 +2304,7 @@ festival
 festland
 festlich
 festlohn
+festmahl
 festung
 feta
 fete
