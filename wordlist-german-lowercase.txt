@@ -2172,6 +2172,7 @@ fahrrad
 fahrstil
 fahrt
 fahrwerk
+fahrzeit
 faible
 fair
 fakir
