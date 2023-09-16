@@ -2496,6 +2496,7 @@ fragen
 fragil
 fraglich
 Fragment
+Fraktion
 Fraktur
 Franse
 fransig
