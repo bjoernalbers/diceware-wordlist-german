@@ -2021,6 +2021,7 @@ erdulden
 Erdwall
 ereignen
 Ereignis
+erfahren
 Erfolg
 erholen
 Erker
