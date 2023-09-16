@@ -2475,6 +2475,7 @@ Formtief
 Formular
 forsch
 forschen
+Forscher
 Forst
 Fort
 Forum
