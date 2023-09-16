@@ -2040,6 +2040,7 @@ erholen
 erholsam
 erholung
 erinnern
+erkalten
 erker
 erle
 erleben
