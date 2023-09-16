@@ -2023,6 +2023,7 @@ ereignen
 ereignis
 erfahren
 erfassen
+erfinden
 erfolg
 erholen
 erker
