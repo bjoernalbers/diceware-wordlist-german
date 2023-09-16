@@ -2221,6 +2221,7 @@ farbig
 Farbraum
 Farbrest
 Farbton
+Farbwert
 Farm
 Farmer
 Farn

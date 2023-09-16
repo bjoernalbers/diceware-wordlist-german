@@ -2221,6 +2221,7 @@ farbig
 farbraum
 farbrest
 farbton
+farbwert
 farm
 farmer
 farn
