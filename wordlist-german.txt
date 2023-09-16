@@ -2367,6 +2367,7 @@ Fittich
 fix
 Fixie
 fixieren
+Fixpreis
 Fjord
 flach
 Flachs

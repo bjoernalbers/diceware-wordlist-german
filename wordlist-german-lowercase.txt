@@ -2367,6 +2367,7 @@ fittich
 fix
 fixie
 fixieren
+fixpreis
 fjord
 flach
 flachs
