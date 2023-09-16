@@ -2308,6 +2308,7 @@ Festmahl
 Festnetz
 Festsaal
 Festung
+Festzelt
 Feta
 Fete
 Fetzen
