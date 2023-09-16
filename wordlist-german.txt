@@ -2253,6 +2253,7 @@ Fechter
 Feder
 Federboa
 Federhut
+Federung
 Fee
 fegen
 Fehde
