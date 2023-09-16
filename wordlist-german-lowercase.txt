@@ -1997,6 +1997,7 @@ erbauer
 erbe
 erben
 erbeuten
+erbfolge
 erbgut
 erbse
 erde
