@@ -2089,6 +2089,7 @@ erweisen
 erwerb
 erwerben
 erwidern
+erwirken
 erz
 esche
 essay

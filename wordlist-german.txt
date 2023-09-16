@@ -2089,6 +2089,7 @@ erweisen
 Erwerb
 erwerben
 erwidern
+erwirken
 Erz
 Esche
 Essay
