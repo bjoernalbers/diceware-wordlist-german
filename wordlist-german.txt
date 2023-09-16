@@ -2545,6 +2545,7 @@ Frucht
 fruchten
 fruchtig
 Fuchs
+Fuchsbau
 Fuchsie
 Fuder
 Fuge
