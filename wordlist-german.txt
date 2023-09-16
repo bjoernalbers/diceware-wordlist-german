@@ -2372,6 +2372,7 @@ Fjord
 flach
 Flachs
 flachsen
+flackern
 Flagge
 Flair
 Flakon

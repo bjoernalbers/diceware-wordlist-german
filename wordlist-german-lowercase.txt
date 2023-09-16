@@ -2372,6 +2372,7 @@ fjord
 flach
 flachs
 flachsen
+flackern
 flagge
 flair
 flakon
