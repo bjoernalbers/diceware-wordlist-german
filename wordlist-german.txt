@@ -1854,6 +1854,7 @@ Einkunft
 einladen
 Einlage
 Einlass
+einleben
 Einrad
 Einsatz
 Eintopf
