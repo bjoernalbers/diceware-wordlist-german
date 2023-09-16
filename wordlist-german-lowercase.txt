@@ -2192,6 +2192,7 @@ fallen
 fallobst
 fallrohr
 faltbar
+faltboot
 falter
 faltrad
 familie
