@@ -2039,6 +2039,7 @@ erhoffen
 erholen
 erholsam
 erholung
+erinnern
 erker
 erle
 erleben
