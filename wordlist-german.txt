@@ -1857,6 +1857,7 @@ Einlass
 einleben
 einlesen
 einmalig
+Einnahme
 Einrad
 Einsatz
 Eintopf
