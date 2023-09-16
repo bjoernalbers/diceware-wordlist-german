@@ -2355,6 +2355,7 @@ finte
 fintech
 firewall
 firma
+firmware
 first
 fisch
 fischen
