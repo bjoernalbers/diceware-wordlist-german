@@ -2543,6 +2543,7 @@ Frottee
 frotzeln
 Frucht
 fruchten
+fruchtig
 Fuchs
 Fuchsie
 Fuder
