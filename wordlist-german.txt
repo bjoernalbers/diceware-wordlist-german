@@ -2072,6 +2072,7 @@ ersetzen
 ersinnen
 ersparen
 erstehen
+ersuchen
 Ertrag
 Erweis
 Erwerb
