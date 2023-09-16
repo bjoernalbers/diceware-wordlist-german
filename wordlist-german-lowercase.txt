@@ -2565,6 +2565,7 @@ funkeln
 funken
 funker
 funkloch
+funkmast
 funkuhr
 funzel
 furche
