@@ -2676,6 +2676,7 @@ Gehirn
 gehorsam
 Gehpause
 Gehrung
+Gehstock
 Gehweg
 geiern
 Geige
