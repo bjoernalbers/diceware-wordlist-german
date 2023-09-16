@@ -2432,6 +2432,7 @@ Flugplan
 Flugzeit
 Flugzeug
 Flunder
+flunkern
 Fluorid
 Fluppe
 Flur
