@@ -2176,6 +2176,7 @@ Fahrzeit
 Fahrzeug
 Faible
 fair
+Fairness
 Fakir
 Fakt
 Faktor

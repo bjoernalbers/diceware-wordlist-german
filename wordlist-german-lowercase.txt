@@ -2176,6 +2176,7 @@ fahrzeit
 fahrzeug
 faible
 fair
+fairness
 fakir
 fakt
 faktor
