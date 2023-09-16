@@ -1882,6 +1882,7 @@ eisarena
 eisaxt
 eisbahn
 eisbein
+eisblock
 eisen
 eisern
 eisfach
