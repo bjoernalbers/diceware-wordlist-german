@@ -2656,6 +2656,7 @@ gedanke
 gedeck
 gedeihen
 gedicht
+gediegen
 geduld
 geek
 gegend
