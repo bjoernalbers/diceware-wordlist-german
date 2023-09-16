@@ -2597,6 +2597,7 @@ galaxie
 galaxis
 galerie
 galopp
+galosche
 game
 gamepad
 gamer
