@@ -2208,6 +2208,7 @@ fangnetz
 fango
 fangobad
 fangzahn
+fankurve
 fanpost
 fanshop
 fantasy
