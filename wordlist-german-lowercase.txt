@@ -2281,6 +2281,7 @@ fell
 fels
 felsen
 felsig
+felswand
 feminin
 fenchel
 fenster
