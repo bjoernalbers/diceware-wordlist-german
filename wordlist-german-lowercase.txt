@@ -2216,6 +2216,7 @@ fantasie
 fantasy
 farbe
 farbecht
+farbfoto
 farbig
 farbton
 farm
