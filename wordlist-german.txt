@@ -2131,6 +2131,7 @@ Examen
 exekutiv
 Exemplar
 existent
+Existenz
 Experte
 Export
 Exposee
