@@ -2153,6 +2153,7 @@ fabrik
 fabrikat
 facette
 fach
+facharzt
 fackel
 faden
 fahne
