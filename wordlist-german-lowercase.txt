@@ -2288,6 +2288,7 @@ fenster
 ferien
 fern
 ferne
+fernglas
 fernost
 fernweh
 fernzug
