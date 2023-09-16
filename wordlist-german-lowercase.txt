@@ -2306,6 +2306,7 @@ festlich
 festlohn
 festmahl
 festnetz
+festsaal
 festung
 feta
 fete
