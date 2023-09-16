@@ -1840,6 +1840,7 @@ eingang
 eingeben
 eingehen
 eingriff
+einhaken
 einheit
 einhorn
 einig
