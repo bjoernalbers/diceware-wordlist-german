@@ -2693,6 +2693,7 @@ gelatine
 gelb
 geld
 gelee
+geleiten
 gelenk
 geloben
 gelten

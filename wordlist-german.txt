@@ -2693,6 +2693,7 @@ Gelatine
 gelb
 Geld
 Gelee
+geleiten
 Gelenk
 geloben
 gelten
