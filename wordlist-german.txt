@@ -2133,6 +2133,7 @@ Exemplar
 existent
 Existenz
 exklusiv
+exotisch
 Experte
 Export
 Exposee
