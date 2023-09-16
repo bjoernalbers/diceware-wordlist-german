@@ -2486,6 +2486,7 @@ fotogen
 Fotograf
 Foul
 foulen
+Foxtrott
 Fracht
 Frack
 Frage
