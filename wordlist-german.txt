@@ -2269,6 +2269,7 @@ Feile
 feilen
 fein
 Feinheit
+Feinkost
 Feld
 Feldweg
 Felge
