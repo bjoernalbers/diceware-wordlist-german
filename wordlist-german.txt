@@ -1981,6 +1981,7 @@ entladen
 Entnahme
 entnervt
 Entropie
+entsagen
 Entwurf
 entzwei
 Enzian
