@@ -1973,6 +1973,7 @@ entasten
 Ente
 enteisen
 Enter
+enterben
 Entfall
 Entgelt
 Entwurf
