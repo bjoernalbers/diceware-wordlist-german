@@ -2062,6 +2062,7 @@ erosion
 erpel
 erratbar
 erraten
+erregbar
 erreger
 ersatz
 ertrag
