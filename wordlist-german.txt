@@ -1842,6 +1842,7 @@ eingehen
 Eingriff
 einhaken
 Einheit
+einholen
 Einhorn
 einig
 einigen
