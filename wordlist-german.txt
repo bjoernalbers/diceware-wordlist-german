@@ -1958,6 +1958,7 @@ endlos
 Endoskop
 Endpreis
 Endspiel
+Endspurt
 Endung
 Endzeit
 Energie
