@@ -2430,6 +2430,7 @@ flugbahn
 fluggast
 flugplan
 flugzeit
+flugzeug
 flunder
 fluorid
 fluppe
