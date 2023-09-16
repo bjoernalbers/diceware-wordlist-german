@@ -2142,6 +2142,7 @@ exponent
 export
 exposee
 express
+exquisit
 extern
 extra
 extrakt
