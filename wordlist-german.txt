@@ -1846,6 +1846,7 @@ einholen
 Einhorn
 einig
 einigen
+Einigung
 Einkauf
 Einkehr
 Einlage
