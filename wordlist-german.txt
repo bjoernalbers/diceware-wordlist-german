@@ -1980,6 +1980,7 @@ Entgelt
 entladen
 Entnahme
 entnervt
+Entropie
 Entwurf
 entzwei
 Enzian
