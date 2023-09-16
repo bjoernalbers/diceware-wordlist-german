@@ -2020,6 +2020,7 @@ erdteil
 erdulden
 erdwall
 ereignen
+ereignis
 erfolg
 erholen
 erker
