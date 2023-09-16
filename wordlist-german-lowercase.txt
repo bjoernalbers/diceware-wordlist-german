@@ -2703,6 +2703,7 @@ gelten
 gemahl
 gemeinde
 gemisch
+gemurmel
 gen
 genau
 gendarm
