@@ -1910,6 +1910,7 @@ Eisstock
 Eistee
 Eistorte
 Eisvogel
+Eiswagen
 Eiswein
 Eiszeit
 Eizelle
