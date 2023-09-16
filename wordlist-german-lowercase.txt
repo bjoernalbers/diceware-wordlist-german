@@ -2130,6 +2130,7 @@ exakt
 examen
 exekutiv
 exemplar
+existent
 experte
 export
 exposee
