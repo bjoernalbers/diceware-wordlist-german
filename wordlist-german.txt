@@ -2218,6 +2218,7 @@ Farbe
 farbecht
 Farbfoto
 farbig
+Farbraum
 Farbton
 Farm
 Farmer

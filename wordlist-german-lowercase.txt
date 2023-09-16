@@ -2218,6 +2218,7 @@ farbe
 farbecht
 farbfoto
 farbig
+farbraum
 farbton
 farm
 farmer
