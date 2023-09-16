@@ -1924,6 +1924,7 @@ elchtest
 eldorado
 elegant
 eleganz
+elektrik
 element
 elfe
 elite
