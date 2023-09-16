@@ -2567,6 +2567,7 @@ Funker
 Funkloch
 Funkmast
 Funktion
+Funkturm
 Funkuhr
 Funzel
 Furche
