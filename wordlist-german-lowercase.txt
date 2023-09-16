@@ -2019,6 +2019,7 @@ erdreich
 erdteil
 erdulden
 erdwall
+ereignen
 erfolg
 erholen
 erker
