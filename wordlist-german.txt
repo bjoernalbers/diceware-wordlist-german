@@ -1944,6 +1944,7 @@ Emission
 Emmy
 Emoji
 Emotion
+Empathie
 Empfang
 Empore
 emsig
