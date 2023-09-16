@@ -1886,6 +1886,7 @@ Eisblock
 Eisblume
 Eisbombe
 Eischale
+Eischnee
 Eisen
 eisern
 Eisfach
