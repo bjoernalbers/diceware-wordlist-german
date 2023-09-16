@@ -1925,6 +1925,7 @@ eldorado
 elegant
 eleganz
 elektrik
+elektron
 element
 elfe
 elite
