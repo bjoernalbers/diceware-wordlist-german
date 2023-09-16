@@ -2514,6 +2514,7 @@ freitag
 freiwild
 freiwurf
 freizeit
+frequenz
 freude
 freudig
 freuen
