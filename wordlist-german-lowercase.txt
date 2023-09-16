@@ -2087,6 +2087,7 @@ erwehren
 erweis
 erweisen
 erwerb
+erwerben
 erz
 esche
 essay

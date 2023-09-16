@@ -2087,6 +2087,7 @@ erwehren
 Erweis
 erweisen
 Erwerb
+erwerben
 Erz
 Esche
 Essay
