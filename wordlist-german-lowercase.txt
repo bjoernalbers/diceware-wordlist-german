@@ -2619,6 +2619,7 @@ garnele
 garnitur
 garten
 gas
+gasbeton
 gasherd
 gasofen
 gasse
