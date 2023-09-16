@@ -2683,6 +2683,7 @@ geige
 geigen
 geiger
 geist
+geistern
 gel
 gelb
 geld
