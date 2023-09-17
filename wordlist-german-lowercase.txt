@@ -2964,6 +2964,7 @@ halbrund
 halbvoll
 halbwach
 halbzeit
+halfpipe
 halfter
 hall
 halle
