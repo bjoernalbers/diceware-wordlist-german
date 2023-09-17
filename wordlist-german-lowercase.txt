@@ -2806,6 +2806,7 @@ glasur
 glatt
 glatteis
 gleich
+gleichen
 gleis
 gleiten
 glimmen

@@ -2806,6 +2806,7 @@ Glasur
 glatt
 Glatteis
 gleich
+gleichen
 Gleis
 gleiten
 glimmen
