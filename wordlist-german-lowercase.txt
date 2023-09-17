@@ -3233,6 +3233,7 @@ holz
 holzbank
 holzbein
 holzdach
+holzfass
 holzig
 holzweg
 hommage
