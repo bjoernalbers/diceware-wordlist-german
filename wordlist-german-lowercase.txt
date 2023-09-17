@@ -3046,6 +3046,7 @@ hausarzt
 hausboot
 hausdach
 hausecke
+hausflur
 hausrat
 haut
 hauteng
