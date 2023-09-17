@@ -3017,6 +3017,7 @@ haptik
 haptisch
 hardcopy
 hardrock
+hardware
 harfe
 harke
 harken
