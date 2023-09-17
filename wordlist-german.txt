@@ -2840,6 +2840,7 @@ Goldzahn
 Golf
 Golfball
 Golfer
+Golfklub
 Gondel
 Gong
 googeln
