@@ -3125,6 +3125,7 @@ Henkel
 Henne
 herb
 Herberge
+herbeten
 Herbst
 Herd
 Herde

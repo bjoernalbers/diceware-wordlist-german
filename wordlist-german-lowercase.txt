@@ -3125,6 +3125,7 @@ henkel
 henne
 herb
 herberge
+herbeten
 herbst
 herd
 herde
