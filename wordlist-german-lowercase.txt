@@ -3115,6 +3115,7 @@ hell
 hellblau
 hellgelb
 hellgrau
+hellrosa
 hellrot
 helm
 hemd
