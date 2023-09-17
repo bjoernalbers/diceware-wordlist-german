@@ -2898,6 +2898,7 @@ Grotte
 Grube
 grummeln
 Grund
+grundlos
 Grunge
 grunzen
 Gruppe
