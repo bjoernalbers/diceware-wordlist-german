@@ -2862,6 +2862,7 @@ gramm
 grammy
 grandios
 granit
+granular
 grappa
 gras
 grasen
