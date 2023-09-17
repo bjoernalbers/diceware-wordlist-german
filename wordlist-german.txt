@@ -2959,6 +2959,7 @@ halbgar
 Halbjahr
 halblang
 halbleer
+Halbmond
 Halfter
 Hall
 Halle
