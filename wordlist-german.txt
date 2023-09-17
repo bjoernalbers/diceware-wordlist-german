@@ -3049,6 +3049,7 @@ Hausecke
 Hausflur
 Haushalt
 haushoch
+Hauskauf
 Hausrat
 Haut
 hauteng

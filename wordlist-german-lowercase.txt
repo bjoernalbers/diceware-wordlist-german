@@ -3049,6 +3049,7 @@ hausecke
 hausflur
 haushalt
 haushoch
+hauskauf
 hausrat
 haut
 hauteng
