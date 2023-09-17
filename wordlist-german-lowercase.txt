@@ -2798,6 +2798,7 @@ glas
 glasauge
 glasdach
 glaser
+glaserei
 glasig
 glasur
 glatt
