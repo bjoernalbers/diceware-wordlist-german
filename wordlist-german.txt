@@ -3208,6 +3208,7 @@ hoch
 Hochform
 Hochhaus
 Hochland
+Hochofen
 Hochsee
 Hocke
 hocken
