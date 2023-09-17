@@ -2993,6 +2993,7 @@ Handbuch
 Handel
 handeln
 handfest
+Handgeld
 Handy
 Hang
 Hangar
