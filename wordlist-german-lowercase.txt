@@ -2791,6 +2791,7 @@ giraffe
 girlande
 gitarre
 gitter
+gladiole
 glanz
 glas
 glaser
