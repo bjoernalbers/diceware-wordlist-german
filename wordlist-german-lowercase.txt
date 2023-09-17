@@ -2994,6 +2994,7 @@ handel
 handeln
 handfest
 handgeld
+handicap
 handy
 hang
 hangar
