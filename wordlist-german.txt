@@ -3099,6 +3099,7 @@ heimlich
 Heimweg
 Heimweh
 Heirat
+heiraten
 heiser
 heiter
 heizen
