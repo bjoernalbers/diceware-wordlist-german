@@ -3222,6 +3222,7 @@ hoffnung
 hofstaat
 hoftor
 hoheit
+hohlraum
 holding
 holen
 holprig
