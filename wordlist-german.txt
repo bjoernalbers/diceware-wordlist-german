@@ -3093,6 +3093,7 @@ Heilung
 Heim
 Heimat
 heimisch
+Heimkehr
 Heimkino
 Heimweg
 Heimweh
