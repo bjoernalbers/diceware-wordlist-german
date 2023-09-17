@@ -3114,6 +3114,7 @@ Helium
 hell
 hellblau
 hellgelb
+hellgrau
 hellrot
 Helm
 Hemd
