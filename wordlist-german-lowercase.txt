@@ -2946,6 +2946,7 @@ hacker
 hafen
 hafer
 haften
+haftzeit
 hagel
 hageln
 hahn

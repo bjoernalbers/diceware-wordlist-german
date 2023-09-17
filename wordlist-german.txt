@@ -2946,6 +2946,7 @@ Hacker
 Hafen
 Hafer
 haften
+Haftzeit
 Hagel
 hageln
 Hahn
