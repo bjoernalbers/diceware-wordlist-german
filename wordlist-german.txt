@@ -3092,6 +3092,7 @@ heillos
 Heilung
 Heim
 Heimat
+heimisch
 Heimkino
 Heimweg
 Heimweh
