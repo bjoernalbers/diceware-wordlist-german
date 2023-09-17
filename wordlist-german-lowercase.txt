@@ -3177,6 +3177,7 @@ hingabe
 hinhauen
 hinken
 hinknien
+hinlegen
 hinter
 hinweg
 hinweis
