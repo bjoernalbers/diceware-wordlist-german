@@ -3015,6 +3015,7 @@ happy
 Happyend
 Haptik
 haptisch
+Hardcopy
 Harfe
 Harke
 harken
