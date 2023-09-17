@@ -2951,6 +2951,7 @@ hagel
 hageln
 hahn
 hai
+haifisch
 haiku
 haken
 halb
