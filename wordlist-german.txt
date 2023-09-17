@@ -2823,6 +2823,7 @@ glucksen
 Gluckser
 Glucose
 Glut
+Glutamat
 glutrot
 Gnu
 Gockel
