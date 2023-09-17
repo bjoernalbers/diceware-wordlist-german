@@ -3232,6 +3232,7 @@ holunder
 holz
 holzbank
 holzbein
+holzdach
 holzig
 holzweg
 hommage
