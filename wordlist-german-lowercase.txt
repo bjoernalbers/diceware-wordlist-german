@@ -3068,6 +3068,7 @@ hecheln
 hecht
 hechten
 hecke
+heckmeck
 hefe
 heft
 heften
