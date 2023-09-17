@@ -2838,6 +2838,7 @@ goldmine
 goldring
 goldzahn
 golf
+golfball
 golfer
 gondel
 gong
