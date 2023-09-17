@@ -2875,6 +2875,7 @@ graubrot
 graugelb
 graupel
 grauwal
+grauzone
 gravur
 greifen
 grell
