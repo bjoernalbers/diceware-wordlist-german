@@ -3027,6 +3027,7 @@ Harnisch
 Harpune
 hart
 Hartgeld
+Hartholz
 Harz
 Harzer
 Hase
