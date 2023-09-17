@@ -2896,6 +2896,7 @@ Groschen
 Groteske
 Grotte
 Grube
+grummeln
 Grund
 Grunge
 grunzen
