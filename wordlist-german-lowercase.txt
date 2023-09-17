@@ -2934,6 +2934,7 @@ haarfein
 haargel
 haarlack
 haarnetz
+haarreif
 haben
 habicht
 hack
