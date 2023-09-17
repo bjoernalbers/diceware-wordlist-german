@@ -2892,6 +2892,7 @@ grinsen
 grips
 grog
 groggy
+groschen
 grotte
 grube
 grund
