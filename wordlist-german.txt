@@ -3230,6 +3230,7 @@ holprig
 Holster
 Holunder
 Holz
+Holzbank
 holzig
 Holzweg
 Hommage
