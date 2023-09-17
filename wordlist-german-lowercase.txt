@@ -3016,6 +3016,7 @@ happyend
 haptik
 haptisch
 hardcopy
+hardrock
 harfe
 harke
 harken
