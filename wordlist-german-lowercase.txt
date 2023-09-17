@@ -2767,6 +2767,7 @@ gewerk
 gewinde
 gewinn
 gewinnen
+gewinner
 gewiss
 gewitzt
 geysir

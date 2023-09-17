@@ -2767,6 +2767,7 @@ Gewerk
 Gewinde
 Gewinn
 gewinnen
+Gewinner
 gewiss
 gewitzt
 Geysir
