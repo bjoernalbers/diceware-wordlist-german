@@ -3219,6 +3219,7 @@ hockey
 hof
 hoffen
 hoffnung
+hofstaat
 hoftor
 hoheit
 holding
