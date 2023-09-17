@@ -2738,6 +2738,7 @@ geruch
 geruhsam
 gesamt
 gesang
+gescheit
 geselle
 gesetz
 gesicht
