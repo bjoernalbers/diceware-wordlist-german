@@ -3087,6 +3087,7 @@ heilbar
 Heilbutt
 heilen
 Heiler
+heilfroh
 heillos
 Heilung
 Heim
