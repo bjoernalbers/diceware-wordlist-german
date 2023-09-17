@@ -2757,6 +2757,7 @@ gestein
 gestell
 gesund
 getreide
+getriebe
 gewand
 gewebe
 geweih
