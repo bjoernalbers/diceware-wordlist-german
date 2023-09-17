@@ -2819,6 +2819,7 @@ Globus
 Glocke
 Glossar
 gluckern
+glucksen
 Glucose
 Glut
 glutrot
