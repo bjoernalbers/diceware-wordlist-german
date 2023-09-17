@@ -2923,6 +2923,7 @@ gut
 gutartig
 Guthaben
 Gutshaus
+Gutsherr
 Gutshof
 Gyros
 Haar
