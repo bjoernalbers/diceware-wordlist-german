@@ -3210,6 +3210,7 @@ hochhaus
 hochland
 hochofen
 hochsee
+hochsitz
 hocke
 hocken
 hocker
