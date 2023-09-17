@@ -2851,6 +2851,7 @@ graben
 grabung
 gracht
 grad
+gradient
 graf
 grafik
 grafit
