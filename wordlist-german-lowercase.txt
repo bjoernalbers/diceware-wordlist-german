@@ -3070,6 +3070,7 @@ hechten
 hecke
 heckmeck
 hefe
+hefepilz
 heft
 heften
 hefter
