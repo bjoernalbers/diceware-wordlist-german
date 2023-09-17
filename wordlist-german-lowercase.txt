@@ -3072,6 +3072,7 @@ heckmeck
 hefe
 hefepilz
 hefeteig
+hefezopf
 heft
 heften
 hefter
