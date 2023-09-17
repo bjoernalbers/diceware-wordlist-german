@@ -2778,6 +2778,7 @@ giebel
 giftpilz
 giftzahn
 gig
+gigabyte
 gigant
 gilde
 gimmick
