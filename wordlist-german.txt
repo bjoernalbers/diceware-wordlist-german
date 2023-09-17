@@ -2932,6 +2932,7 @@ Haarband
 Haarclip
 haarfein
 Haargel
+Haarlack
 haben
 Habicht
 Hack
