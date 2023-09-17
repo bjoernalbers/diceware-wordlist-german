@@ -2920,6 +2920,7 @@ gurtband
 guru
 gussform
 gut
+gutartig
 gutshof
 gyros
 haar

@@ -2920,6 +2920,7 @@ Gurtband
 Guru
 Gussform
 gut
+gutartig
 Gutshof
 Gyros
 Haar
