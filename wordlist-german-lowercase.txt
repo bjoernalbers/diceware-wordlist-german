@@ -2976,6 +2976,7 @@ halma
 halogen
 hals
 halsband
+halstuch
 halt
 haltbar
 halten
