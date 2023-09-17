@@ -3218,6 +3218,7 @@ Hocker
 Hockey
 Hof
 hoffen
+Hoffnung
 Hoftor
 Hoheit
 Holding
