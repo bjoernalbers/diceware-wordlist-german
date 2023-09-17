@@ -2804,6 +2804,7 @@ glasig
 glasklar
 Glasur
 glatt
+Glatteis
 gleich
 Gleis
 gleiten
