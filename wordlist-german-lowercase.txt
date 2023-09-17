@@ -2928,6 +2928,7 @@ gutshof
 gyros
 gyroskop
 haar
+haarband
 haargel
 haben
 habicht
