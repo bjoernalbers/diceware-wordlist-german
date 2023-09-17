@@ -3050,6 +3050,7 @@ hausflur
 haushalt
 haushoch
 hauskauf
+hausputz
 hausrat
 haut
 hauteng
