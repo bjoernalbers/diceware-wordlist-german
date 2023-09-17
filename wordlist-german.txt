@@ -2930,6 +2930,7 @@ Gyroskop
 Haar
 Haarband
 Haarclip
+haarfein
 Haargel
 haben
 Habicht
