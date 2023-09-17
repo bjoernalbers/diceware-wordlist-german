@@ -2853,6 +2853,7 @@ gracht
 grad
 gradient
 graf
+graffiti
 grafik
 grafit
 gramm
