@@ -2826,6 +2826,7 @@ glut
 glutamat
 glutnest
 glutrot
+glyzerin
 gnu
 gockel
 gokart
