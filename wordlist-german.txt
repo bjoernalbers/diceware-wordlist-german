@@ -3234,6 +3234,7 @@ Holzbank
 Holzbein
 Holzdach
 Holzfass
+Holzhaus
 holzig
 Holzweg
 Hommage
