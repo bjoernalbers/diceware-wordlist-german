@@ -2956,6 +2956,7 @@ haiku
 haken
 halb
 halbgar
+halbjahr
 halfter
 hall
 halle

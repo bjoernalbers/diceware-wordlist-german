@@ -2956,6 +2956,7 @@ Haiku
 Haken
 halb
 halbgar
+Halbjahr
 Halfter
 Hall
 Halle
