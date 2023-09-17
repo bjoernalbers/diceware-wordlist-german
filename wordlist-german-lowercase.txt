@@ -2814,6 +2814,7 @@ glitter
 glitzer
 glitzern
 global
+globulin
 globus
 glocke
 glossar

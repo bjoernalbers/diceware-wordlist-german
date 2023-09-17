@@ -2814,6 +2814,7 @@ Glitter
 Glitzer
 glitzern
 global
+Globulin
 Globus
 Glocke
 Glossar
