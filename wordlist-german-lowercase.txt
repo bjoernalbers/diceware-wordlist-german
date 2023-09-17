@@ -2921,6 +2921,7 @@ guru
 gussform
 gut
 gutartig
+guthaben
 gutshof
 gyros
 haar

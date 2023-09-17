@@ -2921,6 +2921,7 @@ Guru
 Gussform
 gut
 gutartig
+Guthaben
 Gutshof
 Gyros
 Haar
