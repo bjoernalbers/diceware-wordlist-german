@@ -2788,6 +2788,7 @@ Gips
 Gipsbein
 gipsen
 Giraffe
+Girlande
 Gitarre
 Gitter
 Glanz
