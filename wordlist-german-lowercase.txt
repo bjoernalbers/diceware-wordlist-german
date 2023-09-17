@@ -2985,6 +2985,7 @@ haltung
 hammer
 hampeln
 hamster
+hamstern
 hand
 handel
 handeln
