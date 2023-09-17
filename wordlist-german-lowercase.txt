@@ -2742,6 +2742,7 @@ gescheit
 geschenk
 geschick
 geschirr
+geschoss
 geselle
 gesetz
 gesicht
