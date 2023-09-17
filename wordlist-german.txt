@@ -3130,6 +3130,7 @@ Herbizid
 Herbst
 Herd
 Herde
+hergeben
 Hering
 Herr
 Herz

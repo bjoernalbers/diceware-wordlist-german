@@ -3130,6 +3130,7 @@ herbizid
 herbst
 herd
 herde
+hergeben
 hering
 herr
 herz
