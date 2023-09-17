@@ -2998,6 +2998,7 @@ handicap
 handkuss
 handlauf
 handlich
+handling
 handy
 hang
 hangar
