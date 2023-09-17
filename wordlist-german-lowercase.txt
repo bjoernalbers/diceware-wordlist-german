@@ -3047,6 +3047,7 @@ hausboot
 hausdach
 hausecke
 hausflur
+haushalt
 hausrat
 haut
 hauteng
