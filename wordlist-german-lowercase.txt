@@ -2966,6 +2966,7 @@ halbwach
 halbzeit
 halfpipe
 halfter
+halftern
 hall
 halle
 hallen
