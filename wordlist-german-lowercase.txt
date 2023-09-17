@@ -2801,6 +2801,7 @@ glaser
 glaserei
 glashaus
 glasig
+glasklar
 glasur
 glatt
 gleich
