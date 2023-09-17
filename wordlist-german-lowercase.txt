@@ -3055,6 +3055,7 @@ hausrat
 haustier
 hauswand
 haut
+hautarzt
 hauteng
 havarie
 haxe
