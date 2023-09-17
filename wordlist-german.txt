@@ -3045,6 +3045,7 @@ Haus
 Hausarzt
 Hausboot
 Hausdach
+Hausecke
 Hausrat
 Haut
 hauteng
