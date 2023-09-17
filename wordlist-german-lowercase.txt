@@ -3042,6 +3042,7 @@ hauchen
 haupt
 hauruck
 haus
+hausarzt
 hausrat
 haut
 hauteng
