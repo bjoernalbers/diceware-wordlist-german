@@ -3052,6 +3052,7 @@ haushoch
 hauskauf
 hausputz
 hausrat
+haustier
 haut
 hauteng
 havarie

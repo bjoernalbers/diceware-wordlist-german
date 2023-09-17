@@ -3052,6 +3052,7 @@ haushoch
 Hauskauf
 Hausputz
 Hausrat
+Haustier
 Haut
 hauteng
 Havarie
