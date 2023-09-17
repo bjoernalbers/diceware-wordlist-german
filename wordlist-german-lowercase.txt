@@ -2831,6 +2831,7 @@ gnu
 gockel
 gokart
 gold
+goldesel
 goldig
 golf
 golfer
