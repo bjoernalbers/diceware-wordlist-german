@@ -2820,6 +2820,7 @@ Glocke
 Glossar
 gluckern
 glucksen
+Gluckser
 Glucose
 Glut
 glutrot

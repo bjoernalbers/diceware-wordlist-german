@@ -2820,6 +2820,7 @@ glocke
 glossar
 gluckern
 glucksen
+gluckser
 glucose
 glut
 glutrot
