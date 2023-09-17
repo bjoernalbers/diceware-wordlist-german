@@ -3048,6 +3048,7 @@ Hausdach
 Hausecke
 Hausflur
 Haushalt
+haushoch
 Hausrat
 Haut
 hauteng

@@ -3048,6 +3048,7 @@ hausdach
 hausecke
 hausflur
 haushalt
+haushoch
 hausrat
 haut
 hauteng
