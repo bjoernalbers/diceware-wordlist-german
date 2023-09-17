@@ -2769,6 +2769,7 @@ Gewinn
 gewinnen
 Gewinner
 gewiss
+Gewissen
 gewitzt
 Geysir
 gezahnt
