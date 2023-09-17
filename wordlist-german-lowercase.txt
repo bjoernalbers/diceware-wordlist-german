@@ -3205,6 +3205,7 @@ hobby
 hobel
 hobeln
 hoch
+hochform
 hochsee
 hocke
 hocken
