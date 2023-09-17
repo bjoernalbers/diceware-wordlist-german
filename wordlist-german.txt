@@ -3196,6 +3196,7 @@ hissen
 Histamin
 Historie
 Hit
+Hitliste
 Hitze
 hitzig
 Hiwi
