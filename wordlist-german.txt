@@ -3105,6 +3105,7 @@ heiter
 heizen
 Heizung
 Hektar
+hektisch
 Held
 helfen
 Helfer
