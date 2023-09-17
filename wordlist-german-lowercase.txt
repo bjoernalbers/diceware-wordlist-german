@@ -2929,6 +2929,7 @@ gyros
 gyroskop
 haar
 haarband
+haarclip
 haargel
 haben
 habicht
