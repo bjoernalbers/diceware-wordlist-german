@@ -3133,6 +3133,7 @@ herde
 hergeben
 herholen
 hering
+herkunft
 herr
 herz
 herzass
