@@ -2997,6 +2997,7 @@ Handgeld
 Handicap
 Handkuss
 Handlauf
+handlich
 Handy
 Hang
 Hangar
