@@ -2957,6 +2957,7 @@ Haken
 halb
 halbgar
 Halbjahr
+halblang
 Halfter
 Hall
 Halle
