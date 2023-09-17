@@ -3225,6 +3225,7 @@ hoheit
 hohlraum
 holding
 holen
+holperig
 holprig
 holster
 holz
