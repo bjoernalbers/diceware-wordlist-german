@@ -2818,6 +2818,7 @@ Globulin
 Globus
 Glocke
 Glossar
+gluckern
 Glucose
 Glut
 glutrot
