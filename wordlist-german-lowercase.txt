@@ -3032,6 +3032,7 @@ harz
 harzer
 hase
 hasel
+hasenohr
 hashtag
 hastig
 haube
