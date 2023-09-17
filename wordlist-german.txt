@@ -2903,6 +2903,7 @@ Grunge
 grunzen
 Gruppe
 Grusel
+gruselig
 gruseln
 gucken
 Gulasch
