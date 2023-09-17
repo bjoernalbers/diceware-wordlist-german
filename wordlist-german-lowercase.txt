@@ -2996,6 +2996,7 @@ handfest
 handgeld
 handicap
 handkuss
+handlauf
 handy
 hang
 hangar
