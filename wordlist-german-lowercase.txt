@@ -3153,6 +3153,7 @@ heu
 heublume
 heuboden
 heuernte
+heugabel
 heulen
 hexagon
 hexen
