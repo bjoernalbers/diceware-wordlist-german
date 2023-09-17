@@ -2912,6 +2912,7 @@ gulasch
 gulden
 gully
 gummi
+gummizug
 gurgeln
 gurke
 gurt
