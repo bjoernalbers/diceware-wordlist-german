@@ -2922,6 +2922,7 @@ Gussform
 gut
 gutartig
 Guthaben
+Gutshaus
 Gutshof
 Gyros
 Haar

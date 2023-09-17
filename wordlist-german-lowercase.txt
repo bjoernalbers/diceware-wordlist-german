@@ -2922,6 +2922,7 @@ gussform
 gut
 gutartig
 guthaben
+gutshaus
 gutshof
 gyros
 haar
