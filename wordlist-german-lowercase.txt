@@ -2834,6 +2834,7 @@ gold
 goldesel
 goldgelb
 goldig
+goldmine
 golf
 golfer
 gondel
