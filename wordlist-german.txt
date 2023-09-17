@@ -2731,6 +2731,7 @@ Gerbera
 gerecht
 Gericht
 gering
+gerinnen
 Gerste
 Gerte
 Geruch
