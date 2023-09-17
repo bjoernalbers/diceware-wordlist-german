@@ -2992,6 +2992,7 @@ handbeil
 handbuch
 handel
 handeln
+handfest
 handy
 hang
 hangar
