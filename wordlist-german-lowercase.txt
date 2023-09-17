@@ -3044,6 +3044,7 @@ hauruck
 haus
 hausarzt
 hausboot
+hausdach
 hausrat
 haut
 hauteng
