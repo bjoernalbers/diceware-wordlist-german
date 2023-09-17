@@ -2999,6 +2999,7 @@ Handkuss
 Handlauf
 handlich
 Handling
+Handlung
 Handy
 Hang
 Hangar
