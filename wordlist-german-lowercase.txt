@@ -2933,6 +2933,7 @@ haarclip
 haarfein
 haargel
 haarlack
+haarnetz
 haben
 habicht
 hack
