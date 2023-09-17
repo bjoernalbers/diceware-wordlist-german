@@ -3178,6 +3178,7 @@ hinhauen
 hinken
 hinknien
 hinlegen
+hinreise
 hinter
 hinweg
 hinweis
