@@ -2752,6 +2752,7 @@ gespenst
 gestalt
 geste
 gesteck
+gestehen
 gestein
 gestell
 gesund

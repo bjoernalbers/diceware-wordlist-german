@@ -2752,6 +2752,7 @@ Gespenst
 Gestalt
 Geste
 Gesteck
+gestehen
 Gestein
 Gestell
 gesund
