@@ -2872,6 +2872,7 @@ gratin
 grau
 graublau
 graubrot
+graugelb
 graupel
 grauwal
 gravur

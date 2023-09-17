@@ -2872,6 +2872,7 @@ Gratin
 grau
 graublau
 Graubrot
+graugelb
 Graupel
 Grauwal
 Gravur
