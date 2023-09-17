@@ -2766,6 +2766,7 @@ Gewerbe
 Gewerk
 Gewinde
 Gewinn
+gewinnen
 gewiss
 gewitzt
 Geysir
