@@ -3000,6 +3000,7 @@ Handlauf
 handlich
 Handling
 Handlung
+Handtuch
 Handy
 Hang
 Hangar
