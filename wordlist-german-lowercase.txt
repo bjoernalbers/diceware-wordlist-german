@@ -2812,6 +2812,7 @@ gleiten
 glimmen
 glitter
 glitzer
+glitzern
 global
 globus
 glocke
