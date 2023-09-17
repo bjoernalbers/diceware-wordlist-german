@@ -2962,6 +2962,7 @@ halbleer
 halbmond
 halbrund
 halbvoll
+halbwach
 halfter
 hall
 halle
