@@ -2877,6 +2877,7 @@ graupel
 grauwal
 grauzone
 gravur
+greifbar
 greifen
 grell
 gremium
