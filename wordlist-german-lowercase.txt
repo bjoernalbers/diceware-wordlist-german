@@ -3053,6 +3053,7 @@ hauskauf
 hausputz
 hausrat
 haustier
+hauswand
 haut
 hauteng
 havarie

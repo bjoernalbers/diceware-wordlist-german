@@ -3053,6 +3053,7 @@ Hauskauf
 Hausputz
 Hausrat
 Haustier
+Hauswand
 Haut
 hauteng
 Havarie
