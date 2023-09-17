@@ -3176,6 +3176,7 @@ Hinflug
 Hingabe
 hinhauen
 hinken
+hinknien
 hinter
 Hinweg
 Hinweis
