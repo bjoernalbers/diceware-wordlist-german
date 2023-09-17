@@ -2740,6 +2740,7 @@ gesamt
 Gesang
 gescheit
 Geschenk
+Geschick
 Geselle
 Gesetz
 Gesicht
