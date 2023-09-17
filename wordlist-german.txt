@@ -2975,6 +2975,7 @@ Halm
 Halma
 Halogen
 Hals
+Halsband
 Halt
 haltbar
 halten
