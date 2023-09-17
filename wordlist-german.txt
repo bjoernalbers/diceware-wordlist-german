@@ -2960,6 +2960,7 @@ Halbjahr
 halblang
 halbleer
 Halbmond
+halbrund
 Halfter
 Hall
 Halle
