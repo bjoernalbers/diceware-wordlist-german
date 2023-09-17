@@ -2832,6 +2832,7 @@ gockel
 gokart
 gold
 goldesel
+goldgelb
 goldig
 golf
 golfer
