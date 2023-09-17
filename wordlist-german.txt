@@ -2856,6 +2856,7 @@ Graf
 Graffiti
 Grafik
 Grafiker
+grafisch
 Grafit
 Gramm
 Grammy
