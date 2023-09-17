@@ -3160,6 +3160,7 @@ hexen
 Hexerei
 hibbelig
 Hibiskus
+Hickhack
 Hieb
 hieven
 Hilfe
