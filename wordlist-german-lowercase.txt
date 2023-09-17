@@ -2887,6 +2887,7 @@ griffig
 grille
 grillen
 grillgut
+grimasse
 grinsen
 grips
 grog
