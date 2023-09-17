@@ -3126,6 +3126,7 @@ Henne
 herb
 Herberge
 herbeten
+Herbizid
 Herbst
 Herd
 Herde
