@@ -2758,6 +2758,7 @@ gestell
 gesund
 getreide
 getriebe
+gewaltig
 gewand
 gewebe
 geweih
