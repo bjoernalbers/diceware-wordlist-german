@@ -2926,6 +2926,7 @@ Gutshaus
 Gutsherr
 Gutshof
 Gyros
+Gyroskop
 Haar
 Haargel
 haben
