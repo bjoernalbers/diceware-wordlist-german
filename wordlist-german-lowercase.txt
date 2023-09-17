@@ -3180,6 +3180,7 @@ hinknien
 hinlegen
 hinreise
 hinsehen
+hinsicht
 hinter
 hinweg
 hinweis
