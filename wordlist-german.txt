@@ -2739,6 +2739,7 @@ geruhsam
 gesamt
 Gesang
 gescheit
+Geschenk
 Geselle
 Gesetz
 Gesicht
