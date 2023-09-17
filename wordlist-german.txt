@@ -3007,6 +3007,7 @@ Hanfseil
 Hang
 Hangar
 hangeln
+Hanglage
 Hantel
 Happen
 happig
