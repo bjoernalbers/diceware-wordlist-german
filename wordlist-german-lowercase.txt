@@ -2988,6 +2988,7 @@ hamster
 hamstern
 hand
 handball
+handbeil
 handel
 handeln
 handy
