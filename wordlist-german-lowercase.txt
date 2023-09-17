@@ -2795,6 +2795,7 @@ gladiole
 glamping
 glanz
 glas
+glasauge
 glaser
 glasig
 glasur
