@@ -3159,6 +3159,7 @@ hexagon
 hexen
 hexerei
 hibbelig
+hibiskus
 hieb
 hieven
 hilfe
