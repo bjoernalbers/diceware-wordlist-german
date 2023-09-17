@@ -2855,6 +2855,7 @@ gradient
 graf
 graffiti
 grafik
+grafiker
 grafit
 gramm
 grammy
