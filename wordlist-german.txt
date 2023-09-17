@@ -3206,6 +3206,7 @@ Hobel
 hobeln
 hoch
 Hochform
+Hochhaus
 Hochsee
 Hocke
 hocken
