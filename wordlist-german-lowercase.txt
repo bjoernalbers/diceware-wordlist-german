@@ -3468,6 +3468,7 @@ jolle
 jongleur
 joule
 journal
+joystick
 jubel
 jubeln
 jubilar
