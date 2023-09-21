@@ -3651,6 +3651,7 @@ kelvin
 kennen
 kenner
 kenntnis
+kennwert
 keramik
 kerbe
 kerbel
