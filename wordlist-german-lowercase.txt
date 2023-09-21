@@ -3743,6 +3743,7 @@ klang
 klappbar
 klappe
 klappen
+klappern
 klar
 klasse
 klassik
