@@ -3695,6 +3695,7 @@ kiez
 kilo
 kilobyte
 kilovolt
+kilowatt
 kilt
 kimchi
 kimono
