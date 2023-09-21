@@ -3601,6 +3601,7 @@ kartell
 karton
 kaskade
 kasko
+kasperle
 kaspern
 kasse
 kassler
