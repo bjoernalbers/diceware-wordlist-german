@@ -3279,6 +3279,7 @@ huckel
 hucklig
 huf
 hufeisen
+huftritt
 huhn
 hulk
 human
