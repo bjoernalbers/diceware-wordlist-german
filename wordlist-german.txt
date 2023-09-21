@@ -3836,6 +3836,7 @@ kniefrei
 kniehoch
 knielang
 knien
+knietief
 Kniff
 Knigge
 knipsen
