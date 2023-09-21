@@ -3255,6 +3255,7 @@ horde
 horizont
 hormon
 horn
+hornhaut
 horror
 horten
 hose
