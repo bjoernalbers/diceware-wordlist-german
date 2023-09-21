@@ -3664,6 +3664,7 @@ kernig
 kernlos
 kernobst
 kernspin
+kernzeit
 kerosin
 kerze
 kescher

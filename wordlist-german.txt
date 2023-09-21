@@ -3664,6 +3664,7 @@ kernig
 kernlos
 Kernobst
 Kernspin
+Kernzeit
 Kerosin
 Kerze
 Kescher
