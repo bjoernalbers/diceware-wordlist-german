@@ -3668,6 +3668,7 @@ kernzeit
 kerosin
 kerze
 kescher
+keschern
 kessel
 ketchup
 kette

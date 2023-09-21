@@ -3668,6 +3668,7 @@ Kernzeit
 Kerosin
 Kerze
 Kescher
+keschern
 Kessel
 Ketchup
 Kette
