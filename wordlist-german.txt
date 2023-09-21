@@ -3979,6 +3979,7 @@ Kosmos
 Kost
 kostbar
 Kosten
+Kotelett
 Krabbe
 Krach
 krachen
