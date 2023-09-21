@@ -3384,6 +3384,7 @@ Institut
 Insulin
 intakt
 Integral
+intensiv
 intern
 Intrige
 Intro
