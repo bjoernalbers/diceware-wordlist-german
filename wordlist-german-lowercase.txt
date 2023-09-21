@@ -3853,6 +3853,7 @@ knospe
 knoten
 knowhow
 knubbel
+knuddeln
 knuffig
 knurren
 koautor
