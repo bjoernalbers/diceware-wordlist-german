@@ -4064,6 +4064,7 @@ Kugel
 kugeln
 Kuhherde
 Kuhle
+Kuhmilch
 kulant
 Kulanz
 Kuli
