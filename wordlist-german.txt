@@ -3238,6 +3238,7 @@ Holzhaus
 holzig
 Holzweg
 Holzwurm
+Holzzaun
 Hommage
 homogen
 Honig
