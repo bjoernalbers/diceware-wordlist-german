@@ -3751,6 +3751,7 @@ klartext
 klasse
 klassik
 klatsch
+klatsche
 klaue
 klauen
 klausel
