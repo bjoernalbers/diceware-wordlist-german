@@ -3966,6 +3966,7 @@ kork
 korken
 kormoran
 korn
+kornfeld
 korpus
 korrekt
 korso
