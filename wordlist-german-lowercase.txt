@@ -3386,6 +3386,7 @@ intakt
 integral
 intensiv
 intern
+internat
 intrige
 intro
 invasiv
