@@ -3338,6 +3338,7 @@ impetus
 impfen
 impfpass
 impfung
+implizit
 import
 impuls
 inaktiv
