@@ -3351,6 +3351,7 @@ index
 indie
 indirekt
 indiz
+induktiv
 infekt
 inferno
 infinit
