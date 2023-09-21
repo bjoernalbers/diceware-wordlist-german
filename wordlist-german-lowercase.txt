@@ -3814,6 +3814,7 @@ knackig
 knacks
 knall
 knallen
+knalleng
 knaller
 knallig
 knapp
