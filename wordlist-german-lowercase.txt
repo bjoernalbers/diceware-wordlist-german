@@ -3423,6 +3423,7 @@ jackpot
 jade
 jagd
 jagdhund
+jagdzeit
 jagen
 jaguar
 jahr
