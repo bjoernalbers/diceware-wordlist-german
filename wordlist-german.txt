@@ -3776,6 +3776,7 @@ Klemme
 klemmen
 Klempner
 Klette
+klettern
 Klick
 klicken
 Klient
