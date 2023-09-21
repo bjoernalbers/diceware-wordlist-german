@@ -3971,6 +3971,7 @@ Korpus
 korrekt
 Korridor
 Korso
+Kosename
 Kosinus
 Kosmos
 Kost
