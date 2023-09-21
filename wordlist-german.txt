@@ -4029,6 +4029,7 @@ Kresse
 Kreuzass
 kreuzen
 Kreuzer
+Kreuzung
 Kricket
 kriegen
 Krimi
