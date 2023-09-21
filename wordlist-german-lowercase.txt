@@ -3342,6 +3342,7 @@ implizit
 import
 imposant
 impuls
+impulsiv
 inaktiv
 inbus
 inch
