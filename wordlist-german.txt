@@ -3957,6 +3957,7 @@ Kopierer
 Kopilot
 Koppel
 koppeln
+Kopplung
 Koralle
 Korb
 Kord
