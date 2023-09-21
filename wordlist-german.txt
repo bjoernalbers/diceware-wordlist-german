@@ -3663,6 +3663,7 @@ Kernhaus
 kernig
 kernlos
 Kernobst
+Kernspin
 Kerosin
 Kerze
 Kescher
