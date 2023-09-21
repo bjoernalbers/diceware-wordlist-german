@@ -3551,6 +3551,7 @@ Kanister
 Kanne
 Kanon
 Kante
+Kantholz
 kantig
 Kantine
 Kanton
