@@ -3780,6 +3780,7 @@ klettern
 Klick
 klicken
 Klient
+Klientel
 Klima
 Klimbim
 Klingel
