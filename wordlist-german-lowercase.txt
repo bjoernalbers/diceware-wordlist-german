@@ -3766,6 +3766,7 @@ klecksen
 klee
 kleid
 kleiden
+kleidsam
 kleie
 klein
 klemme
