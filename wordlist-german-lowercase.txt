@@ -4065,6 +4065,7 @@ kugeln
 kuhherde
 kuhle
 kuhmilch
+kuhstall
 kulant
 kulanz
 kuli
