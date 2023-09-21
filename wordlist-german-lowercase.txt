@@ -3928,6 +3928,7 @@ konkurs
 konsens
 konserve
 konsole
+konstant
 konsul
 konsum
 kontakt
