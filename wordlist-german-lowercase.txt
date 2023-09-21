@@ -3694,6 +3694,7 @@ kiesweg
 kiez
 kilo
 kilobyte
+kilovolt
 kilt
 kimchi
 kimono

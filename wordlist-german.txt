@@ -3694,6 +3694,7 @@ Kiesweg
 Kiez
 Kilo
 Kilobyte
+Kilovolt
 Kilt
 Kimchi
 Kimono
