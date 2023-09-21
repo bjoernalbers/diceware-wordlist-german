@@ -3653,6 +3653,7 @@ kenner
 kenntnis
 kennwert
 kennwort
+kennzahl
 keramik
 kerbe
 kerbel

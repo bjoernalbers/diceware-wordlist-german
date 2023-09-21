@@ -3653,6 +3653,7 @@ Kenner
 Kenntnis
 Kennwert
 Kennwort
+Kennzahl
 Keramik
 Kerbe
 Kerbel
