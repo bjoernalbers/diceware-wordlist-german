@@ -3533,6 +3533,7 @@ Kalk
 kalkig
 Kalorie
 kalt
+Kaltluft
 Kalzium
 Kamelle
 Kamera
