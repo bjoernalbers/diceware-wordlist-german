@@ -3621,6 +3621,7 @@ kauern
 kaufen
 Kaufhaus
 Kaufmann
+Kaugummi
 kausal
 Kaution
 Kaviar
