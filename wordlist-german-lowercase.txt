@@ -3909,6 +3909,7 @@ kompakt
 kompass
 komplett
 komplex
+komplize
 kompost
 kompott
 kondor
