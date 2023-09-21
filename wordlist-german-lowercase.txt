@@ -3394,6 +3394,7 @@ intro
 intuitiv
 invasiv
 inventar
+inventur
 invers
 ion
 ionisch
