@@ -3821,6 +3821,7 @@ knallrot
 knapp
 knarren
 Knauf
+knausern
 kneifen
 Kneifer
 Kneipe
