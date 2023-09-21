@@ -3604,6 +3604,7 @@ kasko
 kasperle
 kaspern
 kasse
+kasseler
 kassler
 kasten
 kat
