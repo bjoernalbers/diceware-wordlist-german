@@ -3422,6 +3422,7 @@ Jackett
 Jackpot
 Jade
 Jagd
+Jagdhund
 jagen
 Jaguar
 Jahr

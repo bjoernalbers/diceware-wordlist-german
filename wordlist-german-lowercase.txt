@@ -3422,6 +3422,7 @@ jackett
 jackpot
 jade
 jagd
+jagdhund
 jagen
 jaguar
 jahr
