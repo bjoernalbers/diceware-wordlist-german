@@ -3953,6 +3953,7 @@ kopfkino
 kopftuch
 kopie
 kopieren
+kopierer
 kopilot
 koppel
 koppeln

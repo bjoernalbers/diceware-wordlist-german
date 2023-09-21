@@ -3953,6 +3953,7 @@ Kopfkino
 Kopftuch
 Kopie
 kopieren
+Kopierer
 Kopilot
 Koppel
 koppeln
