@@ -3344,6 +3344,7 @@ imposant
 Impuls
 impulsiv
 inaktiv
+Inbrunst
 Inbus
 Inch
 Index
