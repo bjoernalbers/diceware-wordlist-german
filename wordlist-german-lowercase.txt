@@ -3393,6 +3393,7 @@ intrige
 intro
 intuitiv
 invasiv
+inventar
 invers
 ion
 ionisch
