@@ -3581,6 +3581,7 @@ karies
 karma
 karneval
 karo
+karoacht
 karoass
 karosse
 karotte
