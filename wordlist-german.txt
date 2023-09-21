@@ -3332,6 +3332,7 @@ Imkerei
 imkern
 immens
 immun
+Impedanz
 Impetus
 impfen
 Impfung
