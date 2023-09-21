@@ -3396,6 +3396,7 @@ invasiv
 Inventar
 Inventur
 invers
+Investor
 Ion
 ionisch
 irdisch
