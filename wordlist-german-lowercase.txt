@@ -3864,6 +3864,7 @@ kobalt
 kobold
 kobra
 koch
+kochbuch
 kochen
 kocher
 kodex
