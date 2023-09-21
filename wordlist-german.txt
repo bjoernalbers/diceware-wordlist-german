@@ -3952,6 +3952,7 @@ Kopfhaut
 Kopfkino
 Kopftuch
 Kopie
+kopieren
 Kopilot
 Koppel
 koppeln
