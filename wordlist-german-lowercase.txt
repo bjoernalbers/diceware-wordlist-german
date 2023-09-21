@@ -3907,6 +3907,7 @@ kommunal
 kommune
 kompakt
 kompass
+komplett
 komplex
 kompost
 kompott
