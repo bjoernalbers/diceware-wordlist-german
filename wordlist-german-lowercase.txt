@@ -3913,6 +3913,7 @@ komplize
 komplott
 kompost
 kompott
+konditor
 kondor
 konfekt
 konform
