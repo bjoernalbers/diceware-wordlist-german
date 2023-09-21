@@ -3547,6 +3547,7 @@ kanal
 kanapee
 kandidat
 kandis
+kanister
 kanne
 kanon
 kante
