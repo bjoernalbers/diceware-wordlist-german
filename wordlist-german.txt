@@ -3508,6 +3508,7 @@ Kabel
 Kabeljau
 kabellos
 Kabine
+Kabinett
 Kabuff
 Kachel
 kacheln
