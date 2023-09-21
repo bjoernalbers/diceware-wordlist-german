@@ -3391,6 +3391,7 @@ Internet
 Intranet
 Intrige
 Intro
+intuitiv
 invasiv
 invers
 Ion
