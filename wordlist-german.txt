@@ -3771,6 +3771,7 @@ Kleidung
 Kleie
 klein
 Kleinbus
+Kleister
 Klemme
 klemmen
 Klette
