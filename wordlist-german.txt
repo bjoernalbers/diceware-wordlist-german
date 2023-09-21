@@ -3620,6 +3620,7 @@ kauen
 kauern
 kaufen
 Kaufhaus
+Kaufmann
 kausal
 Kaution
 Kaviar
