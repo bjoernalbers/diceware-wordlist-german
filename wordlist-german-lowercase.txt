@@ -3833,6 +3833,7 @@ knicken
 knicks
 knie
 kniefrei
+kniehoch
 knien
 kniff
 knigge
