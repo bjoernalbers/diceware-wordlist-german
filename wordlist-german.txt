@@ -3659,6 +3659,7 @@ Kerbe
 Kerbel
 Kern
 Kernel
+Kernhaus
 kernig
 kernlos
 Kerosin
