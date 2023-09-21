@@ -3744,6 +3744,7 @@ klappbar
 Klappe
 klappen
 klappern
+Klapprad
 klar
 Klasse
 Klassik
