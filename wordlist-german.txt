@@ -3737,6 +3737,7 @@ Klamauk
 klamm
 Klammer
 klammern
+Klamotte
 Klampfe
 Klang
 Klappe
