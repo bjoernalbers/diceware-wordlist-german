@@ -3274,6 +3274,7 @@ Hotline
 Hotspot
 Hub
 Hubraum
+Hubwagen
 Huckel
 hucklig
 Huf
