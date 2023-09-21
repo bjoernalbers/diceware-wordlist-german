@@ -3703,6 +3703,7 @@ kind
 kindheit
 kinetik
 kinn
+kinnbart
 kino
 kiosk
 kipferl
