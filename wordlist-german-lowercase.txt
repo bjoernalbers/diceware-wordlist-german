@@ -3237,6 +3237,7 @@ holzfass
 holzhaus
 holzig
 holzweg
+holzwurm
 hommage
 homogen
 honig

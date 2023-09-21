@@ -3237,6 +3237,7 @@ Holzfass
 Holzhaus
 holzig
 Holzweg
+Holzwurm
 Hommage
 homogen
 Honig
