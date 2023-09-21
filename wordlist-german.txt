@@ -3736,6 +3736,7 @@ klagen
 Klamauk
 klamm
 Klammer
+klammern
 Klampfe
 Klang
 Klappe
