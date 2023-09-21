@@ -3770,6 +3770,7 @@ kleidsam
 Kleidung
 Kleie
 klein
+Kleinbus
 Klemme
 klemmen
 Klette
