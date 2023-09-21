@@ -3903,6 +3903,7 @@ Kommando
 kommen
 Kommerz
 Kommode
+kommunal
 Kommune
 kompakt
 Kompass
