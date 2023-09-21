@@ -3790,6 +3790,7 @@ klingeln
 klingen
 Klinik
 Klinikum
+klinisch
 Klinke
 Klinker
 Klippe
