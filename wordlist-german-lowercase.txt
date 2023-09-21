@@ -3387,6 +3387,7 @@ integral
 intensiv
 intern
 internat
+internet
 intrige
 intro
 invasiv
