@@ -3786,6 +3786,7 @@ klimbim
 klimmzug
 klimpern
 klingel
+klingeln
 klingen
 klinik
 klinke
