@@ -3974,6 +3974,7 @@ korso
 kosename
 kosinus
 kosmetik
+kosmisch
 kosmos
 kost
 kostbar
