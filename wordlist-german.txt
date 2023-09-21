@@ -3427,6 +3427,7 @@ Jagdzeit
 jagen
 Jaguar
 Jahr
+Jahrgang
 Januar
 Jargon
 Jasmin
