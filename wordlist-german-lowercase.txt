@@ -3662,6 +3662,7 @@ kernel
 kernhaus
 kernig
 kernlos
+kernobst
 kerosin
 kerze
 kescher
