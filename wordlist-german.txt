@@ -3834,6 +3834,7 @@ Knicks
 Knie
 kniefrei
 kniehoch
+knielang
 knien
 Kniff
 Knigge
