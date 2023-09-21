@@ -3817,6 +3817,7 @@ knallen
 knalleng
 Knaller
 knallig
+knallrot
 knapp
 knarren
 Knauf
