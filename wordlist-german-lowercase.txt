@@ -3652,6 +3652,7 @@ kennen
 kenner
 kenntnis
 kennwert
+kennwort
 keramik
 kerbe
 kerbel
