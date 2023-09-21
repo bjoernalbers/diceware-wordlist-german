@@ -3707,6 +3707,7 @@ Kinnbart
 Kinnlade
 Kino
 Kinofilm
+Kinosaal
 Kiosk
 Kipferl
 Kippe
