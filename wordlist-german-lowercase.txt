@@ -3278,6 +3278,7 @@ hubwagen
 huckel
 hucklig
 huf
+hufeisen
 huhn
 hulk
 human
