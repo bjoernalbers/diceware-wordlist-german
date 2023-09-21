@@ -3740,6 +3740,7 @@ klammern
 Klamotte
 Klampfe
 Klang
+klappbar
 Klappe
 klappen
 klar
