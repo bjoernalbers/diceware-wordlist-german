@@ -3964,6 +3964,7 @@ kord
 kordel
 kork
 korken
+kormoran
 korn
 korpus
 korrekt
