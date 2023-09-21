@@ -3505,6 +3505,7 @@ Jux
 juxen
 Kabarett
 Kabel
+Kabeljau
 Kabine
 Kabuff
 Kachel
