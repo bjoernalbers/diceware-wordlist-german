@@ -3760,6 +3760,7 @@ Klavier
 kleben
 Kleber
 klebrig
+kleckern
 Klecks
 Klee
 Kleid
