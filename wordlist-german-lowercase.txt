@@ -3706,6 +3706,7 @@ kinn
 kinnbart
 kinnlade
 kino
+kinofilm
 kiosk
 kipferl
 kippe
