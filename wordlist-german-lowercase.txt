@@ -3607,6 +3607,7 @@ kasse
 kasseler
 kassette
 kassler
+kastanie
 kasten
 kat
 katalog
