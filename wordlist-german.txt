@@ -3747,6 +3747,7 @@ klappern
 Klapprad
 klar
 Klarheit
+Klartext
 Klasse
 Klassik
 Klatsch
