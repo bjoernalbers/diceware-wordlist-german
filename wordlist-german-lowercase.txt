@@ -3357,6 +3357,7 @@ inferno
 infinit
 info
 infobox
+infrarot
 ingwer
 inhaber
 inhalt
