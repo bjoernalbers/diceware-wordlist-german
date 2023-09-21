@@ -3579,6 +3579,7 @@ kardamom
 karg
 karies
 karma
+karneval
 karo
 karoass
 karosse
