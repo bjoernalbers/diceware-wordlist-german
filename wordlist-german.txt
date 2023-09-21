@@ -3841,6 +3841,7 @@ Kniff
 knifflig
 Knigge
 knipsen
+knistern
 knobeln
 Knobi
 Knochen
