@@ -3767,6 +3767,7 @@ Klee
 Kleid
 kleiden
 kleidsam
+Kleidung
 Kleie
 klein
 Klemme
