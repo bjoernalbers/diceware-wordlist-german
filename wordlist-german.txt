@@ -3340,6 +3340,7 @@ Impfpass
 Impfung
 implizit
 Import
+imposant
 Impuls
 inaktiv
 Inbus
