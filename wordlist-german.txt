@@ -3375,6 +3375,7 @@ Input
 Insekt
 Insel
 Inserat
+Inserent
 Insider
 Instanz
 Insulin
