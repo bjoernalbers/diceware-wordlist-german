@@ -3611,6 +3611,7 @@ Kastanie
 Kasten
 Kat
 Katalog
+Katapult
 Kater
 Kathete
 Kathode

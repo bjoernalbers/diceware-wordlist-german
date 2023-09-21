@@ -3611,6 +3611,7 @@ kastanie
 kasten
 kat
 katalog
+katapult
 kater
 kathete
 kathode
