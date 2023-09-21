@@ -3642,6 +3642,7 @@ Keim
 keimen
 keimfrei
 Keks
+Keksdose
 Kelle
 Keller
 Kellner

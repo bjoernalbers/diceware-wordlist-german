@@ -3642,6 +3642,7 @@ keim
 keimen
 keimfrei
 keks
+keksdose
 kelle
 keller
 kellner
