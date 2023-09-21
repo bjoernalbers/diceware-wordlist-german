@@ -3583,6 +3583,7 @@ karneval
 karo
 karoacht
 karoass
+karodame
 karosse
 karotte
 karpfen
