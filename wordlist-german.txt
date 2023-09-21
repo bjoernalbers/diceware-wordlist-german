@@ -3388,6 +3388,7 @@ intensiv
 intern
 Internat
 Internet
+Intranet
 Intrige
 Intro
 invasiv
