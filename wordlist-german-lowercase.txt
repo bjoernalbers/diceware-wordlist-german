@@ -3252,6 +3252,7 @@ hopsen
 horchen
 horcher
 horde
+horizont
 hormon
 horn
 horror
