@@ -3950,6 +3950,7 @@ kopfball
 kopfende
 kopfhaut
 kopfkino
+kopftuch
 kopie
 kopilot
 koppel
