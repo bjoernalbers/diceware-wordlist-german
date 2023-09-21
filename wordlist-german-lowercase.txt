@@ -3946,6 +3946,7 @@ konzept
 konzern
 konzert
 kopf
+kopfball
 kopie
 kopilot
 koppel
