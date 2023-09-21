@@ -4022,6 +4022,7 @@ kreis
 kreisel
 kreisen
 krempel
+krempeln
 kreole
 krepp
 kresse
