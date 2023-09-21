@@ -3619,6 +3619,7 @@ Katze
 kauen
 kauern
 kaufen
+Kaufhaus
 kausal
 Kaution
 Kaviar
