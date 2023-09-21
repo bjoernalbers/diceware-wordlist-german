@@ -3973,6 +3973,7 @@ korridor
 korso
 kosename
 kosinus
+kosmetik
 kosmos
 kost
 kostbar
