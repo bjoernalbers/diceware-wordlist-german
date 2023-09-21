@@ -3559,6 +3559,7 @@ Kanu
 Kanzlei
 Kanzler
 Kaper
+kapieren
 Kapital
 Kapitel
 Kappe
