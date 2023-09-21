@@ -3947,6 +3947,7 @@ konzern
 konzert
 kopf
 kopfball
+kopfende
 kopie
 kopilot
 koppel

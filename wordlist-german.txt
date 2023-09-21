@@ -3947,6 +3947,7 @@ Konzern
 Konzert
 Kopf
 Kopfball
+Kopfende
 Kopie
 Kopilot
 Koppel
