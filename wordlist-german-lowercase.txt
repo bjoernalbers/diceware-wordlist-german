@@ -4273,6 +4273,7 @@ leihgabe
 leim
 leimen
 leine
+leinwand
 leise
 leiste
 leisten
