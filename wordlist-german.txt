@@ -4322,6 +4322,7 @@ Liedtext
 liefern
 Liege
 liegen
+Liegerad
 Lift
 Liga
 liieren
