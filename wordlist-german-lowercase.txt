@@ -4261,6 +4261,7 @@ lehrjahr
 lehrling
 lehrplan
 lehrsaal
+lehrsatz
 leib
 leicht
 leiern
