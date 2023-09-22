@@ -4266,6 +4266,7 @@ Lehrwerk
 Leib
 leiblich
 leicht
+leidlich
 leiern
 leihen
 Leim
