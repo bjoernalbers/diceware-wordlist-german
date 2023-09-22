@@ -4275,6 +4275,7 @@ leimen
 Leine
 Leinwand
 leise
+leistbar
 Leiste
 leisten
 leiten
