@@ -4204,6 +4204,7 @@ Laufwerk
 Laufzeit
 Lauge
 Laune
+launisch
 Laus
 laut
 lautlos

@@ -4204,6 +4204,7 @@ laufwerk
 laufzeit
 lauge
 laune
+launisch
 laus
 laut
 lautlos
