@@ -4194,6 +4194,7 @@ Laubwald
 lauern
 Lauf
 Laufbahn
+Laufband
 laufen
 Laufrad
 Lauge
