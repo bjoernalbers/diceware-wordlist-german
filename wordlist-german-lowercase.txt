@@ -4124,6 +4124,7 @@ lactat
 lade
 laden
 laderaum
+ladezeit
 ladung
 lage
 lager
