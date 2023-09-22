@@ -4284,6 +4284,7 @@ leiten
 leiter
 leitsatz
 leitung
+leitzins
 lektion
 lektor
 lemming

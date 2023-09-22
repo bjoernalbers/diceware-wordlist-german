@@ -4284,6 +4284,7 @@ leiten
 Leiter
 Leitsatz
 Leitung
+Leitzins
 Lektion
 Lektor
 Lemming
