@@ -4129,6 +4129,7 @@ Ladung
 Lage
 Lageplan
 Lager
+Lagerist
 lagern
 Lagune
 Laib
