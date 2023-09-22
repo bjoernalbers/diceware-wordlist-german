@@ -4227,6 +4227,7 @@ lebhaft
 leck
 lecker
 leckerei
+leckerli
 leder
 ledig
 leer
