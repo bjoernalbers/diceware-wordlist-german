@@ -4182,6 +4182,7 @@ latein
 latenz
 laterne
 latex
+latschen
 latz
 latzen
 laub
