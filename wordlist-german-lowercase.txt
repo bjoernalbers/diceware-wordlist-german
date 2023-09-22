@@ -4256,6 +4256,7 @@ lehrer
 lehrfach
 lehrfilm
 lehrgang
+lehrgeld
 leib
 leicht
 leiern
