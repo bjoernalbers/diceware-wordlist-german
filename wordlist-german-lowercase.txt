@@ -4342,6 +4342,7 @@ lineal
 linear
 linie
 link
+linoleum
 linse
 lippe
 liquide
