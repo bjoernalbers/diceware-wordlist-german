@@ -4318,6 +4318,7 @@ lieben
 lieblich
 liebling
 lied
+liedtext
 liefern
 liege
 liegen
