@@ -4196,6 +4196,7 @@ lauf
 laufbahn
 laufband
 laufen
+laufhose
 laufrad
 lauge
 laune
