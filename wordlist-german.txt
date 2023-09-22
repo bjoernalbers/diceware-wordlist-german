@@ -4258,6 +4258,7 @@ Lehrfilm
 Lehrgang
 Lehrgeld
 Lehrjahr
+Lehrling
 Leib
 leicht
 leiern
