@@ -4262,6 +4262,7 @@ lehrling
 lehrplan
 lehrsaal
 lehrsatz
+lehrwerk
 leib
 leicht
 leiern

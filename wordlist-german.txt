@@ -4262,6 +4262,7 @@ Lehrling
 Lehrplan
 Lehrsaal
 Lehrsatz
+Lehrwerk
 Leib
 leicht
 leiern
