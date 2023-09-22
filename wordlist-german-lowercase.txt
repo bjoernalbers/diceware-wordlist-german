@@ -4253,6 +4253,7 @@ lehrbuch
 lehre
 lehren
 lehrer
+lehrfach
 leib
 leicht
 leiern
