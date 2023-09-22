@@ -4123,6 +4123,7 @@ Lack
 Lactat
 Lade
 laden
+Laderaum
 Ladung
 Lage
 Lager

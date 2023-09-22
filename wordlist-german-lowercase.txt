@@ -4123,6 +4123,7 @@ lack
 lactat
 lade
 laden
+laderaum
 ladung
 lage
 lager
