@@ -4199,6 +4199,7 @@ laufen
 Laufhose
 Laufrad
 Laufsteg
+Laufstil
 Lauge
 Laune
 Laus
