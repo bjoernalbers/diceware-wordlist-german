@@ -4171,6 +4171,7 @@ larve
 lasagne
 lasche
 laser
+lasieren
 lassi
 lasso
 last
