@@ -4112,6 +4112,7 @@ labbrig
 label
 labern
 labor
+laborant
 lachen
 lacher
 lachgas
