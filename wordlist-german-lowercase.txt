@@ -4185,6 +4185,7 @@ latex
 latschen
 latz
 latzen
+latzhose
 laub
 laube
 lauern
