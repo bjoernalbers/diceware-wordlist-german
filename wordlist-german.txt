@@ -4207,6 +4207,7 @@ Laune
 launisch
 Laus
 lauschen
+Lauscher
 laut
 lautlos
 lauwarm
