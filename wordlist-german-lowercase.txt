@@ -4201,6 +4201,7 @@ laufrad
 laufsteg
 laufstil
 laufwerk
+laufzeit
 lauge
 laune
 laus

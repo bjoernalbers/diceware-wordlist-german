@@ -4201,6 +4201,7 @@ Laufrad
 Laufsteg
 Laufstil
 Laufwerk
+Laufzeit
 Lauge
 Laune
 Laus
