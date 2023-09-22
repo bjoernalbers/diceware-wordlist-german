@@ -4107,6 +4107,7 @@ kutsche
 kutscher
 kutter
 kuvert
+labberig
 labbrig
 label
 labern
