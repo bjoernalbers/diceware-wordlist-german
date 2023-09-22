@@ -4249,6 +4249,7 @@ lehmig
 Lehne
 lehnen
 Lehramt
+Lehrbuch
 Lehre
 lehren
 Lehrer
