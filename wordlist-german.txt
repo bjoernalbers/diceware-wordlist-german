@@ -4264,6 +4264,7 @@ Lehrsaal
 Lehrsatz
 Lehrwerk
 Leib
+leiblich
 leicht
 leiern
 leihen
