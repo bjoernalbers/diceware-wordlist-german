@@ -4295,6 +4295,7 @@ lenkung
 leopard
 lerche
 lernen
+lernziel
 lesen
 leser
 lesung
