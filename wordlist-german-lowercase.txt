@@ -4254,6 +4254,7 @@ lehre
 lehren
 lehrer
 lehrfach
+lehrfilm
 leib
 leicht
 leiern
