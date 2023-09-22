@@ -4161,6 +4161,7 @@ langen
 Langlauf
 Langos
 langsam
+Languste
 Lanze
 lapidar
 Laptop
