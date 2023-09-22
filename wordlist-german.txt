@@ -4099,6 +4099,7 @@ kurvig
 kurz
 Kurzfilm
 Kurzwahl
+kuscheln
 Kuss
 Kutsche
 Kutter
