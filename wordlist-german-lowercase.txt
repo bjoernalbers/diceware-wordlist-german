@@ -4301,6 +4301,7 @@ leser
 lesung
 leuchte
 leuchten
+leuchter
 leugnen
 leute
 level
