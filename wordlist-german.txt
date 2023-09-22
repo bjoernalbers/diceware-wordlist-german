@@ -4086,6 +4086,7 @@ Kupplung
 Kur
 Kurbel
 kurbeln
+Kurhotel
 Kurier
 kurios
 Kurort
