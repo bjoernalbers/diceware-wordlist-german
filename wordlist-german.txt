@@ -4213,6 +4213,7 @@ laut
 lautlos
 lauwarm
 Lava
+Lavendel
 Lawine
 Layout
 leaken
