@@ -4127,6 +4127,7 @@ Laderaum
 Ladezeit
 Ladung
 Lage
+Lageplan
 Lager
 lagern
 Lagune
