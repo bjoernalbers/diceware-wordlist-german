@@ -4200,6 +4200,7 @@ Laufhose
 Laufrad
 Laufsteg
 Laufstil
+Laufwerk
 Lauge
 Laune
 Laus
