@@ -4269,6 +4269,7 @@ leicht
 leidlich
 leiern
 leihen
+Leihgabe
 Leim
 leimen
 Leine
