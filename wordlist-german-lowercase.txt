@@ -4278,6 +4278,7 @@ leise
 leistbar
 leiste
 leisten
+leistung
 leiten
 leiter
 leitung

@@ -4278,6 +4278,7 @@ leise
 leistbar
 Leiste
 leisten
+Leistung
 leiten
 Leiter
 Leitung
