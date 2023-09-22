@@ -4241,6 +4241,7 @@ legal
 legen
 Legende
 leger
+Leggings
 Leggins
 Leguan
 Lehm
