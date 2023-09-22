@@ -4311,6 +4311,7 @@ libelle
 liberal
 libero
 licht
+lichtung
 lieb
 liebe
 lieben
