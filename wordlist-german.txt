@@ -4221,6 +4221,7 @@ leasen
 Leasing
 Lebemann
 leben
+lebendig
 Leber
 lebhaft
 Leck
