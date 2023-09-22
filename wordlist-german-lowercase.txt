@@ -4187,6 +4187,7 @@ latz
 latzen
 latzhose
 laub
+laubbaum
 laube
 lauern
 lauf
