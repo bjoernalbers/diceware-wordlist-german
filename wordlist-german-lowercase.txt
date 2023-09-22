@@ -4259,6 +4259,7 @@ lehrgang
 lehrgeld
 lehrjahr
 lehrling
+lehrplan
 leib
 leicht
 leiern

@@ -4259,6 +4259,7 @@ Lehrgang
 Lehrgeld
 Lehrjahr
 Lehrling
+Lehrplan
 Leib
 leicht
 leiern
