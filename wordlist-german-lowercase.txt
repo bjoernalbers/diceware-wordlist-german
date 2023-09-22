@@ -4300,6 +4300,7 @@ lesen
 leser
 lesung
 leuchte
+leuchten
 leugnen
 leute
 level
