@@ -4255,6 +4255,7 @@ lehren
 Lehrer
 Lehrfach
 Lehrfilm
+Lehrgang
 Leib
 leicht
 leiern
