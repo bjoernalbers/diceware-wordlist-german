@@ -4082,6 +4082,7 @@ Kunst
 Kupfer
 Kuppe
 Kuppel
+Kupplung
 Kur
 Kurbel
 kurbeln
