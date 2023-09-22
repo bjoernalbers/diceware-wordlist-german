@@ -4158,6 +4158,7 @@ Landung
 Landwirt
 lang
 langen
+Langlauf
 Langos
 langsam
 Lanze
