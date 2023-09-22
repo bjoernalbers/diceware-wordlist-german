@@ -4235,6 +4235,7 @@ leere
 leeren
 leergut
 leerlauf
+leerraum
 leerung
 legal
 legen
