@@ -4147,6 +4147,7 @@ lamelle
 lametta
 laminat
 lamm
+lammfell
 lampe
 lampion
 land

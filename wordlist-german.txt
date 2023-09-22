@@ -4147,6 +4147,7 @@ Lamelle
 Lametta
 Laminat
 Lamm
+Lammfell
 Lampe
 Lampion
 Land
