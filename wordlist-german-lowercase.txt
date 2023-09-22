@@ -4189,6 +4189,7 @@ latzhose
 laub
 laubbaum
 laube
+laubholz
 lauern
 lauf
 laufen
