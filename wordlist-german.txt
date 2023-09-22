@@ -4193,6 +4193,7 @@ Laubholz
 Laubwald
 lauern
 Lauf
+Laufbahn
 laufen
 Laufrad
 Lauge
