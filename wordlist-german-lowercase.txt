@@ -4260,6 +4260,7 @@ lehrgeld
 lehrjahr
 lehrling
 lehrplan
+lehrsaal
 leib
 leicht
 leiern

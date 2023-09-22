@@ -4260,6 +4260,7 @@ Lehrgeld
 Lehrjahr
 Lehrling
 Lehrplan
+Lehrsaal
 Leib
 leicht
 leiern
