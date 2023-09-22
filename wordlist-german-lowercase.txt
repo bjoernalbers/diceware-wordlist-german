@@ -4282,6 +4282,7 @@ leistung
 leitbild
 leiten
 leiter
+leitsatz
 leitung
 lektion
 lektor

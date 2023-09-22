@@ -4282,6 +4282,7 @@ Leistung
 Leitbild
 leiten
 Leiter
+Leitsatz
 Leitung
 Lektion
 Lektor
