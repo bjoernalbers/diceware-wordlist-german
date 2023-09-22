@@ -4098,6 +4098,7 @@ kurve
 kurvig
 kurz
 kurzfilm
+kurzwahl
 kuss
 kutsche
 kutter
