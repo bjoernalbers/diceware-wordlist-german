@@ -4208,6 +4208,7 @@ launisch
 Laus
 lauschen
 Lauscher
+lauschig
 laut
 lautlos
 lauwarm
