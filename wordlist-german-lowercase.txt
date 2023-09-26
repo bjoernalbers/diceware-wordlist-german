@@ -4501,6 +4501,7 @@ mangold
 mangrove
 manifest
 mann
+manpower
 mantel
 manuell
 mappe
