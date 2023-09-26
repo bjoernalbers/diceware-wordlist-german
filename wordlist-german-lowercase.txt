@@ -4558,6 +4558,7 @@ mau
 mauer
 mauern
 maul
+maulkorb
 maurer
 maus
 mausi
