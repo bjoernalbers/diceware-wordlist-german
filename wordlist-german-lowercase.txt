@@ -4528,6 +4528,7 @@ marsch
 marzipan
 mascara
 masche
+maschine
 maske
 massage
 masse
