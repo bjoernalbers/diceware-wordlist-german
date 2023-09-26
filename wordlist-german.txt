@@ -4566,6 +4566,7 @@ Maus
 Mausi
 Mauspad
 Maut
+mautfrei
 maximal
 Maximum
 Mayo
