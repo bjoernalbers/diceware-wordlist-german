@@ -4560,6 +4560,7 @@ mauern
 maul
 maulkorb
 maultier
+maulwurf
 maurer
 maus
 mausi
