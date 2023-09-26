@@ -4397,6 +4397,7 @@ loslegen
 Losung
 Lot
 Lotion
+lotrecht
 Lotse
 lotsen
 Lotto
