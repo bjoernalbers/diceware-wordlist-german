@@ -4679,6 +4679,7 @@ mindern
 Mindmap
 Mineral
 mini
+Miniatur
 Minibar
 Minibus
 Minijob

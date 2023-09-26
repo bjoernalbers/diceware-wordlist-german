@@ -4679,6 +4679,7 @@ mindern
 mindmap
 mineral
 mini
+miniatur
 minibar
 minibus
 minijob
