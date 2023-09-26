@@ -4451,6 +4451,7 @@ Magier
 magisch
 Magma
 Magnet
+Magnolie
 mahlen
 Mai
 Mail
