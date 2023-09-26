@@ -4628,6 +4628,7 @@ mentor
 merken
 merkheft
 merkmal
+merksatz
 messbar
 messe
 messen
