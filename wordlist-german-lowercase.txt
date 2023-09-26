@@ -4499,6 +4499,7 @@ manga
 mango
 mangold
 mangrove
+manifest
 mann
 mantel
 manuell
