@@ -4583,6 +4583,7 @@ meerenge
 meersalz
 meeting
 megabit
+megabyte
 megafon
 megahit
 mehl
