@@ -4682,6 +4682,7 @@ mini
 Miniatur
 Minibar
 Minibus
+Minigolf
 Minijob
 minimal
 Minimum

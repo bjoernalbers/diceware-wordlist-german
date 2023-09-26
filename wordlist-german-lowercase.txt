@@ -4682,6 +4682,7 @@ mini
 miniatur
 minibar
 minibus
+minigolf
 minijob
 minimal
 minimum
