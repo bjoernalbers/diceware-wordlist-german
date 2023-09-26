@@ -4595,6 +4595,7 @@ mehrfach
 Mehrheit
 Mehrweg
 Mehrwert
+Mehrzahl
 meiden
 Meile
 Meineid

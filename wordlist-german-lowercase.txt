@@ -4595,6 +4595,7 @@ mehrfach
 mehrheit
 mehrweg
 mehrwert
+mehrzahl
 meiden
 meile
 meineid
