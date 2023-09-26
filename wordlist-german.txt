@@ -4503,6 +4503,7 @@ Manifest
 Mann
 Manpower
 Mansarde
+manschen
 Mantel
 manuell
 Mappe
