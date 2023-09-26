@@ -4376,6 +4376,7 @@ loggia
 logik
 login
 logisch
+logistik
 logo
 lohn
 lohnen
