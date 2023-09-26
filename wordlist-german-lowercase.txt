@@ -4511,6 +4511,7 @@ maracuja
 marathon
 marder
 marge
+marginal
 marille
 marimba
 markant
