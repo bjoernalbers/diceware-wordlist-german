@@ -4638,6 +4638,7 @@ Messung
 Messwert
 Met
 Metall
+Metapher
 Metaxa
 Meter
 Methan
