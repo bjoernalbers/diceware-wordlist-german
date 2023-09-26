@@ -4572,6 +4572,7 @@ Maximum
 Mayo
 Mbit
 Mechanik
+Medaille
 Media
 Medium
 Medizin
