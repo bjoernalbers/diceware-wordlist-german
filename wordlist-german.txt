@@ -4502,6 +4502,7 @@ Mangrove
 Manifest
 Mann
 Manpower
+Mansarde
 Mantel
 manuell
 Mappe
