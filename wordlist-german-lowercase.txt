@@ -4821,6 +4821,7 @@ muse
 museum
 musical
 musik
+musikant
 musiker
 muskat
 muskel

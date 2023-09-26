@@ -4821,6 +4821,7 @@ Muse
 Museum
 Musical
 Musik
+Musikant
 Musiker
 Muskat
 Muskel
