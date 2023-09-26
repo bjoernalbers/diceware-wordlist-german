@@ -4753,6 +4753,7 @@ Monarch
 Monat
 Mond
 Moneten
+monieren
 Monitor
 Monokel
 Monolog
