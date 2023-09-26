@@ -4640,6 +4640,7 @@ met
 metall
 metapher
 metaxa
+meteorit
 meter
 methan
 methode
