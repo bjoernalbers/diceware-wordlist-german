@@ -4531,6 +4531,7 @@ masche
 maschine
 maserung
 maske
+maskulin
 massage
 masse
 masseur
