@@ -4660,6 +4660,7 @@ Miene
 Miete
 mieten
 Mieter
+mietfrei
 Mikado
 Mikro
 Milbe
