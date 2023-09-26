@@ -4594,6 +4594,7 @@ mehlwurm
 mehrfach
 mehrheit
 mehrweg
+mehrwert
 meiden
 meile
 meineid
