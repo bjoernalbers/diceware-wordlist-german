@@ -4691,6 +4691,7 @@ minirock
 minister
 minivan
 minus
+minuspol
 minute
 minze
 mischen
