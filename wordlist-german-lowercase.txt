@@ -4586,6 +4586,7 @@ megabit
 megabyte
 megafon
 megahit
+megaphon
 mehl
 mehlig
 mehrweg
