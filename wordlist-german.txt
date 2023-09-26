@@ -4849,6 +4849,7 @@ Nachtbar
 Nachtbus
 Nachteil
 Nachtrag
+Nachtzug
 Nacken
 nackt
 Nadel

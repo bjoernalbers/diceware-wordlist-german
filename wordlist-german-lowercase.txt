@@ -4849,6 +4849,7 @@ nachtbar
 nachtbus
 nachteil
 nachtrag
+nachtzug
 nacken
 nackt
 nadel
