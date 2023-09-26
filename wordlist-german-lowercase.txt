@@ -4592,6 +4592,7 @@ mehl
 mehlig
 mehlwurm
 mehrfach
+mehrheit
 mehrweg
 meiden
 meile
