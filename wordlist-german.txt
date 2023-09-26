@@ -4467,6 +4467,7 @@ Maisbrei
 Maisbrot
 Maisfeld
 maisgelb
+Maiskorn
 Majoran
 makeln
 Makler
