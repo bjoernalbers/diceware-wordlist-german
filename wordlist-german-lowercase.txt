@@ -4688,6 +4688,7 @@ minimal
 minimum
 minipli
 minirock
+minister
 minivan
 minus
 minute
