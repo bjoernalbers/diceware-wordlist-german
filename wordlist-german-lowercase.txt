@@ -4756,6 +4756,7 @@ moneten
 monieren
 monitor
 monokel
+monolith
 monolog
 monopol
 monoton
