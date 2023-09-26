@@ -4831,6 +4831,7 @@ Muster
 mustern
 Mut
 Mutation
+mutieren
 mutig
 Mutter
 Mutti
