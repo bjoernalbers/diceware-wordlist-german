@@ -4480,6 +4480,7 @@ malen
 Maler
 malochen
 Malstift
+Malteser
 Malware
 Malz
 Mama
