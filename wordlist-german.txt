@@ -4410,6 +4410,7 @@ Luchs
 Luft
 Luftbild
 luftig
+luftleer
 Luke
 Lumen
 Lunch
