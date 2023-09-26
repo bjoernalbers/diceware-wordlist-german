@@ -4748,6 +4748,7 @@ Molkerei
 Moll
 Molton
 Moment
+momentan
 Monarch
 Monat
 Mond
