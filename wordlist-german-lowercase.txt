@@ -5277,6 +5277,7 @@ pauker
 pauschal
 pause
 pavian
+pavillon
 paywall
 peanuts
 pech
