@@ -4989,6 +4989,7 @@ Norden
 nordisch
 Nordost
 Nordpol
+Nordwest
 Norm
 normal
 Normung
