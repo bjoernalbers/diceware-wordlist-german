@@ -5242,6 +5242,7 @@ Partner
 Party
 Parzelle
 Pass
+passabel
 Passage
 Passant
 Passat
