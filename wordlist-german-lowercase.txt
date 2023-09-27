@@ -5030,6 +5030,7 @@ nutzbar
 nutzen
 nutzer
 nutzlast
+nutztier
 nylon
 oase
 obacht
