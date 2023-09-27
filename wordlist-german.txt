@@ -5342,6 +5342,7 @@ Pfiff
 pfiffig
 Pfirsich
 Pflanze
+pflanzen
 Pflaume
 Pflege
 pflegen
