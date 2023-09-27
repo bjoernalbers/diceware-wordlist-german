@@ -5596,6 +5596,7 @@ prinz
 prinzip
 prise
 prisma
+pritsche
 privat
 probe
 proben
