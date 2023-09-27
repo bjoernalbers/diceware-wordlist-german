@@ -5589,6 +5589,7 @@ prima
 Prime
 Primel
 Primus
+Primzahl
 Printe
 Printer
 Prinz
