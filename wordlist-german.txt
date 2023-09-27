@@ -5005,6 +5005,7 @@ Notiz
 Notnagel
 Notrad
 Notruf
+Notstrom
 Notwehr
 Novelle
 Novize
