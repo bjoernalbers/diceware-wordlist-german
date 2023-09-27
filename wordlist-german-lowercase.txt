@@ -5690,6 +5690,7 @@ puzzle
 pyjama
 pylone
 pyramide
+pyrolyse
 python
 quad
 quader
