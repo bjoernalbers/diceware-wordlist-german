@@ -5137,6 +5137,7 @@ Ort
 orten
 Orthese
 ortsnah
+Ortszeit
 Ortung
 Ost
 Osten
