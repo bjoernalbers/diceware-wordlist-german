@@ -5835,6 +5835,7 @@ Raunzer
 Raupe
 Raureif
 Rausch
+rauschen
 Raute
 Rave
 Raver
