@@ -5343,6 +5343,7 @@ pfiffig
 pfirsich
 pflanze
 pflanzen
+pflaster
 pflaume
 pflege
 pflegen
