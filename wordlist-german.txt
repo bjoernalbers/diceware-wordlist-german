@@ -5061,6 +5061,7 @@ Odyssee
 Ofen
 Ofenrohr
 offen
+offenbar
 Offerte
 Offset
 Ohm
