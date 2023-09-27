@@ -5130,6 +5130,7 @@ organ
 orgel
 orient
 origami
+original
 orkan
 ort
 orten
