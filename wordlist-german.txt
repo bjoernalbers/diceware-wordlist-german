@@ -5237,6 +5237,7 @@ Partei
 partial
 Partie
 partiell
+Partikel
 Partner
 Party
 Pass
