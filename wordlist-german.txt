@@ -5038,6 +5038,7 @@ Obelisk
 Ober
 Oberarm
 Oberarzt
+Oberbett
 Obhut
 Objekt
 Oboe
