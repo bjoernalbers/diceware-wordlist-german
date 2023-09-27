@@ -5684,6 +5684,7 @@ Putter
 Putz
 putzen
 putzig
+Putztuch
 puzzeln
 Puzzle
 Pyjama
