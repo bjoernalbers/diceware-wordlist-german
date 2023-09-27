@@ -5639,6 +5639,7 @@ psi
 psyche
 pub
 publik
+publikum
 puck
 pudding
 pudel
