@@ -5599,6 +5599,7 @@ Prisma
 Pritsche
 privat
 Privileg
+proaktiv
 Probe
 proben
 Problem
