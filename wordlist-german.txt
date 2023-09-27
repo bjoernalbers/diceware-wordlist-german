@@ -5051,6 +5051,7 @@ Obolus
 obskur
 obsolet
 Obst
+Obstbaum
 Obstler
 Ochse
 ocker
