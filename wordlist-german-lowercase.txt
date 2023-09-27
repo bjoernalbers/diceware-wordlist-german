@@ -5002,6 +5002,7 @@ note
 notebook
 notieren
 notiz
+notnagel
 notrad
 notruf
 notwehr
