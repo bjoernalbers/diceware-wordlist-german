@@ -5694,6 +5694,7 @@ pyrolyse
 python
 quad
 quader
+quadrant
 quadrat
 quaken
 qualle
