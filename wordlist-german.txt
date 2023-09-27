@@ -5513,6 +5513,7 @@ polieren
 Politik
 Politur
 Polizei
+Polizist
 Polka
 Pollen
 Poller
