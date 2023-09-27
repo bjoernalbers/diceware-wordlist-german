@@ -5408,6 +5408,7 @@ pilgern
 Pille
 Pilot
 Pils
+Pilsener
 Pilz
 Pilzhut
 pimpen
