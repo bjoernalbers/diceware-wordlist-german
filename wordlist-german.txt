@@ -5648,6 +5648,7 @@ pudern
 Puffer
 puffern
 Puffmais
+Puffreis
 pulen
 Pulle
 Pulli
