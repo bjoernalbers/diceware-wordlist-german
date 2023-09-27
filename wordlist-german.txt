@@ -5062,6 +5062,7 @@ Ofen
 Ofenrohr
 offen
 offenbar
+offensiv
 Offerte
 Offset
 Ohm
