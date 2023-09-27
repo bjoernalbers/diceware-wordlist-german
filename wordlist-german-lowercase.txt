@@ -5253,6 +5253,7 @@ passfoto
 passion
 passiv
 passus
+passwort
 pasta
 paste
 pastell
