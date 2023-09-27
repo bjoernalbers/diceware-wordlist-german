@@ -5290,6 +5290,7 @@ peilen
 peilstab
 peilung
 peinlich
+peitsche
 pelikan
 pelle
 pellen
