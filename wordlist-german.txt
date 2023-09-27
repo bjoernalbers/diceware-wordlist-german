@@ -5794,6 +5794,7 @@ rasch
 rascheln
 Rasen
 rasieren
+Rasierer
 Raspel
 raspeln
 Rasse
