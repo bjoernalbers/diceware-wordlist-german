@@ -5549,6 +5549,7 @@ porto
 portrait
 portwein
 posaune
+posaunen
 pose
 posen
 positiv
