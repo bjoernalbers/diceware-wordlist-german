@@ -5315,6 +5315,7 @@ perlmutt
 perplex
 perso
 person
+personal
 pesel
 pesen
 petrol
