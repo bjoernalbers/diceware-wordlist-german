@@ -5494,6 +5494,7 @@ Podest
 Podium
 Poesie
 Poet
+poetisch
 pofen
 pogen
 Pogo
