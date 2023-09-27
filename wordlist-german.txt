@@ -5326,6 +5326,7 @@ Pfad
 Pfahl
 Pfalz
 Pfand
+Pfandbon
 Pfanne
 Pfau
 Pfeffer
