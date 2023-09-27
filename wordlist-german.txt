@@ -4925,6 +4925,7 @@ nett
 Netto
 Network
 Netz
+Netzball
 neu
 Neugier
 Neuheit

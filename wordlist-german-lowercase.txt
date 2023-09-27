@@ -4925,6 +4925,7 @@ nett
 netto
 network
 netz
+netzball
 neu
 neugier
 neuheit
