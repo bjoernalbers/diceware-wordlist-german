@@ -5547,6 +5547,7 @@ portier
 portion
 porto
 portrait
+portwein
 posaune
 pose
 posen
