@@ -5466,6 +5466,7 @@ platt
 platte
 platz
 platzen
+plaudern
 plausch
 plauze
 player
