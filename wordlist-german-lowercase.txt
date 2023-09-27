@@ -5215,6 +5215,7 @@ paradox
 paraffin
 paragraf
 parallel
+paranuss
 parat
 pardon
 park
