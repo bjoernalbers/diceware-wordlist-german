@@ -5825,6 +5825,7 @@ rauch
 rauchen
 raucher
 rauchig
+raufaser
 raufen
 rauke
 raum
