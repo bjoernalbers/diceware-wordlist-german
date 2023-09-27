@@ -4897,6 +4897,7 @@ neckisch
 neffe
 negation
 negativ
+negieren
 nehmen
 neigen
 neigung
