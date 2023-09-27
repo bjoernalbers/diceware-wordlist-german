@@ -5724,6 +5724,7 @@ quirl
 quirlen
 quirlig
 quitte
+quittung
 quiz
 quote
 rabatt
