@@ -4994,6 +4994,7 @@ Nordwind
 Norm
 normal
 Normung
+Normwert
 Not
 Notar
 Notarzt
