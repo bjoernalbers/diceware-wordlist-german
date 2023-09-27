@@ -5287,6 +5287,7 @@ Peeling
 Pegasus
 Pegel
 peilen
+Peilstab
 Peilung
 Pelikan
 Pelle

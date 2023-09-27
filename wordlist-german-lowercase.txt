@@ -5287,6 +5287,7 @@ peeling
 pegasus
 pegel
 peilen
+peilstab
 peilung
 pelikan
 pelle
