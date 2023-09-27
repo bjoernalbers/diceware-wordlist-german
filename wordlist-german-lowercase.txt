@@ -5228,6 +5228,7 @@ parker
 parkett
 parkhaus
 parkuhr
+parmesan
 parodie
 parole
 paroli
