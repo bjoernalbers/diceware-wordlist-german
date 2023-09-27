@@ -4990,6 +4990,7 @@ nordisch
 nordost
 nordpol
 nordwest
+nordwind
 norm
 normal
 normung
