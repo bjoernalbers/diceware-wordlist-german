@@ -5689,6 +5689,7 @@ puzzeln
 Puzzle
 Pyjama
 Pylone
+Pyramide
 Python
 Quad
 Quader
