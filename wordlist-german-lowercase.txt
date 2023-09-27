@@ -5040,6 +5040,7 @@ oberarm
 oberarzt
 oberbett
 oberhand
+oberhemd
 obhut
 objekt
 oboe
