@@ -5518,6 +5518,7 @@ polka
 pollen
 poller
 polo
+polohemd
 polster
 poltern
 polygon
