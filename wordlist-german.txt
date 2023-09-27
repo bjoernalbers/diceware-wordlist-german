@@ -5440,6 +5440,7 @@ pitchen
 Pixel
 pixelig
 Pizza
+Pizzeria
 Pkw
 Placebo
 plagen
