@@ -5220,6 +5220,7 @@ parat
 Paravent
 Parcours
 Pardon
+parieren
 Park
 parken
 Parker
