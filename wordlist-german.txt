@@ -5101,6 +5101,7 @@ Oper
 operabel
 Operand
 operativ
+Operator
 Opi
 Opium
 Opossum
