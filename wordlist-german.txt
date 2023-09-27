@@ -5248,6 +5248,7 @@ Passant
 Passat
 passee
 passen
+Passform
 Passion
 passiv
 Passus
