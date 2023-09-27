@@ -5045,6 +5045,7 @@ oberliga
 oberteil
 obhut
 objekt
+objektiv
 oboe
 obolus
 obskur
