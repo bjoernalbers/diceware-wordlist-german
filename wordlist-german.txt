@@ -5422,6 +5422,7 @@ Pinnwand
 Pinsel
 pinseln
 Pinte
+Pinzette
 Pionier
 Pipapo
 Pipe
