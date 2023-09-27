@@ -5453,6 +5453,7 @@ planen
 planer
 planet
 planke
+plankton
 planung
 plaque
 plasma
