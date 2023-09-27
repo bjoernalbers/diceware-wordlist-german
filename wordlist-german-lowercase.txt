@@ -5240,6 +5240,7 @@ partiell
 partikel
 partner
 party
+parzelle
 pass
 passage
 passant
