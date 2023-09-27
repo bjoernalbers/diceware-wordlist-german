@@ -5258,6 +5258,7 @@ pasta
 paste
 pastell
 pastete
+pastille
 patch
 patchen
 pate
