@@ -5756,6 +5756,7 @@ radius
 radkappe
 radler
 radnabe
+radsport
 radtour
 radweg
 raffen
