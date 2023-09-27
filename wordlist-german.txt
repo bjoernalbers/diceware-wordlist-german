@@ -5609,6 +5609,7 @@ profan
 Profi
 Profil
 Profit
+Prognose
 Projekt
 Prokura
 Prolog
