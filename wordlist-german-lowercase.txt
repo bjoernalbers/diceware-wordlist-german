@@ -5100,6 +5100,7 @@ opal
 oper
 operabel
 operand
+operativ
 opi
 opium
 opossum
