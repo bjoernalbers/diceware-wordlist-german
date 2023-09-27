@@ -5000,6 +5000,7 @@ notar
 notarzt
 note
 notebook
+notieren
 notiz
 notrad
 notruf
