@@ -4898,6 +4898,7 @@ neffe
 negation
 negativ
 negieren
+negligee
 nehmen
 neigen
 neigung
