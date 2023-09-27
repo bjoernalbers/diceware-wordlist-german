@@ -5217,6 +5217,7 @@ paragraf
 parallel
 paranuss
 parat
+paravent
 pardon
 park
 parken
