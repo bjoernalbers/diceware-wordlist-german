@@ -5743,6 +5743,7 @@ rad
 radar
 radau
 radeln
+radfahrt
 radhaus
 radi
 radial
