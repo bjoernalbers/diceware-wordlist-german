@@ -5162,6 +5162,7 @@ ozon
 ozonloch
 paar
 paaren
+paartanz
 paarung
 pacer
 pacht
