@@ -5218,6 +5218,7 @@ parallel
 paranuss
 parat
 paravent
+parcours
 pardon
 park
 parken
