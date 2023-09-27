@@ -4956,6 +4956,7 @@ nichtig
 nichts
 nickel
 nicken
+nickname
 niedrig
 niere
 nieseln
