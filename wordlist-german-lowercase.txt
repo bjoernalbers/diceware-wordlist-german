@@ -5541,6 +5541,7 @@ pore
 porree
 porridge
 port
+portabel
 portal
 portier
 portion
