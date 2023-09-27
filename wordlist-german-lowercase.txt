@@ -5446,6 +5446,7 @@ placebo
 plagen
 plagiat
 plakat
+plakette
 plan
 plane
 planen
