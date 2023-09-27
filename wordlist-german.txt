@@ -5552,6 +5552,7 @@ Posaune
 posaunen
 Pose
 posen
+posieren
 positiv
 Post
 posten
