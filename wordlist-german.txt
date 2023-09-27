@@ -5369,6 +5369,7 @@ Phrase
 Physik
 Physiker
 Physio
+physisch
 Pianist
 Piano
 picheln
