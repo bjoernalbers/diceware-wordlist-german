@@ -5793,6 +5793,7 @@ rasant
 rasch
 rascheln
 rasen
+rasieren
 raspel
 raspeln
 rasse
