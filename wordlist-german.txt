@@ -5336,6 +5336,7 @@ Pfeifton
 Pfeil
 Pfeiler
 Pfennig
+pferchen
 Pferd
 Pfiff
 pfiffig
