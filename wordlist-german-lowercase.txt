@@ -5332,6 +5332,7 @@ pfau
 pfeffer
 pfeife
 pfeifen
+pfeifton
 pfeil
 pfeiler
 pfennig
