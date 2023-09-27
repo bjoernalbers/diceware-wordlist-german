@@ -5811,6 +5811,7 @@ ratgeber
 rathaus
 rating
 ration
+rational
 ratlos
 ratsam
 ratsche
