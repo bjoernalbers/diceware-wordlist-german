@@ -5475,6 +5475,7 @@ playlist
 playoff
 plazenta
 pleite
+plektron
 plenum
 plinse
 plombe
