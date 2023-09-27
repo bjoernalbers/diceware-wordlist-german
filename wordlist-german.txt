@@ -5222,6 +5222,7 @@ Parcours
 Pardon
 parieren
 Park
+Parkbank
 parken
 Parker
 Parkett
