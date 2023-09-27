@@ -5008,6 +5008,7 @@ notruf
 notstrom
 notwehr
 novelle
+november
 novize
 novum
 nuance
