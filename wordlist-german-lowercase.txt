@@ -5627,6 +5627,7 @@ protein
 protest
 prothese
 proton
+prototyp
 provinz
 prozent
 prozess
