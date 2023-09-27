@@ -5418,6 +5418,7 @@ pinguin
 pinie
 pink
 pinnen
+pinnwand
 pinsel
 pinseln
 pinte
