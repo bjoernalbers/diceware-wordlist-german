@@ -5820,6 +5820,7 @@ ratzen
 rau
 raub
 rauben
+raubtier
 rauch
 rauchen
 raucher
