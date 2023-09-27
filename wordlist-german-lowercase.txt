@@ -4938,6 +4938,7 @@ neujahr
 neuland
 neuling
 neuntel
+neupreis
 neutral
 neutron
 newbie
