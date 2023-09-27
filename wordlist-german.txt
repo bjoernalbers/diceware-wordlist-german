@@ -5807,6 +5807,7 @@ Rasthof
 Rasur
 Rat
 raten
+Ratgeber
 Rathaus
 Rating
 Ration
