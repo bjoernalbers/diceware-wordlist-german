@@ -5226,6 +5226,7 @@ parkbank
 parken
 parker
 parkett
+parkhaus
 parkuhr
 parodie
 parole

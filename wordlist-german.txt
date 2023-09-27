@@ -5226,6 +5226,7 @@ Parkbank
 parken
 Parker
 Parkett
+Parkhaus
 Parkuhr
 Parodie
 Parole
