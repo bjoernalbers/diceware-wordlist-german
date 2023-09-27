@@ -5454,6 +5454,7 @@ Planer
 Planet
 Planke
 Plankton
+Plantage
 Planung
 Plaque
 Plasma
