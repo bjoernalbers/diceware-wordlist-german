@@ -5021,6 +5021,7 @@ nuklear
 Nummer
 nuscheln
 Nuss
+Nussbaum
 nussig
 Nut
 Nutria
