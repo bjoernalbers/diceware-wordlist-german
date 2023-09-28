@@ -6025,6 +6025,7 @@ Riemen
 Riese
 rieseln
 riesig
+Riesling
 Riester
 Riff
 rigoros
