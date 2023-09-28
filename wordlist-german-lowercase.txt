@@ -5941,6 +5941,7 @@ reizvoll
 rekeln
 reklame
 rekord
+rekorder
 rektor
 relais
 relativ
