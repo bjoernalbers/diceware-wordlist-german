@@ -5889,6 +5889,7 @@ regime
 regiment
 region
 regional
+register
 regler
 regnen
 regress
