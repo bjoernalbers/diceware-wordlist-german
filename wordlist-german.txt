@@ -5928,6 +5928,7 @@ Reisebus
 reisen
 Reisfeld
 Reisig
+Reiskorn
 reiten
 Reiter
 Reiz

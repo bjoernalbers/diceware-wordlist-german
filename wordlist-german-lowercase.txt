@@ -5928,6 +5928,7 @@ reisebus
 reisen
 reisfeld
 reisig
+reiskorn
 reiten
 reiter
 reiz
