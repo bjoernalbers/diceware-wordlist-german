@@ -6081,6 +6081,7 @@ rollator
 rolle
 rollen
 roller
+rollfeld
 rolli
 rollo
 rom
