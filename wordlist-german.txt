@@ -5854,6 +5854,7 @@ Rebstock
 Receiver
 rechnen
 Rechner
+Rechnung
 Recht
 Reck
 Rede
