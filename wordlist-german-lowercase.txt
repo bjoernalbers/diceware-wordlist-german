@@ -5930,6 +5930,7 @@ reisfeld
 reisig
 reiskorn
 reiswein
+reitbahn
 reiten
 reiter
 reiz
