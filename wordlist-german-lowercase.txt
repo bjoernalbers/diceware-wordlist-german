@@ -5916,6 +5916,7 @@ reiher
 reim
 reimen
 rein
+reinfall
 reis
 reise
 reisen
