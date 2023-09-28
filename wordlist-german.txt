@@ -5851,6 +5851,7 @@ Rebell
 Rebhuhn
 Rebsorte
 Rebstock
+Receiver
 rechnen
 Rechner
 Recht
