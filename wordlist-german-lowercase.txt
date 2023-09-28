@@ -5979,6 +5979,7 @@ republik
 reservat
 reserve
 reset
+residenz
 resolut
 resort
 respekt
