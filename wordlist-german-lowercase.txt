@@ -6111,6 +6111,7 @@ rotieren
 rotkohl
 rotlicht
 rotor
+rotphase
 rotwein
 rotwild
 rouge
