@@ -5919,6 +5919,7 @@ rein
 reinfall
 reinheit
 reinigen
+reiniger
 reis
 reise
 reisen
