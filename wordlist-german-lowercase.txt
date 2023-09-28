@@ -6105,6 +6105,7 @@ rostfrei
 rostig
 rostrot
 rot
+rotation
 rotkohl
 rotor
 rotwein
