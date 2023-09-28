@@ -5908,6 +5908,7 @@ reichtum
 reif
 reife
 reifen
+reiflich
 reihe
 reihen
 reiher
