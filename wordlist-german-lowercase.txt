@@ -6016,6 +6016,7 @@ richter
 richtig
 richtung
 ricotta
+riechbar
 riechen
 riecher
 riefe
