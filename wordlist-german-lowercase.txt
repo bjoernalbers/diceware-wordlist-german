@@ -6112,6 +6112,7 @@ rotkohl
 rotlicht
 rotor
 rotphase
+rotstift
 rotwein
 rotwild
 rouge
