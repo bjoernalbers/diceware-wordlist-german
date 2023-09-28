@@ -5943,6 +5943,7 @@ Reklame
 Rekord
 Rekorder
 Rektor
+rekursiv
 Relais
 relativ
 relaxen

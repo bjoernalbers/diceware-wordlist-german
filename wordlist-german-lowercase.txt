@@ -5943,6 +5943,7 @@ reklame
 rekord
 rekorder
 rektor
+rekursiv
 relais
 relativ
 relaxen
