@@ -5909,6 +5909,7 @@ reif
 reife
 reifen
 reiflich
+reifrock
 reihe
 reihen
 reiher
