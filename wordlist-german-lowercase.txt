@@ -5879,6 +5879,7 @@ refugium
 regal
 regatta
 regel
+regelbar
 regeln
 regen
 regie

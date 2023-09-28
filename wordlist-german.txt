@@ -5879,6 +5879,7 @@ Refugium
 Regal
 Regatta
 Regel
+regelbar
 regeln
 Regen
 Regie
