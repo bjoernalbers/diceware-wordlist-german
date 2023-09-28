@@ -5920,6 +5920,7 @@ Reinfall
 Reinheit
 reinigen
 Reiniger
+reinlich
 Reis
 Reise
 reisen
