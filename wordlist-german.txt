@@ -5856,6 +5856,7 @@ rechnen
 Rechner
 Rechnung
 Recht
+Rechteck
 Reck
 Rede
 reden
