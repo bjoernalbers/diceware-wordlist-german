@@ -6118,6 +6118,7 @@ rotwild
 rouge
 roulade
 roulett
+roulette
 route
 router
 routine
