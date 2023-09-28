@@ -5933,6 +5933,7 @@ reiswein
 reitbahn
 reiten
 reiter
+reithose
 reiz
 reizbar
 reizen
