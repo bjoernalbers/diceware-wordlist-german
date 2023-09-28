@@ -5858,7 +5858,6 @@
 54152	recht
 54153	rechteck
 54154	reck
-54155	recorder
 54156	recyceln
 54161	rede
 54162	reden

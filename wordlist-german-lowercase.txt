@@ -5858,7 +5858,6 @@ rechnung
 recht
 rechteck
 reck
-recorder
 recyceln
 rede
 reden

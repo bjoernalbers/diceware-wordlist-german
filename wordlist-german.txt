@@ -5858,7 +5858,6 @@ Rechnung
 Recht
 Rechteck
 Reck
-Recorder
 recyceln
 Rede
 reden
