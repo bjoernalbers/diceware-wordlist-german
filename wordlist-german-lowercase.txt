@@ -6005,6 +6005,7 @@ revision
 revolte
 revue
 rezept
+rezeptor
 rheuma
 rho
 richten
