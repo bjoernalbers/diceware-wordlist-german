@@ -5924,6 +5924,7 @@ reinlich
 reinraum
 reis
 reise
+reisebus
 reisen
 reisig
 reiten
