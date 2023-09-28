@@ -5981,6 +5981,7 @@ reserve
 reset
 residenz
 resolut
+resonanz
 resort
 respekt
 ressort
