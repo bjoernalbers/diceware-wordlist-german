@@ -6107,6 +6107,7 @@ rostrot
 rot
 Rotation
 rotbraun
+rotieren
 Rotkohl
 Rotor
 Rotwein
