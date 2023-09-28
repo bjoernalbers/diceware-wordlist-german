@@ -5926,6 +5926,7 @@ Reis
 Reise
 Reisebus
 reisen
+Reisfeld
 Reisig
 reiten
 Reiter
