@@ -5886,6 +5886,7 @@ Regen
 Regie
 regieren
 Regime
+Regiment
 Region
 Regler
 regnen
