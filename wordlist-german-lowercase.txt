@@ -5842,6 +5842,7 @@ raver
 ravioli
 razzia
 reader
+reaktion
 reaktor
 real
 realist
