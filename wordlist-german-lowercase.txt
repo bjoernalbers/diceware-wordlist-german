@@ -6014,6 +6014,7 @@ rhythmus
 richten
 richter
 richtig
+richtung
 ricotta
 riechen
 riecher
