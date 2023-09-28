@@ -5967,6 +5967,7 @@ rennbahn
 rennboot
 rennen
 rennrad
+rentabel
 rente
 rentier
 rentner
