@@ -6076,6 +6076,7 @@ rohkost
 rohling
 rohr
 rohrpost
+rohstoff
 rolle
 rollen
 roller

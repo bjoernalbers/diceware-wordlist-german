@@ -6076,6 +6076,7 @@ Rohkost
 Rohling
 Rohr
 Rohrpost
+Rohstoff
 Rolle
 rollen
 Roller
