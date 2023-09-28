@@ -5858,6 +5858,7 @@ Rechnung
 Recht
 Rechteck
 Reck
+Recorder
 Rede
 reden
 Rederei
