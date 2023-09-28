@@ -5881,6 +5881,7 @@ Regatta
 Regel
 regelbar
 regeln
+Regelung
 Regen
 Regie
 Regime

@@ -5881,6 +5881,7 @@ regatta
 regel
 regelbar
 regeln
+regelung
 regen
 regie
 regime
