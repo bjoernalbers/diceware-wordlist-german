@@ -5884,6 +5884,7 @@ regeln
 regelung
 regen
 regie
+regieren
 regime
 region
 regler
