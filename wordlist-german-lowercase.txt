@@ -6077,6 +6077,7 @@ rohling
 rohr
 rohrpost
 rohstoff
+rollator
 rolle
 rollen
 roller
