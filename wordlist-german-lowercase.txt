@@ -5918,6 +5918,7 @@ reimen
 rein
 reinfall
 reinheit
+reinigen
 reis
 reise
 reisen
