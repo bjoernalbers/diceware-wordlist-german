@@ -6663,7 +6663,6 @@ subjekt
 subtil
 suche
 suchen
-sud
 sudoku
 suffix
 suite

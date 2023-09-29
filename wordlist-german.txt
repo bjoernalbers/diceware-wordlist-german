@@ -6663,7 +6663,6 @@ Subjekt
 subtil
 Suche
 suchen
-Sud
 Sudoku
 Suffix
 Suite

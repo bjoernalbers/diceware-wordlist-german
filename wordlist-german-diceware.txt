@@ -6663,7 +6663,6 @@
 62343	subtil
 62344	suche
 62345	suchen
-62346	sud
 62351	sudoku
 62352	suffix
 62353	suite
