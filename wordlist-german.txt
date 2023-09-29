@@ -6424,6 +6424,7 @@ senden
 Sender
 Sendung
 Senf
+Senfkorn
 Senior
 Senke
 Senkel
