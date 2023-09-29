@@ -6313,6 +6313,7 @@ schopf
 schorle
 schose
 schote
+schotter
 schrank
 schreck
 schrei
