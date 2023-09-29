@@ -6485,6 +6485,7 @@ sieger
 siesta
 siezen
 signal
+signatur
 silbe
 silber
 silbern
