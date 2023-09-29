@@ -6392,6 +6392,7 @@ segment
 segway
 sehen
 sehhilfe
+sehkraft
 sehne
 sehnen
 sehtest
