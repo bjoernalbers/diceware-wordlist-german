@@ -6268,6 +6268,7 @@ schlinge
 schlips
 schlitz
 schloss
+schlucht
 schluck
 schlund
 schluss
