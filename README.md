@@ -31,16 +31,14 @@ Repeat this process until you have the desired number of words.
 
 In either case you need a wordlist which this repository provides.
 
-## Wordlist formats
+## About this wordlist
 
-The wordlist is available in these formats:
+This repository provides a list of 7,776 german words in these formats:
 
 - `wordlist-german.txt`: original german wordlist with correct capitalization
 - `wordlist-german-lowercase.txt`: lowercase version of the wordlist above
 - `wordlist-german-diceware.txt`: the actual german diceware wordlist made from
   the lowercase wordlist
-
-## About the included words
 
 Each word has been manually checked to be familiar and office-friendly
 (not vulgar, offensive, religious or with negative connotations).
