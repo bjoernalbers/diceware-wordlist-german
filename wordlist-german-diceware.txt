@@ -3615,7 +3615,6 @@
 36123	kicken
 36124	kicker
 36125	kickern
-36126	kid
 36131	kiebitz
 36132	kiefer
 36133	kiel
