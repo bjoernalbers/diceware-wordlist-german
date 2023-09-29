@@ -6230,6 +6230,7 @@ Scheune
 Schicht
 schick
 schicken
+schieben
 schief
 Schiene
 Schiff
