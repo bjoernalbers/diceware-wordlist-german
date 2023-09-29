@@ -5339,7 +5339,6 @@ pixel
 pixelig
 pizza
 pizzeria
-pkw
 placebo
 plagen
 plagiat

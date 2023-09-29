@@ -5339,7 +5339,6 @@
 52215	pixelig
 52216	pizza
 52221	pizzeria
-52222	pkw
 52223	placebo
 52224	plagen
 52225	plagiat
