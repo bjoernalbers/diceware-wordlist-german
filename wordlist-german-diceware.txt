@@ -227,7 +227,6 @@
 12133	albtraum
 12134	album
 12135	alcopop
-12136	ale
 12141	alge
 12142	algebra
 12143	alias
