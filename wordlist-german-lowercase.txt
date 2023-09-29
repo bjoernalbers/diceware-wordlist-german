@@ -6206,6 +6206,7 @@ schaum
 schaumig
 schaurig
 scheck
+scheckig
 scheibe
 scheich
 schein
