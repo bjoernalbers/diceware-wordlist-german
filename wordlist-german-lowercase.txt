@@ -6348,6 +6348,7 @@ schutz
 schwabe
 schwach
 schwager
+schwalbe
 schwamm
 schwan
 schwarm
