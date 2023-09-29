@@ -3544,7 +3544,6 @@
 35523	kassler
 35524	kastanie
 35525	kasten
-35526	kat
 35531	katalog
 35532	katapult
 35533	kater

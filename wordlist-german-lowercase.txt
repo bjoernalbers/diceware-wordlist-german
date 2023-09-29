@@ -3544,7 +3544,6 @@ kassette
 kassler
 kastanie
 kasten
-kat
 katalog
 katapult
 kater
