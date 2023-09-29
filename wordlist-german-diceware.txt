@@ -7503,7 +7503,6 @@
 66343	zelt
 66344	zelten
 66345	zement
-66346	zen
 66351	zenit
 66352	zensur
 66353	zentner
