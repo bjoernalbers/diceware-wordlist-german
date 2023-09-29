@@ -6354,6 +6354,7 @@ schwan
 schwarm
 schwarz
 schweben
+schwefel
 schweif
 schwer
 schwert
