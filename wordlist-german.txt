@@ -6499,6 +6499,7 @@ simultan
 Sinfonie
 singen
 Single
+Singular
 sinken
 Sinn
 sinnlos
