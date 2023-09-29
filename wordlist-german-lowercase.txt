@@ -6258,6 +6258,7 @@ schlaufe
 schleier
 schleife
 schleim
+schleppe
 schlick
 schliff
 schlimm
