@@ -6336,6 +6336,7 @@ schule
 schulen
 schulhof
 schulter
+schulung
 schund
 schuppe
 schuss
