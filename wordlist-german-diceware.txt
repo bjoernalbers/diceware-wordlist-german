@@ -7018,7 +7018,6 @@
 64153	ufer
 64156	uhrwerk
 64161	uhrzeit
-64162	uhu
 64163	ukulele
 64164	ulkig
 64165	ulme
