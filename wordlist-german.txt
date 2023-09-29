@@ -6356,6 +6356,7 @@ schwarz
 schweben
 Schwefel
 Schweif
+Schwelle
 schwer
 Schwert
 Schwips
