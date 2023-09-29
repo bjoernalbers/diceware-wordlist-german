@@ -29,7 +29,7 @@ Another method to generate random passphrases is
 You simply roll five dice to pick a random word from a Diceware wordlist.
 Repeat this process until you have the desired number of words.
 
-In either case you need a wordlist which this repository provides.
+In either case you need a wordlist.
 
 ## About this wordlist
 
