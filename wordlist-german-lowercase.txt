@@ -6147,6 +6147,7 @@ satzteil
 satzung
 sauber
 sauce
+sauciere
 sauer
 sauerei
 saugen
