@@ -1284,7 +1284,6 @@
 21125	canasta
 21126	canceln
 21131	canyon
-21132	cap
 21133	cape
 21134	capoeira
 21135	caprese

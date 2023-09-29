@@ -1284,7 +1284,6 @@ campus
 canasta
 canceln
 canyon
-cap
 cape
 capoeira
 caprese
