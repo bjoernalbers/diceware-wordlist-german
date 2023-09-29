@@ -1606,7 +1606,6 @@ Distrikt
 divers
 Division
 Divisor
-Doc
 Docht
 Dock
 Dogge

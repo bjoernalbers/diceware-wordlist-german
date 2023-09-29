@@ -1606,7 +1606,6 @@
 22435	divers
 22436	division
 22441	divisor
-22442	doc
 22443	docht
 22444	dock
 22445	dogge
