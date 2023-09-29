@@ -6295,6 +6295,7 @@ schnaps
 schnecke
 schnee
 schneien
+schneise
 schnell
 schnitt
 schnur
