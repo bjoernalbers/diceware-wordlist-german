@@ -2158,7 +2158,6 @@
 25211	faltplan
 25212	faltrad
 25213	familie
-25214	fan
 25215	fanblock
 25216	fanclub
 25221	fanfare
