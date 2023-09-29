@@ -23,7 +23,7 @@ included() {
 
 valid() {
   local word="$1"
-  echo "${word}" | LC_ALL=C grep --extended-regexp --quiet "^[A-Za-z][a-z]{2,7}$"
+  echo "${word}" | LC_ALL=C grep --extended-regexp --quiet "^[A-Za-z][a-z]{3,7}$"
 }
 
 add() {
