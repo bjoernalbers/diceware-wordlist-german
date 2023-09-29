@@ -6578,6 +6578,7 @@ solist
 soll
 sollen
 solo
+sombrero
 sommer
 sonde
 song

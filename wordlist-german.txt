@@ -6578,6 +6578,7 @@ Solist
 Soll
 sollen
 solo
+Sombrero
 Sommer
 Sonde
 Song
