@@ -6177,6 +6177,7 @@ schade
 schaden
 schadlos
 schaf
+schaffen
 schaft
 schakal
 schal

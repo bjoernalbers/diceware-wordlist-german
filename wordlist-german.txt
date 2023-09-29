@@ -6177,6 +6177,7 @@ schade
 Schaden
 schadlos
 Schaf
+schaffen
 Schaft
 Schakal
 Schal
