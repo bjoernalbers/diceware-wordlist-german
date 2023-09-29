@@ -3219,7 +3219,6 @@ hubraum
 hubwagen
 huckel
 hucklig
-huf
 hufeisen
 huftritt
 huhn

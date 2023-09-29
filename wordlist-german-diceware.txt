@@ -3219,7 +3219,6 @@
 34211	hubwagen
 34212	huckel
 34213	hucklig
-34214	huf
 34215	hufeisen
 34216	huftritt
 34221	huhn
