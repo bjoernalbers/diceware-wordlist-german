@@ -6239,6 +6239,7 @@ Schiff
 Schild
 Schilf
 Schimmel
+Schimmer
 Schippe
 Schiri
 Schirm
