@@ -4636,7 +4636,6 @@
 44565	mittel
 44566	mittig
 44611	mittwoch
-44612	mix
 44613	mixen
 44614	mixer
 44615	mixtur

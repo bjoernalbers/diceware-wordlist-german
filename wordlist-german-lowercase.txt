@@ -4636,7 +4636,6 @@ mitte
 mittel
 mittig
 mittwoch
-mix
 mixen
 mixer
 mixtur
