@@ -5957,7 +5957,6 @@ rodeln
 roden
 rodung
 roggen
-roh
 rohkost
 rohling
 rohr

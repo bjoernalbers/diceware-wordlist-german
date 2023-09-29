@@ -5957,7 +5957,6 @@
 55145	roden
 55146	rodung
 55151	roggen
-55152	roh
 55153	rohkost
 55154	rohling
 55155	rohr
