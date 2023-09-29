@@ -6368,6 +6368,7 @@ scooter
 score
 scotch
 scrollen
+sechseck
 seehund
 seeigel
 seele
