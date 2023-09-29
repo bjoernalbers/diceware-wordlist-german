@@ -6,7 +6,6 @@ abbinden
 abblasen
 abbruch
 abbuchen
-abc
 abdecken
 abdocken
 abdomen

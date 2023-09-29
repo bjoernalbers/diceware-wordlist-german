@@ -6,7 +6,6 @@
 11121	abblasen
 11122	abbruch
 11123	abbuchen
-11124	abc
 11125	abdecken
 11126	abdocken
 11131	abdomen
