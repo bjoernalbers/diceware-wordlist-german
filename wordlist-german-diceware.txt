@@ -656,7 +656,6 @@
 14146	backware
 14151	backzeit
 14152	bacon
-14153	bad
 14154	badeente
 14155	badegast
 14156	badehose
