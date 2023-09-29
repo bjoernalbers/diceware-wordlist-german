@@ -1912,7 +1912,6 @@
 24115	empfang
 24116	empore
 24121	emsig
-24122	emu
 24123	emulsion
 24124	encoding
 24125	ende
