@@ -6085,6 +6085,7 @@ sagen
 Sahne
 sahnig
 Saison
+saisonal
 Saite
 Sake
 Sakko
