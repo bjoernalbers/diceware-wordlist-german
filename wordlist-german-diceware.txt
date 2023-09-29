@@ -7293,7 +7293,6 @@
 65342	waten
 65343	watt
 65344	watte
-65345	wau
 65346	wauwau
 65351	web
 65352	webcam
