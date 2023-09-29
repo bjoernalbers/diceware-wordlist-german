@@ -5039,7 +5039,6 @@
 46543	original
 46544	orkan
 46545	ornament
-46546	ort
 46551	orten
 46552	orthese
 46553	ortsnah
