@@ -7016,7 +7016,6 @@
 64146	tweeten
 64152	typisch
 64153	ufer
-64155	uhr
 64156	uhrwerk
 64161	uhrzeit
 64162	uhu
