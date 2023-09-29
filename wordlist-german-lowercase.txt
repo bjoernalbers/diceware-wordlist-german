@@ -6410,6 +6410,7 @@ sekt
 sektglas
 sektor
 sekunde
+selektiv
 selfie
 selten
 seltsam
