@@ -1435,7 +1435,6 @@
 21542	cruiser
 21544	curry
 21545	cursor
-21546	cut
 21551	cutten
 21552	cutter
 21553	cyborg

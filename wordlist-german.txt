@@ -1435,7 +1435,6 @@ Croupier
 Cruiser
 Curry
 Cursor
-Cut
 cutten
 Cutter
 Cyborg
