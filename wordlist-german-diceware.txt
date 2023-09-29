@@ -3390,7 +3390,6 @@
 34662	jetski
 34664	jobben
 34665	jockey
-34666	jod
 35111	jodeln
 35112	jodler
 35113	jodsalz
