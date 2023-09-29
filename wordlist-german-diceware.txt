@@ -5970,7 +5970,6 @@
 55211	rolli
 55212	rollmops
 55213	rollo
-55214	rom
 55215	roman
 55216	romanze
 55221	rommee

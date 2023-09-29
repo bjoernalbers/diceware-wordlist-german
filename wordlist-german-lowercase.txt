@@ -5970,7 +5970,6 @@ rollfeld
 rolli
 rollmops
 rollo
-rom
 roman
 romanze
 rommee
