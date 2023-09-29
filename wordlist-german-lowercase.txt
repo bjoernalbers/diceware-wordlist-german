@@ -1546,7 +1546,6 @@ dezent
 dezernat
 dezibel
 dezimal
-dia
 diabolo
 diadem
 diagnose

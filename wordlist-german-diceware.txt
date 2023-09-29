@@ -1546,7 +1546,6 @@
 22253	dezernat
 22254	dezibel
 22255	dezimal
-22256	dia
 22261	diabolo
 22262	diadem
 22263	diagnose

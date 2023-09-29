@@ -1546,7 +1546,6 @@ dezent
 Dezernat
 Dezibel
 dezimal
-Dia
 Diabolo
 Diadem
 Diagnose
