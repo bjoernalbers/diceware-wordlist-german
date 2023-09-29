@@ -6503,6 +6503,7 @@ singular
 sinken
 sinn
 sinnlos
+sinnvoll
 sinus
 siphon
 sippe
