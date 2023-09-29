@@ -634,7 +634,6 @@
 14111	avatar
 14112	axial
 14113	axiom
-14114	axt
 14115	axtstiel
 14116	ayran
 14121	ayurveda
