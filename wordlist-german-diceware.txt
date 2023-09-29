@@ -2052,7 +2052,6 @@
 24512	erwerben
 24513	erwidern
 24514	erwirken
-24515	erz
 24516	erzeugen
 24521	erzeuger
 24522	erziehen

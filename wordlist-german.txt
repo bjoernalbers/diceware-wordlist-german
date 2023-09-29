@@ -2052,7 +2052,6 @@ Erwerb
 erwerben
 erwidern
 erwirken
-Erz
 erzeugen
 Erzeuger
 erziehen
