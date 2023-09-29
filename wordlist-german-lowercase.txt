@@ -1402,7 +1402,6 @@ contest
 cookie
 cool
 coolness
-cop
 copilot
 copyleft
 copyshop

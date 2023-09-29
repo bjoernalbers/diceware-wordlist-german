@@ -1402,7 +1402,6 @@
 21444	cookie
 21445	cool
 21446	coolness
-21451	cop
 21452	copilot
 21453	copyleft
 21454	copyshop

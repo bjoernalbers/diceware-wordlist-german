@@ -1402,7 +1402,6 @@ Contest
 Cookie
 cool
 Coolness
-Cop
 Copilot
 Copyleft
 Copyshop
