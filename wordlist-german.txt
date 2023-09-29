@@ -6063,6 +6063,7 @@ rutschig
 Saal
 Saat
 Saatgut
+Saatkorn
 sabbeln
 sabbern
 Sache
