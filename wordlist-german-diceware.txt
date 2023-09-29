@@ -1479,7 +1479,6 @@
 21656	dauern
 21661	daumen
 21662	daune
-21663	dax
 21664	deadline
 21665	deal
 21666	debakel

@@ -1479,7 +1479,6 @@ dauer
 dauern
 daumen
 daune
-dax
 deadline
 deal
 debakel
