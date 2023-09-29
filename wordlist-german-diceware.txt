@@ -3160,7 +3160,6 @@
 33626	hocken
 33631	hocker
 33632	hockey
-33633	hof
 33634	hoffen
 33635	hoffnung
 33636	hofstaat
