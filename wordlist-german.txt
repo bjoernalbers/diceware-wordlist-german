@@ -6141,6 +6141,7 @@ satt
 Sattel
 satteln
 Satz
+Satzball
 Satzung
 sauber
 Sauce
