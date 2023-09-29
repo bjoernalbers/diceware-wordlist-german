@@ -3140,7 +3140,6 @@
 33553	hissen
 33554	histamin
 33555	historie
-33556	hit
 33561	hitliste
 33562	hitze
 33563	hitzig
