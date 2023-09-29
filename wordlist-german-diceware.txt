@@ -3811,7 +3811,6 @@
 36653	kohle
 36654	kohlkopf
 36655	kohlrabi
-36656	koi
 36661	koje
 36662	kojote
 36663	kokeln
