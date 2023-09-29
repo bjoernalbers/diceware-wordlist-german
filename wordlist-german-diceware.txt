@@ -6404,7 +6404,6 @@
 61226	sofa
 61231	soft
 61232	softeis
-61233	sog
 61234	sohle
 61235	sohn
 61236	soja
