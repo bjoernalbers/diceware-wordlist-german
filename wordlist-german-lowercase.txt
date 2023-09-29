@@ -488,7 +488,6 @@ aspekt
 asphalt
 aspik
 aspirin
-ast
 asta
 asteroid
 astgabel

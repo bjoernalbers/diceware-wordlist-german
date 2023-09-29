@@ -488,7 +488,6 @@
 13262	asphalt
 13263	aspik
 13264	aspirin
-13266	ast
 13311	asta
 13312	asteroid
 13313	astgabel
