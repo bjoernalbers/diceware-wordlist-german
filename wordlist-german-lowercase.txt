@@ -6105,6 +6105,7 @@ salsa
 salto
 salz
 salzen
+salzfrei
 salzig
 samba
 sambuca
