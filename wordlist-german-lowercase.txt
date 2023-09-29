@@ -6253,6 +6253,7 @@ schlamm
 schlank
 schlapp
 schlau
+schlauch
 schleim
 schlick
 schliff
