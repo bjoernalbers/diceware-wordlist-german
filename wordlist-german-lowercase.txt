@@ -6126,6 +6126,7 @@ sandig
 sandkorn
 sandsack
 sanduhr
+sandwich
 sanft
 saphir
 sardine
