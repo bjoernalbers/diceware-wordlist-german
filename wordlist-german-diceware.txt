@@ -2319,7 +2319,6 @@
 25643	fischen
 25644	fischer
 25645	fiskus
-25646	fit
 25651	fitness
 25652	fittich
 25653	fix

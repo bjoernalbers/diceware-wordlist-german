@@ -2319,7 +2319,6 @@ Fisch
 fischen
 Fischer
 Fiskus
-fit
 Fitness
 Fittich
 fix
