@@ -6303,6 +6303,7 @@ schnuppe
 Schnur
 Schnute
 Schock
+schocken
 Schoko
 Scholle
 schonen
