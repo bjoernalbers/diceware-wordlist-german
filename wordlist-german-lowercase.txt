@@ -6335,6 +6335,7 @@ schulbus
 schule
 schulen
 schulhof
+schulter
 schund
 schuppe
 schuss
