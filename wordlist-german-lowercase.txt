@@ -6369,6 +6369,7 @@ score
 scotch
 scrollen
 sechseck
+sechstel
 seehund
 seeigel
 seele
