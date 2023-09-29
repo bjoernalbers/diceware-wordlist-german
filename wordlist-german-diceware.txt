@@ -2728,7 +2728,6 @@
 31615	giebel
 31616	giftpilz
 31621	giftzahn
-31622	gig
 31623	gigabyte
 31624	gigant
 31625	gilde
