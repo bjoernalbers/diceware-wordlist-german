@@ -6287,6 +6287,7 @@ schmu
 schmuck
 schmusen
 schmutz
+schnabel
 schnack
 schnake
 schnaps
