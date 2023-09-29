@@ -1585,7 +1585,6 @@ dinkel
 dinner
 dino
 diode
-dip
 diplom
 diplomat
 dippen

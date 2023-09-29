@@ -1585,7 +1585,6 @@
 22361	dinner
 22362	dino
 22363	diode
-22364	dip
 22365	diplom
 22366	diplomat
 22411	dippen
