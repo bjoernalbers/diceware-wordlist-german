@@ -49,7 +49,6 @@
 11233	abholen
 11234	abholer
 11235	abholung
-11236	abi
 11241	abifeier
 11242	abitur
 11243	abkleben
