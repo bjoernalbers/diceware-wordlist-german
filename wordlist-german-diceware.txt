@@ -7303,7 +7303,6 @@
 65362	wecken
 65363	wecker
 65364	wedeln
-65365	weg
 65366	wegrand
 65411	wehren
 65412	wehweh

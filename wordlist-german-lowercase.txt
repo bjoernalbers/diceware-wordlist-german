@@ -7303,7 +7303,6 @@ wechsel
 wecken
 wecker
 wedeln
-weg
 wegrand
 wehren
 wehweh
