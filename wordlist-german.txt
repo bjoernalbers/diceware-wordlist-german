@@ -6260,6 +6260,7 @@ Schleife
 Schleim
 Schleppe
 Schleuse
+schlicht
 Schlick
 Schliff
 schlimm
