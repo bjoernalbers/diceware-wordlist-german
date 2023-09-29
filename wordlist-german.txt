@@ -6248,6 +6248,7 @@ Schirm
 Schlaf
 schlafen
 Schlag
+Schlager
 Schlamm
 schlank
 schlapp
