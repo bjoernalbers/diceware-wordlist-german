@@ -5530,7 +5530,6 @@ prozedur
 prozent
 prozess
 prusten
-psi
 psyche
 pub
 publik
