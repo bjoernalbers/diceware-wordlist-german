@@ -5291,7 +5291,6 @@
 51653	piepser
 51654	piercing
 51655	pigment
-51656	pik
 51661	pikacht
 51662	pikant
 51663	pikass
