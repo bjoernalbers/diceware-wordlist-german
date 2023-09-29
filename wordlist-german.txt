@@ -707,7 +707,6 @@ Bankraub
 bankrott
 Banksafe
 Banner
-Bar
 Barbecue
 Barbier
 Barcode

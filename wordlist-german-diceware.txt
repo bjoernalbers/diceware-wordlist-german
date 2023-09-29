@@ -707,7 +707,6 @@
 14314	bankrott
 14315	banksafe
 14316	banner
-14321	bar
 14322	barbecue
 14323	barbier
 14324	barcode
