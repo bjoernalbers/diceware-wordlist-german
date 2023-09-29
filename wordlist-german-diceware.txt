@@ -7014,7 +7014,6 @@
 64144	tutor
 64145	tweet
 64146	tweeten
-64151	typ
 64152	typisch
 64153	ufer
 64154	ufo
