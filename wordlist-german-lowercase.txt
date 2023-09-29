@@ -6340,6 +6340,7 @@ schulung
 schulweg
 schund
 schuppe
+schuppen
 schuss
 schutt
 schutz
