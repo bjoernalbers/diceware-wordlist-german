@@ -6029,6 +6029,7 @@ Ruhetag
 ruhig
 Ruhm
 Ruhr
+Ruhrpott
 Ruin
 Ruine
 Rumba
