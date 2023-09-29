@@ -5706,7 +5706,6 @@ ratsam
 ratsche
 rattern
 ratzen
-rau
 raub
 rauben
 raubtier

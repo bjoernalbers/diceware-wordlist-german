@@ -5706,7 +5706,6 @@
 53643	ratsche
 53644	rattern
 53645	ratzen
-53646	rau
 53651	raub
 53652	rauben
 53653	raubtier
