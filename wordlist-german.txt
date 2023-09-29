@@ -1842,7 +1842,6 @@ Einzel
 einzeln
 einzig
 Einzug
-Eis
 Eisarena
 Eisaxt
 Eisbahn

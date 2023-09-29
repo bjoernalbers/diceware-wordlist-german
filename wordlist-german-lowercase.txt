@@ -1842,7 +1842,6 @@ einzel
 einzeln
 einzig
 einzug
-eis
 eisarena
 eisaxt
 eisbahn

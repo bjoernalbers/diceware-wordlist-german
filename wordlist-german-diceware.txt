@@ -1842,7 +1842,6 @@
 23516	einzeln
 23521	einzig
 23522	einzug
-23523	eis
 23524	eisarena
 23525	eisaxt
 23526	eisbahn
