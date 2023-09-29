@@ -2897,7 +2897,6 @@ haftzeit
 hagel
 hageln
 hahn
-hai
 haia
 haifisch
 haiku

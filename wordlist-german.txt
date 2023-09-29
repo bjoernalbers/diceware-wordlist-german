@@ -2897,7 +2897,6 @@ Haftzeit
 Hagel
 hageln
 Hahn
-Hai
 Haia
 Haifisch
 Haiku

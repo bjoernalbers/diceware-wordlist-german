@@ -2897,7 +2897,6 @@
 32464	hagel
 32465	hageln
 32466	hahn
-32511	hai
 32512	haia
 32513	haifisch
 32514	haiku
