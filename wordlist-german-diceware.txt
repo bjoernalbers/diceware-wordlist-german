@@ -6752,7 +6752,6 @@
 62616	tattoo
 62621	tattrig
 62622	tatze
-62623	tau
 62624	taub
 62625	taube
 62626	tauchen
