@@ -7551,7 +7551,6 @@
 66464	zoll
 66465	zombie
 66466	zone
-66511	zoo
 66512	zoologe
 66513	zoom
 66514	zoomen
