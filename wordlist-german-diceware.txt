@@ -4778,7 +4778,6 @@
 45366	nagen
 45411	nager
 45412	nagetier
-45413	nah
 45414	nahen
 45415	nahrhaft
 45416	nahrung
