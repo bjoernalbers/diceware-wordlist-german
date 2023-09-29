@@ -5988,7 +5988,6 @@ rosten
 rostfrei
 rostig
 rostrot
-rot
 rotation
 rotbraun
 rotieren

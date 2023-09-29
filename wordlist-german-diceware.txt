@@ -5988,7 +5988,6 @@
 55242	rostfrei
 55243	rostig
 55244	rostrot
-55245	rot
 55246	rotation
 55251	rotbraun
 55252	rotieren
