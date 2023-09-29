@@ -6369,7 +6369,6 @@
 61126	skelett
 61131	skepsis
 61132	sketch
-61133	ski
 61134	skihose
 61135	skilift
 61136	skill
