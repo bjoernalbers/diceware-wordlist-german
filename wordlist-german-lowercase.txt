@@ -6100,6 +6100,7 @@ salmiak
 salon
 saloon
 salopp
+salpeter
 salsa
 salto
 salz
