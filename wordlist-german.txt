@@ -1700,7 +1700,6 @@ Dummy
 dunkel
 Dunst
 Duplikat
-Dur
 Durchzug
 Durst
 durstig

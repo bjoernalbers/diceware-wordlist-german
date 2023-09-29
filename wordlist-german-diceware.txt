@@ -1700,7 +1700,6 @@
 23114	dunkel
 23115	dunst
 23121	duplikat
-23122	dur
 23123	durchzug
 23124	durst
 23125	durstig
