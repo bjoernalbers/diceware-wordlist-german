@@ -4284,7 +4284,6 @@ litschi
 litze
 liveshow
 lizenz
-lkw
 lob
 lobby
 loben

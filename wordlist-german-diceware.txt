@@ -4284,7 +4284,6 @@
 43164	litze
 43165	liveshow
 43166	lizenz
-43211	lkw
 43212	lob
 43213	lobby
 43214	loben
