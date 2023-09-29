@@ -6375,6 +6375,7 @@ Seebeben
 Seefahrt
 Seehund
 Seeigel
+Seekarte
 Seele
 Seemann
 Seenot
