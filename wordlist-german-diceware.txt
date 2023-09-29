@@ -2776,7 +2776,6 @@
 32141	glutnest
 32142	glutrot
 32143	glyzerin
-32144	gnu
 32145	gockel
 32146	gokart
 32151	gold

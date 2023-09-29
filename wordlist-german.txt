@@ -2776,7 +2776,6 @@ Glutamat
 Glutnest
 glutrot
 Glyzerin
-Gnu
 Gockel
 Gokart
 Gold
