@@ -5896,7 +5896,6 @@
 54563	rezeptur
 54564	rhetorik
 54565	rheuma
-54566	rho
 54611	rhythmus
 54612	richten
 54613	richter
