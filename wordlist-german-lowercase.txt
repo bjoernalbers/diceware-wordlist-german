@@ -4308,7 +4308,6 @@ logo
 lohn
 lohnen
 loipe
-lok
 lokal
 lolli
 look

@@ -4308,7 +4308,6 @@
 43251	lohn
 43252	lohnen
 43253	loipe
-43254	lok
 43255	lokal
 43256	lolli
 43261	look
