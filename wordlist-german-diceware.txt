@@ -74,7 +74,6 @@
 11315	abnehmer
 11316	abnicken
 11321	abnutzen
-11322	abo
 11323	abonnent
 11324	abpacken
 11325	abpassen
