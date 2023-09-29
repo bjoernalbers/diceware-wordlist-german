@@ -6091,6 +6091,7 @@ Sake
 Sakko
 Salami
 Salat
+Salatbar
 Salbe
 Salbei
 Saldo
