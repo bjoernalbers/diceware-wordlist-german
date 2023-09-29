@@ -6129,6 +6129,7 @@ Sanduhr
 Sandwich
 sanft
 Sanftmut
+sanieren
 Saphir
 Sardine
 Satin
