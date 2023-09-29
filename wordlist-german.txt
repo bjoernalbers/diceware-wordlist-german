@@ -6107,6 +6107,7 @@ Salz
 salzen
 salzfrei
 salzig
+Salzkorn
 Samba
 Sambuca
 sammeln
