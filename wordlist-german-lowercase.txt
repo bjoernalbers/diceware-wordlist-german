@@ -6298,6 +6298,7 @@ schneien
 schneise
 schnell
 schnitt
+schnitte
 schnur
 schnute
 schock
