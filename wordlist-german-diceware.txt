@@ -463,7 +463,6 @@
 13215	argon
 13216	argument
 13221	arie
-13222	arm
 13223	armatur
 13224	armband
 13225	armbeuge
