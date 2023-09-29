@@ -4735,7 +4735,6 @@
 45253	murksen
 45254	murmel
 45255	murmeln
-45256	mus
 45261	muschel
 45262	muse
 45263	museum
