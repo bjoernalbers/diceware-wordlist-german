@@ -6302,7 +6302,6 @@ servus
 sesam
 sessel
 session
-set
 setup
 setzen
 seuche
