@@ -2572,7 +2572,6 @@
 31152	garnele
 31153	garnitur
 31154	garten
-31155	gas
 31156	gasbeton
 31161	gasherd
 31162	gasmaske

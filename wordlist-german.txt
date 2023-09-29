@@ -2572,7 +2572,6 @@ Garn
 Garnele
 Garnitur
 Garten
-Gas
 Gasbeton
 Gasherd
 Gasmaske

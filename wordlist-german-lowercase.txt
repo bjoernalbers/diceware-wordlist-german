@@ -2572,7 +2572,6 @@ garn
 garnele
 garnitur
 garten
-gas
 gasbeton
 gasherd
 gasmaske
