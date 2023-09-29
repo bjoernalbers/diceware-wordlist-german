@@ -2545,7 +2545,6 @@ gabeln
 gabelung
 gackern
 gadget
-gag
 gage
 gala
 galant

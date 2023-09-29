@@ -2545,7 +2545,6 @@
 26663	gabelung
 26664	gackern
 26665	gadget
-26666	gag
 31111	gage
 31112	gala
 31113	galant
