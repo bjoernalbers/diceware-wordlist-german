@@ -238,7 +238,6 @@
 12154	allianz
 12155	allrad
 12156	alltag
-12161	alm
 12162	alpaka
 12163	alpen
 12164	alpha
