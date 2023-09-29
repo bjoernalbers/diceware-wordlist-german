@@ -6308,6 +6308,7 @@ schoko
 scholle
 schonen
 schoner
+schonung
 schopf
 schorle
 schose

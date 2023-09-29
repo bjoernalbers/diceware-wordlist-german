@@ -6308,6 +6308,7 @@ Schoko
 Scholle
 schonen
 Schoner
+Schonung
 Schopf
 Schorle
 Schose
