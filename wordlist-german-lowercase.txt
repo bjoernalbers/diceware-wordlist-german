@@ -6531,6 +6531,7 @@ skihose
 skilift
 skill
 skipass
+skipiste
 skipper
 skizze
 skonto

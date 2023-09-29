@@ -6531,6 +6531,7 @@ Skihose
 Skilift
 Skill
 Skipass
+Skipiste
 Skipper
 Skizze
 Skonto
