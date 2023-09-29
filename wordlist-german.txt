@@ -6329,6 +6329,7 @@ Schrott
 Schub
 Schubs
 schubsen
+schuften
 Schuh
 Schule
 schulen
