@@ -6281,6 +6281,7 @@ schmaus
 schmelz
 schmerz
 schmied
+schmiede
 schmu
 schmuck
 schmutz
