@@ -5781,7 +5781,6 @@
 54251	regnen
 54252	regress
 54253	regung
-54254	reh
 54255	reha
 54256	rehbraun
 54261	rehkeule
