@@ -2321,7 +2321,6 @@
 25645	fiskus
 25651	fitness
 25652	fittich
-25653	fix
 25654	fixie
 25655	fixieren
 25656	fixpreis

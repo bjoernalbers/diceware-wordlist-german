@@ -2321,7 +2321,6 @@ Fischer
 Fiskus
 Fitness
 Fittich
-fix
 Fixie
 fixieren
 Fixpreis
