@@ -474,7 +474,6 @@
 13235	arnika
 13236	aroma
 13241	arrest
-13242	art
 13243	artefakt
 13244	arthrose
 13245	artig
