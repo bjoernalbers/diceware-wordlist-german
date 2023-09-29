@@ -2867,7 +2867,6 @@ gurt
 gurtband
 guru
 gussform
-gut
 gutartig
 guthaben
 gutshaus
