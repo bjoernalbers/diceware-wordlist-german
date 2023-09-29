@@ -6331,6 +6331,7 @@ Schubs
 schubsen
 schuften
 Schuh
+Schulbus
 Schule
 schulen
 Schund
