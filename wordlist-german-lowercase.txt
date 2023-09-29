@@ -6059,6 +6059,7 @@ rustikal
 rute
 rutsche
 rutschen
+rutschig
 saal
 saat
 saatgut
