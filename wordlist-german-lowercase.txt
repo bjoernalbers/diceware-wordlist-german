@@ -6402,6 +6402,7 @@ seidig
 seife
 seifig
 seil
+seilbahn
 seite
 sekret
 sekt
