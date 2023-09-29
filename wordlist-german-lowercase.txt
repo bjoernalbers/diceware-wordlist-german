@@ -6201,6 +6201,7 @@ schatz
 schauen
 schauer
 schaufel
+schaukel
 schaum
 scheck
 scheibe
