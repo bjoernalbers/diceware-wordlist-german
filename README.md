@@ -14,13 +14,22 @@ and hard to guess (for others):
 
 [![xkcd: Password Strength](https://imgs.xkcd.com/comics/password_strength.png "xkcd: Password Strength")](https://xkcd.com/936)
 
-## And what exactly is Diceware?
+## How are passphrases created?
 
-[Diceware](https://en.wikipedia.org/wiki/Diceware) is a method to generate
-those passphrases using ordinary dice, invented by Arnold Reinhold.
-You simply roll five dice to pick a random word from a Diceware wordlist until
-you have enough words.
-This repository provides such a list.
+A strong passphrase consists of *randomly* selected words.
+**So do not make up the words yourself, since those words might not be as random
+as you think!**
+Using words like the names of family members, your partner, pet, hobby, etc.
+are easy to guess for others and will result in insecure passphrases.
+
+A better approach is to use a passphrase generator.
+Another method to generate random passphrases is
+[Diceware](https://en.wikipedia.org/wiki/Diceware), invented by Arnold
+Reinhold:
+You simply roll five dice to pick a random word from a Diceware wordlist.
+Repeat this process until you have the desired number of words.
+
+In either case you need a wordlist which this repository provides.
 
 ## Wordlist formats
 
