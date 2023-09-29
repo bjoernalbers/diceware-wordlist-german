@@ -6334,6 +6334,7 @@ schuh
 schulbus
 schule
 schulen
+schulhof
 schund
 schuppe
 schuss
