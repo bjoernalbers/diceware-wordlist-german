@@ -6238,6 +6238,7 @@ Schiene
 Schiff
 Schild
 Schilf
+Schimmel
 Schippe
 Schiri
 Schirm
