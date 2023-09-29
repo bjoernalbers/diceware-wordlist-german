@@ -6428,7 +6428,6 @@
 61311	soul
 61312	sound
 61313	sozial
-61314	spa
 61315	spagat
 61316	spalt
 61321	spalten
