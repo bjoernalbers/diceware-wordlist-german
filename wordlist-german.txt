@@ -6128,6 +6128,7 @@ Sandsack
 Sanduhr
 Sandwich
 sanft
+Sanftmut
 Saphir
 Sardine
 Satin

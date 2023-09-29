@@ -6128,6 +6128,7 @@ sandsack
 sanduhr
 sandwich
 sanft
+sanftmut
 saphir
 sardine
 satin
