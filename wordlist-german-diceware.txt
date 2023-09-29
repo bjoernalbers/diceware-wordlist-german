@@ -7561,7 +7561,6 @@
 66523	zucker
 66524	zufahrt
 66525	zufall
-66526	zug
 66531	zugabe
 66532	zugang
 66533	zugeben

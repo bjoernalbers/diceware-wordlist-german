@@ -7561,7 +7561,6 @@ zucken
 zucker
 zufahrt
 zufall
-zug
 zugabe
 zugang
 zugeben
