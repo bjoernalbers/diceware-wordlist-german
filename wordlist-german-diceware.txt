@@ -4938,7 +4938,6 @@
 46242	nussbaum
 46243	nussig
 46244	nusskern
-46245	nut
 46246	nutria
 46251	nutzbar
 46252	nutzen
