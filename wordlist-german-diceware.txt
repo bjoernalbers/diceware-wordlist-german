@@ -6352,7 +6352,6 @@
 56656	sinus
 56661	siphon
 56662	sippe
-56663	sir
 56664	sirene
 56665	sirup
 56666	sitcom
