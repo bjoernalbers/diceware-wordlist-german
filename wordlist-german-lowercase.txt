@@ -6203,6 +6203,7 @@ schauer
 schaufel
 schaukel
 schaum
+schaumig
 scheck
 scheibe
 scheich
