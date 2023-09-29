@@ -2732,7 +2732,6 @@
 31624	gigant
 31625	gilde
 31626	gimmick
-31631	gin
 31632	gipfel
 31633	gips
 31634	gipsbein
