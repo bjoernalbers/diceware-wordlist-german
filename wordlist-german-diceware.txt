@@ -7475,7 +7475,6 @@
 66253	zapfen
 66254	zappeln
 66255	zappen
-66256	zar
 66261	zarge
 66262	zart
 66263	zaster
