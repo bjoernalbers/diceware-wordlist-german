@@ -4994,7 +4994,6 @@
 46422	olive
 46423	olymp
 46424	olympia
-46425	oma
 46426	omega
 46431	omelett
 46432	omelette
