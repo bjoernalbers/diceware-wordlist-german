@@ -267,7 +267,6 @@
 12245	ampel
 12246	ampulle
 12251	amsel
-12252	amt
 12253	amtieren
 12254	amtsadel
 12255	amtszeit

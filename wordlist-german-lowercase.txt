@@ -267,7 +267,6 @@ ammoniak
 ampel
 ampulle
 amsel
-amt
 amtieren
 amtsadel
 amtszeit
