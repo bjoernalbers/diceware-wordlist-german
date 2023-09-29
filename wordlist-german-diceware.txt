@@ -4998,7 +4998,6 @@
 46431	omelett
 46432	omelette
 46433	omen
-46434	omi
 46435	omikron
 46436	omnibus
 46441	onkel
