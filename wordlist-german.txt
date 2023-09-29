@@ -6254,6 +6254,7 @@ schlank
 schlapp
 schlau
 Schlauch
+Schlaufe
 Schleim
 Schlick
 Schliff
