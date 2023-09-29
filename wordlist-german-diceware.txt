@@ -1025,7 +1025,6 @@
 15565	biss
 15566	bissfest
 15611	bistro
-15612	bit
 15613	bitte
 15614	bitten
 15615	bitter
