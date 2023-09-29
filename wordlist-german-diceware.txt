@@ -4969,7 +4969,6 @@
 46334	obstler
 46335	ochse
 46336	ocker
-46341	ode
 46342	odyssee
 46343	ofen
 46344	ofenrohr
