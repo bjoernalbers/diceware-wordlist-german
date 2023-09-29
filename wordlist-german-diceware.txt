@@ -5400,7 +5400,6 @@
 52361	pokal
 52362	poker
 52363	pokern
-52364	pol
 52365	polaroid
 52366	polenta
 52411	polente

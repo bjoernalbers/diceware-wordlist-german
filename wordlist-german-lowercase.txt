@@ -5400,7 +5400,6 @@ pointer
 pokal
 poker
 pokern
-pol
 polaroid
 polenta
 polente
