@@ -7485,7 +7485,6 @@ zebra
 zeche
 zecke
 zeder
-zeh
 zehe
 zehner
 zehntel

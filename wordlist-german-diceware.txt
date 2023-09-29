@@ -7485,7 +7485,6 @@
 66312	zeche
 66313	zecke
 66314	zeder
-66315	zeh
 66316	zehe
 66321	zehner
 66322	zehntel
