@@ -6223,6 +6223,7 @@ schenken
 Scherbe
 Schere
 Scherz
+scherzen
 scheu
 Scheune
 Schicht
