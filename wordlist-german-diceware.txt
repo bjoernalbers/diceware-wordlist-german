@@ -7453,7 +7453,6 @@
 66214	wuseln
 66215	xenon
 66216	xylofon
-66221	yak
 66222	yeti
 66223	yoga
 66224	ypsilon
