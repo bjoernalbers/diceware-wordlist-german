@@ -6113,6 +6113,7 @@ Samba
 Sambuca
 sammeln
 Sammler
+Sammlung
 Sampler
 Samstag
 Samt

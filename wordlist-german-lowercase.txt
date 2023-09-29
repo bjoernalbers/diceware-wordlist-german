@@ -6113,6 +6113,7 @@ samba
 sambuca
 sammeln
 sammler
+sammlung
 sampler
 samstag
 samt
