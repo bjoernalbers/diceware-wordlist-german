@@ -6264,6 +6264,7 @@ schlicht
 Schlick
 Schliff
 schlimm
+Schlinge
 Schlips
 Schlitz
 Schloss
