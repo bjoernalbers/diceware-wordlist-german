@@ -7255,7 +7255,6 @@
 65235	wahl
 65236	wahr
 65241	waise
-65242	wal
 65243	wald
 65244	waldweg
 65245	walken

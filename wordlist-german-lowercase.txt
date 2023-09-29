@@ -7255,7 +7255,6 @@ waggon
 wahl
 wahr
 waise
-wal
 wald
 waldweg
 walken
