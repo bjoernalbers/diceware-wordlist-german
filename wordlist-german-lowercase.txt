@@ -6064,6 +6064,7 @@ saal
 saat
 saatgut
 saatkorn
+saatzeit
 sabbeln
 sabbern
 sache
