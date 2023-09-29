@@ -35,9 +35,9 @@ In either case you need a wordlist.
 
 This repository provides a list of 7,776 german words in these formats:
 
-- `wordlist-german.txt`: original german wordlist with correct capitalization
-- `wordlist-german-lowercase.txt`: lowercase version of the wordlist above
-- `wordlist-german-diceware.txt`: the actual german diceware wordlist made from
+- [wordlist-german.txt](wordlist-german.txt): original german wordlist with correct capitalization
+- [wordlist-german-lowercase.txt](wordlist-german-lowercase.txt): lowercase version of the wordlist above
+- [wordlist-german-diceware.txt](wordlist-german-diceware.txt): the actual german diceware wordlist made from
   the lowercase wordlist
 
 Each word has been manually checked to be familiar and office-friendly
