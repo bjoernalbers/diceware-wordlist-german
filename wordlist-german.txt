@@ -6404,6 +6404,7 @@ seifig
 Seil
 Seilbahn
 Seite
+seitlich
 Sekret
 Sekt
 Sektor

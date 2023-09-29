@@ -6404,6 +6404,7 @@ seifig
 seil
 seilbahn
 seite
+seitlich
 sekret
 sekt
 sektor
