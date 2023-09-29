@@ -1759,7 +1759,6 @@
 23256	eibe
 23261	eiche
 23262	eichen
-23263	eid
 23264	eidechse
 23265	eidotter
 23266	eiermann
