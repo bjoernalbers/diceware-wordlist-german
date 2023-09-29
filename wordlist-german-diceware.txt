@@ -1433,7 +1433,6 @@
 21536	crossrad
 21541	croupier
 21542	cruiser
-21543	cup
 21544	curry
 21545	cursor
 21546	cut

@@ -1433,7 +1433,6 @@ croc
 crossrad
 croupier
 cruiser
-cup
 curry
 cursor
 cut
