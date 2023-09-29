@@ -7294,7 +7294,6 @@
 65343	watt
 65344	watte
 65346	wauwau
-65351	web
 65352	webcam
 65353	weben
 65354	webinar
