@@ -6189,6 +6189,7 @@ schalten
 Schalter
 Schalung
 schamlos
+Schamott
 Schanze
 scharf
 Schatz
