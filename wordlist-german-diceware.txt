@@ -3242,7 +3242,6 @@
 34251	huschen
 34252	husky
 34253	husten
-34254	hut
 34255	hybrid
 34256	hydrant
 34261	hygiene
