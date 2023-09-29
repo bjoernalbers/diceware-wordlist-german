@@ -5562,7 +5562,6 @@
 53235	punsch
 53236	pupille
 53241	puppe
-53242	pur
 53243	purpur
 53244	purzeln
 53245	puschel
