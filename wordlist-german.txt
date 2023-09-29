@@ -6210,6 +6210,7 @@ scheckig
 Scheibe
 Scheich
 Schein
+scheinen
 Scheit
 Schelle
 Schelm
