@@ -6342,6 +6342,7 @@ schund
 schuppe
 schuppen
 schuss
+schuster
 schutt
 schutz
 schwabe
