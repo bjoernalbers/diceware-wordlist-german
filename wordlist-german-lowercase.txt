@@ -6518,6 +6518,7 @@ sitzen
 sitzung
 sixpack
 skala
+skalpell
 skandal
 skat
 skaten
