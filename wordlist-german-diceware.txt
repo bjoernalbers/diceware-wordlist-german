@@ -252,7 +252,6 @@
 12221	altglas
 12222	altstadt
 12223	altwagen
-12224	alu
 12225	alufelge
 12226	alufolie
 12231	amalgam

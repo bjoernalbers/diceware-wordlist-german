@@ -252,7 +252,6 @@ Altertum
 Altglas
 Altstadt
 Altwagen
-Alu
 Alufelge
 Alufolie
 Amalgam
