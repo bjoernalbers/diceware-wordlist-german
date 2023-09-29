@@ -6461,6 +6461,7 @@ shift
 shirt
 shisha
 shop
+shopping
 shorts
 show
 shrimp
