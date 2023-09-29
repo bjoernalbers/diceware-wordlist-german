@@ -6571,6 +6571,7 @@ software
 sohle
 sohn
 soja
+solarium
 solei
 solide
 solist
