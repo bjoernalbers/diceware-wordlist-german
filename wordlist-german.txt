@@ -1262,7 +1262,6 @@ Burg
 Burger
 Burrito
 Bursche
-Bus
 Busch
 Busfahrt
 Business

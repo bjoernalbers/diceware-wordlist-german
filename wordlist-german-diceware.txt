@@ -1262,7 +1262,6 @@
 16646	burger
 16651	burrito
 16652	bursche
-16653	bus
 16654	busch
 16655	busfahrt
 16656	business
