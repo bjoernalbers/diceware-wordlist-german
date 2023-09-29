@@ -6292,6 +6292,7 @@ schnack
 schnake
 schnalle
 schnaps
+schnecke
 schnee
 schnell
 schnitt
