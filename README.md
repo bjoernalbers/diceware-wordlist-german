@@ -22,7 +22,7 @@ as you think!**
 Using words like the names of family members, your partner, pet, hobby, etc.
 are easy to guess for others and will result in insecure passphrases.
 
-A better approach is to use a passphrase generator.
+A better approach is to use a **passphrase generator**.
 Another method to generate random passphrases is
 [Diceware](https://en.wikipedia.org/wiki/Diceware), invented by
 [Arnold Reinhold](https://theworld.com/~reinhold/diceware.html):
@@ -33,14 +33,14 @@ In either case you need a wordlist.
 
 ## About this wordlist
 
-This repository provides a list of 7,776 german words in these formats:
+This repository provides a list of **7,776 german words** in these formats:
 
 - [wordlist-german.txt](wordlist-german.txt): original german wordlist with correct capitalization
 - [wordlist-german-lowercase.txt](wordlist-german-lowercase.txt): lowercase version of the wordlist above
 - [wordlist-german-diceware.txt](wordlist-german-diceware.txt): the actual german diceware wordlist made from
   the lowercase wordlist
 
-Each word has been manually checked to be familiar and office-friendly
+Each word has been manually checked to be **familiar and office-friendly**
 (not vulgar, offensive, religious or with negative connotations).
 The words also meet these formal conditions:
 
