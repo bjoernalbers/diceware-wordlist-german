@@ -6360,6 +6360,7 @@ Schwelle
 schwer
 Schwert
 Schwips
+schwofen
 Schwund
 Schwung
 Schwur
