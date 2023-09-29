@@ -6186,6 +6186,7 @@ schalk
 schall
 schallen
 schalten
+schalter
 schanze
 scharf
 schatz
