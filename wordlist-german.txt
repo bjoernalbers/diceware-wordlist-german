@@ -5695,7 +5695,6 @@ rasten
 Raster
 Rasthof
 Rasur
-Rat
 raten
 Ratgeber
 Rathaus

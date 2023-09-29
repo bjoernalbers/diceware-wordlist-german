@@ -5695,7 +5695,6 @@
 53623	raster
 53624	rasthof
 53625	rasur
-53626	rat
 53631	raten
 53632	ratgeber
 53633	rathaus
