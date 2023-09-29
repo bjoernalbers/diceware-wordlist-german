@@ -6233,6 +6233,7 @@ schicken
 schieben
 Schieber
 schief
+Schiefer
 Schiene
 Schiff
 Schild
