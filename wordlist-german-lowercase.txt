@@ -3215,7 +3215,6 @@ hotel
 hotelbar
 hotline
 hotspot
-hub
 hubraum
 hubwagen
 huckel

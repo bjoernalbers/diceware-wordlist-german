@@ -3215,7 +3215,6 @@
 34162	hotelbar
 34163	hotline
 34164	hotspot
-34165	hub
 34166	hubraum
 34211	hubwagen
 34212	huckel
