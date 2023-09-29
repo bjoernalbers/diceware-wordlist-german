@@ -4748,7 +4748,6 @@
 45315	mustang
 45316	muster
 45321	mustern
-45322	mut
 45323	mutation
 45324	mutieren
 45325	mutig
