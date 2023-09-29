@@ -4977,7 +4977,6 @@
 46351	offensiv
 46352	offerte
 46353	offset
-46354	ohm
 46355	ohnmacht
 46356	ohr
 46361	ohrclip
