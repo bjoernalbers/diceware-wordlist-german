@@ -4910,7 +4910,6 @@
 46153	normal
 46154	normung
 46155	normwert
-46156	not
 46161	notar
 46162	notarzt
 46163	note
