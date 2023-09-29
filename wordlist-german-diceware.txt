@@ -6747,7 +6747,6 @@
 62566	taste
 62611	tasten
 62612	taster
-62613	tat
 62614	tatar
 62615	tatort
 62616	tattoo
