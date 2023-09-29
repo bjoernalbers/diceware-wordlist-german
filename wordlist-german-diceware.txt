@@ -3437,7 +3437,6 @@
 35223	juvenil
 35224	juwel
 35225	juwelier
-35226	jux
 35231	juxen
 35232	kabarett
 35233	kabel
