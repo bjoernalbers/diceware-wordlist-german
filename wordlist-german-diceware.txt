@@ -2564,7 +2564,6 @@
 31135	gangster
 31136	ganz
 31141	ganzzahl
-31142	gar
 31143	garage
 31144	garantie
 31145	gardine

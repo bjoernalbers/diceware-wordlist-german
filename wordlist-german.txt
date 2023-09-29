@@ -2564,7 +2564,6 @@ Gang
 Gangster
 ganz
 Ganzzahl
-gar
 Garage
 Garantie
 Gardine
