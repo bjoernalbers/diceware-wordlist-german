@@ -6376,6 +6376,7 @@ Seefahrt
 Seehund
 Seeigel
 Seekarte
+seekrank
 Seele
 Seemann
 Seenot
