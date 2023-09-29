@@ -6384,6 +6384,7 @@ Seemeile
 Seenot
 Seerose
 Seesack
+Seestern
 Segel
 segeln
 Segler
