@@ -6142,6 +6142,7 @@ sattel
 satteln
 satz
 satzball
+satzende
 satzung
 sauber
 sauce
