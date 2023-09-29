@@ -6469,6 +6469,7 @@ sichel
 sicher
 sichern
 sicht
+sichtbar
 sichten
 sickern
 sieb
