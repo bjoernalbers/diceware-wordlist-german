@@ -444,7 +444,6 @@ aperitif
 apfel
 apfelmus
 apotheke
-app
 apparat
 appell
 appetit

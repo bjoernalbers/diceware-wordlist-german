@@ -444,7 +444,6 @@
 13143	apfel
 13144	apfelmus
 13145	apotheke
-13146	app
 13151	apparat
 13152	appell
 13153	appetit
