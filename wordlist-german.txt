@@ -6706,7 +6706,6 @@ Tadel
 tadeln
 Tafel
 taff
-Tag
 tagen
 taggen
 Tagung

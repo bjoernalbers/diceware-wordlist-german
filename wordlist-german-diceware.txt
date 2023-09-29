@@ -6706,7 +6706,6 @@
 62455	tadeln
 62456	tafel
 62461	taff
-62462	tag
 62463	tagen
 62464	taggen
 62465	tagung
