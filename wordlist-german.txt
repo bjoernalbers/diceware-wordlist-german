@@ -6214,6 +6214,7 @@ scheinen
 Scheit
 Scheitel
 Schelle
+schellen
 Schelm
 Schema
 Schemel
