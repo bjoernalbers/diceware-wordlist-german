@@ -6204,6 +6204,7 @@ schaufel
 schaukel
 schaum
 schaumig
+schaurig
 scheck
 scheibe
 scheich
