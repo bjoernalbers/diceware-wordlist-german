@@ -6533,6 +6533,7 @@ Skill
 Skipass
 Skipiste
 Skipper
+Skischuh
 Skizze
 Skonto
 Skooter
