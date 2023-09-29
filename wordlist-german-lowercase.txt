@@ -6046,6 +6046,7 @@ runde
 runden
 rundflug
 rundfunk
+rundgang
 rundung
 rundweg
 runzeln
