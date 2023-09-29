@@ -232,7 +232,6 @@ algebra
 alias
 alibi
 alkohol
-all
 alle
 allee
 allergie

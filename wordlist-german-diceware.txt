@@ -232,7 +232,6 @@
 12143	alias
 12144	alibi
 12145	alkohol
-12146	all
 12151	alle
 12152	allee
 12153	allergie
