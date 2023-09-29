@@ -5531,7 +5531,6 @@ prozent
 prozess
 prusten
 psyche
-pub
 publik
 publikum
 puck

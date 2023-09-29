@@ -5531,7 +5531,6 @@
 53142	prozess
 53143	prusten
 53145	psyche
-53146	pub
 53151	publik
 53152	publikum
 53153	puck
