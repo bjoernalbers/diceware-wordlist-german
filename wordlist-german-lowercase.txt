@@ -4296,7 +4296,6 @@ lockern
 lockig
 lodern
 loft
-log
 logbuch
 loge
 logfile

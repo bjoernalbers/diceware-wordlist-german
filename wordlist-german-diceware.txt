@@ -4296,7 +4296,6 @@
 43226	lockig
 43231	lodern
 43232	loft
-43233	log
 43234	logbuch
 43235	loge
 43236	logfile
