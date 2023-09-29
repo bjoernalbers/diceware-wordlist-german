@@ -6601,6 +6601,7 @@ spachtel
 spagat
 spagetti
 spalt
+spaltaxt
 spalten
 spam
 spammen
