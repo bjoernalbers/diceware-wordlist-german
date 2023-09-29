@@ -6070,6 +6070,7 @@ sabbern
 sabotage
 sachbuch
 sache
+sachlage
 sachse
 sachte
 sack
