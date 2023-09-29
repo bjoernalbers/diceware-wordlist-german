@@ -24,8 +24,8 @@ are easy to guess for others and will result in insecure passphrases.
 
 A better approach is to use a passphrase generator.
 Another method to generate random passphrases is
-[Diceware](https://en.wikipedia.org/wiki/Diceware), invented by Arnold
-Reinhold:
+[Diceware](https://en.wikipedia.org/wiki/Diceware), invented by
+[Arnold Reinhold](https://theworld.com/~reinhold/diceware.html):
 You simply roll five dice to pick a random word from a Diceware wordlist.
 Repeat this process until you have the desired number of words.
 
