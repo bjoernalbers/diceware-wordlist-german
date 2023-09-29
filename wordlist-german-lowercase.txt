@@ -4891,7 +4891,6 @@ nisten
 nistzeit
 nitrat
 niveau
-nix
 nixe
 nobel
 nobody

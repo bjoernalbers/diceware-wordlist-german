@@ -4891,7 +4891,6 @@
 46121	nistzeit
 46122	nitrat
 46123	niveau
-46124	nix
 46125	nixe
 46126	nobel
 46131	nobody
