@@ -6367,6 +6367,7 @@ schwur
 scooter
 score
 scotch
+scrollen
 seehund
 seeigel
 seele
