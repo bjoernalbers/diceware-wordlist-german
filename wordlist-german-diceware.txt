@@ -5010,7 +5010,6 @@
 46453	operativ
 46454	operator
 46455	operette
-46456	opi
 46461	opium
 46462	opossum
 46463	optik

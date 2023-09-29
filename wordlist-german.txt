@@ -5010,7 +5010,6 @@ Operand
 operativ
 Operator
 Operette
-Opi
 Opium
 Opossum
 Optik
