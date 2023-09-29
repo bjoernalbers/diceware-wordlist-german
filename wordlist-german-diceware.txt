@@ -5044,7 +5044,6 @@
 46553	ortsnah
 46554	ortszeit
 46555	ortung
-46556	ost
 46561	osten
 46562	osteria
 46563	ostseite

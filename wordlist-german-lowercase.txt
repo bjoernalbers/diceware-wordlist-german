@@ -5044,7 +5044,6 @@ orthese
 ortsnah
 ortszeit
 ortung
-ost
 osten
 osteria
 ostseite
