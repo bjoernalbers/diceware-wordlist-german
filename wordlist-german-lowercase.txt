@@ -6256,6 +6256,7 @@ schlau
 schlauch
 schlaufe
 schleier
+schleife
 schleim
 schlick
 schliff
