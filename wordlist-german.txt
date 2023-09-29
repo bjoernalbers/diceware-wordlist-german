@@ -1247,7 +1247,6 @@ buddeln
 Buddy
 Bude
 Budget
-Bug
 Bugfix
 Buggy
 Bugwelle

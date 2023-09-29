@@ -1247,7 +1247,6 @@
 16622	buddy
 16623	bude
 16624	budget
-16625	bug
 16626	bugfix
 16631	buggy
 16632	bugwelle
