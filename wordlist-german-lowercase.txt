@@ -6246,6 +6246,7 @@ schippe
 schiri
 schirm
 schlaf
+schlafen
 schlag
 schlamm
 schlank
