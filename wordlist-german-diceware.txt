@@ -4316,7 +4316,6 @@
 43264	lorbeere
 43265	lord
 43266	lore
-43311	los
 43312	lose
 43313	losen
 43314	loslegen
