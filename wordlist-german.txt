@@ -6185,6 +6185,7 @@ Schale
 Schalk
 Schall
 schallen
+schalten
 Schanze
 scharf
 Schatz
