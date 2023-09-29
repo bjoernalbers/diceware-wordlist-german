@@ -6377,6 +6377,7 @@ Seehund
 Seeigel
 Seekarte
 seekrank
+Seelachs
 Seele
 Seemann
 Seenot
