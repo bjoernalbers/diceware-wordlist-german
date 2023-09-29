@@ -4320,7 +4320,6 @@
 43313	losen
 43314	loslegen
 43315	losung
-43316	lot
 43321	lotion
 43322	lotrecht
 43323	lotse
