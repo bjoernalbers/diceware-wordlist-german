@@ -5672,7 +5672,6 @@
 53543	ranking
 53544	ranzen
 53545	ranzig
-53546	rap
 53551	rapide
 53552	rappe
 53553	rappeln
