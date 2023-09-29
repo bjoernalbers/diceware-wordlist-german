@@ -1,7 +1,5 @@
 # German Diceware Wordlist for Random Passphrases
 
-**Work in Progress**
-
 ## What are passphrases anyway?
 
 A [Passphrase](https://en.wikipedia.org/wiki/Passphrase) is a password made
