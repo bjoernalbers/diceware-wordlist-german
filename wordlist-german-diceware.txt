@@ -4014,7 +4014,6 @@
 41633	kuppe
 41634	kuppel
 41635	kupplung
-41636	kur
 41641	kurbel
 41642	kurbeln
 41643	kurhotel
