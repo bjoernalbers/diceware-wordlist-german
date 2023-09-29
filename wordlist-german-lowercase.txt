@@ -6212,6 +6212,7 @@ scheich
 schein
 scheinen
 scheit
+scheitel
 schelle
 schelm
 schema
