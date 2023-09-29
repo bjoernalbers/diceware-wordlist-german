@@ -6029,7 +6029,6 @@
 55353	ruhr
 55354	ruin
 55355	ruine
-55356	rum
 55361	rumba
 55362	rummel
 55363	rumoren
