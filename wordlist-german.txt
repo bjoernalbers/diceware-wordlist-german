@@ -6448,6 +6448,7 @@ Sessel
 Session
 Setup
 setzen
+Setzling
 Seuche
 seufzen
 Seufzer
