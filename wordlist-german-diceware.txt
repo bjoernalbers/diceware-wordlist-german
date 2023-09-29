@@ -3651,7 +3651,6 @@
 36224	kirsche
 36225	kissen
 36226	kiste
-36231	kit
 36232	kita
 36233	kite
 36234	kitsch
