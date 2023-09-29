@@ -6218,6 +6218,7 @@ schellen
 schelm
 schema
 schemel
+schenkel
 scherbe
 schere
 scherz
