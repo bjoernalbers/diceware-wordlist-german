@@ -5074,7 +5074,6 @@
 46645	packen
 46646	packesel
 46651	packung
-46652	pad
 46653	paddel
 46654	paddeln
 46655	paddler
