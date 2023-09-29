@@ -3095,7 +3095,6 @@
 33435	herzneun
 33436	herzog
 33441	hetzen
-33442	heu
 33443	heublume
 33444	heuboden
 33445	heuernte
