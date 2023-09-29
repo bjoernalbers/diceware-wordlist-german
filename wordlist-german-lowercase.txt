@@ -6513,6 +6513,7 @@ sitcom
 sitte
 sittich
 sitz
+sitzecke
 sitzen
 sitzung
 sixpack
