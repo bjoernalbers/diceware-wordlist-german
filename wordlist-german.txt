@@ -6317,6 +6317,7 @@ Schotter
 Schramme
 Schrank
 Schranke
+Schraube
 Schreck
 Schrei
 Schrift
