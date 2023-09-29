@@ -6017,7 +6017,6 @@
 55332	ruder
 55333	ruderer
 55334	rudern
-55335	ruf
 55336	rufen
 55341	rufton
 55342	ruhe
