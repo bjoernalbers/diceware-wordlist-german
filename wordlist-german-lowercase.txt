@@ -6496,6 +6496,7 @@ simpel
 sims
 simsen
 simultan
+sinfonie
 singen
 single
 sinken
