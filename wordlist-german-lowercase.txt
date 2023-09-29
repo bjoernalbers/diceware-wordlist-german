@@ -1699,7 +1699,6 @@ dulden
 dummy
 dunkel
 dunst
-duo
 duplikat
 dur
 durchzug

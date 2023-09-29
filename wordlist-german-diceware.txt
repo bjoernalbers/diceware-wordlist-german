@@ -1699,7 +1699,6 @@
 23113	dummy
 23114	dunkel
 23115	dunst
-23116	duo
 23121	duplikat
 23122	dur
 23123	durchzug
