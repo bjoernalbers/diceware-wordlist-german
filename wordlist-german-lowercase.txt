@@ -6391,6 +6391,7 @@ segler
 segment
 segway
 sehen
+sehhilfe
 sehne
 sehnen
 sehtest
