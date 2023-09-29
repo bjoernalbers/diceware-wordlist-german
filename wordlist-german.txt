@@ -6299,6 +6299,7 @@ Schneise
 schnell
 Schnitt
 Schnitte
+schnuppe
 Schnur
 Schnute
 Schock
