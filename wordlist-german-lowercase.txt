@@ -6024,6 +6024,7 @@ ruhe
 ruhelos
 ruhen
 ruheort
+ruheraum
 ruhetag
 ruhig
 ruhm
