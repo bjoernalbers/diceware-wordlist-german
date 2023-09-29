@@ -1149,7 +1149,6 @@ boutique
 bowle
 bowler
 bowling
-box
 boxen
 boxer
 boxkampf

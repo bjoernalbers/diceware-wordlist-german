@@ -1149,7 +1149,6 @@
 16335	bowle
 16336	bowler
 16341	bowling
-16342	box
 16343	boxen
 16344	boxer
 16345	boxkampf
