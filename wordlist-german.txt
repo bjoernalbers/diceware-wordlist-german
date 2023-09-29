@@ -6477,6 +6477,7 @@ sieben
 Siebtel
 sieden
 Siedler
+Siedlung
 Sieg
 Siegel
 siegen
