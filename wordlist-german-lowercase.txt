@@ -6716,7 +6716,6 @@ take
 takt
 taktik
 taktlos
-tal
 talent
 taler
 talg
