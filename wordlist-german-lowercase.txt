@@ -7426,7 +7426,6 @@ wohltat
 wohnen
 wohnort
 wohnung
-wok
 wolf
 wolke
 wolkig

@@ -7426,7 +7426,6 @@
 66126	wohnen
 66131	wohnort
 66132	wohnung
-66133	wok
 66134	wolf
 66135	wolke
 66136	wolkig

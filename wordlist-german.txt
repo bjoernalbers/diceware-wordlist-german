@@ -7426,7 +7426,6 @@ Wohltat
 wohnen
 Wohnort
 Wohnung
-Wok
 Wolf
 Wolke
 wolkig
