@@ -6244,7 +6244,6 @@
 56354	scooter
 56355	score
 56356	scotch
-56361	see
 56362	seehund
 56363	seeigel
 56364	seele
