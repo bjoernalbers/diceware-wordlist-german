@@ -6231,6 +6231,7 @@ schicht
 schick
 schicken
 schieben
+schieber
 schief
 schiene
 schiff
