@@ -5003,7 +5003,6 @@
 46441	onkel
 46442	onkologe
 46443	onyx
-46444	opa
 46445	opal
 46446	oper
 46451	operabel

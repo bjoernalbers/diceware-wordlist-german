@@ -5003,7 +5003,6 @@ omnibus
 onkel
 onkologe
 onyx
-opa
 opal
 oper
 operabel
