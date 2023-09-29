@@ -6225,6 +6225,7 @@ Schere
 Scherz
 scherzen
 scheu
+scheuern
 Scheune
 Schicht
 schick
