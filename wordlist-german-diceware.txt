@@ -6990,7 +6990,6 @@
 63663	tulpe
 63664	tummeln
 63665	tumult
-63666	tun
 64111	tundra
 64112	tunen
 64113	tuner
