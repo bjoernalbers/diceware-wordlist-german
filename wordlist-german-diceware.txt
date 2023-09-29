@@ -1519,7 +1519,6 @@
 22165	denkmal
 22166	dental
 22211	dentist
-22212	deo
 22213	deponie
 22214	depot
 22215	derartig
