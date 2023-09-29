@@ -1744,7 +1744,6 @@ effektiv
 Effet
 egal
 Egge
-Ehe
 Ehebett
 Ehefrau
 Ehemann

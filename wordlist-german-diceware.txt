@@ -1744,7 +1744,6 @@
 23232	effet
 23233	egal
 23234	egge
-23235	ehe
 23236	ehebett
 23241	ehefrau
 23242	ehemann
