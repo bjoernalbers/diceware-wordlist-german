@@ -6143,6 +6143,7 @@ satteln
 satz
 satzball
 satzende
+satzteil
 satzung
 sauber
 sauce

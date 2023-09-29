@@ -6143,6 +6143,7 @@ satteln
 Satz
 Satzball
 Satzende
+Satzteil
 Satzung
 sauber
 Sauce
