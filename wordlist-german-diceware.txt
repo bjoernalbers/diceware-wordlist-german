@@ -2639,7 +2639,6 @@
 31344	geistern
 31345	gekicher
 31346	gekrakel
-31351	gel
 31352	gelangen
 31353	gelassen
 31354	gelatine
