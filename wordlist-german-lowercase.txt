@@ -6290,6 +6290,7 @@ schmutz
 schnabel
 schnack
 schnake
+schnalle
 schnaps
 schnee
 schnell
