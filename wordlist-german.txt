@@ -6353,6 +6353,7 @@ Schwamm
 Schwan
 Schwarm
 schwarz
+schweben
 Schweif
 schwer
 Schwert
