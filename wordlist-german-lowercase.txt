@@ -2204,7 +2204,6 @@ fauna
 faust
 fauxpas
 favorit
-fax
 fazit
 feature
 februar

@@ -2204,7 +2204,6 @@
 25326	faust
 25331	fauxpas
 25332	favorit
-25333	fax
 25334	fazit
 25335	feature
 25336	februar
