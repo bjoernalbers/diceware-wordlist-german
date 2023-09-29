@@ -2656,7 +2656,6 @@
 31414	gemeinde
 31415	gemisch
 31416	gemurmel
-31421	gen
 31422	genau
 31423	gendarm
 31424	generell
