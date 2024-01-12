@@ -12,22 +12,19 @@ and hard to guess (for others):
 
 [![xkcd: Password Strength](https://imgs.xkcd.com/comics/password_strength.png "xkcd: Password Strength")](https://xkcd.com/936)
 
-## How are passphrases created?
+## Why you need a wordlist
 
 A strong passphrase consists of *randomly* selected words.
-**So do not make up the words yourself, since those words might not be as random
-as you think!**
-Using words like the names of family members, your partner, pet, hobby, etc.
-are easy to guess for others and will result in insecure passphrases.
+However, if you make up the words yourself, those words might not be as random
+as you think.
+Using words like the name of your spouse, dog, soccer club or favourite boy
+band, are easy to guess for others and will result in insecure passphrases.
 
-A better approach is to use a **passphrase generator**.
-Another method to generate random passphrases is
-[Diceware](https://en.wikipedia.org/wiki/Diceware), invented by
-[Arnold Reinhold](https://theworld.com/~reinhold/diceware.html):
-You simply roll five dice to pick a random word from a Diceware wordlist.
-Repeat this process until you have the desired number of words.
-
-In either case you need a wordlist.
+To create truly random and therefore secure passphrases, you should use either
+a *passphrase generator* or
+[Diceware](https://theworld.com/~reinhold/diceware.html).
+Both methods require a list of words to pick words from.
+A typical diceware wordlist consists of 6^5 = 7,776 words.
 
 ## About this wordlist
 
