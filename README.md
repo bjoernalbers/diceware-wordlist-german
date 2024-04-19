@@ -20,8 +20,8 @@ as you think.
 Using words like the name of your spouse, dog, soccer club or favourite boy
 band, are easy to guess for others and will result in insecure passphrases.
 
-To create truly random and therefore secure passphrases, you should use either
-a *passphrase generator* or
+To create truly random and therefore secure passphrases, you should use either a
+[passphrase generator](https://github.com/bjoernalbers/phrase) or
 [Diceware](https://theworld.com/~reinhold/diceware.html).
 Both methods require a list of words to pick words from.
 A typical diceware wordlist consists of 6^5 = 7,776 words.
