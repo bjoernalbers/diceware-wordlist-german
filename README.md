@@ -4,8 +4,9 @@ A high-quality **German wordlist** for creating secure, random passphrases using
 the Diceware method.
 
 The list contains **7,776 words** in various formats.
-Each word has been carefully selected to be **familiar and office-friendly**
-(not vulgar, offensive, religious or with negative connotations).
+All words are carefully selected to be **workplace-friendly, neutral, and
+suitable for professional environments** — not vulgar, offensive, religious, or
+negatively connoted.
 
 The words also meet these formal conditions:
 
