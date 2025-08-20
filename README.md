@@ -39,13 +39,15 @@ To create truly random and therefore secure passphrases, you should use either a
 Both methods require a list of words to pick words from.
 A typical diceware wordlist consists of 6^5 = 7,776 words.
 
-## About this wordlist
+## Download
 
-This repository provides a list of **7,776 german words** in these formats:
+Just download the
+[latest release](https://github.com/bjoernalbers/diceware-wordlist-german/releases/latest)
+in the desired format:
 
-- [wordlist-german.txt](wordlist-german.txt): original german wordlist with correct capitalization
-- [wordlist-german-lowercase.txt](wordlist-german-lowercase.txt): lowercase version of the wordlist above
-- [wordlist-german-diceware.txt](wordlist-german-diceware.txt): the actual german diceware wordlist made from
+- [`wordlist-german.txt`](https://github.com/bjoernalbers/diceware-wordlist-german/releases/latest/download/wordlist-german.txt): original german wordlist with correct capitalization
+- [`wordlist-german-lowercase.txt`](https://github.com/bjoernalbers/diceware-wordlist-german/releases/latest/download/wordlist-german-lowercase.txt): lowercase version of the wordlist above
+- [`wordlist-german-diceware.txt`](https://github.com/bjoernalbers/diceware-wordlist-german/releases/latest/download/wordlist-german-diceware.txt): the actual german diceware wordlist made from
   the lowercase wordlist
 
 ## Where do all those words come from?
