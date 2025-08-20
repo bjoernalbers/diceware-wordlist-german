@@ -27,11 +27,11 @@ and hard to guess (for others):
 
 ## Why you need a wordlist
 
-A strong passphrase consists of *randomly* selected words.
-However, if you make up the words yourself, those words might not be as random
-as you think.
-Using words like the name of your spouse, dog, soccer club or favourite boy
-band, are easy to guess for others and will result in insecure passphrases.
+A strong passphrase is made of *truly random words* — not just whatever pops
+into your head.
+If you pick the words yourself, chances are they’re not as random as you think.
+Names of pets, partners, or bands are easy to guess and will result in weak
+passphrases.
 
 To create truly random and therefore secure passphrases, you should use either a
 [passphrase generator](https://github.com/bjoernalbers/phrase) or
