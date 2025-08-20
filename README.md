@@ -1,8 +1,9 @@
 # German Diceware Wordlist for Random Passphrases
 
-A high-quality wordlist containing **7,776 German words** for creating secure,
-random passphrases using the Diceware method.
+A high-quality **German wordlist** for creating secure, random passphrases using
+the Diceware method.
 
+The list contains **7,776 words** in various formats.
 Each word has been carefully selected to be **familiar and office-friendly**
 (not vulgar, offensive, religious or with negative connotations).
 
