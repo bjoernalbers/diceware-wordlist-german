@@ -1,5 +1,17 @@
 # German Diceware Wordlist for Random Passphrases
 
+A high-quality wordlist containing **7,776 German words** for creating secure,
+random passphrases using the Diceware method.
+
+Each word has been carefully selected to be **familiar and office-friendly**
+(not vulgar, offensive, religious or with negative connotations).
+
+The words also meet these formal conditions:
+
+- 4 to 8 characters long
+- contains english letters only (no german special characters like umlauts)
+- a known noun, verb or adjective in its basic form
+
 ## What are passphrases anyway?
 
 A [Passphrase](https://en.wikipedia.org/wiki/Passphrase) is a password made
@@ -34,14 +46,6 @@ This repository provides a list of **7,776 german words** in these formats:
 - [wordlist-german-lowercase.txt](wordlist-german-lowercase.txt): lowercase version of the wordlist above
 - [wordlist-german-diceware.txt](wordlist-german-diceware.txt): the actual german diceware wordlist made from
   the lowercase wordlist
-
-Each word has been manually checked to be **familiar and office-friendly**
-(not vulgar, offensive, religious or with negative connotations).
-The words also meet these formal conditions:
-
-- 4 to 8 characters long
-- contains english letters only (no german special characters like umlauts)
-- a known noun, verb or adjective in its basic form
 
 ## Where do all those words come from?
 
